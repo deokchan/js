@@ -22,7 +22,3 @@
 "https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|[태담] 파랑이의 소중한 여정 (인준)",
 "https://blog.kakaocdn.net/dn/6EKii/btsNbqQWTwU/qRNp7c1EBroFB7Gie4eWKk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%88%9C%EB%B3%B5.mp3?attach=2&knm=tfile.mp3|[태담] 파랑이와 하늘의 선물 (서현)",
 ]
-
-List2 = [
-
-]
