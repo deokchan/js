@@ -34,7 +34,7 @@
 ]
 
 song = [
-"<table style='BACKGROUND:lightpink repeat fixed left top' cellpadding='10' width=100%><tr valign=middle><td class='lt'>\
+"<table style='BACKGROUND:#ffffcc repeat fixed left top' cellpadding='10' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'><br>\
 <b>양초 49회의 유채꽃 만남</b><br><br>\
 \
@@ -68,7 +68,7 @@ song = [
 우리가 다시 만나 웃음꽃 피울 때,  <br>\
 봄날의 추억은 더욱 빛날 거예요.<br>\
 </td></tr></table>",
-"<table style='BACKGROUND:lightpink repeat fixed left top' cellpadding='10' width=100%><tr valign=middle><td class='lt'>\
+"<table style='BACKGROUND:#ccffff repeat fixed left top' cellpadding='10' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'><br>\
 <b>양초 49회의 유채꽃 이야기</b><br><br>\
 [Intro]<br>\
