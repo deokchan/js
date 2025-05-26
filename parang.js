@@ -97,7 +97,7 @@
 ]
 
 song = [
-"<table style='BACKGROUND:#ffccff repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>\
+"<table class='box' style=\"BACKGROUND:#ffff66 url('https://blog.kakaocdn.net/dn/wBbix/btsN1lbKcry/EuTYJsBqFw6IGoAtF8uG6K/img.png') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
 <b>나레이션_할아버지 할머니의 사랑을, 파랑에게</b><br><br>\
 \
