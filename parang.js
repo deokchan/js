@@ -1,124 +1,38 @@
-const title0 = "파랑(로운)이를 위한 태담과 노래"
+﻿const title0 = "파랑(로운)이를 위한 태담과 노래"
 
 odi = [
-"https://blog.kakaocdn.net/dn/beEsax/btsOofuql2d/btaoyrTbliKDw4ClrUS3N0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED
-
-%95%B4%21_M2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M2W_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bkRMkq/btsOoPwDE5c/yU7Z54znnQGr3CkPvFcVZk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C
-
-%EC%9A%B4%EC%97%90%EA%B2%8C_M8_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 수정)_M8_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC
-
-%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|나레이션_할아버지 할머니의 
-
-사랑을, 파랑에게 (손자의 축복)_WM34_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/l4E0C/btsNSIRDm6K/d9fklZg4HOK1qN6coBHlv1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D
-
-%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%EC%B6%95%EB%B3%B5%2C%20%ED%9D%AC%EB%A7%9D%29_WM32_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 축복, 
-
-희망)_WM32_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/de4Fap/btsNRMtNYiE/0Z18kkf6Uka4GIvg9Jepm0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C
-
-%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84%29_MW31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (감
-
-성적인 가족 모임)_MW31_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bcmKcs/btsNTj4QBeQ/wvcWHWQhqDb1t608FwhSJ1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C
-
-%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_WM32_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내
-
-는 파랑이의 축복 (아기 '파랑'에게)_WM32_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bqJREe/btsNR8jfu96/SGKmzuZPkgvIPc4K64oxn1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D
-
-%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%ED%83%84%EC%83%9D%2C%20%EA%BF%88%2C%20%EA%B0%90%EC%82%AC%29_M23_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 
-
-탄생, 꿈, 감사)_M23_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/y9Oxo/btsNRMN2wK8/fOVlR9Bu2ZdK4kIt5crTy1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C
-
-%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B8%B0%EC%81%9C%20%EC%B6%95%EB%B3%B5%29_M27_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (기쁜 축복)_M27_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/dmHLen/btsNSaOUrEs/ojrz7EIbse9cGcJ7HzFOw0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB
-
-%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A1%B0%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%98%20%EC%86%8C%EC%9B%90%29_M21_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이
-
-의 축복 (조부모님의 소원)_M21_Sunoprompt_FUZZ-0.8",
-"https://blog.kakaocdn.net/dn/bbwDRl/btsNSzN7ZJt/qND59SdjXjsrNWDAF9fa6k/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC
-
-%9D%98%20%EC%B6%95%EB%B3%B5%20%28%ED%83%84%EC%83%9D%EC%9D%84%20%EC%B6%95%ED%95%98%29_W22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (탄생을 축하)_W22_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/bx7hfL/btsNScyH44X/nsYd115RXh0JEXB2jjKjs0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB
-
-%9E%91%EC%97%90%EA%B2%8C%20%28%EC%9E%91%EC%9D%80%20%EB%B3%84%EC%9D%98%20%EC%9E%90%EC%9E%A5%EA%B0%80%29_W22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (작은 별의 
-
-자장가)_W22_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/boeMZb/btsNSNLZ0bz/F02i8ktkxg9HIkgzMXOCL0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB
-
-%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_W28_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축
-
-복 (아기 '파랑'에게)_W28_Sunoprompt_FUZZ-0.8",
-"https://blog.kakaocdn.net/dn/vk2Y2/btsNR3hG4pM/lmiHTOJaTckKhPskiGXY10/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC
-
-%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EA%B8%B0%EC%81%A8%EA%B3%BC%20%EC%B6%95%EB%B3%B5%29_WM22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (기쁨과 축복)_WM22_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/bHOfwL/btsNR5zOh6o/YKy4p3k4Anl0gI4KaYMfCK/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C
-
-%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EB%AC%B4%EC%A1%B0%EA%B1%B4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EB%9E%91%29_WM33_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (무조건적인 
-
-사랑)_WM33_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bDOGDy/btsNUuq6Bl8/y98zlTmcdlkQ0rtC76riv0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E
-
-%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_MW31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑
-
-이의 축복 (아기 '파랑'에게)_MW31_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/c4CU5t/btsNS3ak7IT/qaAd4kK2kRgKzrtQ4EeHik/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC
-
-%A7%80.._W14_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W14_GPT_riffusion",
-"https://blog.kakaocdn.net/dn/bwTak6/btsNR57ENE5/QEfm92XLdbxt1TJeoizi3K/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB
-
-%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A1%B0%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%98%20%EC%86%8C%EC%9B%90%29_W31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내
-
-는 파랑이의 축복 (조부모님의 소원)_W31_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bnXzao/btsNjbfOm02/vfBjFVvuYJFoEcNk8pA5A0/54%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA
-
-%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80_WM%20%EB%A0%88%EB%AA%AC.mp3?attach=2&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (레몬)_WM_GPT_Suno4.0",
-"https://blog.kakaocdn.net/dn/o29e6/btsNRI5ZgFs/L0iobJjKLQyRNd4mp14h91/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E
-
-%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A7%84%EC%8B%AC%20%EC%96%B4%EB%A6%B0%20%EC%B6%95%EB%B3%B5%29_W36_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (진심 
-
-어린 축복)_W36_Sunoprompt_FUZZ-0.8",
-"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC
-
-%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion",
-"https://blog.kakaocdn.net/dn/AKQCd/btsNSx3TWPI/kyMPuZfS0YQWrSf3QP8Ilk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC
-
-%9D%98%20%EC%B6%95%EB%B3%B5_W31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_W31_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/csFT1X/btsNboz4Bed/KlZFlr2khzfWq6i1WUCKtK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%201%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여자 
-
-2)_copilot_Suno4.0",
+"https://blog.kakaocdn.net/dn/beEsax/btsOofuql2d/btaoyrTbliKDw4ClrUS3N0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_M2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M2W_Sunoprompt_Suno4.5",
+"https://blog.kakaocdn.net/dn/bkRMkq/btsOoPwDE5c/yU7Z54znnQGr3CkPvFcVZk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M8_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 수정)_M8_GPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|나레이션_할아버지 할머니의 사랑을, 파랑에게 (손자의 축복)_WM34_GPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/l4E0C/btsNSIRDm6K/d9fklZg4HOK1qN6coBHlv1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%EC%B6%95%EB%B3%B5%2C%20%ED%9D%AC%EB%A7%9D%29_WM32_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 축복, 희망)_WM32_GPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/de4Fap/btsNRMtNYiE/0Z18kkf6Uka4GIvg9Jepm0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84%29_MW31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (감성적인 가족 모임)_MW31_GPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/bcmKcs/btsNTj4QBeQ/wvcWHWQhqDb1t608FwhSJ1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_WM32_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (아기 '파랑'에게)_WM32_Sunoprompt_Suno4.5",
+"https://blog.kakaocdn.net/dn/bqJREe/btsNR8jfu96/SGKmzuZPkgvIPc4K64oxn1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%ED%83%84%EC%83%9D%2C%20%EA%BF%88%2C%20%EA%B0%90%EC%82%AC%29_M23_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_M23_GPT_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/y9Oxo/btsNRMN2wK8/fOVlR9Bu2ZdK4kIt5crTy1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B8%B0%EC%81%9C%20%EC%B6%95%EB%B3%B5%29_M27_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (기쁜 축복)_M27_GPT_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/dmHLen/btsNSaOUrEs/ojrz7EIbse9cGcJ7HzFOw0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A1%B0%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%98%20%EC%86%8C%EC%9B%90%29_M21_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (조부모님의 소원)_M21_Sunoprompt_FUZZ-0.8",
+"https://blog.kakaocdn.net/dn/bbwDRl/btsNSzN7ZJt/qND59SdjXjsrNWDAF9fa6k/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%ED%83%84%EC%83%9D%EC%9D%84%20%EC%B6%95%ED%95%98%29_W22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (탄생을 축하)_W22_GPT_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/bx7hfL/btsNScyH44X/nsYd115RXh0JEXB2jjKjs0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%9E%91%EC%9D%80%20%EB%B3%84%EC%9D%98%20%EC%9E%90%EC%9E%A5%EA%B0%80%29_W22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (작은 별의 자장가)_W22_GPT_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/boeMZb/btsNSNLZ0bz/F02i8ktkxg9HIkgzMXOCL0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_W28_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (아기 '파랑'에게)_W28_Sunoprompt_FUZZ-0.8",
+"https://blog.kakaocdn.net/dn/vk2Y2/btsNR3hG4pM/lmiHTOJaTckKhPskiGXY10/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EA%B8%B0%EC%81%A8%EA%B3%BC%20%EC%B6%95%EB%B3%B5%29_WM22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (기쁨과 축복)_WM22_GPT_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/bHOfwL/btsNR5zOh6o/YKy4p3k4Anl0gI4KaYMfCK/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EB%AC%B4%EC%A1%B0%EA%B1%B4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EB%9E%91%29_WM33_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (무조건적인 사랑)_WM33_GPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/bDOGDy/btsNUuq6Bl8/y98zlTmcdlkQ0rtC76riv0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_MW31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (아기 '파랑'에게)_MW31_Sunoprompt_Suno4.5",
+"https://blog.kakaocdn.net/dn/c4CU5t/btsNS3ak7IT/qaAd4kK2kRgKzrtQ4EeHik/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W14_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W14_GPT_riffusion",
+"https://blog.kakaocdn.net/dn/bwTak6/btsNR57ENE5/QEfm92XLdbxt1TJeoizi3K/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A1%B0%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%98%20%EC%86%8C%EC%9B%90%29_W31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (조부모님의 소원)_W31_Sunoprompt_Suno4.5",
+"https://blog.kakaocdn.net/dn/bnXzao/btsNjbfOm02/vfBjFVvuYJFoEcNk8pA5A0/54%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80_WM%20%EB%A0%88%EB%AA%AC.mp3?attach=2&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (레몬)_WM_GPT_Suno4.0",
+"https://blog.kakaocdn.net/dn/o29e6/btsNRI5ZgFs/L0iobJjKLQyRNd4mp14h91/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A7%84%EC%8B%AC%20%EC%96%B4%EB%A6%B0%20%EC%B6%95%EB%B3%B5%29_W36_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (진심 어린 축복)_W36_Sunoprompt_FUZZ-0.8",
+"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion",
+"https://blog.kakaocdn.net/dn/AKQCd/btsNSx3TWPI/kyMPuZfS0YQWrSf3QP8Ilk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_W31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_W31_GPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/csFT1X/btsNboz4Bed/KlZFlr2khzfWq6i1WUCKtK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%201%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여자 2)_copilot_Suno4.0",
 "https://blog.kakaocdn.net/dn/2JT5s/btsNaKvPbXk/jbkcKISkGT7yPcgIP832fK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_M.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 (남자)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC
-
-%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (남자 여자)_MW12_GPT_riffusion",
-"https://blog.kakaocdn.net/dn/k8u19/btsNjGfhvrJ/Ibt5HNKxidqIGk7dmxgRck/84%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA
-
-%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80_W%20%EB%A0%88%EB%AA%AC.mp3?attach=2&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (레몬)_W_GPT_Suno4.0",
-"https://blog.kakaocdn.net/dn/SN9Fg/btsNcSGGbQj/4FkkIOLb6XkP2zEIDPQBm1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%202%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여
-
-자 1)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/wBycF/btsNjGTVMSP/U54jICxNT8shkotYziU2RK/50%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_W.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 
-
-(여자)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?
-
-attach=2&knm=tfile.mp3|파랑이의 소중한 여정 (선히)_[태담]",
-"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|
-
-하늘과 바다의 선물 (현수)_[태담]",
-"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC
-
-%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|파랑이와 하늘의 선물 (서현)_[태담]",
-"https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB
-
-%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)_[태담]",
-"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|파랑이
-
-와 세상 탐험 (봉진)_[태담]",
+"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (남자 여자)_MW12_GPT_riffusion",
+"https://blog.kakaocdn.net/dn/k8u19/btsNjGfhvrJ/Ibt5HNKxidqIGk7dmxgRck/84%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80_W%20%EB%A0%88%EB%AA%AC.mp3?attach=2&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (레몬)_W_GPT_Suno4.0",
+"https://blog.kakaocdn.net/dn/SN9Fg/btsNcSGGbQj/4FkkIOLb6XkP2zEIDPQBm1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%202%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여자 1)_copilot_Suno4.0",
+"https://blog.kakaocdn.net/dn/wBycF/btsNjGTVMSP/U54jICxNT8shkotYziU2RK/50%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_W.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 (여자)_copilot_Suno4.0",
+"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|파랑이의 소중한 여정 (선히)_[태담]",
+"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|하늘과 바다의 선물 (현수)_[태담]",
+"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|파랑이와 하늘의 선물 (서현)_[태담]",
+"https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)_[태담]",
+"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|파랑이와 세상 탐험 (봉진)_[태담]",
 ]
 
 song = [
