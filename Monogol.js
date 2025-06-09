@@ -3,6 +3,8 @@
 odi = [
 "https://blog.kakaocdn.net/dn/n162j/btsOskWZmLB/pkiQvZjYnNWgSKGaQOVxkK/0%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M1_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/r7KRF/btsOrVclK5p/r1VBdU3blsewMhBTD0qDo0/0%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_MW1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창) _MW1_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/cgzQgh/btsOrDXmdn6/A0RCkWCA1LtHvnk2P9nKQ0/%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M10_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M10_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/deg7BL/btsOsxvi5DN/8F5D8igokDeXlHUFkM5aPk/%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M9_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M9_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/bapVRb/btsOtIh2Iq7/Puqsxzk8SGXsqB1ltmuNwk/1%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M3_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M3_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/WSfJ2/btsOr3BbFLA/kPRiuzIcJn2P4elKbFUHt1/%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M7_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창) _M7_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/blr8lc/btsOrvdZlma/xGGmg2gVyQXHWVxkjxQ8n0/1%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M8_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창) _M8_ChatGPT_Suno4.5",
