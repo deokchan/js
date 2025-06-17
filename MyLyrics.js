@@ -19,7 +19,7 @@ odi = [
 "https://blog.kakaocdn.net/dn/FfTGo/btsOsVXtBBk/VJaLd2JvIO6sY76vFuC5t1/%EC%96%91%EC%B4%88%2049%ED%9A%8C%EC%9D%98%20%EC%9C%A0%EC%B1%84%EA%BD%83%20%EC%9D%B4%EC%95%BC%EA%B8%B0_MW1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|양초 49회의 유채꽃 이야기_MW1_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/rQL3C/btsOsE2R4JE/Dr2sLBHiVBZxjiiYpQZl2K/%EC%96%91%EC%96%91%20%EB%AA%A8%EB%85%B8%EA%B3%A8%2C%20%ED%95%98%EC%96%80%20%EC%84%A4%EB%A0%98%EC%9D%98%20%EB%85%B8%EB%9E%98_M6_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|양양 모노골, 하얀 설렘의 노래_M6_Gemini_Suno4.5",
 "https://blog.kakaocdn.net/dn/H7mcz/btsNHUKsaTh/8KricxczdKheEePDhkTVK0/%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%B4%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EC%97%B0%EC%96%B4%EC%9D%98%20%EA%B7%80%ED%96%A5_M12_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|한계목이 부르는 연어의 귀향_(처음 버전) M12_copilot_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/u5Nmh/btsNBtmBFja/TsfPTzCeFrjsyp0awBb1AK/%EB%AC%B5%EC%9D%80%EC%A7%80%20%EC%9A%B0%EC%A0%95%EA%B3%BC%20%EB%8F%99%EC%8B%AC%EC%9D%98%20%EB%B2%A4%EC%B9%98_W11_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|묵은지 우정과 동심의 벤치_(처음 버전) W11_copilot_riffusion",
+"https://blog.kakaocdn.net/dn/baElxH/btsOt0wKZBc/1UfXIFsqUZdFNfrdANNa21/%EB%AC%B5%EC%9D%80%EC%A7%80%20%EC%9A%B0%EC%A0%95%EA%B3%BC%20%EB%8F%99%EC%8B%AC%EC%9D%98%20%EB%B2%A4%EC%B9%98_W3_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|묵은지 우정과 동심의 벤치_W3_copilot_Suno4.5",
 "https://blog.kakaocdn.net/dn/k1evW/btsOrxbEs36/cfVpdutZJWvXD71Az72iM0/%EB%B0%98%EA%B3%B5%EC%9D%BC%20%EC%9E%AC%EB%82%80%20%EC%84%A4%EC%95%85%EC%82%B0%20%EC%9D%B4%EC%95%BC%EA%B8%B0_WM1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|반공일 재낀 설악산 이야기_WM1_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/dKsy9l/btsOyuy1Vgd/p791mNaXQ0XVv6coOoKrmk/%ED%8E%B8%EC%A7%80%ED%95%A8%EC%97%90%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%8F%99%EC%88%99%EC%9D%98%20%ED%8E%B8%EC%A7%80%EB%93%A4.._W3_GPT_Suno3.5.mp3?attach=1&knm=tfile.mp3|편지함에 가득 찬 동숙의 편지들.._(무료 Suno3.5) W3_GPT_Suno3.5",
 "https://blog.kakaocdn.net/dn/blr8lc/btsOrvdZlma/xGGmg2gVyQXHWVxkjxQ8n0/1%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M8_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창)_M8_ChatGPT_Suno4.5",
@@ -49,7 +49,7 @@ song = [
 제방뚝 벚꽃길 활짝 웃으며 <br>\
 생생 축제를 알리네<br><br>\
 \
-<img src='https://blog.kakaocdn.net/dn/cq8pQ8/btsNeROHUYq/DfO8x8roc8WwIJKt7lwpfk/img.jpg' width=100%><br><br><br>\
+<img src='https://blog.kakaocdn.net/dn/b1BpNr/btsGEqpgRTa/BeQ6cuOFCrOOwQvv7qMIUk/img.jpg' width=100%><br><br><br>\
 \
 \
 곰밭에 분홍빛 복사꽃 향기 <br>\
@@ -464,8 +464,9 @@ song = [
 \
 벚꽃 향기 흩날리는 봄의 향연 따라<br>\
 오늘도 우리는 <br>\
-모노골 오솔길을 정답게 걷는다!<br><br><br>\
+모노골 오솔길을 정답게 걷는다!<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/DpxBZ/btsM16efw8R/jNvja9aCModSpCS9zcT0vK/img.jpg' width=100%><br><br>\
 \
 숨 가쁘게 오르는 오르막길,<br>\
 다리 휘청대는 고갯길에도 <br>\
@@ -478,6 +479,8 @@ song = [
 [Chorus – Group Chant (떼창)]<br>\
 기운 내어 앞으로, 함께 가자!<br>\
 피톤치드 내음 따라 힘차게 걷자!<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/YFENq/btsM0thuMd0/rZPsdhBJIOKAU5kbv3gCn1/img.jpg' width=100%><br><br>\
 \
 한 걸음 한 걸음 쌓이는 정<br>\
 우린 오늘도 <br>\
@@ -695,33 +698,47 @@ song = [
 작은 계단을 오르면<br>\
 소나무 아래는 우리의 자리.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/kCNfJ/btsNubzqKyl/lDkivVsBrJug7hQfX23puK/img.jpg' width=100%><br><br>\
+\
 반겨주는 빨강과 노랑의 벤치<br>\
 푸른 바다는 기억을 품고 있어요.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/cQJzrX/btsNChyUeJz/Nkdq3C7mOGoikHmg40JJ4k/img.jpg' width=100%><br><br>\
 \
 노란 꽃들 사이로 바람이 불어<br>\
 동심의 속삭임이 퍼져 가네요.<br>\
 푸른 하늘 아래 그때의 웃음<br>\
 우리의 시간은 다시 피어납니다.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/rczHi/btsNHuLBH3U/jvAP7pzwEZ9SCQCzM7rgo0/img.jpg' width=100%><br><br>\
+\
 묵은지 우정은 바람을 타고<br>\
 봄날의 향기 속에 머물러요.<br>\
 어릴 적 뛰어놀던 그 골목길<br>\
 여기서 다시 만나는 우리의 이야기.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/uyEFA/btsNukEnfFW/4JoIXyNKieUTRL98f2BwVK/img.jpg' width=100%><br><br>\
 \
 붓을 들고 하늘이 그려낸 풍경<br>\
 기억의 그림들이 번져 가네요.<br>\
 구름 사이로 번지는 추억<br>\
 그속에 내맘도 찾아 들어갑니다.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/1E7To/btsNGEu1SWa/YhXCZYPGBEv4JCjL9DGAV0/img.jpg' width=100%><br><br>\
+\
 푸른 바람 따라 흩어진 순간들<br>\
 하늘빛 속에 머무는 이야기.<br>\
 두 팔을 벌려 하늘을 품으면<br>\
 푸른 빛깔이 손끝에 스며드네요.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/2bcXY/btsNFxXM6p2/FfbhgptK1E0V3AjaKAaYJK/img.jpg' width=100%><br><br>\
+\
 빛깔 모아 희망의 주문을 걸고<br>\
 수채화 구름에게 꿈을 띄워요.<br>\
 꽃밭 사이로 번지는 우정<br>\
 추억은 노래가 되어 퍼져갑니다.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bzcN8Q/btsNvBqC9sd/WcK0VTKnpSpkMRizexOkb0/img.jpg' width=100%><br><br>\
 \
 노란 꽃들 속에서 속삭이는<br>\
 우리의 이야기는 봄날의 주문.<br>\
@@ -761,7 +778,7 @@ song = [
 우리가 다시 마주할 때<br>\
 시간은 다시 동심 속으로 흐릅니다.<br><br>\
 \
-<img src='https://blog.kakaocdn.net/dn/kCNfJ/btsNubzqKyl/lDkivVsBrJug7hQfX23puK/img.jpg' width=100%><br>\
+<img src='https://blog.kakaocdn.net/dn/c8ewIr/btsNtQWCwcV/rd367vnP9MD9hgIUTMdqj0/img.jpg' width=100%><br>\
 </td></tr></table>",
 "<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/bcO74Y/btsOxt0gM9C/2LkjOVMSYRjz9bux5q3sg1/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
@@ -777,20 +794,28 @@ song = [
 낙산의 명사십리, 고운 백사장 따라<br>\
 우리의 우정은 노을처럼 번집니다.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/kDC8s/btsNFgogwgQ/k9aaymTtfkv6i9r2nxZVKk/img.jpg' width=100%><br><br>\
+\
 노란 꽃물결 속으로 한 걸음<br>\
 바람 따라 흔들리는 추억의 조각.<br>\
 유채꽃 들판 속에 웃음꽃 피우며<br>\
 묵은지 벗과 함께 봄을 안고 가네요.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bJoAy0/btsNFfv9NQR/jotrO2pz4V1I8f8XkNk6O1/img.jpg' width=100%><br><br>\
 \
 햇살을 안고 하늘을 향해<br>\
 꽃들 사이로 두 팔을 활짝 펴고,<br>\
 웃음소리는 바람에 실려<br>\
 봄날의 자유를 노래합니다.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/rjCx5/btsNuDJ9KrJ/WKjs2Oe0E2jCv2azjLqQGk/img.jpg' width=100%><br><br>\
+\
 유채꽃 사이로 난 길을 걸으면<br>\
 어릴 적 뛰놀던 골목이 떠오르고,<br>\
 손을 잡고 웃던 그때의 기억들<br>\
 봄바람 속에 다시 살아나네요.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bkWJqA/btsNvqpyiNB/Dk6fZQNOsXD20wtPpUfD6k/img.jpg' width=100%><br><br>\
 \
 노란 들판 속에서 시간을 거슬러<br>\
 그리운 얼굴이 꽃잎 사이로..<br>\
@@ -839,10 +864,14 @@ song = [
 보고 싶다는 단톡방의 인사에<br>\
 햇살보다 먼저 피어나는 설레임<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/vk7UX/btsNuEPRll8/Koev1Nv6YwlM8bE0aaFTx1/img.jpg' width=100%><br><br>\
+\
 우리들의 눈길을 시샘하는<br>\
 봄바람 질투의 살랑임에<br>\
 장난어린 유채花는 넘실대며<br>\
 파랑 하늘에 수채畵를 그린다<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bZ046p/btsNun18SzU/IGEpqdNwUMLGHG13QtUd4K/img.jpg' width=100%><br><br>\
 \
 유채꽃보다 진한 노랑 의자에<br>\
 오래된 우정의 얼굴들이 모여<br>\
@@ -863,17 +892,21 @@ song = [
 그저 한 자리에 모이면<br>\
 우리는 여전히 초등의 봄날<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/UBWyV/btsNvIXy1Jt/ukg08Y8KKyY7BUUDyUCxHk/img.jpg' width=100%><br><br>\
+\
 유채꽃보다 진한 노랑 의자에<br>\
 양초 49회, 웃음꽃이 활짝<br>\
 빨강 노랑 파랑의 마음 속에서<br>\
 우리는 그때로 돌아가는 중<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/c4Ie5U/btsNvDBYPJq/wWtzEJ5Nz4WZoyEJRuB5vK/img.jpg' width=100%><br><br>\
 \
 소나무 아래, 벤치에 앉아<br>\
 고향의 파랑 바다를 바라보면<br>\
 지금도 펼쳐지는 동심의 이야기<br>\
 유채꽃은 양초 49회의 그날처럼..<br><br>\
 \
-<img src='https://blog.kakaocdn.net/dn/c4Ie5U/btsNvDBYPJq/wWtzEJ5Nz4WZoyEJRuB5vK/img.jpg' width=100%><br>\
+<img src='https://blog.kakaocdn.net/dn/TAt6H/btsNuJimrFi/NwGgfLPLPMYCbSApgPTQlk/img.jpg' width=100%><br>\
 </td></tr></table>",
 "<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/chCeMn/btsOvvE6B7l/5CWOYKCSZq3iK1ox2QnFxK/img.jpg')  repeat fixed center bottom;\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
@@ -1134,35 +1167,49 @@ song = [
 벚꽃잎을 따라 걸었던 이 길<br>\
 그날에 너의 웃음소리가 들려와~~<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/sOLOR/btsNdlXRzCX/58hhNILXtPQhktP8TepOW0/img.jpg' width=100%><br><br>\
+\
 3.1운동 기념비 그 옆에 서면<br>\
 역사와 청춘이 나란히 흐르고<br>\
 충혼탑의 그림자에 기대어<br>\
 그 시절의 나를 잠시 마주해<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bWbI15/btsNdz9knAF/NDNLY7eg1T6KzNejZ2wr81/img.jpg' width=100%><br><br>\
 \
 이 길은 수없이 걸었지만<br>\
 오늘은 조금 다르게 보여<br>\
 꽃잎 너머 시간의 틈에<br>\
 너와 내가 웃고 있어<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/cbcEEt/btsNeSthHOh/aiKdWeK7led5ZZQZG8rL60/img.jpg' width=100%><br><br>\
+\
 벚꽃 아래에서 너와 걸었던 이 봄<br>\
 세상이 멈춘 것 같았던 순간<br>\
 사진보다 선명했던 하루<br>\
 우리라는 계절, 아직도 피어 있어<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/zRbB3/btsNfgtEXq9/khnUqirmVhZ5AE1LyWGEF0/img.jpg' width=100%><br><br>\
 \
 교복 위에 벚꽃이 내릴 때<br>\
 장난처럼 서로를 찍어주고<br>\
 수줍은 고백에 웃음만 남겼던<br>\
 그 벤치에서 시간은 멈췄지<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/RSHUc/btsGBg9IpY5/ZPIUeJN6WcoS8KUVfNbq51/img.jpg' width=100%><br><br>\
+\
 낙화주 한 잔에 붉어진 얼굴<br>\
 청춘은 그렇게 달콤했었지<br>\
 지금은 멀리 떠나간 친구들<br>\
 그날의 벚꽃처럼 모두 다시 살아나~<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/3HXWI/btsNfgtE1I7/I85SuWmhlzK85kNZZ9tr60/img.jpg' width=100%><br><br>\
+\
 벚꽃 아래에서 너와 걸었던 이 봄<br>\
 세상이 멈춘 것 같았던 순간<br>\
 사진보다 선명했던 하루<br>\
 우리라는 계절, 아직도 피어 있어<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/Umszj/btsNc8YdpzD/3L1Ln0WznFS7joNvIIudZ1/img.jpg' width=100%><br><br>\
 \
 잊어진 줄 알았던 마음 하나<br>\
 현산 공원의 바람에 다시 피어나<br>\
@@ -1180,35 +1227,49 @@ song = [
 잊고 지냈던 이름들을<br>\
 벚꽃 사이로 다시 만나는 듯해<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/PyxKy/btsNdB67rlE/dsmCocfjeyARKvgSqJBWAK/img.jpg' width=100%><br><br>\
+\
 3.1운동 기념비 아래에 서면<br>\
 그 시절의 용기가 바람결에 스며<br>\
 충혼탑 너머 펼쳐진 시내<br>\
 내 마음도 잠시 그 위를 날아가~<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bsyblM/btsNcXW9OP9/UA2WNmqL9GQZNQRdxTE08K/img.jpg' width=100%><br><br>\
 \
 역사의 숨결 안고 피어난<br>\
 희미한 기억 속 얼굴들<br>\
 벚꽃은 오늘도 똑같은데<br>\
 우린 너무 많이 변했지<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/w0uhi/btsNcXpgC3w/FjLGAzWYdUDbqeoV2GgIY0/img.jpg' width=100%><br><br>\
+\
 벚꽃길 걸으며 웃음꽃 피우던<br>\
 그 봄, 우리 너무 예뻤었지<br>\
 사진 속엔 아직 그대로인데<br>\
 시간은 말없이 흘러만 가네<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/bXsrTg/btsNe9awosN/B17QPOUupg1jQNKX1vhc41/img.jpg' width=100%><br><br>\
 \
 현산의 저 길 따라 걷다 보면<br>\
 자꾸 떠올라, 학창 시절의 우리<br>\
 책가방보다 커다란 꿈을 안고<br>\
 말 없이도 참 잘 통하던 날들..<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/eoA4XI/btsNfuL3PtR/BvZFT9mLTyBnsyj3Ex9cik/img.jpg' width=100%><br><br>\
+\
 청춘은 어느덧 먼 이야기<br>\
 그땐 몰랐지, 벚꽃보다 더 찬란했던 걸<br>\
 친구들과 낙화주 한 잔에 웃고<br>\
 그 벤치에서 첫 데이트도 했지<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/b4BAmj/btsNfBEkDpG/m9a3kQeE0turwBGcxnCXU1/img.jpg' width=100%><br><br>\
+\
 벚꽃길 걸으며 웃음꽃 피우던<br>\
 그 봄에, 우린 너무 예뻤었지<br>\
 사진 속엔 아직 그대로인데<br>\
 시간은 말없이 흘러만 가네<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/n86fX/btsNdLB2HWt/b9wTwMHW7CB382kt5kDGc0/img.jpg' width=100%><br><br>\
 \
 다시 그날로는 돌아갈 수 없지만<br>\
 현산의 봄은 늘 그 자리에..<br>\
@@ -1225,6 +1286,8 @@ song = [
 그 아래 역사 속 이야기들 <br>\
 모두 숨 쉬네.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/b6jO5V/btrBFGMeQ57/KzE7VV7wyyLXcQcIoD59hK/img.jpg?original' width=100%><br><br>\
+\
 행정수복 기념탑의 빛, <br>\
 충혼탑의 자랑스런 기개,<br>\
 봄바람 속에 떠올라 <br>\
@@ -1234,6 +1297,8 @@ song = [
 눈부신 순간을 따라가며<br>\
 다시 돌아오는 연어처럼 <br>\
 마음은 고향으로 흘러가~<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/b3lC3V/btsNemuKnXE/YZcv2elUy3Pdqqw5goWEg0/img.jpg' width=100%><br><br>\
 \
 남대천의 맑은 물결 <br>\
 은어 떼가 길을 재촉하듯,<br>\
@@ -1245,6 +1310,8 @@ song = [
 물살을 거슬러 오르는 황어의 열정, <br>\
 생명의 춤을 새기며,<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/djgqUW/btsGBxQUtGQ/ueSSjzRkbO8pFCWFg1ogr0/img.jpg' width=100%><br><br>\
+\
 뚝방 벚꽃길, 그 향기가 퍼지며 <br>\
 생생 축제의 시작을 알리네.<br>\
 자연의 힘 속에서 <br>\
@@ -1254,6 +1321,8 @@ song = [
 새로운 생명들이 춤을 추며,<br>\
 벚꽃 아래의 모든 기억<br>\
 그곳에서 우린 사랑을 찾네.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/LkrIW/btsNdLvf8uB/325rDdG4hwp7iBmExsvMzk/img.jpg' width=100%><br><br>\
 \
 벚꽃길을 걷는다. <br>\
 눈부신 순간을 따라가며<br>\
