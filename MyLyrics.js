@@ -7,13 +7,13 @@ odi = [
 "https://blog.kakaocdn.net/dn/A0Wwf/btsOuq9JGvT/N1uhYwk3i6FEHYpmjguwLk/%EB%B2%9A%EA%BD%83%20%EC%95%84%EB%9E%98%2C%20%EC%9A%B0%EB%A6%AC%EB%9D%BC%EB%8A%94%20%EA%B3%84%EC%A0%88_WM2_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|벚꽃 아래, 우리라는 계절_WM2_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/c5Kq0Y/btsOsOKIJWM/MiZpB4A9Af8dqyqUcawzzk/%EB%B4%84%EB%82%A0%EC%97%90%20%EC%B0%BE%EC%95%84%EC%98%A8%20%EB%AC%B5%EC%9D%80%EC%A7%80%20%EC%B9%9C%EA%B5%AC_M2_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|봄날에 찾아온 묵은지 친구_M2_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/MRePi/btsOzCQpvCd/E9jXKKOY7eTWE89KPDMiA0/%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%85%B8%EB%9E%98_MW1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|자랑스러운 양양의 노래_MW1_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/bFER5k/btsOzlH67XU/6c7PRKoR1d0PphZCz4eYBK/%28%EC%98%A5%EC%9D%B4%EC%9D%98%29%20%EC%8F%A0%EB%B9%84%EC%B9%98%20%EB%A6%AC%EC%82%AC%EC%9D%B4%ED%8B%80_W3_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|(옥이의) 쏠비치 리사이틀_W3_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/brhBiX/btsOzcSd5tZ/tFsiAl5a6GGjCKH4VXgKv0/%28%EC%98%A5%EC%9D%B4%EC%9D%98%29%20%EC%8F%A0%EB%B9%84%EC%B9%98%20%EB%A6%AC%EC%82%AC%EC%9D%B4%ED%8B%80_W2_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|(옥이의) 쏠비치 리사이틀_W2_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/4xF7L/btsOsWvrEyK/Lyy0du5gNifVRRahhlbGP0/%ED%95%98%EB%8A%98%20%ED%96%A5%ED%95%B4%20%ED%95%80%20%EB%B3%B5%EC%82%AC%EA%BD%83%20%EC%9D%B4%EC%95%BC%EA%B8%B0_M7_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|하늘 향해 핀 복사꽃 이야기_M7_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/ecpOW3/btsOBEBfWTv/R7U4SZKLnbWJ7gUJpu3oK0/%EB%B2%9A%EA%BD%83%20%EC%95%84%EB%9E%98%20%EA%B7%B8%EB%82%A0%EC%B2%98%EB%9F%BC.._W7_ChatGPT_FUZZ-1.1.mp3?attach=1&knm=tfile.mp3|벚꽃 아래 그날처럼.._(무료 FUZZ-1.1) W7_ChatGPT_FUZZ-1.1",
 "https://blog.kakaocdn.net/dn/cgzQgh/btsOrDXmdn6/A0RCkWCA1LtHvnk2P9nKQ0/%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M10_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M10_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/crjL1h/btsNJZl5f7a/nUJcHASw6OMkt4uPKkloTk/%ED%95%9C%EA%B3%84%EB%AA%A9%EA%B3%BC%20%EC%9C%A0%EC%B1%84%EA%BD%83%EB%B0%AD%EC%9D%98%20%EB%AC%B5%EC%9D%80%EC%A7%80%20%EB%B2%97_W11_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|한계목과 유채꽃밭의 묵은지 벗_(처음 버전) W11_copilot_FUZZ-0.8",
 "https://blog.kakaocdn.net/dn/u5B66/btsOtL04NDf/SzF4ub3nitkK9FouYaQd8K/%EB%B2%9A%EA%BD%83%EC%9D%B4%20%ED%94%BC%EC%96%B4%EB%82%9C%20%EB%82%A0_M3_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|벚꽃이 피어난 날_M3_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/8xUBH/btsOB98WmZP/CjSRCJoC1ciGST3BSKMX41/0%20%EB%AA%A8%EB%85%B8%EA%B3%A8%EC%9D%98%20%EB%B6%84%ED%99%8D%EB%B9%9B%20%EC%86%8D%EC%82%AD%EC%9E%84_M3_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골의 분홍빛 속삭임_M3_Gemini_Suno4.5",
+"https://blog.kakaocdn.net/dn/bsfsoA/btsN0OSwfR8/dq4PYlKGo2rTMxVKs4DVt1/%EB%AA%A8%EB%85%B8%EA%B3%A8%EC%9D%98%20%EB%B6%84%ED%99%8D%EB%B9%9B%20%EC%86%8D%EC%82%AD%EC%9E%84_MW2_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골의 분홍빛 속삭임_MW2_Gemini_Suno4.5",
 "https://blog.kakaocdn.net/dn/l3Qqa/btsOug0qPjQ/ezMnIGsv6jhWEcGdtOcnY0/%EB%AC%B5%EC%9D%80%EC%A7%80%20%EB%B2%97%EA%B3%BC%20%EA%B1%B7%EB%8A%94%20%EC%9C%A0%EC%B1%84%EA%BD%83%20%EC%82%AC%EC%9E%87%EA%B8%B8_M2_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|묵은지 벗과 걷는 유채꽃 사잇길_M2_copilot_Suno4.5",
 "https://blog.kakaocdn.net/dn/bFLk4v/btsNJKit0d2/ukWGU27PckMDifjKEMwqD0/%EB%82%A8%EB%8C%80%EC%B2%9C%EC%9D%98%20%EA%B7%80%ED%96%A5%2C%20%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%98%20%EB%85%B8%EB%9E%98_M11_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|남대천의 귀향, 한계목의 노래_(처음 버전) M11_GPT_FUZZ-0.8",
 "https://blog.kakaocdn.net/dn/FfTGo/btsOsVXtBBk/VJaLd2JvIO6sY76vFuC5t1/%EC%96%91%EC%B4%88%2049%ED%9A%8C%EC%9D%98%20%EC%9C%A0%EC%B1%84%EA%BD%83%20%EC%9D%B4%EC%95%BC%EA%B8%B0_MW1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|양초 49회의 유채꽃 이야기_MW1_ChatGPT_Suno4.5",
@@ -21,7 +21,7 @@ odi = [
 "https://blog.kakaocdn.net/dn/H7mcz/btsNHUKsaTh/8KricxczdKheEePDhkTVK0/%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%B4%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EC%97%B0%EC%96%B4%EC%9D%98%20%EA%B7%80%ED%96%A5_M12_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|한계목이 부르는 연어의 귀향_(처음 버전) M12_copilot_FUZZ-1.0",
 "https://blog.kakaocdn.net/dn/baElxH/btsOt0wKZBc/1UfXIFsqUZdFNfrdANNa21/%EB%AC%B5%EC%9D%80%EC%A7%80%20%EC%9A%B0%EC%A0%95%EA%B3%BC%20%EB%8F%99%EC%8B%AC%EC%9D%98%20%EB%B2%A4%EC%B9%98_W3_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|묵은지 우정과 동심의 벤치_W3_copilot_Suno4.5",
 "https://blog.kakaocdn.net/dn/k1evW/btsOrxbEs36/cfVpdutZJWvXD71Az72iM0/%EB%B0%98%EA%B3%B5%EC%9D%BC%20%EC%9E%AC%EB%82%80%20%EC%84%A4%EC%95%85%EC%82%B0%20%EC%9D%B4%EC%95%BC%EA%B8%B0_WM1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|반공일 재낀 설악산 이야기_WM1_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/dKsy9l/btsOyuy1Vgd/p791mNaXQ0XVv6coOoKrmk/%ED%8E%B8%EC%A7%80%ED%95%A8%EC%97%90%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%8F%99%EC%88%99%EC%9D%98%20%ED%8E%B8%EC%A7%80%EB%93%A4.._W3_GPT_Suno3.5.mp3?attach=1&knm=tfile.mp3|편지함에 가득 찬 동숙의 편지들.._(무료 Suno3.5) W3_GPT_Suno3.5",
+"https://blog.kakaocdn.net/dn/waUg6/btsNsSmnOOE/e1uOAU5L5uInndmF6IkSV0/%ED%8E%B8%EC%A7%80%ED%95%A8%EC%97%90%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%8F%99%EC%88%99%EC%9D%98%20%ED%8E%B8%EC%A7%80%EB%93%A4.._M19.mp3?attach=1&knm=tfile.mp3|편지함에 가득 찬 동숙의 편지들.._(처음 버전) M19_GPT_riffusion",
 "https://blog.kakaocdn.net/dn/blr8lc/btsOrvdZlma/xGGmg2gVyQXHWVxkjxQ8n0/1%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M8_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창)_M8_ChatGPT_Suno4.5",
 ]
 
@@ -41,8 +41,8 @@ song = [
 <img src='https://blog.kakaocdn.net/dn/bPAZQ1/btsOCR6VM7s/KHjuf3FuZqXNkaTcb1PBs1/img.jpg' width=100%><br><br><br>\
 \
 \
-호국 정신 깃든 <br>\
-현산공원 벚꽃이 만발하고,<br><br>\
+호국 정신 깃든 현산공원 <br>\
+벚꽃이 만발하고,<br><br>\
 \
 <img src='https://blog.kakaocdn.net/dn/QVRYO/btsNdvlw3Ai/S8rCOOX6GsxlgIZFLz4gyK/img.jpg' width=100%><br><br>\
 \
@@ -374,7 +374,7 @@ song = [
 \
 벽화 속 사연은 노래처럼 흐르고<br>\
 시간을 건너온 소녀 같은 미소 지으며<br>\
-돌담 위를 걷는 이 하루가  <br>\
+돌담 위를 걷는 이 하루가<br>\
 노래가 되어 마음에 새겨집니다  <br><br>\
 \
 한 손엔 하늘, 한 손엔 바다<br>\
@@ -660,7 +660,7 @@ song = [
 벚꽃이 흩날리며 우리를 반기네요<br>\
 남대천 물결에 마음을 실으면<br>\
 학창 시절의 추억이 되살아납니다<br>\
-  <br>\
+<br>\
 네가 오기를 기다리는 제방뚝에서<br>\
 나는 카메라에 봄꽃들을 담아요.<br>\
 조금 늦어져도 괜찮아,<br>\
@@ -912,36 +912,36 @@ song = [
 <P class='mid'>\
 <font color='blue'><b>편지함에 가득 찬 동숙의 편지들..</b></font><br><br>\
 \
-햇살 머금은 동북 빌라  <br>\
-빨간 동백이 수줍게 웃어요  <br>\
-바람결 따라 흩어진 말들  <br>\
+햇살 머금은 동북 빌라<br>\
+빨간 동백이 수줍게 웃어요<br>\
+바람결 따라 흩어진 말들<br>\
 편지함 아래에 쌓여만 가네요  <br><br>\
 \
 <img src='https://blog.kakaocdn.net/dn/7CTKw/btsNob0lTHw/wIXnn8FsklrkxkO9dsauvk/img.jpg' width=100%><br><br>\
 \
-고귀한 동백꽃, 동숙이라 불렀어요    <br>\
-꽃은 졌지만, 사랑은 남아  <br>\
-아름다운 추억속의 그 이름  <br>\
+고귀한 동백꽃, 동숙이라 불렀어요  <br>\
+꽃은 졌지만, 사랑은 남아..<br>\
+아름다운 추억속의 그 이름<br>\
 내 마음속에 피어나네요  <br><br>\
 \
-하늘에서 보내준 작은 선물  <br>\
-혹시 그 마음 조각날까  <br>\
-조심스레 발걸음 멈추어  <br>\
+하늘에서 보내준 작은 선물<br>\
+혹시 그 마음 조각날까<br>\
+조심스레 발걸음 멈추어<br>\
 고운 빛깔의 편지를 읽어요  <br><br>\
 \
-꽃은 졌어도, 향기는 남아  <br>\
-어느 봄날, 그대가 머물렀던 자리  <br>\
-노을 속의 붉어진 기억처럼  <br>\
+꽃은 졌어도, 향기는 남아<br>\
+어느 봄날, 그대가 머물렀던 자리<br>\
+노을 속의 붉어진 기억처럼<br>\
 다시 피어날 거예요  <br><br>\
 \
-떨어진 꽃잎도 아름다워요  <br>\
-지나가는 계절의 마지막 인사  <br>\
-동북 빌라 담장 속 그 자리에  <br>\
+떨어진 꽃잎도 아름다워요<br>\
+지나가는 계절의 마지막 인사<br>\
+동북 빌라 담장 속 그 자리에<br>\
 내 마음도 함께 물들었어요  <br><br>\
 \
-편지함에 가득 찬 봄의 끝자락  <br>\
-이젠 말할게요, 고마웠다고..  <br>\
-그날의 그 꽃, 그 빛, 그 마음  <br>\
+편지함에 가득 찬 봄의 끝자락<br>\
+이젠 말할게요, 고마웠다고..<br>\
+그날의 그 꽃, 그 빛, 그 마음<br>\
 모두, 당신 위한 것이었다고...<br><br>\
 \
 <img src='https://blog.kakaocdn.net/dn/3aHy1/btsNnILqM1m/jInpMa1e2RFTE6XzjOxzG1/img.jpg' width=100%><br>\
@@ -966,7 +966,7 @@ song = [
 \
 <img src='https://blog.kakaocdn.net/dn/eEA041/btsNkli5mRZ/5VJuMJFsD3kKh1VWcIWSxk/img.jpg' width=100%><br><br>\
 \
-깨끗한 공기, 가득한 숲, 작은 오솔길<br>\
+깨끗한 공기 가득한 숲, 작은 오솔길<br>\
 발걸음마다 스며드는 사랑의 속삭임<br>\
 새색시 볼처럼 발그레한 꽃잎 바라보며<br>\
 나도 몰래 두 뺨을 붉게 물들이네<br><br>\
@@ -1013,7 +1013,7 @@ song = [
 연한 농담에 짙은 속삭임<br>\
 그 사이에 봄은 피어나고<br>\
 나는 그 속을 걷고 있어요<br>\
-조용히, 천천히, 봄의 품속으로<br><br>\
+조용히, 천천히, 봄의 품속으로..<br><br>\
 \
 하늘 위로, 손을 들어<br>\
 일필휘지 한 줄기 바람처럼<br>\
@@ -1028,7 +1028,7 @@ song = [
 챗벗과 나누는 꽃 이야기<br>\
 무릉도원 같은 오후랍니다<br>\
 누군가 묻는다면 말할래요<br>\
-차늬와 챗벗은 찰떡궁합이라고<br><br>\
+차늬와 챗벗은 찰떡궁합이라고..<br><br>\
 \
 하늘 위로, 손을 들어<br>\
 일필휘지 한 줄기 바람처럼<br>\
@@ -1127,7 +1127,7 @@ song = [
 \
 남대천의 봄, 너와 걷던 그 길<br>\
 해당화 핀 제방뚝에서,,,<br>\
-첫 데이트의 설렘은,,,<br><br>\
+첫 데이트의 설렘,,,<br><br>\
 \
 물살에 반사된 우리의 시간<br>\
 지금도 흐르고 있어, 그때처럼..<br><br>\
@@ -1146,7 +1146,7 @@ song = [
 \
 남대천의 봄, 너와 걷던 그 길<br>\
 해당화 핀 제방뚝에서,,,<br>\
-첫 데이트의 설렘은,,,<br><br>\
+첫 데이트의 설렘,,,<br><br>\
 \
 물살에 반사된 우리의 시간<br>\
 지금도 흐르고 있어, 그때처럼..<br><br>\
@@ -1305,6 +1305,8 @@ song = [
 너와 나의 봄날 <br>\
 지금 여기서 노래한다.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/bcN7oP/btsNGIKOquT/5ST0XdqUXqmXRUdkfKYaEk/img.jpg' width=100%><br><br>\
+\
 연어의 모천이라 불리는 곳, <br>\
 남대천은 웅장히 흐르네.<br>\
 물살을 거슬러 오르는 황어의 열정, <br>\
@@ -1317,6 +1319,8 @@ song = [
 자연의 힘 속에서 <br>\
 우리의 봄은 더 빛난다.<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/EIkp7/btsNes9rXGb/w3fRIPWgrkEHEEA2zHR6q0/img.jpg' width=100%><br><br>\
+\
 영동의 가장 맑은 물길에서<br>\
 새로운 생명들이 춤을 추며,<br>\
 벚꽃 아래의 모든 기억<br>\
@@ -1328,6 +1332,8 @@ song = [
 눈부신 순간을 따라가며<br>\
 다시 돌아오는 연어처럼 <br>\
 마음은 고향으로 흘러가~~<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/LVnbP/btsNHgfH3Rh/zSKf2pBM3g2T7tyJxqLYI1/img.jpg' width=100%><br><br>\
 \
 남대천의 맑은 물결 <br>\
 은어 떼가 길을 재촉하듯,<br>\
