@@ -524,7 +524,7 @@ song = [
 \
 <img src='https://blog.kakaocdn.net/dn/zZ7KY/btsNnBFP1E8/haQLjUsvkNOhMPzsWW1qw1/img.jpg' width=100%><br>\
 </td></tr></table>",
-"<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/dOjIie/btsOwPXmUQO/bQM7fynAXawCYdEKwtRKTk/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
+"<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/Xj6h3/btsOxjDAXcz/cen6SOE7KJFtvqXrwhQkEk/img.png') repeat fixed center center\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
 <font color='blue'><b>한계목과 유채꽃밭의 묵은지 벗</b></font><br><br>\
 \
@@ -652,29 +652,37 @@ song = [
 \
 <img src='https://blog.kakaocdn.net/dn/C8Pj9/btsNjHT9ns9/vekArTILevYmbGaICDMjT1/img.jpg' width=100%><br>\
 </td></tr></table>",
-"<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/sNaVQ/btsOw5MrWui/XGD5nbYNLQJf9kOr9t8nNk/img.png') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
+"<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/w2O7G/btsOwvLzvhs/ZIe7tvEvh6OwCShCEqEJVK/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
 <font color='blue'><b>봄날에 찾아온 묵은지 친구</b></font><br><br>\
 \
 봄바람 불어오는 뚝방길 따라<br>\
 벚꽃이 흩날리며 우리를 반기네요<br>\
 남대천 물결에 마음을 실으면<br>\
-학창 시절의 추억이 되살아납니다<br>\
-<br>\
+학창 시절의 추억이 되살아납니다<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/kGpZm/btsNHr9b20s/oFUFjxhuKmIm15bKV4o1Vk/img.jpg' width=100%><br><br>\
+\
 네가 오기를 기다리는 제방뚝에서<br>\
 나는 카메라에 봄꽃들을 담아요.<br>\
 조금 늦어져도 괜찮아,<br>\
 기다림마저 내게는 선물이 되지요.<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/nsdSk/btsNGfhR4aB/ujS2yDBtTZ17SvN8J3ozz1/img.jpg' width=100%><br><br>\
 \
 유채꽃 물든 그 언덕 너머로<br>\
 쏠비치 바람은 우리를 감싸고<br>\
 사진 한 장의 웃음 속에서<br>\
 이 순간은 추억으로 물들어갑니다<br><br>\
 \
+<img src='https://blog.kakaocdn.net/dn/oGTa4/btsNGIxhyFM/69qv9A1vGT4ZlHay6DleTk/img.jpg' width=100%><br><br>\
+\
 묵은지처럼 깊어가는 우정,<br>\
 세월도 우리를 갈라놓지는 못해요<br>\
 먼 길을 넘어 찾아온 너,<br>\
 오늘은 내 마음의 봄날이 되어요<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/ceWlzr/btsNFxqePGu/K3PvHT760L3U8ElnbpGkvK/img.jpg' width=100%><br><br>\
 \
 48년의 세월을 담은 묵은지 친구!<br><br>\
 \
@@ -682,6 +690,8 @@ song = [
 하얀 솜사탕 민들레 홀씨처럼<br>\
 오래된 향기 되어 <br>\
 하늘 높이 퍼져가네요~~<br><br>\
+\
+<img src='https://blog.kakaocdn.net/dn/db5mzb/btsNGZFD2Ho/z2S5dPQXffJQtarKyfnu21/img.jpg' width=100%><br><br>\
 \
 멀리서 벗이 찾아오니<br>\
 이 어찌 기쁘지 아니한가<br>\
