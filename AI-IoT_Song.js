@@ -325,3 +325,19 @@ const updat = "<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') re
 양양군 보건소 시행, <br>\
 'AI-loT 기반 어르신 건강관리사업'<br>\
 </td></tr></table>"
+
+const bon = "<!-- table style=\"border-radius: 30px; BACKGROUND:pink url('') repeat fixed left top\" cellpadding='10' width=100%><tr valign=middle><td>\
+<P class='mid'><font color='blue'><b>본문 내역</b></font><br><br>\
+\
+<b>2025. 07. 02 (무료 버전 6곡 수록)</b><br>\
+가사 1) 4곡, 가사 2) 2곡 선정.<br><br>\
+\
+<b>2025. 06. 24 (2가지 가사 생성)</b><br>\
+1) AI-IoT 기반 어르신 건강관리사업 (나의 초안 작성)<br>\
+2) AI-IoT 어르신 건강송 <br>\
+(내 초안을 ChatGPT가 개사)<br><br>\
+\
+<b>2025. 04. 18 (사업 참여)</b><br>\
+양양군 보건소 시행, <br>\
+'AI-loT 기반 어르신 건강관리사업'<br>\
+</td></tr></table><br><br><br><br><br //-->"
