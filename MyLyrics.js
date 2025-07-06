@@ -18,13 +18,27 @@ odi = [
 "https://blog.kakaocdn.net/dn/bFLk4v/btsNJKit0d2/ukWGU27PckMDifjKEMwqD0/%EB%82%A8%EB%8C%80%EC%B2%9C%EC%9D%98%20%EA%B7%80%ED%96%A5%2C%20%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%98%20%EB%85%B8%EB%9E%98_M11_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|남대천의 귀향, 한계목의 노래_(처음 버전) M11_GPT_FUZZ-0.8",
 "https://blog.kakaocdn.net/dn/FfTGo/btsOsVXtBBk/VJaLd2JvIO6sY76vFuC5t1/%EC%96%91%EC%B4%88%2049%ED%9A%8C%EC%9D%98%20%EC%9C%A0%EC%B1%84%EA%BD%83%20%EC%9D%B4%EC%95%BC%EA%B8%B0_MW1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|양초 49회의 유채꽃 이야기_MW1_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/rQL3C/btsOsE2R4JE/Dr2sLBHiVBZxjiiYpQZl2K/%EC%96%91%EC%96%91%20%EB%AA%A8%EB%85%B8%EA%B3%A8%2C%20%ED%95%98%EC%96%80%20%EC%84%A4%EB%A0%98%EC%9D%98%20%EB%85%B8%EB%9E%98_M6_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|양양 모노골, 하얀 설렘의 노래_M6_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/H7mcz/btsNHUKsaTh/8KricxczdKheEePDhkTVK0/%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%B4%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EC%97%B0%EC%96%B4%EC%9D%98%20%EA%B7%80%ED%96%A5_M12_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|한계목이 부르는 연어의 귀향_(처음 버전) M12_copilot_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/bkZ2DN/btsNFQi1iqg/KlnuOyvL12wpSzCrohjpK1/%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%B4%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EC%97%B0%EC%96%B4%EC%9D%98%20%EA%B7%80%ED%96%A5_M14_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|한계목이 부르는 연어의 귀향_(처음 버전) M14_copilot_FUZZ-1.0",
 "https://blog.kakaocdn.net/dn/baElxH/btsOt0wKZBc/1UfXIFsqUZdFNfrdANNa21/%EB%AC%B5%EC%9D%80%EC%A7%80%20%EC%9A%B0%EC%A0%95%EA%B3%BC%20%EB%8F%99%EC%8B%AC%EC%9D%98%20%EB%B2%A4%EC%B9%98_W3_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|묵은지 우정과 동심의 벤치_W3_copilot_Suno4.5",
 "https://blog.kakaocdn.net/dn/k1evW/btsOrxbEs36/cfVpdutZJWvXD71Az72iM0/%EB%B0%98%EA%B3%B5%EC%9D%BC%20%EC%9E%AC%EB%82%80%20%EC%84%A4%EC%95%85%EC%82%B0%20%EC%9D%B4%EC%95%BC%EA%B8%B0_WM1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|반공일 재낀 설악산 이야기_WM1_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dn/waUg6/btsNsSmnOOE/e1uOAU5L5uInndmF6IkSV0/%ED%8E%B8%EC%A7%80%ED%95%A8%EC%97%90%20%EA%B0%80%EB%93%9D%20%EC%B0%AC%20%EB%8F%99%EC%88%99%EC%9D%98%20%ED%8E%B8%EC%A7%80%EB%93%A4.._M19.mp3?attach=1&knm=tfile.mp3|편지함에 가득 찬 동숙의 편지들.._(처음 버전) M19_GPT_riffusion",
 "https://blog.kakaocdn.net/dn/blr8lc/btsOrvdZlma/xGGmg2gVyQXHWVxkjxQ8n0/1%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M8_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창)_M8_ChatGPT_Suno4.5",
 "https://blog.kakaocdn.net/dna/WEkek/btsOZFNjvUC/AAAAAAAAAAAAAAAAAAAAAAnZ0sUbf7lBTVAgylhQh6MIpLjztaQ8FMY3RL8YpMPv/AI-loT%2520%25EA%25B8%25B0%25EB%25B0%2598%2520%25EC%2596%25B4%25EB%25A5%25B4%25EC%258B%25A0%2520%25EA%25B1%25B4%25EA%25B0%2595%25EA%25B4%2580%25EB%25A6%25AC%25EC%2582%25AC%25EC%2597%2585_M7_FUZZ-1.1.mp3?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1753973999&allow_ip=&allow_referer=&signature=1tqO6p4nYr7nL0ZAdeauAp1rOEg%3D&attach=1&knm=tfile.mp3|AI-loT 기반 어르신 건강관리사업_(무료 버전) M7_FUZZ-1.1",
 "https://blog.kakaocdn.net/dna/I7Eqz/btsO0dvYdJp/AAAAAAAAAAAAAAAAAAAAACrgYytTZWrD2unNorBGfKgZmvKxJH4zQh-_cSAlhPNT/AI-IoT%2520%25EC%2596%25B4%25EB%25A5%25B4%25EC%258B%25A0%2520%25EA%25B1%25B4%25EA%25B0%2595%25EC%2586%25A1_W45_ChatGPT_FUZZ-1.1.mp3?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1753973999&allow_ip=&allow_referer=&signature=6ydk8Noy6B%2FYozOsjTgTzb8iJz8%3D&attach=1&knm=tfile.mp3|AI-IoT 어르신 건강송_(무료 버전) W45_ChatGPT_FUZZ-1.1",
+"https://blog.kakaocdn.net/dn/m4GlP/btsN4DiW6Yr/D7KpuwxDMAOFmypaJL1jq1/%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%85%B8%EB%9E%98_M26_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|자랑스러운 양양의 노래_M26_Gemini_Suno4.5",
+"https://blog.kakaocdn.net/dn/n162j/btsOskWZmLB/pkiQvZjYnNWgSKGaQOVxkK/0%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M1_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/bI3qOY/btsOthe7FgM/XAWPTRF8HESIceOf4u9VoK/%EB%B2%9A%EA%BD%83%EC%9D%B4%20%ED%94%BC%EC%96%B4%EB%82%9C%20%EB%82%A0_M9_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|벚꽃이 피어난 날_M9_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/chQjCb/btsNQaNN9Kg/nsUHVPHulaSgV9icFaEZMk/%EB%AC%B5%EC%9D%80%EC%A7%80%20%EB%B2%97%EA%B3%BC%20%EA%B1%B7%EB%8A%94%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%B4%84_M13_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|묵은지 벗과 걷는 유채꽃 사잇길_(처음 버전) M13_copilot_riffusion",
+"https://blog.kakaocdn.net/dn/H7mcz/btsNHUKsaTh/8KricxczdKheEePDhkTVK0/%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%B4%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EC%97%B0%EC%96%B4%EC%9D%98%20%EA%B7%80%ED%96%A5_M12_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|한계목이 부르는 연어의 귀향_(처음 버전) M12_copilot_FUZZ-1.0",
+"https://blog.kakaocdn.net/dn/197Yz/btsOsmApo4A/m6QpzrKgdRk83L2dkKnqj1/%EB%B0%98%EA%B3%B5%EC%9D%BC%20%EC%9E%AC%EB%82%80%20%EC%84%A4%EC%95%85%EC%82%B0%20%EC%9D%B4%EC%95%BC%EA%B8%B0_M5_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|반공일 재낀 설악산 이야기_M5_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/r7KRF/btsOrVclK5p/r1VBdU3blsewMhBTD0qDo0/0%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_MW1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가 (떼창)_MW1_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/Wdu9k/btsN6yUDsQq/NEjmKCwCWgXo7yzWsyaAJK/%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%85%B8%EB%9E%98_M17_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|자랑스러운 양양의 노래_M17_Gemini_Suno4.5",
+"https://blog.kakaocdn.net/dn/ezmQjN/btsN61I1VGv/iaQgACKK4glAkIi2cLK5ik/%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%85%B8%EB%9E%98_M27_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|자랑스러운 양양의 노래_M27_Gemini_Suno4.5",
+"https://blog.kakaocdn.net/dn/bapVRb/btsOtIh2Iq7/Puqsxzk8SGXsqB1ltmuNwk/1%20%EB%AA%A8%EB%85%B8%EA%B3%A8%20%EB%8B%A8%ED%95%A9%EA%B0%80_M3_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|모노골 단합가_M3_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/rLxvm/btsOszm1t2U/TRWYRM2FtI0CGfqxq46rkk/%EB%B2%9A%EA%BD%83%EC%9D%B4%20%ED%94%BC%EC%96%B4%EB%82%9C%20%EB%82%A0_M8_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|벚꽃이 피어난 날_M8_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/cpTt8p/btsN1f3jer0/anO3lemTZizfEc5uvlj92k/%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%85%B8%EB%9E%98_M6_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|자랑스러운 양양의 노래_(가사 변경 전) M6_Gemini_Suno4.5",
+"https://blog.kakaocdn.net/dn/bdGW75/btsOnci8AVq/edqOr3LxmUNx4IF3GBAka1/%EB%82%A8%EB%8C%80%EC%B2%9C%20%EB%94%B0%EB%9D%BC%20%EB%B4%84%EC%9D%B4%20%ED%9D%90%EB%A5%B4%EB%84%A4_M4_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|남대천 따라 봄이 흐르네_M4_ChatGPT_Suno4.5",
+"https://blog.kakaocdn.net/dn/WNrJP/btsN6yf2A5T/b2puH0H9L7IC3IFD7GV4UK/%EC%9E%90%EB%9E%91%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%96%91%EC%96%91%EC%9D%98%20%EB%85%B8%EB%9E%98_M22_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|자랑스러운 양양의 노래_M22_Gemini_Suno4.5",
 ]
 
 song = [
@@ -275,7 +289,8 @@ AI 시대, 이제는 IoT로 해봐요<br><br>\
 \
 신생아는 빠르고, <br>\
 운동선수는 느리다네요<br>\
-나이 들면 조금 느려도 너무 걱정 말아요<br><br><br>\
+나이 들면 <br>\
+조금 느려도 너무 걱정 말아요<br><br><br>\
 \
 \
 1일 미션, <br>\
@@ -290,30 +305,39 @@ AI 시대, 이제는 IoT로 해봐요<br><br>\
 주간 미션, <br>\
 혈당 측정 포인트는 5점이래요<br><br>\
 \
-공복 혈당은 최소 8시간 금식이 필요해요<br>\
+공복 혈당은 <br>\
+최소 8시간 금식이 필요해요<br>\
 물은 마셔도 돼요, <br>\
-다른 건 먹으면 안 돼요.<br>\
-100 넘으면 경계, 126 넘으면 위험이래요<br><br><br>\
+다른 건 먹으면 안 돼요.<br><br>\
+\
+100 넘으면 경계, <br>\
+126 넘으면 위험이래요<br><br><br>\
 \
 \
 식후 혈당은 식사 후 두 시간에 재 봐요<br>\
-여덟 시간까지도 식후로 본다네요<br>\
-140 넘으면 경계, 200 넘으면 위험해요<br>\
-당화혈색소 7% 넘으면 위험 신호랍니다<br><br><br>\
+여덟 시간까지도 식후로 본다네요<br><br>\
+\
+140 넘으면 경계, <br>\
+200 넘으면 위험해요<br><br>\
+\
+당화혈색소 7% 넘으면 <br>\
+위험 신호랍니다<br><br><br>\
 \
 \
 주간 미션, <br>\
 체중 측정 포인트는 2점이래요<br><br>\
 \
 체중보다 체지방률에 신경 써야 해요<br>\
-남자는 25%, 여자는 30% 넘으면 비만,<br>\
+남자는 25%, <br>\
+여자는 30% 넘으면 비만,<br>\
 조금씩 줄이며, 건강을 지켜봐요<br><br><br>\
 \
 \
 건강 챙기며 포인트 따는 <br>\
 활기찬 노년이에요<br><br>\
 \
-꿩 먹고 알 먹고, 굿도 보고 떡도 먹어요<br>\
+꿩 먹고 알 먹고, <br>\
+굿도 보고 떡도 먹어요<br>\
 뽕도 따고 임도 보고, <br>\
 도랑 치고 가재 잡고..<br><br>\
 \
@@ -322,7 +346,8 @@ AI 시대, 이제는 IoT로 해봐요<br><br>\
 \
 AI로 건강 관리, <br>\
 쉽고 즐겁게 함께 해요<br>\
-재미있게 운동하는 오늘도 행복합니다~~<br><br>\
+재미있게 운동하는 오늘도 <br>\
+행복합니다~~<br><br>\
 \
 <img src='https://blog.kakaocdn.net/dna/T10YF/btsOZDu94oJ/AAAAAAAAAAAAAAAAAAAAALw8vh3hsRJvFrHjWUwz-bEKcDUeJgw3AK_jRFk9L-rL/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1753973999&allow_ip=&allow_referer=&signature=f%2BhWP9b4B3BkmyQ4G%2BZjvZwiKPo%3D' width=100%><br>\
 </td></tr></table>",
@@ -1656,6 +1681,9 @@ AI로 건강 관리, <br>\
 
 const updat = "<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10' width=100%><tr valign=middle><td>\
 <P class='mid'><font color='blue'><b>업데이트 내역</b></font><br><br>\
+</P><P class='mid2'>\
+<b>2025. 07. 06 (25~38번 추가)</b><br>\
+기존 가사 중 행진곡풍 14곡(가사 중복)<br><br>\
 \
 <b>2025. 07. 02 (건강송 2곡 추가)</b><br>\
 23. AI-loT 기반 어르신 건강관리사업<br>\
