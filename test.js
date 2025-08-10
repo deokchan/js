@@ -1,7 +1,11 @@
 ﻿const title0 = "AI-IoT 기반 어르신 건강송"
 
 odi = [
-"https://drive.google.com/uc?export=open&id=1hs36QqhkXF8N0uEOgipKgxd--S8H3jby|까꿍~ 로운아! 탄생 100일을 축하해!_MW07_Suno4.5",
+"https://www.dropbox.com/scl/fi/af81vblxtyzvw4x8dm1pf/0-AI-loT-_MW01_Suno4.5.mp3?rlkey=7bmjldp0kbt2ao6r2jmaety8q&st=c6m66uv6&raw=1|AI-loT 기반 어르신 건강관리사업 (트로트)_MW01_Suno4.5",
+"https://www.dropbox.com/scl/fi/1m86jb14rewaksu0jklf4/1-AI-IoT-_MW08_ChatGPT_Suno4.5.mp3?rlkey=vsrr1sifjyweomxymjuectidh&st=jkh6uyeb&raw=1|AI-IoT 어르신 건강송 (행진)_MW08_ChatGPT_Suno4.5",
+"https://www.dropbox.com/scl/fi/101gzt8qojh0mnh9svgxr/1-AI-IoT-_WM02_ChatGPT_Suno4.5.mp3?rlkey=ldvkqfojozfckwdki0kveg6sd&st=om83bcbr&raw=1|AI-IoT 어르신 건강송 (트롯행진)_WM02_ChatGPT_Suno4.5",
+"https://www.dropbox.com/scl/fi/jxnwca1y0u62plnqdoccg/1-AI-IoT-_MW07_ChatGPT_Suno4.5.mp3?rlkey=vu30efaq3dqpbkgvm8ex6ycmo&st=5xmakcni&raw=1|AI-IoT 어르신 건강송 (트로트)_MW07_ChatGPT_Suno4.5",
+"https://www.dropbox.com/scl/fi/25mopzsjmp8k2dclcck5b/1-AI-IoT-_MW09_ChatGPT_Suno4.5.mp3?rlkey=xdcplnk72zpn0ux6t8nh3hcpu&st=yoenzdy3&raw=1|AI-IoT 어르신 건강송 (브라스)_MW09_ChatGPT_Suno4.5",
 ]
 
 song = [
