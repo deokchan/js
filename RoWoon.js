@@ -1162,7 +1162,11 @@ song = [
 const updat = "<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10'><tr valign=middle width=100%><td>\
 <P class='mid'><font color='blue'><b>업데이트 내역</font><br><br>\
 \
-2025. 06. 12</b><br>\
+2025. 08. 23</b><br>\
+'百日 축하'에 관한 노래 3가지 가사에 노래 다수 생성. <br>\
+여기에는 가사 3 x 5세트 = 15곡 수록<br><br>\
+\
+<b>2025. 06. 12</b><br>\
 '작명 축복'에 관한 노래 4가지 가사에 노래 다수 생성. <br>\
 여기에는 가사 4 x 6세트 = 24곡 수록<br><br>\
 \
