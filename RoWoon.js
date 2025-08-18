@@ -1,99 +1,275 @@
 ﻿const title0 = "로운이를 위한 태담과 노래"
 
 odi = [
-"https://blog.kakaocdn.net/dn/beEsax/btsOofuql2d/btaoyrTbliKDw4ClrUS3N0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_M2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M2W_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bkRMkq/btsOoPwDE5c/yU7Z54znnQGr3CkPvFcVZk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M8_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 개사)_M8_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|나레이션 : 할아버지 할머니의 사랑을, 파랑에게 (손자의 축복)_WM34_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/dWroVn/btsOthq8svI/vKysJTK0wIdAclfNSBKX7K/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21%20%28%EC%9E%91%EB%AA%85%29_MW2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_MW2_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/1NLeq/btsOqDwd5Sy/ZxgRKCX1k9U7aPW3fQioz0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W24_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W24_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/ldCVB/btsOsTxj6Bv/3I69TsQCMDCCsQ9G6rxg2K/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_M3_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_M3_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/doZ98j/btsOrVQZIMc/rDVLqL9nw6m2895j2RLAQ1/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_WM2_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_WM2_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/TXfYJ/btsOmkwHlhJ/gDM76bCeoHrRvRcQ0YFZm0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_MW1_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_MW1_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bj8apq/btsOr47ohlK/nIj5CxhTQfWT1TncU13f7k/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M3_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_M3_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/bw2trH/btsOtfNHOqH/k6JPvcLeiMS7AT4fTJQRs0/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_M5_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_M5_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/AOtbX/btsOrUkjTKI/xl4qYg8eJ9JzgUOrrKr3Ik/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M6_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_M6_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bM3qwN/btsOmwcZltr/nNPLOkmsohuAbbNdhD2Hz1/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_M1_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M1_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/b8khNQ/btsOsRTMVCo/5p8eBwqsQkob2BKItogkF0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W20_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W20_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/cQVXG0/btsOrYMZS4Q/RFWyuAkJ9HeYornPvWSs2K/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_W8_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_W8_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/be4Jej/btsOsnMZv5u/nivDIwL4vJZwEcecvkvYK0/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_M1_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/CfiKV/btsOqATOYiV/dqlu0rvKyewqSBJJrc3kNk/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21%20%28%EC%9E%91%EB%AA%85%29_M5_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M5_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/2e4ek/btsOsh6tMTx/mV9KYF2cUQ3NzNkFxxvi00/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W14_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W14_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/ckCW47/btsOska92Jw/xhdijCGfPf7MXD2WWTw3QK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_WM1_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/bIJtU6/btsOsgmLsow/qF2ebQ3p6vLgwD5H3T3CP0/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_WM5_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_WM5_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/JfKdx/btsOnuyOcMt/cIxovQCx5ovIyVrPaxxFlk/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_W7_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W7_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bLqE9U/btsOrts84le/4pD19iuNqG0gSpW9O0pj0K/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M4_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_M4_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/2I6L5/btsOr47sLKj/xEIkK639ZRfxO0vIAIEHnk/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_M6_Gemini_Suno4.5_%EC%95%9E%EB%92%A4.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_M6_Gemini_Suno4.5_앞뒤",
-"https://blog.kakaocdn.net/dn/E0hQc/btsOtuj4JWW/6jYewNqdWqKohGKgK4wzwk/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M11_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_Mw11_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/Su1BV/btsOoneFlIA/0f6WVKCsuv0BGWvtfx7Yv0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_W8_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W8_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/dq24mY/btsOqQoAdAQ/3qnPYxS84FvXkMXaufxmC0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W10_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W10_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/dQFasV/btsOsf8MnQL/f4H8MZODfs7mkbUnBxr1vK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM2_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_WM2_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/lm03c/btsOrUR5Amz/D5tMnz98BRVIK0JmgrLFVK/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_WM1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_WM1_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/cB0zqT/btsOukWkBE1/4lSrjaSKVPYFQdrjXze9B1/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM1_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 엄마 아빠의 축복 (작명 후 개사)_WM1_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/ciHPgm/btsOpAMjSge/3ymealu4XMpQea0w6vBhyk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W4_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 개사)_W4_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/6dmqJ/btsOsFnhKF0/1Sthho4DXG6tquupDkCJ4K/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EB%A1%9C%EC%9A%B4%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5_W1_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 로운이의 축복 (작명 후 개사)_W1_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/kQJ5Q/btsOtKuB4aM/CCzCnyMrdIqqLk3rDlt2B0/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_M7_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 엄마 아빠의 축복 (작명 후 개사)_M7_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/dk1dMn/btsOpZxVWrt/T7IxXiqQl1Ynkz0yKdSkn1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M10_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 개사)_M10_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/0Ynb7/btsOsDpvjAp/nK4Aj2dnQDk85XgsNG8uJ1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EB%A1%9C%EC%9A%B4%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5_MW4_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 로운이의 축복 (작명 후 개사)_MW4_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/Z2KDi/btsOs2PPZni/A9arUpPWrCwyKlLZvUaETk/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_W4_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 엄마 아빠의 축복 (작명 후 개사)_W4_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bHMs1Z/btsOovjcsqg/ZUKImPp5yWE9XKeTNJzak1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W2_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 개사)_W2_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/dINa3j/btsOt6xdgwX/GvmpZ9G1Kad3dBqUZWssxk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EB%A1%9C%EC%9A%B4%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5_W10_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 로운이의 축복 (작명 후 개사)_W10_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/l4E0C/btsNSIRDm6K/d9fklZg4HOK1qN6coBHlv1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%EC%B6%95%EB%B3%B5%2C%20%ED%9D%AC%EB%A7%9D%29_WM32_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 축복, 희망)_WM32_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/de4Fap/btsNRMtNYiE/0Z18kkf6Uka4GIvg9Jepm0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84%29_MW31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (감성적인 가족 모임)_MW31_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bDOGDy/btsNUuq6Bl8/y98zlTmcdlkQ0rtC76riv0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_MW31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (아기 '파랑'에게)_MW31_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/bqJREe/btsNR8jfu96/SGKmzuZPkgvIPc4K64oxn1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%ED%83%84%EC%83%9D%2C%20%EA%BF%88%2C%20%EA%B0%90%EC%82%AC%29_M23_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_M23_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/y9Oxo/btsNRMN2wK8/fOVlR9Bu2ZdK4kIt5crTy1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B8%B0%EC%81%9C%20%EC%B6%95%EB%B3%B5%29_M27_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (기쁜 축복)_M27_GPT_FUZZ-1.0",
-"https://blog.kakaocdn.net/dn/WeFFt/btsNR4uaVpN/5PnpX5PgdJPcYSPxA8W7cK/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A1%B0%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%98%20%EC%86%8C%EC%9B%90%29_M31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (조부모님의 소원)_M31_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/AKQCd/btsNSx3TWPI/kyMPuZfS0YQWrSf3QP8Ilk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_W31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_W31_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bHOfwL/btsNR5zOh6o/YKy4p3k4Anl0gI4KaYMfCK/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EB%AC%B4%EC%A1%B0%EA%B1%B4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EB%9E%91%29_WM33_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (무조건적인 사랑)_WM33_GPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bcmKcs/btsNTj4QBeQ/wvcWHWQhqDb1t608FwhSJ1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_WM32_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (아기 '파랑'에게)_WM32_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/c4CU5t/btsNS3ak7IT/qaAd4kK2kRgKzrtQ4EeHik/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W14_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W14_GPT_riffusion",
-"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (남자 여자)_MW12_GPT_riffusion",
-"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion",
-"https://blog.kakaocdn.net/dn/csFT1X/btsNboz4Bed/KlZFlr2khzfWq6i1WUCKtK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%201%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여자 2)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/wBycF/btsNjGTVMSP/U54jICxNT8shkotYziU2RK/50%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_W.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 (여자)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/SN9Fg/btsNcSGGbQj/4FkkIOLb6XkP2zEIDPQBm1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%202%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (난생처음 만들어 본 노래, 여자 1)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/2JT5s/btsNaKvPbXk/jbkcKISkGT7yPcgIP832fK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_M.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 (남자)_copilot_Suno4.0",
-"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|파랑이의 소중한 여정 (선히)_[태담]",
-"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|하늘과 바다의 선물 (현수)_[태담]",
-"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|파랑이와 하늘의 선물 (서현)_[태담]",
-"https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)_[태담]",
-"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|파랑이와 세상 탐험 (봉진)_[태담]",
-"https://blog.kakaocdn.net/dn/kT3xl/btsOoQ8DESr/KmXp817TYTB6kBAz9pj8r0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_W4_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W4_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/4Sr8B/btsOsQHjpY4/ZkubxMPodsmtLi2qke7pK0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M5_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_M5_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/byHtt2/btsOqDwh7hF/xZtgnIflK91LoIbYvaOeI0/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_MM1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_MM1_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/sKt8I/btsOsdqiX72/5dmWmYGSHqOQmiy6IW5Z90/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W21_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W21_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/kKQoa/btsOon6OB7O/waGXiSh2IKKAcOyHWzF5fk/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_W12_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W12_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/cpr4SS/btsOrCQURsO/0l2KFuKojMkpRTjfvoQKVk/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_MW1_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_MW1_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/bbfWEU/btsOsiw46A3/ZB865OCXhGfG0kCdPPuQik/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_W13_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_W13_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/nMh90/btsOrpdLTkq/hUMsKSa3dkkonKKdQ3pdYK/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W18_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W18_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/QTpjK/btsOslnyBAm/rQVzn7TvxyFLUkKJis9YFk/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21%20%28%EC%9E%91%EB%AA%85%29_W17_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W17_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/Oj6T0/btsOsBKnBwr/DxKtZF0DwS8tz7yXDOxNF1/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M1_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_M1_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/bXa41z/btsOrU47Z5J/ohr4VECpc9LYvugS8klGOK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_WW1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_WW1_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/Moqmb/btsOszNa22H/BPZ3RcrAaRybBiAwkIsONK/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W1_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/bPPCnj/btsOnY0Eqrh/A2kU0faxZWK1LnvDAY1VU0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_W2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W2_Sunoprompt_Suno4.5",
-"https://blog.kakaocdn.net/dn/HPb11/btsOncrs5XB/1XgVxGqfwx4UEAlMTJjrLk/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86_W3_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (가사 수정 전)_W3_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/bz3Of9/btsOs3GxAY9/JgY5V5mkt81c7TJHuzhH0k/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM5_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_WM5_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/duYRnA/btsOtKNJbLR/s1PkvJBHB5koLV78JkUhi1/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W10_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W10_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/cJj7Va/btsOrEOIxVl/FoTpKNfpsG6kwwzyzRyibK/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M2_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_M2_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/cQHMSE/btsOscqPZua/q7IWtFnxXUzytMFkfYua40/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W13_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W13_copilot_Suno4.5",
-"https://blog.kakaocdn.net/dn/4ZtDx/btsOswvDo4v/46kxGJLVJjmouqwocN8Z5k/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_MM2_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_MM2_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/OYPJ1/btsOq8pCSkH/nSekdvcHWK7cgW9nqXQJMK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_M4_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_M4_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/3z0sr/btsOqDwh5Nf/lqF35yuOs7DIe3mn0PQSnk/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_W10_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_W10_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/bKOqmh/btsOr5egOmf/0YHD1CcbjpQcnfX2HmZo41/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_W11_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_W11_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/cb7Zdn/btsOrvR8pP1/rB8KlxpSKsIWaYP9JjFgtK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_W12_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_W12_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/bhSi8s/btsOswixIlB/pZHGDhIbkqF8DaBO03U8UK/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M10_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_M10_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/chYUfG/btsOrYNteuk/5lFo5CTbjwKxnNDqQLhzwk/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M9_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_M9_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/Z1CFF/btsOtMdH6nb/22sroV7a5l9P1XIu9tob0k/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W20_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W20_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/1VuBY/btsOrVQZHa2/ikHWekYdayuKglCfA2O1EK/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W7_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W7_ChatGPT_Suno4.5",
-"https://blog.kakaocdn.net/dn/8M1wy/btsOmbfD88t/6Iv8nXknwj5X0f075sXPz0/%27%EB%A1%9C%EC%9A%B4%27%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%B6%95%EB%B3%B5%EC%9D%98%20%EB%85%B8%EB%9E%98_MW1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (가사 수정 전)_MW1_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/JpRFk/btsOnsOpn8W/Lw9aahOBTG0squuopuo4e0/%27%EB%A1%9C%EC%9A%B4%27%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%B6%95%EB%B3%B5%EC%9D%98%20%EB%85%B8%EB%9E%98_MW2_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (가사 수정 전)_MW2_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/GIFu7/btsOovjcumj/a1fMw0NYvPBlPpOURGJbm1/%27%EB%A1%9C%EC%9A%B4%27%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%B6%95%EB%B3%B5%EC%9D%98%20%EB%85%B8%EB%9E%98_M4_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (가사 수정 전)_M4_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/c8Y31B/btsOntTYGd7/rvYHR6hxhpV2XtjntrE8ak/%27%EB%A1%9C%EC%9A%B4%27%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%B6%95%EB%B3%B5%EC%9D%98%20%EB%85%B8%EB%9E%98_M5_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (가사 수정 전)_M5_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/vssy6/btsOmww8TaV/kheMDjRO5OVKpNUJKxDZY1/%27%EB%A1%9C%EC%9A%B4%27%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%B6%95%EB%B3%B5%EC%9D%98%20%EB%85%B8%EB%9E%98_W1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (가사 수정 전)_mW1_Gemini_Suno4.5",
-"https://blog.kakaocdn.net/dn/bCPKr3/btsOouEBgKt/BUPTjtlI18sYM7JyKnrzI0/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (가사 수정 전)_W1_ChatGPT_Suno4.5",
+"https://www.dropbox.com/scl/fi/dpggetls2lybgemm8bs4k/0-100-_MW14_Suno4.5.mp3?rlkey=xaq39ght3a9un7sjnks5hzeo7&st=d8ky1l7u&raw=1|까꿍~ 로운아! 탄생 100일을 축하해! (바이올린)_MW14_Suno4.5|232",
+"https://www.dropbox.com/scl/fi/d6lc5k3sqzyj4tkuynfrb/0-_MW22_Suno4.5.mp3?rlkey=golccg3hnay8ovtjf29cm3x6i&st=d48x8qk3&raw=1|로운에게 보내는 百日 축하 (클래식)_MW22_Suno4.5|",
+"https://www.dropbox.com/scl/fi/d1fuf9eg5vyiha16un5mm/0-_MW14_Suno4.5.mp3?rlkey=bxp0b1hi7huptflsxxsesnj3k&st=vfzsbxkq&raw=1|로운에게 보내는 할아머니의 百日 축복 (에모팝)_MW14_Suno4.5|",
+"https://www.dropbox.com/scl/fi/y7a7jo5n4vzichlfjuwyz/0-100-_MW11_Suno4.5.mp3?rlkey=sgnu2x0y85cqsbul5ywpt7udq&st=s42ygmac&raw=1|까꿍~ 로운아! 탄생 100일을 축하해! (트로트)_MW11_Suno4.5|",
+"https://www.dropbox.com/scl/fi/9hbaya0ligo8fs6t48xuc/0-_MW18_Suno4.5.mp3?rlkey=a0b24phm7e2yslpng9tppviex&st=diy19793&raw=1|로운에게 보내는 百日 축하 (발라드)_MW18_Suno4.5|",
+"https://www.dropbox.com/scl/fi/koi3ct02gsiif5eaa57vz/0.0-_MW08_Suno4.5.mp3?rlkey=0lpjhlsp20ltdxdcc57eckc8b&st=n7jsxyb2&raw=1|로운에게 보내는 할아머니의 百日 축복 (인디)_MW08_Suno4.5|",
+"https://www.dropbox.com/scl/fi/aseqc90nqbxn5dc0x03dk/0-100-_MW09_Suno4.5.mp3?rlkey=i6crfobe6rms48fwlzncmimuj&st=y9sppueb&raw=1|까꿍~ 로운아! 탄생 100일을 축하해! (트롯행진)_MW09_Suno4.5|",
+"https://www.dropbox.com/scl/fi/l2oybyp4wy08p6nj7ni0r/0-_MW09_Suno4.5.mp3?rlkey=g5xe2qsme7c5ajm92mw5xgk29&st=zcgvhdi1&raw=1|로운에게 보내는 百日 축하 (바이올린)_MW09_Suno4.5|",
+"https://www.dropbox.com/scl/fi/yyx05n59gta5gihbiwljn/0.0-_MW17_Suno4.5.mp3?rlkey=839nnp763ja92tinyl9n7maoj&st=4te01f7u&raw=1|로운에게 보내는 할아머니의 百日 축복 (심포니록)_MW17_Suno4.5|",
+"https://www.dropbox.com/scl/fi/qifnf1m1rj888ke68zd88/0-100-_MW04_Suno4.5.mp3?rlkey=2ysusy4b95ot1cceff45wkiwe&st=7be8sv8g&raw=1|까꿍~ 로운아! 탄생 100일을 축하해! (트롯행진)_MW04_Suno4.5|",
+"https://www.dropbox.com/scl/fi/i7zo8c7h3g4aytgash0u6/0.0-_MW14_Suno4.5.mp3?rlkey=rh1rys4wde8sym8q9orifmk4h&st=n87ky21e&raw=1|로운에게 보내는 百日 축하 (인디)_MW14_Suno4.5|",
+"https://www.dropbox.com/scl/fi/9umr7qmpd4cmh3hj4lu0b/0-_MW04_Suno4.5.mp3?rlkey=g386v6htsvl2hhb4ssv2uwq3f&st=43v4auut&raw=1|로운에게 보내는 할아머니의 百日 축복 (클래식풍)_MW04_Suno4.5|",
+"https://www.dropbox.com/scl/fi/eqnk1q2r2wz8ngb46kvkx/0-100-_WM06_Suno4.5.mp3?rlkey=ai57fmz9jd79538e8d34ky362&st=nh32o619&raw=1|까꿍~ 로운아! 탄생 100일을 축하해! (트롯행진)_WM06_Suno4.5|171",
+"https://www.dropbox.com/scl/fi/nfy0gpmybmv232kkb192p/0.0-_MW21_Suno4.5.mp3?rlkey=sern6sr85ql8o3ery4ltfqd4y&st=ybj2zcx3&raw=1|로운에게 보내는 百日 축하 (컨트리)_MW21_Suno4.5|",
+"https://www.dropbox.com/scl/fi/ueoungl9ab0hxsvx3klqv/0.0-_MW12_Suno4.5.mp3?rlkey=seljxwtbdadu0uwbecmgzpap5&st=yjqbcyz7&raw=1|로운에게 보내는 할아머니의 百日 축복 (드럼베이스)_MW12_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|나레이션 : 할아버지 할머니의 사랑을, 파랑에게 (손자의 축복)_WM34_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/dWroVn/btsOthq8svI/vKysJTK0wIdAclfNSBKX7K/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21%20%28%EC%9E%91%EB%AA%85%29_MW2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_MW2_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/1NLeq/btsOqDwd5Sy/ZxgRKCX1k9U7aPW3fQioz0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W24_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W24_copilot_Suno4.5|",
+"https://blog.kakaocdn.net/dn/ldCVB/btsOsTxj6Bv/3I69TsQCMDCCsQ9G6rxg2K/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_M3_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (발라드 : 작명)_M3_Gemini_Suno4.5|",
+"https://blog.kakaocdn.net/dn/doZ98j/btsOrVQZIMc/rDVLqL9nw6m2895j2RLAQ1/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_WM2_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (브라스 : 작명)_WM2_ChatGPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/TXfYJ/btsOmkwHlhJ/gDM76bCeoHrRvRcQ0YFZm0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_MW1_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (브라스 : 작명)_MW1_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bj8apq/btsOr47ohlK/nIj5CxhTQfWT1TncU13f7k/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M3_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (인디 : 작명)_M3_copilot_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bw2trH/btsOtfNHOqH/k6JPvcLeiMS7AT4fTJQRs0/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_M5_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (작명)_M5_Gemini_Suno4.5|",
+"https://blog.kakaocdn.net/dn/AOtbX/btsOrUkjTKI/xl4qYg8eJ9JzgUOrrKr3Ik/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M6_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_M6_ChatGPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bM3qwN/btsOmwcZltr/nNPLOkmsohuAbbNdhD2Hz1/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_M1_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (브라스 : 작명)_M1_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/b8khNQ/btsOsRTMVCo/5p8eBwqsQkob2BKItogkF0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W20_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (작명)_W20_copilot_Suno4.5|",
+"https://blog.kakaocdn.net/dn/cQVXG0/btsOrYMZS4Q/RFWyuAkJ9HeYornPvWSs2K/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_W8_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (휘파람 : 작명)_W8_Gemini_Suno4.5|",
+"https://blog.kakaocdn.net/dn/be4Jej/btsOsnMZv5u/nivDIwL4vJZwEcecvkvYK0/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M1_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_M1_ChatGPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/beEsax/btsOofuql2d/btaoyrTbliKDw4ClrUS3N0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_M2_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M2W_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/2e4ek/btsOsh6tMTx/mV9KYF2cUQ3NzNkFxxvi00/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W14_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (브라스 : 작명)_W14_copilot_Suno4.5|",
+"https://blog.kakaocdn.net/dn/ckCW47/btsOska92Jw/xhdijCGfPf7MXD2WWTw3QK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM1_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (아이들 : 작명)_WM1_Gemini_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bIJtU6/btsOsgmLsow/qF2ebQ3p6vLgwD5H3T3CP0/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_WM5_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_WM5_ChatGPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/CfiKV/btsOqATOYiV/dqlu0rvKyewqSBJJrc3kNk/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21%20%28%EC%9E%91%EB%AA%85%29_M5_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_M5_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bLqE9U/btsOrts84le/4pD19iuNqG0gSpW9O0pj0K/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_M4_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (인디 : 작명)_M4_copilot_Suno4.5|",
+"https://www.dropbox.com/scl/fi/2aob890lhn44sgon0umev/_M6_Gemini_Suno4.5.mp3?rlkey=ultpcb0ww1ss5v43ltbsfhrop&st=4gdaw7y2&raw=1|로운에게 보내는 할아머니의 축복 (행진 : 작명)_M6_Gemini_Suno4.5|",
+"https://blog.kakaocdn.net/dn/E0hQc/btsOtuj4JWW/6jYewNqdWqKohGKgK4wzwk/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M11_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_Mw11_ChatGPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/Su1BV/btsOoneFlIA/0f6WVKCsuv0BGWvtfx7Yv0/%EC%98%88%EC%81%9C%20%EC%9D%B4%EB%A6%84%20%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EC%B6%95%ED%95%98%ED%95%B4%21_W8_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|예쁜 이름 로운아, 축하해! (작명)_W8_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/dq24mY/btsOqQoAdAQ/3qnPYxS84FvXkMXaufxmC0/%EB%A1%9C%EC%9A%B4%EC%95%84%2C%20%EB%B9%9B%EB%82%98%EB%9D%BC__%20%E2%98%86%20%28%EC%9E%91%EB%AA%85%29_W10_copilot_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운아, 빛나라~~~ ☆ (어린아이 : 작명)_W10_copilot_Suno4.5|",
+"https://blog.kakaocdn.net/dn/dQFasV/btsOsf8MnQL/f4H8MZODfs7mkbUnBxr1vK/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%95%A0%EC%95%84%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM2_Gemini_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 할아머니의 축복 (행진 : 작명)_WM2_Gemini_Suno4.5|",
+"https://blog.kakaocdn.net/dn/sKt8I/btsOsdqiX72/5dmWmYGSHqOQmiy6IW5Z90/%EC%9D%B4%20%EC%84%B8%EC%83%81%20%EC%9D%B4%EB%A6%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W21_ChatGPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|이 세상 이름, 로운에게 (작명)_W21_ChatGPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/cB0zqT/btsOukWkBE1/4lSrjaSKVPYFQdrjXze9B1/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_WM1_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 엄마 아빠의 축복 (발라드 : 작명 후 개사)_WM1_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/ciHPgm/btsOpAMjSge/3ymealu4XMpQea0w6vBhyk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W4_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (드럼 : 작명 후 개사)_W4_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/6dmqJ/btsOsFnhKF0/1Sthho4DXG6tquupDkCJ4K/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EB%A1%9C%EC%9A%B4%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5_W1_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 로운이의 축복 (작명 후 개사)_W1_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/kQJ5Q/btsOtKuB4aM/CCzCnyMrdIqqLk3rDlt2B0/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_M7_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 엄마 아빠의 축복 (신스팝 : 작명 후 개사)_M7_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/dk1dMn/btsOpZxVWrt/T7IxXiqQl1Ynkz0yKdSkn1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M10_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (브라스 : 작명 후 개사)_M10_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/0Ynb7/btsOsDpvjAp/nK4Aj2dnQDk85XgsNG8uJ1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EB%A1%9C%EC%9A%B4%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5_MW4_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 로운이의 축복 (작명 후 개사)_MW4_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/Z2KDi/btsOs2PPZni/A9arUpPWrCwyKlLZvUaETk/%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_W4_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|로운에게 보내는 엄마 아빠의 축복 (작명 후 개사)_W4_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bHMs1Z/btsOovjcsqg/ZUKImPp5yWE9XKeTNJzak1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_W2_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (작명 후 개사)_W2_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/dINa3j/btsOt6xdgwX/GvmpZ9G1Kad3dBqUZWssxk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EB%A1%9C%EC%9A%B4%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5_W10_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 로운이의 축복 (작명 후 개사)_W10_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/l4E0C/btsNSIRDm6K/d9fklZg4HOK1qN6coBHlv1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%EC%B6%95%EB%B3%B5%2C%20%ED%9D%AC%EB%A7%9D%29_WM32_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (한국 팝 : 사랑, 축복, 희망)_WM32_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/de4Fap/btsNRMtNYiE/0Z18kkf6Uka4GIvg9Jepm0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EA%B0%80%EC%A1%B1%20%EB%AA%A8%EC%9E%84%29_MW31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (발라드 : 감성적인 가족 모임)_MW31_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bDOGDy/btsNUuq6Bl8/y98zlTmcdlkQ0rtC76riv0/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_MW31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (어쿠스틱 기타 : 아기 '파랑'에게)_MW31_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bqJREe/btsNR8jfu96/SGKmzuZPkgvIPc4K64oxn1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%ED%83%84%EC%83%9D%2C%20%EA%BF%88%2C%20%EA%B0%90%EC%82%AC%29_M23_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_M23_GPT_FUZZ-1.0|",
+"https://blog.kakaocdn.net/dn/y9Oxo/btsNRMN2wK8/fOVlR9Bu2ZdK4kIt5crTy1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EA%B8%B0%EC%81%9C%20%EC%B6%95%EB%B3%B5%29_M27_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 파랑에게 (기쁜 축복)_M27_GPT_FUZZ-1.0|",
+"https://blog.kakaocdn.net/dn/WeFFt/btsNR4uaVpN/5PnpX5PgdJPcYSPxA8W7cK/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%A1%B0%EB%B6%80%EB%AA%A8%EB%8B%98%EC%9D%98%20%EC%86%8C%EC%9B%90%29_M31_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (조부모님의 소원)_Mw31_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/AKQCd/btsNSx3TWPI/kyMPuZfS0YQWrSf3QP8Ilk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5_W31_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|파랑이에게 보내는 엄마 아빠의 축복 (사랑, 탄생, 꿈, 감사)_W31_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bkRMkq/btsOoPwDE5c/yU7Z54znnQGr3CkPvFcVZk/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%EB%A1%9C%EC%9A%B4%EC%97%90%EA%B2%8C_M8_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니의 사랑을, 로운에게 (브라스 : 작명 후 개사)_M8_GPT_Suno4.5|",
+"https://blog.kakaocdn.net/dn/bcmKcs/btsNTj4QBeQ/wvcWHWQhqDb1t608FwhSJ1/%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EA%B0%80%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%95%84%EA%B8%B0%20%27%ED%8C%8C%EB%9E%91%27%EC%97%90%EA%B2%8C%29_WM32_Sunoprompt_Suno4.5.mp3?attach=1&knm=tfile.mp3|할아버지 할머니가 보내는 파랑이의 축복 (아기 '파랑'에게)_WM32_Sunoprompt_Suno4.5|",
+"https://blog.kakaocdn.net/dn/c4CU5t/btsNS3ak7IT/qaAd4kK2kRgKzrtQ4EeHik/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W14_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W14_GPT_riffusion|",
+"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (남자 여자)_MW12_GPT_riffusion|",
+"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion|",
+"https://blog.kakaocdn.net/dn/wBycF/btsNjGTVMSP/U54jICxNT8shkotYziU2RK/50%20%5B%EB%85%B8%EB%9E%98%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_W.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 (난생처음 만들어 본 노래, 여자)_copilot_Suno4.0|",
+"https://blog.kakaocdn.net/dn/csFT1X/btsNboz4Bed/KlZFlr2khzfWq6i1WUCKtK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%201%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여자 2)_copilot_Suno4.0|",
+"https://blog.kakaocdn.net/dn/2JT5s/btsNaKvPbXk/jbkcKISkGT7yPcgIP832fK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EA%BF%88_M.mp3?attach=2&knm=tfile.mp3|파랑이의 꿈 (남자)_copilot_Suno4.0|",
+"https://blog.kakaocdn.net/dn/SN9Fg/btsNcSGGbQj/4FkkIOLb6XkP2zEIDPQBm1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98%20%28%EB%B2%84%EC%A0%84%202%29.mp3?attach=2&knm=tfile.mp3|파랑이의 노래 (여자 1)_copilot_Suno4.0|",
+"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|파랑이의 소중한 여정 (선히)_[태담]|",
+"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|하늘과 바다의 선물 (현수)_[태담]|",
+"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|파랑이와 하늘의 선물 (서현)_[태담]|",
+"https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)_[태담]|",
+"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|파랑이와 세상 탐험 (봉진)_[태담]|",
 ]
 
 song = [
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/sNaVQ/btsOw5MrWui/XGD5nbYNLQJf9kOr9t8nNk/img.png') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid2'><br>
+<b>로운에게 보내는 할아머니의 百日 축복</b><br><br>
+
+따스한 햇살처럼 반짝이는 <br>
+우리 아가 로운아!<br><br>
+
+백일의 기쁨이 우리에게 찾아왔구나~<br><br><br>
+
+
+작고 여린 손으로 세상을 더듬던 날<br>
+우릴 보며 처음으로 웃음 짓던 그날<br>
+할아버지 할머니는 매일 기도했단다<br>
+건강하게 자라라고, 행복하라고..<br><br>
+
+무럭무럭 자라나는 너의 모습 볼 때면<br>
+가슴 벅찬 감동이 샘솟는구나<br>
+세상의 좋은 빛깔이 너에게 향하기를<br>
+곱고 이로운 마음으로 꿈을 펼치려무나<br><br><br>
+
+
+어느새 이렇게 훌쩍 자란 우리 아가야<br>
+너의 웃음소리, 집안 가득 채우는구나~<br><br>
+
+축하해, 우리 아가, 백일을 맞은 로운아<br>
+세상이 준 선물, 가장 소중한 보물<br>
+앞으로 펼쳐질 너의 모든 날들을<br>
+할아버지 할머니가 언제나 응원할게<br><br><br>
+
+
+때로는 넘어지고 어려울 때도 있겠지만<br>
+그럴 때는 우리가 너를 지켜줄게<br>
+세상에 하나뿐인 너를 사랑하기에<br>
+어떤 어려움도 이겨내게 해줄 거야<br><br>
+
+반짝이는 눈빛 속에 호기심 가득한 너<br>
+슬기로운 지혜로 이 세상을 배우려무나<br>
+할아버지 할머니는 너의 든든한 울타리<br>
+언제나 너의 곁에서 힘이 되어 줄 거야<br><br><br>
+
+
+어느새 이렇게 훌쩍 자란 우리 아가야<br>
+너의 웃음소리, 집안 가득 채우는구나~<br><br>
+
+축하해, 우리 아가, 백일을 맞은 로운아<br>
+세상이 준 선물, 가장 소중한 보물<br>
+앞으로 펼쳐질 너의 모든 날들을<br>
+할아버지 할머니가 언제나 응원할게<br><br><br>
+
+
+우리 손자로 우리에게 와주어서<br>
+온 세상이 환하게 빛나는 것 같아<br>
+감사해, 사랑해, 우리 예쁜 아가 로운아<br>
+영원히 너의 편이 되어 줄게<br><br>
+
+축하해, 우리 아가, 백일을 맞은 로운아<br>
+세상이 준 선물, 가장 소중한 보물<br>
+앞으로 펼쳐질 너의 모든 날들을<br>
+할아버지 할머니가 언제나 응원할게<br><br><br>
+
+
+로운아 사랑한다... <br>
+백일을 축하한다...<br>
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/8on3l/btsOwFtmEEn/HSYC0Gfmz4UIyGihvrnyk1/img.jpg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><br>
+<font color='white'><b>로운에게 보내는 百日 축하</b><br><br>
+
+사랑하는 우리 아가 로운아, <br>
+어느새 백일이야<br>
+작고 소중한 너의 모습에 <br>
+매일매일 감사해<br><br>
+
+까꿍하며 웃는 너의 얼굴, <br>
+세상을 다 가진 듯해<br>
+반짝이는 두 눈 속으로 <br>
+엄마 사랑 가득 보낸다~<br><br><br>
+
+
+세상에 태어나줘서 고마워, <br>
+우리의 보물<br>
+하나, 둘, 셋.. 세어보던 날들이 <br>
+꿈만 같아<br><br>
+
+힘들 때도 있었지만 <br>
+너의 미소 보면 힘이 나~<br>
+아빠의 넓은 품에서 <br>
+언제나 편안하기를..<br><br><br>
+
+
+작은 천사 우리 아가 로운아, <br>
+세상의 빛이 될 거야<br>
+너의 모든 날들이 축복으로 가득하길<br><br>
+
+백일의 기쁨, 우리 아가 로운아 축하해<br>
+사랑으로 너를 감싸 안아줄게<br>
+환하게 웃는 너의 모습 그대로<br>
+세상 가장 행복한 아이로 자라렴<br><br><br>
+
+
+꽃보다 예쁜 손자 로운아, <br>
+어느덧 백일이라니<br>
+할미 가슴엔 늘 네가 있었단다, <br>
+사랑한다 로운아!<br><br>
+
+배냇저고리 입은 모습이 <br>
+어찌나 귀엽던지<br>
+무럭무럭 자라는 너의 모습에 <br>
+할미는 행복해<br><br><br>
+
+
+힘찬 기운 받아라, <br>
+우리의 자랑스러운 손자<br>
+건강하게, 씩씩하게, <br>
+지혜롭게 자라다오<br><br>
+
+언제나 너의 곁엔 <br>
+든든한 할아버지 있단다<br>
+세상 모든 좋은 것들이 <br>
+너에게 향하기를..<br><br><br>
+
+
+작은 새싹, 우리 아가 로운아, <br>
+푸른 꿈을 펼치렴<br>
+너의 모든 순간이 행복으로 물들기를..<br><br>
+
+백일의 기쁨, 우리 아가 로운아 축하해<br>
+사랑으로 너를 감싸 안아줄게<br>
+환하게 웃는 너의 모습 그대로<br>
+세상 가장 행복한 아이로 자라렴<br><br><br>
+
+
+넘어져도 괜찮아, <br>
+다시 일어설 수 있도록<br>
+늘 곁에서 응원할게, <br>
+너의 꿈을 맘껏 펼치렴<br><br>
+
+백일의 기쁨, 우리 아가 로운아 축하해<br>
+사랑으로 너를 감싸 안아줄게<br>
+환하게 웃는 너의 모습 그대로<br>
+세상 가장 행복한 아이로 자라렴<br><br><br>
+
+
+사랑한다, 우리 아가 로운아!<br>
+언제나 사랑한다. 영원토록...</font><br>
+</td></tr></table>`,
+`<table style="BACKGROUND:#ffff66 url('https://blog.kakaocdn.net/dn/Xj6h3/btsOxjDAXcz/cen6SOE7KJFtvqXrwhQkEk/img.png') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><br>
+<font color='blue'><b>까꿍~ 로운아! 탄생 100일을 축하해!</b></font><br><br>
+
+까꿍 까꿍, 우리 아가 로운아<br>
+옹알 옹알, 옹알 대장 로운아<br>
+축하 축하, 로운이의 백일을..<br>
+축복 축복, 로운에게 보낸다~~<br><br>
+
+조물 조물, 손가락이 귀여워<br>
+꼬물 꼬물, 발가락도 예뻐라<br>
+토실 토실, 복스러운 종아리<br>
+씰룩 씰룩, 엉덩이가 통통해<br><br>
+
+똘망 똘망, 사랑스런 눈망울<br>
+포동 포동, 볼퉁이도 예뻐요<br>
+복슬 복슬, 머릿결이 빛나고<br>
+새근 새근, 잠든 모습 상큼해<br><br>
+
+무럭 무럭, 건강하게 자라라<br>
+불끈 불끈, 씩씩하게 힘내라<br>
+듬뿍 듬뿍, 사랑으로 나눠라<br>
+가득 가득, 행복으로 채워라<br><br>
+
+로운 로운, 슬기 로운 로운아<br>
+크게 크게, 너의 꿈을 키워라<br>
+높게 높게, 너의 이상 펼쳐라<br>
+반짝 반짝, 우리 보배 빛나라<br><br>
+
+널찍한 아빠의 가슴팍에 안기어<br>
+귀여운 옹알이로 응답해 준 로운아~~<br>
+로운이 아빠라서 자랑스러워<br><br>
+
+어느 날 목 가누며, 앙증스런 얼굴로<br>
+엄마에게 천사 미소 보내준 로운아~~<br>
+로운이 엄마라서 너무 행복해<br><br>
+
+뭉클 뭉클, 엄마 아빠 가슴이<br>
+몽글 몽글, 피어 나는 감격에..<br><br>
+
+백일 백일, 축하한다 로운아<br>
+로운 로운, 축하한다 백일을..<br><br>
+
+거듭 거듭, 축하한다 백일을..<br>
+다시 다시, 축하한다 백일을..<br>
+자꾸 자꾸, 축하한다 백일을..<br><br>
+
+다시 한번 축하한다. <br>
+로운이의 백일을~~~<br>
+</td></tr></table>`,
 "<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/blyuoe/btsN2b0gXx6/iDOSuLAnhr8fXK3p4dhZv0/img.png') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
 <font color='blue'><b>할아버지 할머니가 보내는 로운이의 축복</b></font><br><br>\
@@ -984,29 +1160,29 @@ song = [
 ]
 
 const updat = "<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10'><tr valign=middle width=100%><td>\
-<P class='mid'><font color='blue'><b>업데이트 내역</b></font><br><br>\
+<P class='mid'><font color='blue'><b>업데이트 내역</font><br><br>\
 \
-2025. 06. 12<br>\
+2025. 06. 12</b><br>\
 '작명 축복'에 관한 노래 4가지 가사에 노래 다수 생성. <br>\
-여기에는 <br>\
-가사 4 x 5세트 = 20곡 外 다수 수록.<br><br>\
+여기에는 가사 4 x 6세트 = 24곡 수록<br><br>\
 \
-2025. 06. 02<br>\
+<b>2025. 06. 02</b><br>\
 기존의 '아기 탄생 축복' 노래에 태명 '파랑'에서 세상 이름 '로운'으로 개사.<br>\
 여기에는 가사 3 x 3세트 = 9곡 수록.<br><br>\
 \
-2025. 05. 14<br>\
+<b>2025. 05. 14</b><br>\
 '아기 탄생'을 축하하고 축복을 보내는 노래 3가지 가사에 노래 다수 생성. <br>\
 여기에는 가사 3 x 3세트 = 9곡 수록.<br><br>\
 \
-2025. 04. 08 <br>\
+<b>2025. 04. 08</b> <br>\
 건강한 출산을 기원하는 노래 <br>\
 \"파랑아, 우리 곁에 올 그날까지..\"<br>\
 라는 노래 10곡 생성.<br>\
-여기에는 3곡만 수록.<br>\
+여기에는 3곡만 수록.<br><br>\
+\
 본 '오디오(MP3) 플레이어' 제작.<br><br>\
 \
-2025. 04. 02 (난생처음 만든 노래)<br>\
-태담: 5건 x 2 (여기에는 5건만 수록), <br>\
-노래: 가사 2 x 2세트 = 4곡 생성.<br>\
+<b>2025. 04. 02</b> (난생처음 만든 노래)<br>\
+노래: 가사 2 x 2세트 = 4곡 생성,<br>\
+태담: 5건 x 2 (여기에는 5건만 수록). <br>\
 </td></tr></table>"
