@@ -621,7 +621,9 @@ song = [
 밝은 웃음으로 세상을 가득 채우길 바란단다.  <br><br>\
 \
 언제나 네 곁을 지켜줄게.<br>\
-사랑한다, 파랑아.<br><br><br><br>\
+사랑한다, 파랑아.<br><br>\
+\
+<img src='https://i.imgur.com/RCNQ4sG.jpeg' width=100% title='📷 로운 03'><br><br><br>\
 \
 \
 [노래]<br><br>\
