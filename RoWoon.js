@@ -98,6 +98,8 @@ song = [
 어느새 이렇게 훌쩍 자란 우리 아가야<br>
 너의 웃음소리, 집안 가득 채우는구나~<br><br>
 
+<img src='https://i.imgur.com/9IbXqwg.jpeg' width=100% title='📷 로운 고양이 배경'><br><br>
+
 축하해, 우리 아가, 백일을 맞은 로운아<br>
 세상이 준 선물, 가장 소중한 보물<br>
 앞으로 펼쳐질 너의 모든 날들을<br>
@@ -135,6 +137,8 @@ song = [
 할아버지 할머니가 언제나 응원할게<br><br><br>
 
 
+<img src='https://i.imgur.com/ONpOhEg.png' class="fade-in-out" width=100% title='📷 로운 백일 반지'><br><br>
+
 로운아 사랑한다... <br>
 백일을 축하한다...<br>
 </td></tr></table>`,
@@ -150,8 +154,9 @@ song = [
 까꿍하며 웃는 너의 얼굴, <br>
 세상을 다 가진 듯해<br>
 반짝이는 두 눈 속으로 <br>
-엄마 사랑 가득 보낸다~<br><br><br>
+엄마 사랑 가득 보낸다~<br><br>
 
+<img src='https://i.imgur.com/NIbmceM.jpeg' style="filter: opacity(70%);" width=100% title='📷 로운 50일 기념'><br><br>
 
 세상에 태어나줘서 고마워, <br>
 우리의 보물<br>
@@ -217,7 +222,10 @@ song = [
 세상 가장 행복한 아이로 자라렴<br><br><br>
 
 
-사랑한다, 우리 아가 로운아!<br>
+<img src='https://i.imgur.com/RzZNHH8.jpeg' width=100% title='📷 로운 액자'><br><br>
+
+사랑한다, 우리 아가 로운아!<br><br>
+
 언제나 사랑한다. 영원토록...</font><br>
 </td></tr></table>`,
 `<table style="BACKGROUND:#ffff66 url('https://blog.kakaocdn.net/dn/Xj6h3/btsOxjDAXcz/cen6SOE7KJFtvqXrwhQkEk/img.png') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
@@ -256,6 +264,9 @@ song = [
 어느 날 목 가누며, 앙증스런 얼굴로<br>
 엄마에게 천사 미소 보내준 로운아~~<br>
 로운이 엄마라서 너무 행복해<br><br>
+
+<img src='https://i.imgur.com/GYGm9Ct.jpeg' style='border-radius: 10%;' width=100% title='📷 로운 조약돌 배경'><br><br><br>
+
 
 뭉클 뭉클, 엄마 아빠 가슴이<br>
 몽글 몽글, 피어 나는 감격에..<br><br>
