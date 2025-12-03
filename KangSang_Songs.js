@@ -3550,8 +3550,8 @@ AI로 건강 관리, <br>\
 const updat = `<table style="border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10' width=100%><tr valign=middle><td>
 <P class='mid'><font color='blue'><b>업데이트 내역</b></font><br><br>
 
-<b>2025. 12. 02 (최종 곡 선정 수록)</b><br>
-최종 666곡 선정 아래와 같이 장르 분류.<br><br>
+<b>2025.12.02 (최종 666곡 선정 수록)</b><br>
+최종 선정 곡 아래와 같이 장르 분류.<br><br>
 
 1. 포크송 126곡 (1~126번)<br>
 2. 트롯 139곡 (127~265번)<br>
