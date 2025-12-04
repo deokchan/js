@@ -2491,6 +2491,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 딱 네 시간만 재끼면 2박 3일의 천국!<br><br><br>
 
 
+<img src="https://i.imgur.com/w2TM8oe.jpeg" width=100% title="📷 "><br><br>
+
 1반 세용, 4반 경순, <br>
 그리고 6반의 나<br>
 반은 달랐어도 마음은 하나로..<br><br>
@@ -2513,6 +2515,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 교복 왼쪽 주머니 안, 그 수첩 속에는<br>
 정란여상 고적답사반 세 명의 주소!<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/k8I4C/btsFkJExzPQ/xNtjYfKJzcgwPosWE1QmWk/img.jpg" width=100% title="📷 "><br><br>
 
 감초샘은 망설임 없이 <br>
 그 페이지 찢어버렸네<br><br>
@@ -2557,6 +2561,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 상업 부기 선생님은 말씀하셨지<br>
 차변에 설악산, 대변엔 대청봉이냐?<br><br>
+
+<img src="https://i.imgur.com/uLzVM8H.jpeg" width=100% title="📷 "><br><br>
 
 교복 속 추억은 나를 웃기고 울리며,<br>
 그 시절의 이야기가 노래되어 퍼집니다~<br>
@@ -2617,6 +2623,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 전율 같은 짜릿함, 온몸으로 퍼졌네<br><br><br>
 
 
+<img src="https://i.imgur.com/K4k6yph.jpeg" width=100% title="📷 "><br><br>
+
 그때는 몰랐었네, <br>
 공포가 밀려오던 그 혹독한 연습이<br><br>
 
@@ -2650,19 +2658,27 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 흥얼거리는 그 모습, 너무 부러웠고<br>
 아홉 줄 그 소리에 내 가슴이 뛰었네<br><br>
 
+<img src="https://i.imgur.com/pSc8Q2D.jpeg" width=100% title="📷 "><br><br>
+
 나도 손에 쥐고 싶었어, 저 기타를..<br>
 반짝이는 크롬, 묵직한 울림<br>
 아버지께 정중하게 상서를 올렸네<br>
 “음악 시간에 기타 가져오라 합니다”  <br><br>
+
+<img src="https://i.imgur.com/2wa7Xhj.png" width=100% title="📷 "><br><br>
 
 의외로 막힘없이 부쳐온 거금, <br>
 가슴 벅찼네<br>
 성남동 악기점에서 <br>
 세고비아 사려 했었는데<br><br>
 
+<img src="https://i.imgur.com/CllU9Xu.png" width=100% title="📷 "><br><br>
+
 결국엔 <br>
 그냥 구릿줄 여섯 줄짜리를 사고<br>
 거금 4,000원을 남겨 돌아왔네<br><br>
+
+<img src="https://i.imgur.com/9tgi0s1.png" width=100% title="📷 "><br><br>
 
 나도 손에 쥐고 싶었어, 저 기타를..<br>
 반짝이는 크롬, 묵직한 울림<br>
@@ -2679,6 +2695,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 멋쟁이 기타리스트! <br>
 열여섯 살의 커다란 꿈이었지<br><br>
+
+<img src="https://i.imgur.com/8wAMlbm.jpeg" width=100% title="📷 "><br><br>
 
 그때는 철부지였네, 기타가 전부였지<br>
 이제는 알겠네, <br>
@@ -2699,6 +2717,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 이소룡의 쌍절곤, 용쟁호투! 맹룡과강!<br>
 숨죽이고 보았던 그 시절의 영웅들..<br><br>
 
+<img src="https://i.imgur.com/zJ58GWy.jpeg" width=100% title="📷 "><br><br>
+
 고삐 풀린 망아지처럼 달렸었지<br>
 아버지의 눈길 벗어난 나의 자유를..<br><br>
 
@@ -2709,9 +2729,13 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 영화 중간에 나갈 수 없었기에<br>
 보았던 장면 또 보면서 숨 가다듬었네<br><br>
 
+<img src="https://i.imgur.com/nOpz1S2.jpeg" width=100% title="📷 "><br><br>
+
 한용철의 뒤축 후리기는 정말 일품이었어<br>
 야양 말, '몽댕이'라 했다가 <br>
 친구에게 놀림당했네<br><br>
+
+<img src="https://i.imgur.com/Qh1Ql1d.jpeg" width=100% title="📷 "><br><br>
 
 고삐 풀린 망아지처럼 달렸었지<br>
 아버지의 눈길 벗어난 나의 자유를..<br><br>
@@ -2725,8 +2749,12 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그날의 스릴과 설렘, 쫄깃했던 내 심장<br>
 모든 게 아스라한 추억으로 남았네<br><br>
 
+<img src="https://i.imgur.com/QgFlWFH.jpeg" width=100% title="📷 "><br><br>
+
 그때는 몰랐었네, 그 자유의 의미를..<br>
 그저 철이 없던 소년의 일탈이었지<br><br>
+
+<img src="https://i.imgur.com/tdKsPId.jpeg" width=100% title="📷 "><br><br>
 
 이제는 웃으며 말하는 이야기<br>
 나의 빛나는 '영화 매니아'의 소년시대...<br>
@@ -2740,6 +2768,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 거드름 떨며 내게 말했지 "돈 좀 주라~"<br>
 내 수첩 속, 8천 원짜리 수표가 불안했네<br><br>
 
+<img src="https://i.imgur.com/cXrYHfW.jpeg" width=100% title="📷 "><br><br>
+
 "너 죽고, 나 살자", <br>
 그 말 목까지 차올랐는데<br>
 녀석은 송금수표를 모르고 돌려주었네<br><br>
@@ -2752,6 +2782,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 까마귀 떼처럼 앉아있는 '골말 아덜'<br>
 시야까시, 그들의 놀림과 조롱에도<br>
 나는 고개를 숙일 수밖에 없었네<br><br>
+
+<img src="https://i.imgur.com/Z41YZDi.jpeg" width=100% title="📷 "><br><br>
 
 "너 죽고, 나 살자", <br>
 그 말 목까지 차올랐는데<br>
@@ -2787,14 +2819,18 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 줄창~ 월담하시는 감초 선생님!<br>
 바싹 따라붙어서 동시에 따라 넘어야<br><br>
 
+<img src="https://i.imgur.com/UkNGuT6.jpeg" width=100% title="📷 "><br><br>
+
 자칫 인터벌 늘어지면 <br>
 자기는 안 넘은 척,<br>
-월담 대장이 단속의 제왕으로 변신!<br>
-  <br>
+월담 대장이 단속의 제왕으로 변신!<br><br>
+
 시간차 공략의 숨 막히는 긴장감<br>
 감초 선생님 몰래 웃음 짓던 순간<br>
 시간은 흘러 희미해진 추억이지만<br>
 담장 너머 함께 넘던 우리들의 스릴<br><br>
+
+<img src="https://i.imgur.com/svjX1kK.jpeg" width=100% title="📷 "><br><br>
 
 아~ 그 시절 시간차, <br>
 아슬아슬 월담 작전<br>
@@ -2838,6 +2874,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 쉬는 시간 칠판에 쓰인<br>
 승전보에 환호하던 날들..<br><br>
 
+<img src="https://i.imgur.com/bCjUYAJ.jpeg" width=100% title="📷 "><br><br>
+
 그때 우리는 꿈을 꾸었지, <br>
 푸른 잔디 위를 누비던 <br>
 열정을 보며..<br><br>
@@ -2855,6 +2893,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 우승기 휘날리며 돌아오던 <br>
 자랑스러운 그 모습<br><br>
 
+<img src="https://i.imgur.com/WQYSqNl.jpeg" width=100% title="📷 "><br><br>
+
 강릉 시내 전 학생들의 <br>
 양쪽 가득한 환호 속에<br>
 선수들은 대관령부터 <br>
@@ -2864,6 +2904,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 이을용, 설기현! <br>
 그 뿌리는 여기에 있었네, <br>
 빛나는 땀방울의 전통!<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/dPVjMF/btsFiP58zh1/onqSkUt9QuZ5z9xjI5R3yk/img.jpg" width=100% title="📷 "><br><br>
 
 1975년, <br>
 강릉상고 이름은 전설이 되었네<br>
@@ -2904,6 +2946,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 교복은 헐렁, 호크는 풀려 있었네<br>
 백수인 줄 알고 불러봤던 그 얼굴<br>
 돌아선 순간, 2학년 선배였네<br><br>
+
+<img src="https://i.imgur.com/Gr1iNjA.jpeg" width=100% title="📷 "><br><br>
 
 숨죽이며 걷던 그 길 위에<br>
 언제나 두려움이 서 있었네<br>
@@ -2965,6 +3009,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그 말만 믿고 지나쳤다가<br>
 골목으로 끌려가 불나게 터졌네<br><br>
 
+<img src="https://i.imgur.com/7ghQ3oB.jpeg" width=100% title="📷 "><br><br>
+
 나는 왜 그랬을까, 그냥 경례할 걸<br>
 아직은 어리버리한 1학년의 팔자<br>
 그 시절의 설움과 불안..<br>
@@ -2990,6 +3036,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 내 이름을 부르던 그 목소리<br>
 겁 많던 열여섯의 봄날은<br>
 군기 속에 떨고 있었네<br><br>
+
+<img src="https://i.imgur.com/49fskeP.jpeg" width=100% title="📷 "><br><br>
 
 패싸움의 전설, 꼴통 3인방~~<br>
 그들이 날 찾는다는 소문에<br>
@@ -3020,6 +3068,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 어색한 경례, 벌컥 하는 선배들의 군기<br>
 사소한 실수에도 날아오는 불호령<br><br>
 
+<img src="https://i.imgur.com/9tueXME.jpeg" width=100% title="📷 "><br><br>
+
 밴드부 선배가 호출하면<br>
 음악실 앞에서 심장이 쿵쾅, <br>
 일진의 선배가 등장하면 <br>
@@ -3033,6 +3083,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 웃음과 눈물, 잊지 못할 추억들이여!<br>
 그래도 돌아갈 수 있다면, <br>
 그때로 달려가리..<br><br>
+
+<img src="https://i.imgur.com/0n5xqvR.jpeg" width=100% title="📷 "><br><br>
 
 기합 소리 복도에 울려 퍼지고, <br>
 엉덩이는 얼얼~~<br>
@@ -3082,15 +3134,21 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 푸른 청룡, 붉은 백호<br>
 용호상박, 맞서는 순간!<br><br>
 
+<img src="https://i.imgur.com/Ia7DIyZ.jpeg" width=100% title="📷 "><br><br>
+
 브라스 밴드 울려 퍼지고<br>
 가슴 뛰는 북소리 따라<br>
 상고 농고 청춘의 함성,<br>
 우리는 그 속에 서 있었다~<br><br>
 
+<img src="https://i.imgur.com/d1uyAfy.jpeg" width=100% title="📷 "><br><br>
+
 서울에 연고전이 있다면<br>
 강릉에는 상농전이 있다.<br>
 승패를 넘어, 뜨겁던 날들<br>
 우리는 하나였다, 다정한 맞수!<br><br>
+
+<img src="https://i.imgur.com/U0bPqR7.jpeg" width=100% title="📷 "><br><br>
 
 케이씨에치! 키케이 키케이!<br>
 토인들의 괴성과 인디언의 춤,<br>
@@ -3112,6 +3170,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 다정한 맞수의 대결 속에<br>
 아름다운 우정이 피어났다~<br><br>
 
+<img src="https://i.imgur.com/4rVdS9J.jpeg" width=100% title="📷 "><br><br>
+
 서울에 연고전이 있다면<br>
 강릉에는 상농전이 있다.<br>
 그 시절 철천지 앙숙이 <br>
@@ -3129,6 +3189,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 저마다 다른 교복의 발걸음..<br>
 상고의 청룡과 농고의 백호가<br>
 그라운드 위에서 마주 서네<br><br>
+
+<img src="https://i.imgur.com/6D7nMVn.jpeg" width=100% title="📷 "><br><br>
 
 서울에 연고전 있다면 강릉엔 상농전!<br>
 총동문과 가족들의 열기가 <br>
@@ -3170,14 +3232,20 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 용호상박의 그날, 우리는 영웅이었다<br><br>
 
+<img src="https://i.imgur.com/GPMQWBT.png" width=100% title="📷 "><br><br>
+
 재학 중엔 철천지 앙숙이었지만<br>
 졸업 후엔 영원한 동행자의 친구<br>
 교동의 벽돌 공장 패싸움의 긴장감!<br>
 이제는 다정한 맞수, 아름다운 우정!<br><br>
 
+<img src="https://blog.kakaocdn.net/dn/XkdTm/btsFjI5Wcmw/s7rJ2e7BeIcPuunHdyLOx0/img.jpg" width=100% title="📷 "><br><br>
+
 졌으니까 한 잔, 이겼으니 나도 한잔<br>
 감정에 취하고 술에 취했던 <br>
 아련한 추억..<br><br>
+
+<img src="https://i.imgur.com/nsI1Sm4.jpeg" width=100% title="📷 "><br><br>
 
 그때의 열기와 함성이 노래가 되어<br>
 브라스 밴드 음악처럼 <br>
@@ -3202,6 +3270,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 우리는 하나의 깃발 아래<br>
 젊음을 불태웠네<br><br>
 
+<img src="https://i.imgur.com/G3LtwO0.png" width=100% title="📷 "><br><br>
+
 청룡이 날았고 백호가 뛰었던<br>
 그날의 함성은 지금도 살아 있어<br>
 강릉의 심장 속에..<br>
@@ -3221,6 +3291,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그날의 함성은 지금도 살아 있어<br>
 강릉의 심장 속에..<br>
 우리는 여전히 함께 있네 (함께 있네)<br><br>
+
+<img src="https://i.imgur.com/2nYEDCe.jpeg" width=100% title="📷 "><br><br>
 
 상.농.전! 영.원.하.라!<br>
 케이씨에치! 키케이 키케이! <br>
@@ -3245,6 +3317,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 서툰 인사, 떨리던 눈빛 하나<br>
 나의 청춘은 별자리 되어 빛나네<br><br>
 
+<img src="https://i.imgur.com/R7MOys6.png" width=100% title="📷 "><br><br>
+
 소년의 시절, 별빛 같던 날들<br>
 책장 속에 빛바랜 추억들..<br>
 시간은 멀리 떠나가 버렸지만<br>
@@ -3261,7 +3335,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 아련한 미소, <br>
 그날의 목소리,<br>
 내 마음 속에.. <br>
-아직도 끝없이 번져가네~~~<br>
+아직도 끝없이 번져가네~~~<br><br>
+
+<img src="https://i.imgur.com/2hqQjQz.jpeg" width=100% title="📷 "><br>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/bUJp7E/btsOynE6F2y/UOFyIzW0tYRK5jmgiXHqj0/img.jpg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>강릉 단오제 고교축구 라이벌 상농전</b></font><br><br>
@@ -3283,6 +3359,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 거북선의 화염과 포성 울려 퍼지며<br>
 심장은 터질 듯, 거침없이 타올라~<br><br>
 
+<img src="https://i.imgur.com/x1L3HNE.png" width=100% title="📷 "><br><br>
+
 케이씨에치! 외치는 우리 함성<br>
 키케이 키케이! 맞서는 그 소리<br>
 어제의 앙숙, 오늘은 친구 되는 날<br>
@@ -3292,6 +3370,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 작은 몸짓 하나하나, 승리를 향한 열망<br>
 땀방울, 눈물, 모든 것이 깃든 순간<br>
 영웅심리, 호기가 발동하는 짜릿함<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/b0KrNw/btsC4bKRgk6/oIkpsXuFIktcwQAO9Rt1W1/img.jpg" width=100% title="📷 "><br><br>
 
 청룡은 꿈틀, 비상하듯 춤추고<br>
 토인들의 괴성과 인디언의 춤,<br>
@@ -3313,6 +3393,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 키케이 키케이! 맞서는 그 소리<br>
 어제의 앙숙, 오늘은 친구 되는 날<br>
 피 튀기는 싸움, 전설이 되었네<br><br>
+
+<img src="https://i.imgur.com/4uyp8PX.jpeg" width=100% title="📷 "><br><br>
 
 상.농.전! 영.원.하.라!<br>
 케이씨에치! 키케이 키케이! <br>
