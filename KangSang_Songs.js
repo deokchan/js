@@ -3658,9 +3658,9 @@ AI로 건강 관리, <br>\
 ]
 
 const updat = `<table style="border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10' width=100%><tr valign=middle><td>
-<P class='mid'><font color='blue'><b>업데이트 내역</b></font><br><br>
+<P class='mid'><font color='red'><b>업데이트 내역</b></font><br><br>
 
-<b>2025.12.04 (전경일대기 OST 추가)</b><br>
+<font color='blue'><b>2025.12.04 (전경일대기 OST 추가)</b></font><br>
 번외로 '전경 일대기'의 삽입곡 <br>
 3가지 가사, 28곡 추가 (667~694번)<br><br>
 
@@ -3669,7 +3669,7 @@ const updat = `<table style="border-radius: 30px; BACKGROUND:#ffcccc url('') rep
 3) 전투 경찰대, 자대 생활 10곡<br><br><br>
 
 
-<b>2025.12.03 ('계속 순환 재생' 방식)</b><br>
+<font color='blue'><b>2025.12.03 ('계속 순환 재생' 방식)</b></font><br>
 
 '장르별 묶음 재생' 방식에서<br>
 "포크송→트롯→트롯 댄스→브라스→미분류→트롯 발라드→발라드" 순으로 계속 순환 재생 방식으로 변경<br><br>
@@ -3682,7 +3682,7 @@ const updat = `<table style="border-radius: 30px; BACKGROUND:#ffcccc url('') rep
 6순환 75곡 (592~666번)<br><br><br>
 
 
-<b>2025.12.02 (최종 666곡 선정 수록)</b><br>
+<font color='blue'><b>2025.12.02 (최종 666곡 선정 수록)</b></font><br>
 최종 선정 곡 아래와 같이 장르 분류.<br><br>
 
 1. 포크송 126곡 (1~126번)<br>
@@ -3694,14 +3694,14 @@ const updat = `<table style="border-radius: 30px; BACKGROUND:#ffcccc url('') rep
 7. 발라드 121곡 (546~666)<br><br><br>
 
 
-<b>2025. 09. 24 (삽입곡 생성 완료)</b><br>
+<font color='blue'><b>2025. 09. 24 (삽입곡 생성 완료)</b></font><br>
 에필로그 <br>
 "소년시대, 찬란했던 날들" 생성.<br><br>
 
 총 34가지 가사, 678곡 생성.<br><br><br>
 
 
-<b>2025. 08. 30 (삽입곡 생성 시작)</b><br>
+<font color='blue'><b>2025. 08. 30 (삽입곡 생성 시작)</b></font><br>
 프롤로그 <br>
 "소년시대, 그 아득한 날들.." 생성.
 </td></tr></table>`
