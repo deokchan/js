@@ -2439,15 +2439,21 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 설렘 가득한 내 마음도, <br>
 편지에 담아보냈네<br><br>
 
+<img src="https://blog.kakaocdn.net/dn/S9sRm/btsFocsDi5a/WfQXjj7B3H9na5V7st21Q1/img.jpg" width=100% title="📷 "><br><br>
+
 여름날 함박눈이 펑펑 내린다고<br>
 친구들 앞에 낭송하다 얼굴 빨개졌네<br>
 삼천포에서 온 편지, '오빠'에서 '친구'<br>
 그러다 다시 '동생'으로 돌아온 그 여름<br><br>
 
+<img src="https://i.imgur.com/Cj7LKfF.jpeg" width=100% title="📷 "><br><br>
+
 아빠의 양복 주머니에서 찾은 나의 주소<br>
 찢어진 봉투 맞추던 칠곡의 소녀, 혜경!<br>
 '왜 편지만 딸에게 전해주셨을까?'<br>
 우여곡절 사연만은 보여주고 싶으셨나<br><br>
+
+<img src="https://i.imgur.com/knJtqNp.jpeg" width=100% title="📷 "><br><br>
 
 여름날 함박눈이 펑펑 내린다고<br>
 친구들 앞에 낭송하다 얼굴 빨개졌네<br>
@@ -2458,6 +2464,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 꼭 찾아달라던..<br>
 그 소녀는 강릉 역전에서 <br>
 나를 원망했겠지<br><br>
+
+<img src="https://i.imgur.com/VPx2wPs.jpeg" width=100% title="📷 "><br><br>
 
 끝내 전해주지 못한 미안함, <br>
 아직도 마음에 남아~<br><br>
