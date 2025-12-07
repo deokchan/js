@@ -2308,6 +2308,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 넘어오면 볼펜으로 찍어대던 <br>
 철부지의 오기<br><br>
 
+<img src="https://i.imgur.com/4lfLgis.jpeg" width=100% title="📷 "><br><br>
+
 똥개도 제집에선 <br>
 50 프로 먹고 들어간다는데<br>
 지리 낯설고 구경꾼도 마카 강릉 출신<br>
@@ -2316,6 +2318,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 홍제동 넘어가는 산 중턱에 <br>
 책가방 내려놓고<br>
 2단 옆차기 폼 잡다 무승부로 끝났네<br><br>
+
+<img src="https://i.imgur.com/BlnuUca.jpeg" width=100% title="📷 "><br><br>
 
 싸우고 나면 더욱 살가워진다더니..<br>
 어쩌면 이런 게 진정한 우정이었을까?<br><br>
@@ -2332,6 +2336,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 책가방 내려놓고<br>
 2단 옆차기 폼 잡다 무승부로 끝났네<br><br>
 
+<img src="https://i.imgur.com/th7mn2w.jpeg" width=100% title="📷 "><br><br>
+
 싸우고 나면 더욱 살가워진다더니..<br>
 어쩌면 이런 게 진정한 우정이었을까?<br><br>
 
@@ -2339,6 +2345,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 수업 시작 종에 방과 후를 기약했지만<br>
 약속 장소에 나타나지 않았던 너!<br>
 이제는 닿을 수 없는 곳에 있구나~~<br><br>
+
+<img src="https://i.imgur.com/925jUaw.jpeg" width=100% title="📷 "><br><br>
 
 철부지 시절의 허세와 가오 다툼<br>
 이 또한 내 청춘의 한 조각일지언정<br>
@@ -2352,8 +2360,13 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 바다낚시 좋아하는 계선아!<br>
 잘 지내니?<br><br>
 
+<img src="https://i.imgur.com/hC5GS4e.png" width=100% title="📷 "><br><br>
+
 높은 곳에 있는 찬일아! 잘 있니?<br>
-내 돈, 2천 원은 괜찮아~~<br>
+내 돈, 2천 원은 괜찮아~~<br><br>
+
+<img src="https://i.imgur.com/Y7hgipq.png" width=100% title="📷 "><br>
+
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/6m4u82y.jpeg') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
