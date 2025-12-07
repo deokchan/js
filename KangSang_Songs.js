@@ -2364,6 +2364,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 뒷자리 가운데에 <br>
 심벌즈와 작은북, 멋진 밴드 꾸렸지<br><br>
 
+<img src="https://i.imgur.com/uEcaPOI.jpeg" width=100% title="📷 "><br><br>
+
 김인순의 '여고 졸업반' 부르며, <br>
 난리 부르스 시작됐네<br>
 정문을 나서기도 전에 <br>
@@ -2374,6 +2376,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 나는 경제적 실리보다는 <br>
 연분홍빛 낭만을 쫓았네<br><br>
 
+<img src="https://i.imgur.com/vlI9YkX.jpeg" width=100% title="📷 "><br><br>
+
 원구 형님 땜에 살 떨리게 만든 <br>
 펜팔 페이퍼, 물거품 되었네<br>
 기초도 떼지 못했는데 거금 주고 샀던 <br>
@@ -2382,12 +2386,16 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 꼬불꼬불 내리막길, <br>
 기사님이 멈춰 세우고 한 말씀!<br><br>
 
+<img src="https://i.imgur.com/omm31Ih.png" width=100% title="📷 "><br><br>
+
 "20년 버스 운전에 <br>
 이런 학생들은 처음"이라네<br><br>
 
 그래도 우리는 멈출 수가 없었지<br>
 소년시대의 열광은 경주까지 <br>
 쉼 없이 흔들며 달려갔었네<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/Fhp43/btsC2yl1NIP/W3Fm4Ry56hAdxKiWWM4UY1/img.jpg" width=100% title="📷 "><br><br>
 
 호랑이 선생님의 타자 시간에 <br>
 우리는 목숨 걸었었지<br>
@@ -2407,6 +2415,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 타자 선생님의 엄격함과 <br>
 감초 선생님의 호통!<br>
 그 모든 게 나의 청춘을 만들어 주셨네<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/dSFSET/btsFjLpGjgz/njbUNfHptGPvVXlPbwAwwk/img.jpg" width=100% title="📷 "><br><br>
 
 세월 지나 돌아보니, <br>
 모든 게 빛바랜 추억되었고<br>
@@ -2481,6 +2491,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 "미안합니다! 정말 미안했습니다!!"<br>
 이 마음 전할 수 있다면..<br><br>
+
+<img src="https://i.imgur.com/GFtw3WZ.jpeg" width=100% title="📷 "><br><br>
 
 "미안합니다! 정말 미안했습니다!!"<br>
 이 마음 전할 수 있다면..<br>
