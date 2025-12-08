@@ -2251,7 +2251,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 나는 머리가 어질, 허리가 휘청, <br>
 다리는 후들후들~<br><br>
 
-<img src="https://i.imgur.com/9vCx11M.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/evWbn3J.png" width=100% title="📷 "><br><br>
 
 이 차선 10 미터가 <br>
 100 미터로 느껴졌던 등교길<br>
