@@ -2521,10 +2521,10 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 우린 설악산으로 떠났지<br><br>
 
 금요일 현충일에 이어진 반공일<br>
-딱 네 시간만 재끼면 2박 3일의 천국!<br><br><br>
+딱 네 시간만 재끼면 2박 3일의 천국!<br><br>
 
+<img src="https://i.imgur.com/F4lO0zo.jpeg" width=100% title="📷 "><br><br><br>
 
-<img src="https://i.imgur.com/w2TM8oe.jpeg" width=100% title="📷 "><br><br>
 
 1반 세용, 4반 경순, <br>
 그리고 6반의 나<br>
@@ -2534,7 +2534,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 외치며 떠났던 설악산<br><br>
 
 하지만… <br>
-막차 놓쳐 3박 4일의 연장전<br><br><br>
+막차 놓쳐 3박 4일의 연장전<br><br>
+
+<img src="https://i.imgur.com/w2TM8oe.jpeg" width=100% title="📷 "><br><br><br>
 
 
 네 시간 반공일 재낀 대가로 치러진<br>
