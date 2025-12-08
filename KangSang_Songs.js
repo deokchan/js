@@ -2549,7 +2549,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 교복 왼쪽 주머니 안, 그 수첩 속에는<br>
 정란여상 고적답사반 세 명의 주소!<br><br>
 
-<img src="https://blog.kakaocdn.net/dn/k8I4C/btsFkJExzPQ/xNtjYfKJzcgwPosWE1QmWk/img.jpg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/xdmZJmS.jpeg" width=100% title="📷 "><br><br>
 
 감초샘은 망설임 없이 <br>
 그 페이지 찢어버렸네<br><br>
