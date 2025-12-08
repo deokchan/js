@@ -2237,15 +2237,21 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 얼굴마저 시커먼 토인, <br>
 고향 까마구 '완수'였지<br><br>
 
+<img src="https://i.imgur.com/CxOJGhR.jpeg" width=100% title="📷 "><br><br>
+
 친구 따라 강남 아닌 <br>
 옥거리로 왜 갔을까?<br>
 리어카에 꿈을 싣고 <br>
 여고와 가까운 곳으로..<br><br>
 
+<img src="https://i.imgur.com/iiXfVLm.jpeg" width=100% title="📷 "><br><br>
+
 매일 아침, <br>
 여고 교복들이 하얗게 쏟아져 내려와~<br>
 나는 머리가 어질, 허리가 휘청, <br>
 다리는 후들후들~<br><br>
+
+<img src="https://i.imgur.com/9vCx11M.jpeg" width=100% title="📷 "><br><br>
 
 이 차선 10 미터가 <br>
 100 미터로 느껴졌던 등교길<br>
@@ -2256,6 +2262,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 예뻤던 그 여학생<br>
 매일 지각하는 건 아닌지, <br>
 궁금했던 나의 마음<br><br>
+
+<img src="https://i.imgur.com/E5V1cA7.png" width=100% title="📷 "><br><br>
 
 핫도그 가게에서 <br>
 100 개를 채우겠다던 친구!<br>
@@ -2277,6 +2285,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 내성적인 성격을 탈피하여 <br>
 여학생들과 자연스럽게 <br>
 대화를 나눠 보고 싶었어<br><br>
+
+<img src="https://i.imgur.com/7KUW7Lj.jpeg" width=100% title="📷 "><br><br>
 
 성당에도 감리 교회에도 포교당에도 <br>
 가 보았으나<br>
@@ -2453,6 +2463,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 </P><P class='mid2'><font color='pink'>
 열여섯 살의 로망이었던, <br>
 착하고 예쁜 여학생!<br><br>
+
+<img src="https://i.imgur.com/WPXESnH.png" width=100% title="📷 "><br><br>
 
 영석이 누나 책꽂이, <br>
 월간지 펜팔난에 눈이 번뜩 ☆.☆<br><br>
