@@ -2160,6 +2160,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 교실 창문이 열리며 <br>
 여학생들의 함성이 쏟아졌네<br><br>
 
+<img src="https://i.imgur.com/STgXpP4.jpeg" width=100% title="📷 "><br><br>
+
 이건 뭐지? <br>
 국가대표라도 된 이 기분, <br>
 가슴 뛰었네<br><br>
@@ -2174,6 +2176,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 아주머니의 묵시적 시위, <br>
 보란 듯이 쌓아둔 공병들!<br><br>
 
+<img src="https://i.imgur.com/0fiYBbK.jpeg" width=100% title="📷 "><br><br>
+
 그제서야 알았네, <br>
 아주머니의 깊은 뜻을..<br><br>
 
@@ -2186,6 +2190,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 가슴 설렜네<br>
 강여고 배구부 코치했던 <br>
 돈순이 친구도 설렜을까? (하.하.하.)<br><br>
+
+<img src="https://i.imgur.com/yTap2oH.jpeg" width=100% title="📷 "><br><br>
 
 향토 장학금 받으면 <br>
 돌아가며 한 달 내내 주류 행사<br>
@@ -2204,6 +2210,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그때의 순수한 일탈, <br>
 모두가 일장춘몽 되었네<br><br>
 
+<img src="https://i.imgur.com/CwfrGqo.jpeg" width=100% title="📷 "><br><br>
+
 웃고 떠들던 소년들은 어디로 갔을까?<br>
 보고 싶은 얼굴들, 그리운 이름들..<br><br>
 
@@ -2211,6 +2219,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 강릉여고 교실<br>
 그 시절 자유와 방황, <br>
 우정의 모든 이야기들..<br><br>
+
+<img src="https://i.imgur.com/1U1XuLo.jpeg" width=100% title="📷 "><br><br>
 
 부모님의 피땀어린 <br>
 '향토 장학금'의 블루스,<br><br>
