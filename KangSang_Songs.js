@@ -2082,6 +2082,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그 안에 담긴 말씀<br>
 "공부 좀 잘할까 하여, 돈을 보낸다~"<br><br>
 
+<img src="https://i.imgur.com/W1pno65.jpeg" width=100% title="📷 "><br><br>
+
 아버지의 편지, <br>
 "글씨 좀 꼬불꼬불하게 쓰지 말어라~"<br><br>
 
@@ -2090,6 +2092,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 “공부가 싫으면 농사나 하자” <br>
 그 말씀에 눈물이 고였고,<br><br>
+
+<img src="https://i.imgur.com/6BtoCBj.jpeg" width=100% title="📷 "><br><br>
 
 "돈 보내 줄 용기도 나지 않는다" <br>
 그 진심에 가슴 아팠네<br><br>
@@ -2104,6 +2108,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 돈이 없어 곤란하지만<br>
 너의 공부, 시험에 지장 없도록 보내니<br> 
 아껴 쓰거라~"<br><br>
+
+<img src="https://i.imgur.com/p4VTpQ6.jpeg" width=100% title="📷 "><br><br>
 
 아버지의 편지, <br>
 "글씨 좀 꼬불꼬불하게 쓰지 말어라~"<br><br>
@@ -2127,6 +2133,13 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 고 3의 내가 무참히 무너트린 <br>
 아버지의 기대와 희망!<br><br>
 
+<DIV style="LEFT: 0px; POSITION: relative; TOP: 0px">
+<DIV id=item4 style="Z-INDEX: 4; LEFT: 425px; POSITION: absolute; TOP: 60px; WIDTH: 80px; HEIGHT: 70px">
+<img src=http://cfile210.uf.daum.net/image/1525F0494D8EFCD604323A>
+</font></div></div>
+<img src="https://blog.kakaocdn.net/dn/dyEJc8/btsFogoZU8t/kTJfqkSHr5pmEIXxSsQkKK/img.jpg" width=100% title="📷 3-1반 졸업 앨범 단체 사진"><br><br>
+
+</P><P class='mid'>
 이제야 알았네, <br>
 돈보다 무거운 그 봉투의 무게를..<br><br>
 
@@ -2138,11 +2151,15 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 아버지의 헌신과 사랑! <br><br>
 
 하늘에 계신 아버지, <br>
-당신을 사랑합니다~~~<br><br><br>
+당신을 사랑합니다~~~<br><br>
+
+<img src="https://i.imgur.com/TnA3QP1.jpeg" width=100% title="📷 "><br><br><br>
 
 
 하늘에 계신 아버님!<br>
 "불초 소생 사죄드립니다~"<br><br>
+
+<img src="https://i.imgur.com/XeT8wwR.jpeg" width=100% title="📷 "><br><br>
 
 하늘에 계신 어머님!<br>
 "언제나 고마웠습니다~~~"<br><br>
