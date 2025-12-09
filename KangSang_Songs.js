@@ -2339,6 +2339,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 칠판에 던진 주산이 <br>
 내 꺼만 아니었더라도..<br><br>
 
+<img src="https://i.imgur.com/cQxsjgj.jpeg" width=100% title="📷 "><br><br>
+
 '양양 깡패'라 놀리던 덩치 큰 찬일아!<br>
 그때는 몰랐네, 그게 마지막일 줄..<br><br>
 
