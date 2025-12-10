@@ -2004,6 +2004,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 강릉에 나와 3년 동안 여섯 번, <br>
 하숙집 옮겨 다녔네<br><br>
 
+<img src="https://i.imgur.com/WaZfqxw.png" width=100% title="📷 "><br><br>
+
 '맹모 삼천지교' 아닌, <br>
 '덕찬 육천지교'라 불러다오<br><br>
 
@@ -2017,6 +2019,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 '죽돌이' 하나둘씩 생기더니<br>
 여기는 청춘들의 열린 광장이요, <br><br>
 
+<img src="https://i.imgur.com/23VMVXL.jpeg" width=100% title="📷 "><br><br>
+
 '상고 농고 기고' 친구들의 아지트요,<br>
 우리 하숙방은 <br>
 소년시대 우정의 사랑방 되었네 <br><br>
@@ -2024,11 +2028,15 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 코에 고드름 달고 달렸던 <br>
 노르딕 완수의 끈기!<br><br>
 
+<img src="https://i.imgur.com/uhWByst.jpeg" width=100% title="📷 "><br><br>
+
 30초 만에 금메달 따던 <br>
 알파인 상권이의 영광!<br><br>
 
 진공관에서 소리 흘러나오게 하던 <br>
 태환이의 열정! <br><br>
+
+<img src="https://i.imgur.com/SeAkUMQ.jpeg" width=100% title="📷 "><br><br>
 
 친구들이여! <br>
 그대들에게 갈채를 보낸다~~<br><br><br>
@@ -2047,6 +2055,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 펑퍼짐 널찍한 상권이는 자유자재로, <br>
 웃음꽃 피웠네<br><br>
 
+<img src="https://i.imgur.com/UE1LccM.jpeg" width=100% title="📷 "><br><br>
+
 룸메이트 나마저 쫓아내고 <br>
 진공관 소리 만들며<br>
 환호하던 태환이가 <br>
@@ -2054,6 +2064,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 하숙집은 단순한 방이 아니었네<br>
 우리들의 꿈과 열정, 우정이 쌓인 곳<br><br>
+
+<img src="https://i.imgur.com/9Qskhzs.png" width=100% title="📷 "><br><br>
 
 나의 고교 시절 피날레를 같이 했었던<br>
 완래야! 완수야! 태환아! <br>
