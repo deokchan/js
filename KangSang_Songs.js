@@ -2515,7 +2515,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 설렘 가득한 내 마음도, <br>
 편지에 담아보냈네<br><br>
 
-<img src="https://blog.kakaocdn.net/dn/S9sRm/btsFocsDi5a/WfQXjj7B3H9na5V7st21Q1/img.jpg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/jKVobqe.jpeg" width=100% title="📷 "><br><br>
 
 여름날 함박눈이 펑펑 내린다고<br>
 친구들 앞에 낭송하다 얼굴 빨개졌네<br>
