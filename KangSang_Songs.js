@@ -1942,6 +1942,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 빨간색, 파란색, 검은색으로 물든 <br>
 너의 허벅지<br><br>
 
+<img src="https://i.imgur.com/dQma8pO.jpeg" width=100% title="📷 "><br><br>
+
 맞은 데 또 맞은 것 같아, <br>
 오금이 저려와서<br>
 너무하다 싶었네, <br>
@@ -1952,6 +1954,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 소주 한 병 들고 온 후배를 <br>
 일으켜 세웠네<br><br>
 
+<img src="https://i.imgur.com/2LMct9M.jpeg" width=100% title="📷 "><br><br>
+
 인자하게 잔 따라주며 <br>
 무슨 일 있었냐는 듯<br>
 용쟁호투 대신 화기애애, <br>
@@ -1960,6 +1964,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 소주 사홉들이, 금세 바닥을 보이자<br>
 나가서 <br>
 댓병 하나 더 들고 온 너의 모습<br><br>
+
+<img src="https://i.imgur.com/5Hh7w18.jpeg" width=100% title="📷 "><br><br>
 
 분노를 용서로 바꾼 건 <br>
 타고난 너의 본성인가..<br>
@@ -1981,6 +1987,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 강원대 체육과 졸업, <br>
 선생님이 된 너의 모습<br><br>
 
+<img src="https://i.imgur.com/bNihXYM.jpeg" width=100% title="📷 "><br><br>
+
 고진감래, <br>
 그 말처럼 너는 해냈구나~<br>
 네가 겪었던 그 모든 고통을 <br>
@@ -1989,7 +1997,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 사홉들이 받고 댓병을 내어 주는..<br>
 따뜻하고 착했던 나의 친구 완수야!<br>
 노르딕 힘든 운동에 선배들 빠따까지,<br>
-그때의 네 모습이 아직도 생생하구나~<br><br><br>
+그때의 네 모습이 아직도 생생하구나~<br><br>
+
+<img src="https://i.imgur.com/41L7Pi6.jpeg" width=100% title="📷 "><br><br><br>
 
 
 근데 궁금하기는 하네<br><br>
@@ -2215,12 +2225,14 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 강여고 농구부는 <br>
 명륜고와 친선경기를 했었지<br><br>
 
+<img src="https://i.imgur.com/yTap2oH.jpeg" width=100% title="📷 "><br><br>
+
 코트 누비는 여학생 보는 것만으로도 <br>
 가슴 설렜네<br>
 강여고 배구부 코치했던 <br>
 돈순이 친구도 설렜을까? (하.하.하.)<br><br>
 
-<img src="https://i.imgur.com/yTap2oH.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/aDg8ARL.jpeg" width=100% title="📷 "><br><br>
 
 향토 장학금 받으면 <br>
 돌아가며 한 달 내내 주류 행사<br>
