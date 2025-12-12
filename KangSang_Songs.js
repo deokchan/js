@@ -1874,6 +1874,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 1976년의 유월, 설악산 입구에서<br>
 친구는 뻐꾸기를 날렸었지<br><br>
 
+<img src="https://i.imgur.com/I3BzMQP.jpeg" width=100% title="📷 "><br><br>
+
 길 건너편의 여학생 둘, <br>
 예상치 못한 호응<br>
 설악산은 뒤로하고, <br>
@@ -1883,6 +1885,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 산삼 썩은 시냇물도<br>
 산야의 푸르름도, <br>
 이름 모를 들꽃도<br><br>
+
+<img src="https://i.imgur.com/l5qzIbW.jpeg" width=100% title="📷 "><br><br>
 
 온통 아름다운 세상에, <br>
 하필 멱 감는 군인들이..<br><br>
@@ -1909,8 +1913,12 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 온통 아름다운 세상에, <br>
 하필 멱 감는 군인들이..<br><br>
 
+<img src="https://i.imgur.com/klQwg3z.jpeg" width=100% title="📷 "><br><br>
+
 풋~, 하고 웃던 너의 모습에 <br>
 난 더 부끄러웠네<br><br>
+
+<img src="https://i.imgur.com/elDFWXH.jpeg" width=100% title="📷 "><br><br>
 
 크나큰 꿈을 위해 날개 퍼덕이던 소녀<br>
 고민과 정서, <br>
@@ -1925,7 +1933,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 지금도 나는 그날을 잊지 못하고<br>
 입가에 미소 머금으며 <br>
-이 노래를 만드네..<br><br><br>
+이 노래를 만드네..<br><br>
+
+<img src="https://i.imgur.com/MfrYGwj.jpeg" width=100% title="📷 "><br><br><br>
 
 
 희야~ 너는 아니?<br>
