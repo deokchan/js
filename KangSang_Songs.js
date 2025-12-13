@@ -1840,29 +1840,44 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 길 건너 여학생의 미소, <br>
 그날은 그렇게 시작됐지<br><br>
 
+<img src="https://i.imgur.com/lalM1xF.jpeg" width=100% title="📷 "><br><br>
+
 희야의 편지, <br>
 서먹한 마음을 적어 내려간<br>
 자그마한 날개짓 속에<br>
 그 시절의 설렘이 담겨 있었네<br><br>
+
+<img src="https://i.imgur.com/T4D8VBW.png" width=100% title="📷 "><br><br>
 
 뚝방의 들꽃,<br>
 시냇물의 속삭임<br>
 그녀와 걷던 그 길은<br>
 온통 아름다운 세상이었지<br><br>
 
+<img src="https://i.imgur.com/IqUR41Q.jpeg" width=100% title="📷 "><br><br>
+
 희야의 편지,<br>
 서먹한 마음을 적어 내려간<br>
 자그마한 날개짓 속에<br>
 그 시절의 설렘이 담겨 있었네<br><br>
 
+<img src="https://i.imgur.com/JVkZGDo.jpeg" width=100% title="📷 "><br><br>
+
 군부대의 멱 감는 소리에<br>
-무드는 날아가고, 나는 붉어지고<br>
+무드는 날아가고, 나는 붉어지고<br><br>
+
+<img src="https://i.imgur.com/6K7VSe7.jpeg" width=100% title="📷 "><br><br>
+
 그녀의 웃음은 <br>
 지금도 내 기억 속에 맴돌아~<br><br>
+
+<img src="https://i.imgur.com/JGdYX5l.jpeg" width=100% title="📷 "><br><br>
 
 그날의 편지 한 장 <br>
 지금도 내 마음속에 살아~<br><br><br>
 
+
+<img src="https://i.imgur.com/mmchbGW.jpeg" width=100% title="📷 "><br><br>
 
 희야의 글씨, 그 여운<br>
 소년의 여름을 물들였네..<br>
@@ -1881,6 +1896,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 설악산은 뒤로하고, <br>
 그녀들을 향해 걸었네<br><br>
 
+<img src="https://i.imgur.com/yIWvGFT.jpeg" width=100% title="📷 "><br><br>
+
 너와 걷던 뚝방길, <br>
 산삼 썩은 시냇물도<br>
 산야의 푸르름도, <br>
@@ -1891,6 +1908,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 온통 아름다운 세상에, <br>
 하필 멱 감는 군인들이..<br><br>
 
+<img src="https://i.imgur.com/klQwg3z.jpeg" width=100% title="📷 "><br><br>
+
 풋~, 하고 웃던 너의 모습에 <br>
 난 더 부끄러웠네<br><br>
 
@@ -1898,6 +1917,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 모두 날아가 버렸고<br>
 어색한 작별, <br>
 그렇게 우린 헤어졌지만..<br><br>
+
+<img src="https://i.imgur.com/n0lo58G.jpeg" width=100% title="📷 "><br><br>
 
 그날에 내게 쓴 편지, <br>
 희야의 순수한 글씨<br>
@@ -1910,10 +1931,10 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 산야의 푸르름도, <br>
 이름 모를 들꽃도<br><br>
 
+<img src="https://i.imgur.com/pNZ8vs1.jpeg" width=100% title="📷 "><br><br>
+
 온통 아름다운 세상에, <br>
 하필 멱 감는 군인들이..<br><br>
-
-<img src="https://i.imgur.com/klQwg3z.jpeg" width=100% title="📷 "><br><br>
 
 풋~, 하고 웃던 너의 모습에 <br>
 난 더 부끄러웠네<br><br>
@@ -1927,6 +1948,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그때는 몰랐네, 그 편지의 의미를..<br>
 이제야 알 것 같아, <br>
 그때의 기쁜 설렘을..<br><br>
+
+<img src="https://i.imgur.com/tdf6OCS.jpeg" width=100% title="📷 "><br><br><br>
 
 설악산의 낭만은 짧았지만<br>
 오랫동안 이어진 너와의 우정과 인연!<br><br>
