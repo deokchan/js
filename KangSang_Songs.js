@@ -1762,6 +1762,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 삐뚤빼뚤한 글씨 속에 <br>
 너의 마음 살아 있구나~<br><br>
 
+<img src="https://i.imgur.com/CaLeA9E.png" width=100% title="📷 "><br><br>
+
 이 편지가 헛되지 않은 날,<br>
 우리 다정한 사이가 되어<br>
 고민과 정서를 함께 나누는<br>
@@ -1771,6 +1773,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 톡톡 빗방울 소리에..<br>
 외로움 흩어지던 그 순간<br>
 시골의 소녀는 나를 불렀지<br><br>
+
+<img src="https://i.imgur.com/8w5hOge.jpeg" width=100% title="📷 "><br><br>
 
 이 편지가 헛되지 않은 날,<br>
 우리 다정한 사이가 되어<br>
@@ -1785,6 +1789,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 혹여 언젠가 다시 펜을 들면<br>
 그때도 편지를 쓸 거야~<br><br>
+
+<img src="https://i.imgur.com/onoyQFU.jpeg" width=100% title="📷 "><br><br>
 
 서랍 속의 아련한 추억은<br>
 지금도 내 마음을 적셔주네..<br>
