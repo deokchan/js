@@ -1726,29 +1726,41 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그 시절의 너를 나에게<br>
 조용히 보내주던 밤이 있었지<br><br>
 
+<img src="https://i.imgur.com/D8b4DEX.png" width=100% title="📷 "><br><br>
+
 기우는 들녘엔 강 울음 들리고<br>
 머리 위엔 또 하나의 세계<br>
 비수 같은 햇살이 얼굴을 쫓을 때<br>
 너는 나의 심중을 불사르며 노래했지<br><br>
+
+<img src="https://i.imgur.com/d0edMnL.jpeg" width=100% title="📷 "><br><br>
 
 마알간 바람 속의 초록빛 눈망울<br>
 낙숫물 소리와 바람의 속삭임<br>
 책 한 장 넘기지 못한 채<br>
 나를 향한 푸념이 가득했구나~<br><br>
 
+<img src="https://i.imgur.com/hpksrz7.png" width=100% title="📷 "><br><br>
+
 기우는 들녘엔 강 울음 들리고<br>
 머리 위엔 또 하나의 세계<br>
 비수 같은 햇살이 얼굴을 쫓을 때<br>
 너는 나의 심중을 불사르며 노래했지<br><br>
 
+<img src="https://i.imgur.com/QCQfQkJ.jpeg" width=100% title="📷 "><br><br>
+
 그 시절의 편지들은<br>
 지금도 내 서랍 속에 살아~<br>
 추억으로 남겨진 문장들이<br>
-내 마음을 적셔주네..<br><br><br>
+내 마음을 적셔주네..<br><br>
+
+<img src="https://i.imgur.com/M1e2R39.jpeg" width=100% title="📷 "><br><br><br>
 
 
 혹여 언젠가 다시 펜을 들면<br>
 그때도 나는 편지를 쓸 거야~<br><br>
+
+<img src="https://i.imgur.com/zgyLIWH.png" width=100% title="📷 "><br><br>
 
 하얀 봉투 속의 하얀 마음처럼<br>
 지금도 나는 너에게 닿고 싶어..<br>
