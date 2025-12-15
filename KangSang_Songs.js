@@ -1816,20 +1816,30 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 우리의 심정을 누가 알아주셨는지<br>
 찢어진 봉투 조각 맞추어 주소 찾았네<br><br>
 
+<img src="https://i.imgur.com/f2U7Sru.png" width=100% title="📷 "><br><br>
+
 내 서랍 속 깊이 잠든 수많은 편지들..<br>
 사랑과 우정, 고민을 가득 담았네<br><br>
+
+<img src="https://i.imgur.com/deilohs.jpeg" width=100% title="📷 "><br><br>
 
 밤이 내리면, 밤이 깊으면, 펜을 들었지<br>
 순수한 날들의 내가, 여기 살아 숨 쉬네<br><br>
 
+<img src="https://i.imgur.com/5mj1XxP.jpeg" width=100% title="📷 "><br><br>
+
 비 내리는 밤, 침묵을 지키는 밤에<br>
 오직 홀로 고독에 잠겨 편지를 쓴다는<br>
 어린 소녀의 애틋한 이야기와<br>
-키스 경험은 있는가? 당돌한 앙케이트!<br><br><br>
+키스 경험은 있는가? 당돌한 앙케이트!<br><br>
+
+<img src="https://i.imgur.com/U4dfMmT.jpeg" width=100% title="📷 "><br><br><br>
 
 
 내 서랍 속 깊이 잠든 수많은 편지들..<br>
 사랑과 우정, 고민을 가득 담았네<br><br>
+
+<img src="https://i.imgur.com/q86HtIW.png" width=100% title="📷 "><br><br>
 
 밤이 내리면, 밤이 깊으면, 펜을 들었지<br>
 순수한 날들의 내가, 여기 살아 숨 쉬네<br><br>
@@ -1838,6 +1848,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 "어디에다 하소연할 데 없어 쓴다"<br>
 "오직 나에겐 나 밖엔 아무도 없어요"<br><br>
 
+<img src="https://i.imgur.com/q0jpjhJ.jpeg" width=100% title="📷 "><br><br>
+
 수많은 마음들이 봉투에 담겨 <br>
 내게 왔었네<br><br><br>
 
@@ -1845,8 +1857,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 지나간 그 시절의 순수한 감정들..<br>
 세월의 강물 속에 모두 휩쓸려 갔지만<br><br>
 
+<img src="https://i.imgur.com/jRom389.jpeg" width=100% title="📷 "><br><br>
+
 내 마음속에는 여전히 그때처럼,<br>
-그 편지의 온기가 온전히 남아있네..<br>
+그 편지의 온기가 온전히 남아있네..<br><br>
+
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/2wSQWkF.jpeg') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
