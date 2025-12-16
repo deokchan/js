@@ -1617,13 +1617,19 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 내 이름을 도용해 연서를 보냈으니, <br>
 정말 몰라요~<br><br>
 
+<img src="https://i.imgur.com/pnktlFV.jpeg" width=100% title="📷 "><br><br>
+
 창밖엔 가냘프게 비 내리고, <br>
 날더러 단념하라 하네요<br>
 할 말이 있으면 <br>
 '땡땡'에게 이야기 하라 합니다~<br><br>
 
+<img src="https://i.imgur.com/q9TOSlV.jpeg" width=100% title="📷 "><br><br>
+
 "덕찬 오빠, 오랫만이군요", <br>
 "글쎄 나는 초면이네요."<br><br>
+
+<img src="https://i.imgur.com/7LlHEDn.jpeg" width=100% title="📷 "><br><br>
 
 "얘기를 하자면 <br>
 시간이 약간 필요할 것 같군요"<br><br>
@@ -1635,6 +1641,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 진리가 허위라 해도 좋지만..<br>
 내 그대를 사랑하는 만큼은 <br>
 조금도 의심치 말아다오."<br><br>
+
+<img src="https://i.imgur.com/ZuI4v66.jpeg" width=100% title="📷 "><br><br>
 
 가장 친한 친구 숙에게 받은 시, <br>
 내게는 왜 보내셨나요?<br><br><br>
@@ -1659,6 +1667,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 '순정 아닌 그의 친구'로부터 온 편지..<br><br>
 
+<img src="https://i.imgur.com/7uG8MAS.jpeg" width=100% title="📷 "><br><br>
+
 나는 놀라기만 했을 뿐, <br>
 아무 말도 할 수 없었네<br><br>
 
@@ -1666,13 +1676,19 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 이제는 모두 <br>
 웃음만 나오는 추억이 되었네<br><br>
 
+<img src="https://i.imgur.com/ZtF8htc.png" width=100% title="📷 "><br><br>
+
 내 이름 도용한 장본인, 친구 창현아!<br>
 너 때문에 나는 <br>
-이 노래를 만들고 있단다~~<br><br><br>
+이 노래를 만들고 있단다~~<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/bmOQMY/btsFsaVuVac/iBKrDo8umsvG5MKoHbI3Ik/img.jpg" width=100% title="📷 "><br><br><br>
 
 
 지금 와 돌이켜 생각해 보니<br>
 아무것도 몰랐어도..<br><br>
+
+<img src="https://i.imgur.com/7qz6TfZ.jpeg" width=100% title="📷 "><br><br>
 
 계속 만나기나 해볼걸..<br>
 그냥 사귀기나 해볼걸..<br><br>
