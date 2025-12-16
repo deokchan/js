@@ -1390,6 +1390,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 강릉 바닷바람, <br>
 양양 언덕 위 친구들의 웃음소리<br><br>
 
+<img src="" width=100% title="📷 "><br><br>
+
 풋풋했던 설렘, <br>
 장난기 가득했던 우리들의 이야기<br><br>
 
@@ -1397,6 +1399,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 잊지 못할 해프닝들..<br>
 가슴속 깊이 새겨진 <br>
 소중한 추억의 조각들..<br><br>
+
+<img src="" width=100% title="📷 "><br><br>
 
 시간은 흘러 강물처럼, <br>
 멈추지 않고 흘러왔지만<br>
@@ -1407,6 +1411,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 우리 철부지들의 찬란했던 날들<br>
 함께 웃고 울었던, <br>
 모든 순간들이 보석 같아~<br><br>
+
+<img src="" width=100% title="📷 "><br><br>
 
 다시 돌아갈 순 없겠지만, <br>
 마음속엔 영원히<br>
@@ -1420,7 +1426,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 뒤처지지 않으려 <br>
 삶은 늘 앞만 보고 달려가지<br>
 가끔 뒤를 돌아보는 건, <br>
-참 소중한 일인 거야<br><br><br>
+참 소중한 일인 거야<br><br>
+
+<img src="" width=100% title="📷 "><br><br><br>
 
 
 소년시대, <br>
@@ -1443,8 +1451,12 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 또다시 재밌는 새로운 이야기로 <br>
 돌아오겠습니다<br><br>
 
+<img src="" width=100% title="📷 "><br><br>
+
 여기까지 함께해 주셔서, <br>
 진심으로 고맙습니다<br><br>
+
+<img src="" width=100% title="📷 "><br><br>
 
 잠시만 안녕, 나의 소년시대여...<br>
 </td></tr></table>`,
@@ -1456,6 +1468,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 폼 잡기 위해 입은 외피<br>
 사진 속엔 상일이와 백수, <br>
 그리고 옥자 일행<br><br>
+
+<img src="https://i.imgur.com/fCca3Ve.jpeg" width=100% title="📷 "><br><br>
 
 소년시대의 마지막 증표, <br>
 선명하게 남았네.<br>
@@ -1470,6 +1484,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 아버지 편지 속 엄한 꾸중, <br>
 더 큰 헌신과 사랑!<br><br>
 
+<img src="" width=100% title="📷 "><br><br>
+
 여기에, <br>
 내 마음속에, 영원히 살아서 숨 쉬네..<br><br>
 
@@ -1477,6 +1493,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 멈췄던 이 이야기들..<br>
 다시 펼쳐 봐도 <br>
 웃음소리와 풋풋한 설렘이<br><br>
+
+<img src="" width=100% title="📷 "><br><br>
 
 강릉과 양양, <br>
 친구들과 벌였던 장난과 해프닝<br>
@@ -1505,10 +1523,14 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그땐 또 다른 이야기로, <br>
 또다시 시작할 겁니다<br><br>
 
+<img src="" width=100% title="📷 "><br><br>
+
 아스라이 먼 기억의 원초는 <br>
 내 서랍 속 낙서장!<br>
 그 시절에 끄적였던 낙서들이 <br>
 글과 노래 되었네. <br><br>
+
+<img src="" width=100% title="📷 "><br><br>
 
 고맙습니다, <br>
 여기까지 함께 걸어와 주셔서..<br>
@@ -1536,6 +1558,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 말도 안 되는 억양의 말투를 <br>
 흉내 내면서..<br><br>
 
+<img src="https://i.imgur.com/ZLDhZ7x.jpeg" width=100% title="📷 "><br><br>
+
 말 끝만 올리면 서울말 되는 거니? <br>
 그런 거니? (하. 하. 하.)<br><br>
 
@@ -1554,6 +1578,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 현북면에서 속초, 고성까지는<br>
 묻는 말 끝에 '.. 니↗ ?' 자로, <br>
 억양은 위로..<br><br>
+
+<img src="https://i.imgur.com/VdVSg4e.jpeg" width=100% title="📷 "><br><br>
 
 남쪽인 <br>
 현남면부터 주문진, 강릉, 삼척까지는<br>
@@ -1582,11 +1608,15 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 간첩 신고 들어와 지서에서 <br>
 순경이 출동했었네 (하. 하. 하.)<br><br>
 
+<img src="https://i.imgur.com/OL1IjhI.jpeg" width=100% title="📷 "><br><br>
+
 나에게 야무지게 쏘아붙였던 <br>
 크다마한 지즈바!<br><br>
 
 "너는 왜.. 강릉 밥 먹고↘, <br>
 서울 똥 싸니↗ ?"<br><br>
+
+<img src="https://i.imgur.com/4CsLRAL.jpeg" width=100% title="📷 "><br><br>
 
 멈칫, 무슨 말인가? <br>
 강릉말로 달부어엽구나~ (하. 하. 하.)<br><br>
@@ -1594,11 +1624,15 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그 시절의 순수한 오해, <br>
 말도 안 되는 말!<br>
 이제는 모두 <br>
-웃음만 나오는 추억이 되었네<br><br><br>
+웃음만 나오는 추억이 되었네<br><br>
+
+<img src="https://i.imgur.com/e8eBkt3.jpeg" width=100% title="📷 "><br><br><br>
 
 
 그래도 궁금하긴 하네<br>
 나의 말씨가 정말 고왔는지..<br><br>
+
+<img src="https://i.imgur.com/DW2cIWu.png" width=100% title="📷 "><br><br>
 
 내가 말하면 서울 사람인 줄<br>
 여학생들도 심쿵~ 했었을까?<br>
