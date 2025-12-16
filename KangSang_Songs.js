@@ -1689,10 +1689,14 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 나는 눈만 뻐끔대며<br>
 오가는 대화를 듣고 있었지<br><br>
 
+<img src="https://i.imgur.com/hhrdAQ7.jpeg" width=100% title="📷 "><br><br>
+
 편지 속 이름, 낯선 문장<br>
 자초지종, 아직도 모르는 이야기<br>
 그 시절의 연서(戀書)는<br>
-지금도 내 마음을 헷갈리게 해<br><br><br>
+지금도 내 마음을 헷갈리게 해<br><br>
+
+<img src="https://i.imgur.com/tlVmTyT.jpeg" width=100% title="📷 "><br><br><br>
 
 
 창밖엔 가냘프게 비 내리고<br>
@@ -1700,10 +1704,14 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 “사랑하는 그대여!”라는 문장,<br>
 세익스피어보다 더 진심 같았지<br><br>
 
+<img src="https://i.imgur.com/EOnEw6S.jpeg" width=100% title="📷 "><br><br>
+
 편지 속 이름, 낯선 문장<br>
 자초지종, 아직도 모르는 이야기<br>
 그 시절의 연서(戀書)는<br>
 지금도 내 마음을 헷갈리게 해<br><br>
+
+<img src="https://i.imgur.com/suveXEp.jpeg" width=100% title="📷 "><br><br>
 
 약속된 시간, 약속된 장소<br>
 나는 그저 불려 나왔을 뿐<br>
@@ -1713,6 +1721,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 미스터리는 끝나지 않았고,<br>
 편지들은 미완의 시처럼 남아~<br><br>
+
+<img src="https://i.imgur.com/9ZD5een.jpeg" width=100% title="📷 "><br><br>
 
 그 시절의 연서(戀書)는<br>
 지금도 내 마음속에 살아 있네..<br>
