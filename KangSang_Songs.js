@@ -1476,6 +1476,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 내 삶에서 <br>
 희미한 듯 가장 빛나던 순간이여!<br><br>
 
+<img src="https://i.imgur.com/zsHFFh6.jpeg" width=100% title="📷 "><br><br>
+
 머릿속 추억의 조각들을 <br>
 하나둘 모았습니다.<br><br>
 
@@ -1484,7 +1486,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 아버지 편지 속 엄한 꾸중, <br>
 더 큰 헌신과 사랑!<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/80rCWCp.jpeg" width=100% title="📷 "><br><br>
 
 여기에, <br>
 내 마음속에, 영원히 살아서 숨 쉬네..<br><br>
@@ -1494,7 +1496,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 다시 펼쳐 봐도 <br>
 웃음소리와 풋풋한 설렘이<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/vaei4Jv.jpeg" width=100% title="📷 "><br><br>
 
 강릉과 양양, <br>
 친구들과 벌였던 장난과 해프닝<br>
@@ -1523,14 +1525,14 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그땐 또 다른 이야기로, <br>
 또다시 시작할 겁니다<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/KxJNBch.jpeg" width=100% title="📷 "><br><br>
 
 아스라이 먼 기억의 원초는 <br>
 내 서랍 속 낙서장!<br>
 그 시절에 끄적였던 낙서들이 <br>
 글과 노래 되었네. <br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/nv2sIDT.jpeg" width=100% title="📷 "><br><br>
 
 고맙습니다, <br>
 여기까지 함께 걸어와 주셔서..<br>
@@ -1539,6 +1541,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 
 안녕을 기원하는 인사를 보낸다~<br><br>
+
+<img src="https://i.imgur.com/qe3DPtN.jpeg" width=100% title="📷 "><br><br>
 
 교동의 강릉상고 용봉대야<br>
 홍제동의 토끼장 친구들아<br>
