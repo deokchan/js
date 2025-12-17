@@ -1390,7 +1390,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 강릉 바닷바람, <br>
 양양 언덕 위 친구들의 웃음소리<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/w0wlofD.jpeg" width=100% title="📷 "><br><br>
 
 풋풋했던 설렘, <br>
 장난기 가득했던 우리들의 이야기<br><br>
@@ -1400,7 +1400,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 가슴속 깊이 새겨진 <br>
 소중한 추억의 조각들..<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/FCAaIXg.jpeg" width=100% title="📷 "><br><br>
 
 시간은 흘러 강물처럼, <br>
 멈추지 않고 흘러왔지만<br>
@@ -1412,7 +1412,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 함께 웃고 울었던, <br>
 모든 순간들이 보석 같아~<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/1nt6L0g.jpeg" width=100% title="📷 "><br><br>
 
 다시 돌아갈 순 없겠지만, <br>
 마음속엔 영원히<br>
@@ -1423,18 +1423,22 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 마무리 짓지 못한 채, <br>
 여기서 끝나지만 후회는 없어<br><br>
 
+<img src="https://i.imgur.com/KhmqjPi.png" width=100% title="📷 "><br><br><br>
+
 뒤처지지 않으려 <br>
 삶은 늘 앞만 보고 달려가지<br>
 가끔 뒤를 돌아보는 건, <br>
 참 소중한 일인 거야<br><br>
 
-<img src="" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/r9Xkxsr.jpeg" width=100% title="📷 "><br><br><br>
 
 
 소년시대, <br>
 우리 철부지들의 찬란했던 날들<br>
 함께 웃고 울었던, <br>
 모든 순간들이 보석 같아~<br><br>
+
+<img src="https://i.imgur.com/D8no9Gr.png" width=100% title="📷 "><br><br>
 
 다시 돌아갈 순 없겠지만, <br>
 마음속엔 영원히<br>
@@ -1451,12 +1455,12 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 또다시 재밌는 새로운 이야기로 <br>
 돌아오겠습니다<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/KiCsOsc.jpeg" width=100% title="📷 "><br><br>
 
 여기까지 함께해 주셔서, <br>
 진심으로 고맙습니다<br><br>
 
-<img src="" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/RIx8oF2.jpeg" width=100% title="📷 "><br><br>
 
 잠시만 안녕, 나의 소년시대여...<br>
 </td></tr></table>`,
