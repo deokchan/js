@@ -3894,6 +3894,10 @@ AI로 건강 관리, <br>\
 const updat = `<table style="border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10' width=100%><tr valign=middle><td>
 <P class='mid'><font color='red'><b>업데이트 내역</b></font><br><br>
 
+<font color='blue'><b>2025.12.17 (가사 창 삽화 추가)</b></font><br>
+34개 가사 창에 삽화 생성 1차 완료<br><br><br>
+
+
 <font color='blue'><b>2025.12.04 (전경일대기 OST 추가)</b></font><br>
 번외로 '전경 일대기'의 삽입곡 <br>
 3가지 가사, 28곡 추가 (667~694번)<br><br>
