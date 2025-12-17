@@ -2533,7 +2533,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 책가방 내려놓고<br>
 2단 옆차기 폼 잡다 무승부로 끝났네<br><br>
 
-<img src="https://i.imgur.com/th7mn2w.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/KosZN58.jpeg" width=100% title="📷 "><br><br>
 
 싸우고 나면 더욱 살가워진다더니..<br>
 어쩌면 이런 게 진정한 우정이었을까?<br><br>
