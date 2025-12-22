@@ -2590,6 +2590,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 정문을 나서기도 전에 <br>
 이팔청춘 자유의 몸부림이었지 <br><br>
 
+<img src="https://i.imgur.com/3HJXF0m.jpeg" width=100% title="📷 "><br><br>
+
 호랑이 선생님의 타자 시간에 <br>
 우리는 목숨 걸었었지<br>
 나는 경제적 실리보다는 <br>
@@ -2601,6 +2603,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 펜팔 페이퍼, 물거품 되었네<br>
 기초도 떼지 못했는데 거금 주고 샀던 <br>
 기타는 어디로 갔을까?<br><br>
+
+<img src="https://i.imgur.com/7Vkv4FW.jpeg" width=100% title="📷 "><br><br>
 
 꼬불꼬불 내리막길, <br>
 기사님이 멈춰 세우고 한 말씀!<br><br>
@@ -2621,6 +2625,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 나는 경제적 실리보다는 <br>
 연분홍빛 낭만을 쫓았네<br><br>
 
+<img src="https://i.imgur.com/O0mkgRB.png" width=100% title="📷 "><br><br>
+
 원구 형님 땜에 살 떨리게 만든 <br>
 펜팔 페이퍼, 물거품 되었네<br>
 기초도 떼지 못했는데 거금 주고 샀던 <br>
@@ -2640,7 +2646,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 세월 지나 돌아보니, <br>
 모든 게 빛바랜 추억되었고<br>
 수학여행의 허망했던 기억은 <br>
-이제 웃음만 남았네<br><br><br>
+이제 웃음만 남았네<br><br>
+
+<img src="https://i.imgur.com/VftnhCZ.jpeg" width=100% title="📷 "><br><br><br>
 
 
 내 마음속의 영원한 '난리 부르스'<br>
@@ -2660,10 +2668,12 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 열여섯 살의 로망이었던, <br>
 착하고 예쁜 여학생!<br><br>
 
-<img src="https://i.imgur.com/WPXESnH.png" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/SVxxT4d.jpeg" width=100% title="📷 "><br><br>
 
 영석이 누나 책꽂이, <br>
 월간지 펜팔난에 눈이 번뜩 ☆.☆<br><br>
+
+<img src="https://i.imgur.com/3k2C12P.jpeg" width=100% title="📷 "><br><br>
 
 우등생인 척 <br>
 안경 쓰고 펜팔용 사진 찍어서<br>
@@ -2706,6 +2716,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 “당신을 그리는 시골의 소녀”  <br>
 그 문장은 지금도 내 마음을 울려~~<br><br>
+
+<img src="https://i.imgur.com/sKHhK7B.jpeg" width=100% title="📷 "><br><br>
 
 내 서랍 속 그 시절의 편지들은  <br>
 내 청춘의 가장 따뜻한 기록으로 남았네<br><br>
@@ -3419,6 +3431,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 토인들의 괴성과 인디언의 춤,<br>
 거북선의 화염과 포성 울리면<br>
 운동장은 바다처럼 출렁거렸다~<br><br>
+
+<img src="https://i.imgur.com/3lSX4Ti.jpeg" width=100% title="📷 "><br><br>
 
 벽돌 공장 패싸움의 기세마저<br>
 달빛 아래 웃음으로 녹았고,<br>
