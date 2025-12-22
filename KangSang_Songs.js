@@ -2898,7 +2898,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 <img src="https://i.imgur.com/K4k6yph.jpeg" width=100% title="📷 "><br><br>
 
 우리는 모두 하나, <br>
-자랑스런 용봉대, 강상인들이여!<br>
+자랑스런 용봉대, 강상인들이여!<br><br>
+
+<img src="https://i.imgur.com/bJBUEi3.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/iJxr8ag.jpeg') repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3443,7 +3445,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 지금은 영원한 동행자!<br><br>
 
 다정한 맞수여,<br>
-아름다운 우정이여!<br>
+아름다운 우정이여!<br><br>
+
+<img src="https://i.imgur.com/ASrlBMR.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/DEkUB7q.jpeg') repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>상농전, 그 푸른 붉은 물결</b></font><br><br>
@@ -3522,7 +3526,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 상.농.전! 영.원.하.라!<br>
 케이씨에치! 키케이 키케이! <br>
-케이씨에치! 키케이 키케이!<br></font>
+케이씨에치! 키케이 키케이!<br><br></font>
+
+<img src="https://i.imgur.com/BFjpraT.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/uWnZo/btsOxg1doCo/QyzvW4T03Y9tCyotueEjlK/img.png') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>청룡과 백호의 날, 상농전</b></font><br><br>
@@ -3571,7 +3577,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 상.농.전! 영.원.하.라!<br>
 케이씨에치! 키케이 키케이! <br>
-케이씨에치! 키케이 키케이!<br>
+케이씨에치! 키케이 키케이!<br><br>
+
+<img src="https://i.imgur.com/3RNlH1D.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table style="BACKGROUND:#ffff66 url('https://blog.kakaocdn.net/dn/rrIsv/btsOyX0oTH2/Ir1qeTouu85h8RtHfrvihK/img.jpg') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><br>
@@ -3614,7 +3622,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 내 마음 속에.. <br>
 아직도 끝없이 번져가네~~~<br><br>
 
-<img src="http://cfs9.blog.daum.net/original/22/blog/2007/10/16/23/24/4714c8e74bf02&filename=3100-62.jpg" width=100% title="📷 "><br>
+<img src="https://i.imgur.com/Ko5ax0J.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/bUJp7E/btsOynE6F2y/UOFyIzW0tYRK5jmgiXHqj0/img.jpg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>강릉 단오제 고교축구 라이벌 상농전</b></font><br><br>
@@ -3681,7 +3689,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 상.농.전! 영.원.하.라!<br>
 케이씨에치! 키케이 키케이! <br>
-케이씨에치! 키케이 키케이!<br>
+케이씨에치! 키케이 키케이!<br><br>
+
+<img src="https://i.imgur.com/qltxLIo.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 "<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/Xj6h3/btsOxjDAXcz/cen6SOE7KJFtvqXrwhQkEk/img.png') repeat fixed center center\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>\
 <P class='mid'>\
