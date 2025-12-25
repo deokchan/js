@@ -1808,7 +1808,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 <img src="https://i.imgur.com/9ZD5een.jpeg" width=100% title="📷 "><br><br>
 
 그 시절의 연서(戀書)는<br>
-지금도 내 마음속에 살아 있네..<br>
+지금도 내 마음속에 살아 있네..<br><br>
+
+<img src="https://i.imgur.com/vrjxpmM.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/nw80mPZ.jpeg') repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -2461,7 +2463,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 술잔을 기울였던<br><br>
 
 그 친구들은 지금 <br>
-어디에서 무얼 하고 있을까..<br>
+어디에서 무얼 하고 있을까..<br><br>
+
+<img src="https://i.imgur.com/AkFV3HY.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/rmQUpuv.jpeg') repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -2688,6 +2692,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 기초도 떼지 못했는데 거금 주고 샀던 <br>
 기타는 어디로 갔을까?<br><br>
 
+<img src="https://i.imgur.com/3qUmJ2q.jpeg" width=100% title="📷 "><br><br>
+
 잃어버린 나의 기타, <br>
 펜팔 페이퍼의 허무한 결말!<br>
 그때는 몰랐네, <br>
@@ -2715,7 +2721,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 노래 되어 끝없이 흐르네..<br><br>
 
 내 마음속 '난리 부르스'<br>
-노래 되어 끝없이 흐르네..<br>
+노래 되어 끝없이 흐르네..<br><br>
+
+<img src="https://i.imgur.com/RKQoFIx.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/vR4Z1Bb.jpeg') repeat fixed center bottom" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'>
@@ -3082,11 +3090,14 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 <img src="https://i.imgur.com/5V3TgI5.jpeg" width=100% title="📷 "><br><br>
 
 별들의 고향, 미성년자 관람불가!<br>
-들키면 죽을 줄 알았던, 금지된 영화!<br>
+들키면 죽을 줄 알았던, 금지된 영화!<br><br>
+
+<img src="https://i.imgur.com/QgFlWFH.jpeg" width=100% title="📷 "><br><br>
+
 그날의 스릴과 설렘, 쫄깃했던 내 심장<br>
 모든 게 아스라한 추억으로 남았네<br><br>
 
-<img src="https://i.imgur.com/QgFlWFH.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/jz9z9b0.jpeg" width=100% title="📷 "><br><br>
 
 그때는 몰랐었네, 그 자유의 의미를..<br>
 그저 철이 없던 소년의 일탈이었지<br><br>
@@ -3098,7 +3109,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/wSTS7RR.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/2JMSnkt.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/2JMSnkt.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/FqnQN0e.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/LbWLp4G.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/28BA0gS.jpeg') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'>
@@ -3150,7 +3165,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/PtDtZG0.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/gsfjVAp.png" width=100% title="📷 ">
+<img src="https://i.imgur.com/gsfjVAp.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/NNtxUsv.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/UyFAjpY.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/sUJKROL.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3213,7 +3232,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/VTC0STN.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/o1Eqnpf.png" width=100% title="📷 ">
+<img src="https://i.imgur.com/o1Eqnpf.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/mL5q3O3.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/maNn10A.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/wLBRHwo.jpeg') repeat fixed center center" cellpadding='80' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3289,7 +3312,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 영원히 가슴속에 남아 있어<br><br>
 
 강상의 푸른 상징 같은 <br>
-청룡기의 추억도..<br>
+청룡기의 추억도..<br><br>
+
+<img src="https://i.imgur.com/Kn8DjS6.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/1s4ujyt.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3333,7 +3358,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/KgqNv8R.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/XxUcLal.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/XxUcLal.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/qxlueUa.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/OOpdaWW.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/cxpbMpf.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3381,7 +3410,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/caanxJA.png" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/kZeoGnB.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/kZeoGnB.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/JtypT5q.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/TmNTeVP.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/jL9S9dP.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3423,7 +3456,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/5K0HpMm.png" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/2Q6dGis.png" width=100% title="📷 ">
+<img src="https://i.imgur.com/2Q6dGis.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/fVz1cNJ.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/uFZcx07.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/iSILGzE.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'>
