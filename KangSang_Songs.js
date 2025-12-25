@@ -1468,6 +1468,8 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 잠시만 안녕, 나의 소년시대여...<br><br>
 
+<img src="https://i.imgur.com/EeyYloY.png" width=100% title="📷 "><br><br>
+
 <img src="https://i.imgur.com/2XN5i0p.jpeg" width=100% title="📷 "><br><br>
 
 <img src="https://i.imgur.com/HslwPoW.jpeg" width=100% title="📷 "><br><br>
@@ -1746,7 +1748,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 너 때문에 나는 <br>
 이 노래를 만들고 있단다~~<br><br>
 
-<img src="https://blog.kakaocdn.net/dn/bmOQMY/btsFsaVuVac/iBKrDo8umsvG5MKoHbI3Ik/img.jpg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/V4lkvKQ.jpeg" width=100% title="📷 "><br><br><br>
 
 
 지금 와 돌이켜 생각해 보니<br>
@@ -1759,6 +1761,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 (푸~ 하하. 하하하~~~)<br><br>
 
+<img src="https://blog.kakaocdn.net/dn/bmOQMY/btsFsaVuVac/iBKrDo8umsvG5MKoHbI3Ik/img.jpg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/1Koix9k.jpeg') repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -1931,7 +1934,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 어린 소녀의 애틋한 이야기와<br>
 키스 경험은 있는가? 당돌한 앙케이트!<br><br>
 
-<img src="https://i.imgur.com/U4dfMmT.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/amjWwjl.png" width=100% title="📷 "><br><br><br>
 
 
 내 서랍 속 깊이 잠든 수많은 편지들..<br>
@@ -1962,7 +1965,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 내 마음속에는 여전히 그때처럼,<br>
 그 편지의 온기가 온전히 남아있네..<br><br>
 
-<img src="https://i.imgur.com/VKGbIQk.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/33akwwM.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/2wSQWkF.jpeg') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -2102,7 +2105,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 이 말에 내 가슴 얼마나 설레었는지..<br><br>
 
-<img src="https://i.imgur.com/33akwwM.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/VKGbIQk.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/rmQUpuv.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -2264,7 +2267,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그리운 이름, 그리운 시절..<br><br>
 
 풋풋했던 소년시대!<br>
-아름다운 시절이었어라~~<br>
+아름다운 시절이었어라~~<br><br>
+
+<img src="https://i.imgur.com/mOpsyc3.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/G1I8Ib6.jpeg') repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -2361,6 +2366,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 하늘에 계신 어머님!<br>
 "언제나 고마웠습니다~~~"<br><br>
 
+<img src="https://i.imgur.com/XoEy8JM.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/xiPi9jm.jpeg') repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -2606,12 +2612,19 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 오늘 그 친구들의 안부를 물어본다<br><br>
 
-바다낚시 좋아하는 계선아!<br>
-잘 지내니?<br><br>
+바다낚시 좋아하는 계선아!<br><br>
 
 <img src="https://i.imgur.com/hC5GS4e.png" width=100% title="📷 "><br><br>
 
-높은 곳에 있는 찬일아! 잘 있니?<br>
+잘 지내니?<br><br>
+
+<img src="https://i.imgur.com/aZm1NWY.png" width=100% title="📷 "><br><br><br>
+
+
+높은 곳에 있는 찬일아! 잘 있니?<br><br>
+
+<img src="https://i.imgur.com/UKQeD5Y.jpeg" width=100% title="📷 "><br><br>
+
 내 돈, 2천 원은 괜찮아~~<br><br>
 
 <img src="https://i.imgur.com/Y7hgipq.png" width=100% title="📷 "><br>
@@ -3024,7 +3037,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 배경음이었네<br><br>
 
 그 사랑의 울림은 지금도.. <br>
-내 마음에 울려 퍼져~~<br>
+내 마음에 울려 퍼져~~<br><br>
+
+<img src="https://i.imgur.com/ypS5x73.jpeg" width=100% title="📷 "><br>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/VKWD8fF.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'>
@@ -3079,7 +3094,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 <img src="https://i.imgur.com/tdKsPId.jpeg" width=100% title="📷 "><br><br>
 
 이제는 웃으며 말하는 이야기<br>
-나의 빛나는 '영화 매니아'의 소년시대...<br>
+나의 빛나는 '영화 매니아'의 소년시대...<br><br>
+
+<img src="https://i.imgur.com/wSTS7RR.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/2JMSnkt.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/28BA0gS.jpeg') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'>
@@ -3127,7 +3146,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 나를 단단하게 만들었단 걸..<br>
 겁 많았던 소년, 이제는 웃으며 말하네<br><br>
 
-그 시절 나의 빛바랜 객지 설움을~~~<br>
+그 시절 나의 빛바랜 객지 설움을~~~<br><br>
+
+<img src="https://i.imgur.com/PtDtZG0.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/gsfjVAp.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/sUJKROL.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3186,7 +3209,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 월담 대신 걸었던 긴 하루지만<br>
 그래도 괜찮아, 함께 웃던 날들..<br><br>
 
-아련한 추억 속에 담아두었네~~<br>
+아련한 추억 속에 담아두었네~~<br><br>
+
+<img src="https://i.imgur.com/VTC0STN.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/o1Eqnpf.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/wLBRHwo.jpeg') repeat fixed center center" cellpadding='80' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3302,7 +3329,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 지금은 웃으며 말할 수 있지만<br>
 그때는 세상이 너무 야속하였네<br>
 억눌림과 두려움 속에 자라난<br>
-그 시절, 신입생의 설움이여!<br>
+그 시절, 신입생의 설움이여!<br><br>
+
+<img src="https://i.imgur.com/KgqNv8R.jpeg" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/XxUcLal.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/cxpbMpf.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3346,7 +3377,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/O07MbPX.jpeg" width=100% title="📷 "><br><br>
 
-노래가 되어 영원히 남았습니다~~<br>
+노래가 되어 영원히 남았습니다~~<br><br>
+
+<img src="https://i.imgur.com/caanxJA.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/kZeoGnB.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/jL9S9dP.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -3384,7 +3419,11 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 웃어야 할지, 울어야 할지<br><br>
 
 그저 어리버리한 <br>
-신입생의 팔자였다오~~<br>
+신입생의 팔자였다오~~<br><br>
+
+<img src="https://i.imgur.com/5K0HpMm.png" width=100% title="📷 "><br><br>
+
+<img src="https://i.imgur.com/2Q6dGis.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/iSILGzE.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'>
@@ -3458,7 +3497,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 그때로 달려가리..<br><br>
 
 그 시절, 우리의 교실!<br>
-영원히 기억될, 빛나는 젊음이었어라~~<br>
+영원히 기억될, 빛나는 젊음이었어라~~<br><br>
+
+<img src="https://i.imgur.com/YQ3NtWq.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/I05si7x.jpeg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='#EB4E8D'><b>청룡과 백호, 다정한 맞수 상농전</b></font><br><br>
@@ -3662,7 +3703,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/3RNlH1D.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/2DAA5sx.png" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/NThi4yU.png" width=100% title="📷 "><br><br>
 
 <img src="https://i.imgur.com/YGsRND1.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
@@ -3784,7 +3825,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/qltxLIo.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/H3ZuU50.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/4h1fwEj.png" width=100% title="📷 "><br><br>
 
 <img src="https://i.imgur.com/jaVXR5T.jpeg" width=100% title="📷 "><br><br>
 
