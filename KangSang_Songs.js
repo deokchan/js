@@ -3109,9 +3109,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/wSTS7RR.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/2JMSnkt.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/iH6Q3lw.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/FqnQN0e.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/1oUaOP7.jpeg" width=100% title="📷 "><br><br>
 
 <img src="https://i.imgur.com/LbWLp4G.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
