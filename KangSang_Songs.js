@@ -3600,7 +3600,12 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/cBXWy3y.png" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/Wqj8gKE.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/Wqj8gKE.jpeg" width=100% title="📷 "><br><br>
+
+날 부를 때<br><br>
+
+"떡차~니 이누무시키!"라고 부르시던 얼굴 왼쪽에 칼자국(?) 흉터가 있는 <br>
+영어 깡패 선생님! 
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/DEkUB7q.jpeg') repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>상농전, 그 푸른 붉은 물결</b></font><br><br>
@@ -3679,7 +3684,7 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 상.농.전! 영.원.하.라!<br>
 케이씨에치! 키케이 키케이! <br>
-케이씨에치! 키케이 키케이!<br><br></font>
+케이씨에치! 키케이 키케이!<br><br>
 
 <img src="https://i.imgur.com/BFjpraT.png" width=100% title="📷 "><br><br>
 
@@ -3687,7 +3692,24 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/1vO0HtV.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/c6ws84N.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/c6ws84N.jpeg" width=100% title="📷 "><br><br>
+
+작문 시험 시간에 시험지에 제목과 학년, 반, 이름을 쓰고<br><br>
+
+"우리는.."이라고 시작하는 'ㅇ'을 쓰는 순간에 이건 아니다 싶어서 눈을 지그시 감고 구상에 너무 심취하다 보니 그만 잠이 들었고,<br><br>
+
+웅성거리는 소리에 퍼뜩 잠에서 깨어났고, 시험 시간은 끝났고, 시험지에는 '동글뱅이' 하나만 덩그러니...<br><br>
+
+정말로 본의 아니게 시험지를 백지로 제출한 꼴이 되고 말았습니다.<br><br>
+
+그래서 다음 국어 시간에 "전교에서 백지는 너 하나뿐이다. 지금 반항하는 거냐?"라며 앞으로 나와서 칠판에 손을 얹어놓으라 하신 뒤에<br><br>
+
+봉걸레 자루로 50대 이상의 빠따를 치셨던 국어 선생님!<br><br><br>
+
+
+평상시에도 '한자 쓰기' 몇 번을 정해주시는 것이 아니라 "알아서 많이 써 올수록 좋은 것"이라는 이상한 숙제를 안 해가서<br><br>
+
+지시봉으로 손바닥 많이 맞았습니다~~~ ㅋ;; </font>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/uWnZo/btsOxg1doCo/QyzvW4T03Y9tCyotueEjlK/img.png') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>청룡과 백호의 날, 상농전</b></font><br><br>
@@ -3791,7 +3813,20 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/bbq1Ghx.jpeg" width=100% title="📷 "><br><br>
 
-<img src="https://i.imgur.com/BnPrCbp.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/BnPrCbp.jpeg" width=100% title="📷 "><br><br>
+
+보충수업 7, 8교시에 어느 놈이 땡땡이쳤는지 복도에서 눈 위에 한 손을 얹은 채 교실 창문 안을 들여다보실 때에<br><br>
+
+"분명히 저는 여기에 있습니다"라는 식으로 날 보란 듯이 선생님 쪽을 향하여 얼굴을 주~욱 내밀었고,<br><br>
+
+그러다가 눈길이 마주치면 슬그머니 피하시던 선생님의 모습이 생각납니다~~ ㅎㅎ<br><br><br>
+
+
+만취 상태로 학교 방문을 했던 우리 외삼촌을 보고 혀를 내두르셨고,<br><br>
+
+5교시 끝난 청소 시간에 매일 '외곽 청소'랍시고 밖으로 나가서 축구부 연습을 구경하고 있노라면<br><br>
+
+살그머니 다가와서 지휘봉으로 나의 종아리를 때리시던 순진(?)하신 우리 담임 선생님!
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/bUJp7E/btsOynE6F2y/UOFyIzW0tYRK5jmgiXHqj0/img.jpg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font color='blue'><b>강릉 단오제 고교축구 라이벌 상농전</b></font><br><br>
