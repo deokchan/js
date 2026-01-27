@@ -5,14 +5,14 @@ odi = [
 "https://cdn1.suno.ai/9e89c24f-5add-4c60-884f-8779362bdcd7.mp3|1[잉태 기쁨] 파랑이의 노래 (신스 멜로디)_W02|",
 "https://cdn1.suno.ai/45e853e5-2238-4ed4-a938-123ca8cfd735.mp3|2[잉태 기쁨] 파랑이의 꿈 (케이팝)_M01|",
 "https://cdn1.suno.ai/68db7f93-dd78-43ee-851e-074cd15fdfed.mp3|3[잉태 기쁨] 파랑이의 노래 (신스 멜로디)_W01|",
-"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이의 소중한 여정 (선히)|",
-"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|2[태담 희망] 하늘과 바다의 선물 (현수)|",
-"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|3[태담 희망] 파랑이와 하늘의 선물 (서현)|",
+"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이의 소중한 여정 (선히 버전)|",
+"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|2[태담 희망] 하늘과 바다의 선물 (현수 버전)|",
+"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|3[태담 희망] 파랑이와 하늘의 선물 (서현 버전)|",
 "https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|4[태담 희망] 파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)|",
-"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|5[태담 희망] 파랑이와 세상 탐험 (봉진)|",
-"https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|6[태담 희망] 파랑이의 소중한 여정 (인준)|",
-"https://blog.kakaocdn.net/dn/Ceo4d/btsM98YzPlV/aIBqypbgKkmqu83G90tME0/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%84%9C%ED%98%84.mp3?attach=2&knm=tfile.mp3|7[태담 희망] 하늘과 바다의 선물 (서현)|",
-"https://blog.kakaocdn.net/dn/6EKii/btsNbqQWTwU/qRNp7c1EBroFB7Gie4eWKk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%88%9C%EB%B3%B5.mp3?attach=2&knm=tfile.mp3|8[태담 희망] 파랑이와 하늘의 선물 (서현)|",
+"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|5[태담 희망] 파랑이와 세상 탐험 (봉진 버전)|",
+"https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|6[태담 희망] 파랑이의 소중한 여정 (인준 버전)|",
+"https://blog.kakaocdn.net/dn/Ceo4d/btsM98YzPlV/aIBqypbgKkmqu83G90tME0/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%84%9C%ED%98%84.mp3?attach=2&knm=tfile.mp3|7[태담 희망] 하늘과 바다의 선물 (서현 버전)|",
+"https://blog.kakaocdn.net/dn/6EKii/btsNbqQWTwU/qRNp7c1EBroFB7Gie4eWKk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%88%9C%EB%B3%B5.mp3?attach=2&knm=tfile.mp3|8[태담 희망] 파랑이와 하늘의 선물 (서현 버전)|",
 "https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|0[건강 만남] 파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion|",
 "https://cdn1.suno.ai/a34ccdcd-d150-4a35-aa91-cca443e089b9.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 (레몬 트리 분위기)_M01|",
 "https://cdn1.suno.ai/53816af0-7e6d-4da9-936a-1cf950313619.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 (어쿠스틱 기타)_WM01|",
@@ -36,7 +36,7 @@ odi = [
 "https://blog.kakaocdn.net/dn/bWmAHr/btsNUB5W5CV/IK84tS3rAcxbsRTZcBlTAk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%ED%83%84%EC%83%9D%EC%9D%84%20%EC%B6%95%ED%95%98%29_WM21_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|7[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (탄생을 축하)_WM21_GPT_FUZZ-1.0|",
 "https://blog.kakaocdn.net/dn/vk2Y2/btsNR3hG4pM/lmiHTOJaTckKhPskiGXY10/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EA%B8%B0%EC%81%A8%EA%B3%BC%20%EC%B6%95%EB%B3%B5%29_WM22_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|9[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (기쁨과 축복)_WM22_GPT_FUZZ-1.0|",
 "https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|0[탄생 파랑] 나레이션 : 할아버지 할머니의 사랑을, 파랑에게 (손자의 축복, 발라드)_WM34_GPT_Suno4.5|",
-"https://cdn1.suno.ai/5ded02ea-7b73-47d8-a575-fddafaa2d398.mp3|5[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (성장하는 가족의 행복을 축하 85 BPM)_MW32|",
+"https://cdn1.suno.ai/5ded02ea-7b73-47d8-a575-fddafaa2d398.mp3|5[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (성장 가족의 행복을 축하 85 BPM)_MW32|",
 "https://cdn1.suno.ai/851344a2-c452-4f3c-b316-138ce71f5baf.mp3|5[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (손주를 향한 깊은 사랑과 축복, 발라드 70BPM)_MW31|",
 "https://cdn1.suno.ai/cc163dad-2899-4b7b-bd81-aa786a4e202f.mp3|7[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (감사,세대 간의 사랑,유산,희망 발라드)_WM31|",
 "https://cdn1.suno.ai/ca983edc-2eaa-4cb0-91fc-3cf516d404fb.mp3|7[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (감사,세대 간의 사랑,유산,희망 발라드)_WM32|",
@@ -59,9 +59,9 @@ odi = [
 "https://cdn1.suno.ai/8e1160e9-e3f0-4d65-b991-13fe3b6e81da.mp3|1[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (자애로운 목소리의 할머니)_W07|",
 "https://cdn1.suno.ai/1a463b68-bdab-40e7-808a-8a639370fa23.mp3|1[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (행진곡 금관악기 영웅적 축제적)_M10|",
 "https://cdn1.suno.ai/fc929b1f-f8b9-4560-a50d-be77032b3028.mp3|1[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (활기찬 분위기)_W04|",
-"https://cdn1.suno.ai/b634db3e-1203-49c8-81a4-afee051e540b.mp3|2[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (새로운 이름,새로운 세상)_W02|",
+"https://cdn1.suno.ai/b634db3e-1203-49c8-81a4-afee051e540b.mp3|2[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (새로운 이름, 새로운 세상)_W02|",
 "https://cdn1.suno.ai/d48e54e6-9b4f-49aa-846b-ca0ce243a966.mp3|2[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (아이들의 자유로운 영혼)_W10|",
-"https://cdn1.suno.ai/4e51edb6-c71b-4596-a260-9ff45a262f91.mp3|3[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (새로운 이름,새로운 세상, 휘파람)_W01|",
+"https://cdn1.suno.ai/4e51edb6-c71b-4596-a260-9ff45a262f91.mp3|3[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (새로운 이름, 새로운 세상, 휘파람)_W01|",
 "https://cdn1.suno.ai/d88e7e85-b6b8-4563-9281-5b385ddd86d1.mp3|5[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (사랑과 희망, 기쁨)_W06|",
 "https://cdn1.suno.ai/5c155d85-6794-4851-8bf3-855007d20c18.mp3|5[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (행진곡, 희망찬 새로운 미래)_W08|",
 "https://cdn1.suno.ai/345523a8-e150-41a3-bd32-6f440fc0265c.mp3|5[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (활기찬 분위기)_W03|",
@@ -110,7 +110,7 @@ odi = [
 "https://cdn1.suno.ai/8dc74b78-c73c-4b70-86a7-5048a63ad8e5.mp3|4[작명 축복] 이 세상 이름, 로운에게 (바이올린 신스팝)_W21|",
 "https://cdn1.suno.ai/792d302c-d14c-44ca-a8a7-bef52ec5debb.mp3|5[작명 축복] 이 세상 이름, 로운에게 (작명식에 어울리는 서정적이고 애정 넘치는 분위기)_W01|",
 "https://cdn1.suno.ai/943d93be-04d8-437d-86cf-c3f3652d6238.mp3|9[작명 축복] 이 세상 이름, 로운에게 (펑키한 바이올린, 피아노, 펑키 재즈풍의 분위기)_W20|",
-"https://cdn1.suno.ai/f58815dd-bd04-466f-9d91-79b99040d673.mp3|0[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 행진곡 금관악기 영웅적 축제적)_M04|",
+"https://cdn1.suno.ai/f58815dd-bd04-466f-9d91-79b99040d673.mp3|0[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 행진곡 금관악기 영웅적 축제적)_M04|235",
 "https://cdn1.suno.ai/2e509f2e-2585-4634-9e8d-a324f9543075.mp3|1[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 오케스트라 반주가 어우러진 행진곡)_M05|",
 "https://cdn1.suno.ai/d2468781-eef6-4269-a8e3-d6cf1b31478a.mp3|1[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 오케스트라 반주가 어우러진 행진곡)_MW01|",
 "https://cdn1.suno.ai/d0d3d651-ae33-462a-a3cd-dfb06d73ab4b.mp3|2[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 가벼운 발걸음으로 트레킹을 떠나는 듯한 기분)_MW02|",
@@ -1665,7 +1665,7 @@ song = [
 파랑아, 사랑해  <br>
 언제까지나, 영원토록..<br>
 </td></tr></table>`,
-`<table style='BACKGROUND:#ccffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#fce4ec url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt01_2'>
 <P class='mid'><font style="display:none"><b>파랑이의 노래</b></font><br>
 
 하늘빛의 선물로 온 너, 작은 파랑아<br>
@@ -1903,7 +1903,7 @@ song = [
 
 파랑이는 엄마 품속에서 자라며, 사랑과 행복의 멜로디로 가득한 세상을 꿈꾸었단다.<br><br>
 
-<img src="https://i.imgur.com/kSimRjO.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/Fpub0Af.png" width=100% title="📷 "><br><br><br>
 
 
 시간이 흘러 어느날, 엄마는 파랑이에게 이렇게 말했어. <br><br>
@@ -1948,7 +1948,7 @@ song = [
 
 <img src="https://i.imgur.com/I3b5o2N.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
-`<table style='BACKGROUND:#ccffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#82eafa url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>파랑이의 소중한 여정</b></font><br>
 
 아주 오랜 옛날, 하늘과 바다는 특별한 약속을 나누었어요. <br><br>
@@ -1960,7 +1960,7 @@ song = [
 
 "좋아, 우리의 모든 마음을 담아 특별한 존재를 만들자."<br><br>
 
-<img src="https://i.imgur.com/AZRb9eG.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/xlnBjVI.png" width=100% title="📷 "><br><br><br>
 
 
 그리고 그 순간, 파란빛으로 빛나는 작은 별이 하늘에서 내려왔어요. <br><br>
@@ -1972,7 +1972,7 @@ song = [
 "파랑아, 넌 우리의 희망과 사랑을 품고 있어. 넌 세상에 무한한 기쁨과 따뜻함을 줄 존재란다," <br>
 하늘과 바다가 말했어요.<br><br>
 
-<img src="https://i.imgur.com/POAeaQ8.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/Lzj74no.png" width=100% title="📷 "><br><br><br>
 
 
 파랑이는 점점 세상으로 내려가 엄마와 아빠를 만나게 되었어요. <br><br>
@@ -2018,7 +2018,7 @@ song = [
 
 그 씨앗은 세상을 따뜻하게 품어줄 아기였어요.<br><br>
 
-<img src="https://i.imgur.com/Gph4cd1.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/wlrUMVV.png" width=100% title="📷 "><br><br><br>
 
 
 "아가야, <br>
