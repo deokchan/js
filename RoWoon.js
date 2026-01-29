@@ -1,12 +1,12 @@
 ﻿const title0 = "로운이를 위한 태담과 노래"
 
 odi = [
-"https://cdn1.suno.ai/6723d32e-109c-462a-8363-ee000a733f79.mp3|0[잉태 기쁨] 파랑이의 꿈 (케이팝)_W01|",
-"https://cdn1.suno.ai/45e853e5-2238-4ed4-a938-123ca8cfd735.mp3|2[잉태 기쁨] 파랑이의 꿈 (케이팝)_M01|",
+"https://cdn1.suno.ai/6723d32e-109c-462a-8363-ee000a733f79.mp3|1[잉태 기쁨] 파랑이의 꿈 (케이팝)_W01|",
+"https://cdn1.suno.ai/45e853e5-2238-4ed4-a938-123ca8cfd735.mp3|0[잉태 기쁨] 파랑이의 꿈 (케이팝)_M01|",
 "https://cdn1.suno.ai/9e89c24f-5add-4c60-884f-8779362bdcd7.mp3|1[잉태 기쁨] 파랑이의 노래 (신스 멜로디)_W02|",
-"https://cdn1.suno.ai/68db7f93-dd78-43ee-851e-074cd15fdfed.mp3|3[잉태 기쁨] 파랑이의 노래 (신스 멜로디)_W01|",
+"https://cdn1.suno.ai/68db7f93-dd78-43ee-851e-074cd15fdfed.mp3|0[잉태 기쁨] 파랑이의 노래 (신스 멜로디)_W01|",
 "https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이의 소중한 여정 (선히 버전)|",
-"https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|6[태담 희망] 파랑이의 소중한 여정 (인준 버전)|",
+"https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|0[태담 희망] 파랑이의 소중한 여정 (인준 버전)|",
 "https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|2[태담 희망] 하늘과 바다의 선물 (현수 버전)|",
 "https://blog.kakaocdn.net/dn/Ceo4d/btsM98YzPlV/aIBqypbgKkmqu83G90tME0/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%84%9C%ED%98%84.mp3?attach=2&knm=tfile.mp3|7[태담 희망] 하늘과 바다의 선물 (서현 버전)|",
 "https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|3[태담 희망] 파랑이와 하늘의 선물 (서현 버전)|",
@@ -14,7 +14,7 @@ odi = [
 "https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|4[태담 희망] 파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)|",
 "https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|5[태담 희망] 파랑이와 세상 탐험 (봉진 버전)|",
 "https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|0[건강 만남] 파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion|",
-"https://cdn1.suno.ai/a34ccdcd-d150-4a35-aa91-cca443e089b9.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 (레몬 트리 분위기)_M01|",
+"https://cdn1.suno.ai/a34ccdcd-d150-4a35-aa91-cca443e089b9.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>('레몬 트리'처럼 설레는 마음)_M01|",
 "https://cdn1.suno.ai/53816af0-7e6d-4da9-936a-1cf950313619.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 (어쿠스틱 기타)_WM01|",
 "https://cdn1.suno.ai/34528615-811e-4be6-bb38-43992d6a8b54.mp3|5[건강 만남] 파랑아, 우리 곁에 올 그날까지 (발라드 70~80 BPM)_M01|",
 "https://cdn1.suno.ai/dbf03e80-4003-424e-926c-52731ab2a20c.mp3|6[건강 만남] 파랑아, 우리 곁에 올 그날까지 (아버지)_M05|",
@@ -1765,7 +1765,7 @@ song = [
 
 <img src="https://i.imgur.com/x9fwNg7.png" width=100% title="📷 엄마 아빠의 품 속에서 빛나는 파랑이의 발">
 </td></tr></table>`,
-`<table style='BACKGROUND:#00ffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#00ffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_4'>
 <P class='mid'><font style="display:none"><b>파랑아, 너는 하늘을 넘어온 작은 기적</b></font><br>
 
 파랑아! 아빠가 오늘 너에게 아주 특별한 이야기를 들려줄게. <br><br>
@@ -1816,7 +1816,7 @@ song = [
 
 <img src="https://i.imgur.com/0r7zTEn.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
-`<table style='BACKGROUND:#33ffcc url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#33ffcc url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_5'>
 <P class='mid'><font style="display:none"><b>파랑이와 세상 탐험</b></font><br>
 
 아빠는 작은 파랑이를 품에 안고 다정하게 속삭였어요. <br><br>
@@ -1857,7 +1857,7 @@ song = [
 
 그리고 네 발걸음마다 새로운 이야기가 시작될 거란다."<br><br>
 
-<img src="https://i.imgur.com/c6AiPDu.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/GvEikGs.png" width=100% title="📷 "><br><br><br>
 
 
 파랑이는 미소를 띠며 아빠에게 더 가까이 다가갔습니다. <br><br>
@@ -1873,9 +1873,9 @@ song = [
 
 파랑이는 아빠의 품에서 편안히 잠이 들었고, 그 순간 아빠는 더없이 행복했답니다.<br><br>
 
-<img src="https://i.imgur.com/3BDaugL.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/lZRhRzO.png" width=100% title="📷 ">
 </td></tr></table>`,
-`<table style='BACKGROUND:#ccffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#ccffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_3'>
 <P class='mid'><font style="display:none"><b>파랑이와 하늘의 선물</b></font><br>
 
 옛날 옛적에, 하늘이 파랗고 바다가 깊은 곳에 아주 특별한 별이 살았단다<br><br>
@@ -2002,7 +2002,7 @@ song = [
 
 <img src="https://i.imgur.com/Zkc5KwG.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
-`<table style='BACKGROUND:#66ffcc url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#66ffcc url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_2'>
 <P class='mid'><font style="display:none"><b>하늘과 바다의 선물</b></font><br>
 
 옛날 아주 먼 옛날, 하늘은 파란 옷을 입고, 바다는 푸른 물결로 춤을 추며 서로를 바라보는 친구였어요. <br><br>
