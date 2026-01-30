@@ -13,16 +13,16 @@ odi = [
 "https://blog.kakaocdn.net/dn/6EKii/btsNbqQWTwU/qRNp7c1EBroFB7Gie4eWKk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%88%9C%EB%B3%B5.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이와 하늘의 선물 (서현 버전)|",
 "https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|0[태담 희망] 파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)|",
 "https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|0[태담 희망] 파랑이와 세상 탐험 (봉진 버전)|",
-"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|0[건강 만남] 파랑아, 우리 곁에 올 그날까지 (여자)_W13_GPT_riffusion|",
+"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|0[건강 만남] 파랑아, 우리 곁에 올 그날까지 ('레몬 트리'처럼 활기차고 즐거운 분위기)_W13_GPT_riffusion|",
 "https://cdn1.suno.ai/a34ccdcd-d150-4a35-aa91-cca443e089b9.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>('레몬 트리'처럼 설레는 마음)_M01|",
 "https://cdn1.suno.ai/53816af0-7e6d-4da9-936a-1cf950313619.mp3|1[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(아기를 기다리는 행복한 마음)_WM01|",
 "https://cdn1.suno.ai/34528615-811e-4be6-bb38-43992d6a8b54.mp3|5[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(감성적인 발라드 70~80 BPM)_M01|",
 "https://cdn1.suno.ai/0d02fbfe-51e6-4768-9b5c-f5d8b41e8575.mp3|5[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(폴킴 스타일, 감성적인 한국 발라드)_M04|",
 "https://cdn1.suno.ai/dbf03e80-4003-424e-926c-52731ab2a20c.mp3|6[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(감성적인 발라드, 아버지 되는 기분)_M05|",
-"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|7[건강 만남] 파랑아, 우리 곁에 올 그날까지 (남자 여자)_MW12_GPT_riffusion|",
+"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|7[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(발라드, 아기를 향한 사랑,희망,기대)_MW12_GPT_riffusion|",
 "https://cdn1.suno.ai/e24ae7c1-a79f-4df8-a105-d23c4edaaf87.mp3|7[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>('레몬 트리'처럼 설레는 마음)_M02|",
 "https://cdn1.suno.ai/3ab61c7c-e9a7-4a64-95b6-a0f47f66295b.mp3|7[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(폴킴 스타일, 감성적인 한국 발라드)_M03|",
-"https://blog.kakaocdn.net/dn/b1zWz4/btsNTBqTTag/uIKwbUDqGLNexrpQBm2bnK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._M11_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|8[건강 만남] 파랑아, 우리 곁에 올 그날까지 (남자)_M11_GPT_riffusion|",
+"https://blog.kakaocdn.net/dn/b1zWz4/btsNTBqTTag/uIKwbUDqGLNexrpQBm2bnK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._M11_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|8[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(발라드, 아버지의 희망과 자부심)_M11_GPT_riffusion|",
 "https://cdn1.suno.ai/7f1a5744-bc46-4051-9553-aac399ca6fc8.mp3|8[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(감성적인 발라드, 아버지 되는 기분)_M06|",
 "https://cdn1.suno.ai/80cd7f3a-d1a9-4da1-b12e-8ae39ed9a0dc.mp3|8[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(감성적인 발라드 70~80 BPM)_M02|",
 "https://cdn1.suno.ai/963687d9-2ddb-4911-8eb7-796b94b11b67.mp3|9[건강 만남] 파랑아, 우리 곁에 올 그날까지 <br>(아기를 기다리는 행복한 마음)_W01|",
@@ -1663,7 +1663,7 @@ song = [
 <img src="https://i.imgur.com/eXq2HeO.jpeg" width=100% title="📷 "><br><br>
 
 파랑아, 사랑해  <br>
-언제까지나, 영원토록..<br>
+언제까지나, 영원토록...<br>
 </td></tr></table>`,
 `<table style='BACKGROUND:#fce4ec url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt01_2'>
 <P class='mid'><font style="display:none"><b>파랑이의 노래</b></font><br>
