@@ -1325,7 +1325,7 @@ song = [
 
 <img src="https://i.imgur.com/HZt3zSk.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
-`<table style='BACKGROUND:#ffffcc repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+`<table style='BACKGROUND:#ffffcc repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt04_4'>
 <P class='mid'><font style="display:none"><b>할아버지 할머니가 보내는 파랑이의 축복</b></font><br>
 
 작은 심장이 두근거려요<br>
