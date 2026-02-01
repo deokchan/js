@@ -333,7 +333,7 @@ song = [
 사랑하는 아들, 고운 며느리!<br>
 오늘 당신들의 생일을 축하합니다~ ☆<br><br>
 
-<img src="https://i.imgur.com/n9Btpdd.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/EWZIw9U.png" width=100% title="📷 "><br><br>
 
 두 사람이 함께 걸어가는 길<br>
 언제나 행복과 웃음 가득하기를..<br><br>
@@ -357,7 +357,7 @@ song = [
 어느새 이렇게 훌쩍 자라<br>
 나의 든든한 버팀목이 되어주었네요.<br><br>
 
-<img src="https://i.imgur.com/5Sz5XI7.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/lVTDnas.png" width=100% title="📷 "><br><br>
 
 생일 축하해요, 나의 소중한 두 사람!<br>
 세상 가장 아름다운 당신들을 위해<br>
@@ -396,7 +396,7 @@ song = [
 다시 한번 생일을 축하하며,<br>
 이 기쁜 날, 오래도록 기억되기를..<br><br>
 
-<img src="https://i.imgur.com/71I7eG3.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/YxmArdL.png" width=100% title="📷 "><br><br>
 
 사랑해요. 나의 아들, 나의 며느리!<br>
 영원히 축복합니다~~~ ☆<br>
@@ -958,7 +958,7 @@ song = [
 로운아, 로운아, <br>
 자꾸만 불러보고 싶구나~<br><br>
 
-<img src="https://i.imgur.com/PP7onNi.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/R4shAhl.png" width=100% title="📷 "><br><br><br>
 
 
 세차게 흐르는 여울처럼 <br>
@@ -994,7 +994,7 @@ song = [
 할아버지 목소리에도, <br>
 할머니 미소 속에도<br><br>
 
-<img src="https://i.imgur.com/T7Aiock.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/kSWdNrd.png" width=100% title="📷 "><br><br>
 
 너의 이름은 기쁨, 너의 이름은 약속<br>
 언제나 이로운 빛으로 <br>
@@ -1034,7 +1034,7 @@ song = [
 로운아, 사랑해<br>
 너의 이름을 마음에 새긴다..<br><br>
 
-<img src="https://i.imgur.com/N23JdQC.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/dtGPA8q.png" width=100% title="📷 "><br><br>
 
 이 세상 어디서든 그 이름으로<br>
 밝게, 건강하게 살아가기를…<br><br>
@@ -1140,7 +1140,7 @@ song = [
 
 슬기로운 마음으로 세상을 품으려무나<br><br>
 
-<img src="https://i.imgur.com/TuiRYDs.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/Zc44taZ.png" width=100% title="📷 "><br><br>
 
 이로운 사랑으로 모두를 감싸며<br><br>
 
@@ -1154,7 +1154,7 @@ song = [
 밤하늘 속 작은 별이 빛을 잃지 않듯<br>
 네 이름 속 희망도 언제나 반짝일 거야<br><br>
 
-<img src="https://i.imgur.com/AV3X5k4.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/WeKtPb3.png" width=100% title="📷 "><br><br>
 
 기쁜 날도, 힘든 날도, 너를 불러줄게<br>
 너의 이름 속에 담긴 사랑을 기억하며<br><br>
@@ -1188,7 +1188,7 @@ song = [
 소중한 너의 빛을 <br>
 영원히 간직하려무나~~~ ☆<br><br></font>
 
-<img src="https://i.imgur.com/W5KSpOj.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/KO29JPb.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/wBbix/btsN1lbKcry/EuTYJsBqFw6IGoAtF8uG6K/img.png') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>할아버지 할머니의 사랑을, 로운에게</b></font><br>
@@ -1273,7 +1273,7 @@ song = [
 로운아, 축복 가득한 너의 길에<br>
 슬기롭고 이로운 빛을 더하려무나<br><br>
 
-<img src="https://i.imgur.com/hnxsfdS.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/JjZEmQA.png" width=100% title="📷 "><br><br>
 
 높은 뜻 펼쳐서 밝게 빛나는<br>
 사랑스러운 아가, 우리 로운아<br><br>
@@ -1318,7 +1318,7 @@ song = [
 밝고 건강하게, 로운아<br>
 사랑 가득하게, 로운아<br><br>
 
-<img src="https://i.imgur.com/prHodpc.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/sX5SYz7.png" width=100% title="📷 "><br><br>
 
 언제나 응원할게<br>
 모든 순간, 너의 모든 날들을..<br><br>
