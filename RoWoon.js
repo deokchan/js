@@ -892,7 +892,7 @@ song = [
 <img src="https://i.imgur.com/9udPFb5.jpeg" width=100% title="📷 "><br>
 </td></tr></table>`,
 `<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/RYT3z/btsN1SzNxf5/FvWnM0omExZiWsUAarjrb0/img.jpg') repeat fixed center top\" cellpadding='2' width=100%><tr valign=middle><td class='lt'>\
-<P class='mid'><font style="display:none"><b>로운에게 보내는 엄마 아빠의 축복</b></font><br>
+<P class='mid2'><font style="display:none"><b>로운에게 보내는 엄마 아빠의 축복</b></font><br>
 
 사랑스러운 우리 아기, 로운아<br>
 건강하게 우리에게 와줘서 고마워<br>
@@ -918,14 +918,14 @@ song = [
 튼튼하고 건강하게 자랄 수 있도록..<br>
 항상 든든하게 너의 곁에 서 있을게<br>
 언제나 사랑으로 너의 모습 바라볼게<br>
-모든 순간, 모든 날이 행복하기를..<br><br>
+모든 순간, 모든 날이 행복하기를...<br><br>
 
 <img src="https://i.imgur.com/K38TMY9.jpeg" width=100% title="📷 "><br><br>
 
 로운이의 미래를 함께 걸을 거야<br>
 희망을 더 크게, 키워줄 거야<br>
 사랑스런 눈빛으로 세상을 보고<br>
-사랑 가득한 마음으로 살 수 있도록..<br><br>
+사랑 가득한 마음으로 살 수 있도록...<br><br>
 
 <img src="https://i.imgur.com/1RPv5KP.jpeg" width=100% title="📷 "><br><br>
 
@@ -1348,13 +1348,13 @@ song = [
 파랑 파랑 우리 아가 파랑이는<br>
 온 세상 축복 속에 태어났어요<br>
 휘경아 경진아 마음껏 펼쳐라<br>
-희망과 사랑으로 가득한 미래를..<br><br>
+희망과 사랑으로 가득한 미래를...<br><br>
 
 <img src="https://i.imgur.com/GjU1AXU.jpeg" width=100% title="📷 "><br><br>
 
 새근새근 잠든 모습이 천사 같아<br>
 아픔 없이 건강하게 자라려무나<br>
-지혜롭고 씩씩한 아이로..<br><br>
+지혜롭고 씩씩한 아이로...<br><br>
 
 <img src="https://i.imgur.com/kgrjKk8.jpeg" width=100% title="📷 "><br><br>
 
@@ -1367,25 +1367,25 @@ song = [
 파랑 파랑 우리 아가 파랑이는<br>
 온 세상 축복 속에 태어났어요<br>
 휘경아 경진아 마음껏 펼쳐라<br>
-희망과 사랑으로 가득한 미래를..<br><br>
+희망과 사랑으로 가득한 미래를...<br><br>
 
 <img src="https://i.imgur.com/mF2tzCM.jpeg" width=100% title="📷 "><br><br>
 
 작은 발걸음 하나하나에<br>
 소중한 추억 만들어가려무나<br>
-함께 노래하고 함께 웃으며..<br><br>
+함께 노래하고 함께 웃으며...<br><br>
 
 <img src="https://i.imgur.com/ZctEmq3.jpeg" width=100% title="📷 "><br><br>
 
 파랑 파랑 우리 아가 파랑이는<br>
 온 세상 축복 속에 태어났어요<br>
 휘경아 경진아 마음껏 펼쳐라<br>
-희망과 사랑으로 가득한 미래를..<br><br>
+희망과 사랑으로 가득한 미래를...<br><br>
 
 <img src="https://i.imgur.com/L3rAcTO.jpeg" width=100% title="📷 "><br><br>
 
 파랑아, 사랑한다<br>
-우리 아가 파랑아, 영원토록..<br><br>
+우리 아가 파랑아, 영원토록...<br><br>
 
 <img src="https://i.imgur.com/zLvWsgv.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
@@ -1433,7 +1433,7 @@ song = [
 서로 아껴주던 그날들을 기억해<br>
 함께한 시간들이 열매를 맺었구나<br>
 이제는 셋이서 더 큰 사랑으로<br>
-더 깊고 큰 행복을 만들어가기를..<br><br>
+더 깊고 큰 행복을 만들어가기를...<br><br>
 
 <img src="https://i.imgur.com/4MpQ4uO.jpeg" width=100% title="📷 "><br><br>
 
@@ -1471,7 +1471,7 @@ song = [
 파랑아, 사랑해..<br>
 언제나 너의 편이 되어줄게<br>
 우리의 마음을 다하여<br>
-너를 응원할게, 영원토록..<br><br>
+너를 응원할게, 영원토록...<br><br>
 
 <img src="https://i.imgur.com/a9I286V.jpeg" width=100% title="📷 "><br><br><br>
 
