@@ -852,13 +852,13 @@ song = [
 로운 로운 우리 아가 로운이는<br>
 온 세상 축복 속에 태어났어요<br>
 휘경아 경진아 마음껏 펼쳐라<br>
-희망과 사랑으로 가득한 미래를..<br><br>
+희망과 사랑으로 가득한 미래를...<br><br>
 
 <img src="https://i.imgur.com/3zCDcyI.jpeg" width=100% title="📷 "><br><br>
 
 새근새근 잠든 모습이 천사 같아<br>
 아픔 없이 건강하게 자라려무나<br>
-지혜롭고 씩씩한 아이로..<br><br>
+지혜롭고 씩씩한 아이로...<br><br>
 
 <img src="https://i.imgur.com/i3i9SFs.jpeg" width=100% title="📷 "><br><br>
 
@@ -871,23 +871,23 @@ song = [
 로운 로운 우리 아가 로운이는<br>
 온 세상 축복 속에 태어났어요<br>
 휘경아 경진아 마음껏 펼쳐라<br>
-희망과 사랑으로 가득한 미래를..<br><br>
+희망과 사랑으로 가득한 미래를...<br><br>
 
 작은 발걸음 하나하나에<br>
 소중한 추억 만들어가려무나<br>
-함께 노래하고 함께 웃으며..<br><br>
+함께 노래하고 함께 웃으며...<br><br>
 
 <img src="https://i.imgur.com/1iprl1v.jpeg" width=100% title="📷 "><br><br>
 
 로운 로운 우리 아가 로운이는<br>
 온 세상 축복 속에 태어났어요<br>
 휘경아 경진아 마음껏 펼쳐라<br>
-희망과 사랑으로 가득한 미래를..<br><br>
+희망과 사랑으로 가득한 미래를...<br><br>
 
 <img src="https://i.imgur.com/iT44NA2.jpeg" width=100% title="📷 "><br><br>
 
 로운아, 사랑한다<br>
-우리 아가 로운아, 영원토록..<br><br>
+우리 아가 로운아, 영원토록...<br><br>
 
 <img src="https://i.imgur.com/9udPFb5.jpeg" width=100% title="📷 "><br>
 </td></tr></table>`,
@@ -915,7 +915,7 @@ song = [
 
 <img src="https://i.imgur.com/FzMnmM7.jpeg" width=100% title="📷 "><br><br>
 
-튼튼하고 건강하게 자랄 수 있도록..<br>
+튼튼하고 건강하게 자랄 수 있도록<br>
 항상 든든하게 너의 곁에 서 있을게<br>
 언제나 사랑으로 너의 모습 바라볼게<br>
 모든 순간, 모든 날이 행복하기를...<br><br>
@@ -1159,7 +1159,7 @@ song = [
 기쁜 날도, 힘든 날도, 너를 불러줄게<br>
 너의 이름 속에 담긴 사랑을 기억하며<br><br>
 
-<img src="https://i.imgur.com/3h24JUD.jpeg" width=100% title="📷 "><br><br><br>
+<img src="https://i.imgur.com/x66Kvon.png" width=100% title="📷 "><br><br><br>
 
 
 로운아, 빛나라~ 밝은 별처럼..<br>
@@ -1245,7 +1245,7 @@ song = [
 로운아, 사랑해..<br>
 언제나 너의 편이 되어줄게<br>
 우리의 마음을 다하여 너를 응원할게, <br>
-언제까지나 영원토록..<br><br>
+언제까지나 영원토록...<br><br>
 
 <img src="https://i.imgur.com/k0atV2k.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
@@ -1582,7 +1582,7 @@ song = [
 
 <img src="https://i.imgur.com/lR4M35l.jpeg" width=100% title="📷 "><br><br>
 
-튼튼하고 건강하게 자랄 수 있도록..<br>
+튼튼하고 건강하게 자랄 수 있도록<br>
 항상 든든하게 너의 곁에 서 있을게<br>
 언제나 사랑으로 너의 모습 바라볼게<br>
 모든 순간, 모든 날이 행복하기를..<br><br>
