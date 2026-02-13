@@ -1376,7 +1376,7 @@ song = [
 <img src="https://i.imgur.com/sX5SYz7.png" width=100% title="📷 "><br><br>
 
 언제나 응원할게<br>
-모든 순간, 너의 모든 날들을..<br><br>
+모든 순간, 너의 모든 날들을...<br><br>
 
 <img src="https://i.imgur.com/HZt3zSk.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
@@ -2119,11 +2119,27 @@ song = [
 const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10'><tr valign=middle width=100%><td>
 <P class='mid'><font color='red'><b>업데이트 내역</b></font><br><br>
 
-<font color='blue'><b></b></font><br>
+<font color='blue'><b></b></font>
+<font color='blue'><b></b></font>
+<font color='blue'><b></b></font>
 
-<font color='blue'><b></b></font><br>
-<font color='blue'><b></b></font><br>
-<font color='blue'><b></b></font><br>
+<font color='blue'><b>2026.02.13 순환 재생 방식으로 변경</b></font><br>
+지금까지 생성된 곡 중에서 최종 286곡을 선정, '생성일자' 순으로 <br>
+'계속 순환' 재생하는 방식으로 변경.<br><br>
+
+(잉태 → 탄생 → 작명 → 백일 순)<br><br>
+
+1순환 25곡 (1~25번) 선호도 0순위<br>
+2순환 25곡 (26~50번) 선호도 1순위<br>
+3순환 19곡 (51~69번) 동요 분위기<br>
+4순환 23곡 (70~92번) 발라드 위주<br>
+5순환 26곡 (93~118번) 기타의 장르<br><br>
+
+번외 11곡 (119~129번) 증조모 생일,<br>
+'울 엄마의 기구했던 생일'<br><br>
+
+기타 미분류 157곡 (130~286번) <br>
+순환 외 나머지 곡 <br><br>
 
 <font color='blue'><b>2025.10.04 (번외) 로운이 증조모님 생일 회상. '울 엄마의 기구했던 생일'</b></font><br>
 로운이 할아버지가 '엄마의 생일'을 회상하는 노래 11곡 생성. <br>
