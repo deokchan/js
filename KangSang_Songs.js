@@ -3238,9 +3238,9 @@ L.M.G. 조총 훈련, 뜀박질에 새빠지고..<br><br>
 
 <img src="https://i.imgur.com/maNn10A.png" width=100% title="📷 ">
 </td></tr></table>`,
-`<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/wLBRHwo.jpeg') repeat fixed center center" cellpadding='80' width=100%><tr valign=middle><td class='lt'>
+`<table class='box' style="BACKGROUND:#ccffff url('https://i.imgur.com/wLBRHwo.jpeg') repeat fixed center center" cellpadding='78' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
-<font color='blue'><b>강릉상고 축구의 전성기</b></font><br><br>
+<font color='blue'><b>강릉상고 축구의 전성기</b> ☆</font><br><br>
 
 우리의 재학 시절은, <br>
 강상 축구의 전성기!<br><br>
