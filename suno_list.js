@@ -446,4 +446,14 @@ const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') re
 <font color='blue'><b></b></font>
 <font color='blue'><b></b></font>
 
+<font color='blue'><b>2026.02.18 깃허브 링크 생성</b></font><br>
+본 html을 github에 업로드.<br><br>
+
+<font color='blue'><b>2026.02.17 재생곡 데이터 가져오기 </b></font><br>
+현재 재생되고 있는 곡에 대하여 가사, 생성일자, 생성 시 프롬프트 등<br>
+관련 곡의 데이터를 실시간으로 가져 오기 (Claude)<br><br>
+
+<font color='blue'><b>2026.02.16 재생 목록 생성</b></font><br>
+suno의 내가 선호하는 playlist에서 로운(손자)의 노래, 발라드, 포크송, 참조 등의 list를<br>
+본 '오디오 플레이어'의 재생 목록으로 만들기 위한 배열 생성 (EXEL)<br>
 </td></tr></table>`
