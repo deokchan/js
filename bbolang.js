@@ -2,56 +2,65 @@
 
 odi = [
 "https://cdn1.suno.ai/ee43791c-f07a-426a-a04e-6a9ee2ad7cfc.mp3|0[잉태 기쁨] 뽈랑이 사랑가 (트롯 스타일)_01W v4.5-all||",
-"https://cdn1.suno.ai/be89a6a5-0958-42a0-b2bf-6eeadcea035b.mp3|0[잉태 기쁨] 뽈랑이의 꿈 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_15MW v4.5-all||",
+"https://cdn1.suno.ai/97b84b4e-4c9c-4ea9-8c89-dac7e968cfbb.mp3|0[잉태 기쁨] 뽈랑이 사랑가 <br>(경기 민요 형식, 굿거리 세마치 리듬)_05W v4.5-all||",
+"https://cdn1.suno.ai/3c5aedae-1da4-435b-9d36-8d6d79a5335f.mp3|0[잉태 기쁨] 뽈랑이 사랑가 <br>(트로트 듀엣의 주고받는 보컬)_04M v4.5-all||",
+"https://cdn1.suno.ai/34114db6-62dc-4016-a82d-06e36115a2f8.mp3|0[잉태 기쁨] 뽈랑이의 꿈 (행진곡, 영웅적 축제적)_09MM v4.5-all||",
 "https://cdn1.suno.ai/259a503a-1b9e-4f64-ac78-26472f4211f8.mp3|0[잉태 기쁨] 뽈랑이의 꿈 <br>(오페라 발라드, 현악기 금관악기)_13WM v4.5-all||",
-"https://cdn1.suno.ai/d0631cb0-a6f8-4beb-aabc-c6a5fb8f1eab.mp3|0[잉태 기쁨] 뽈랑이의 노래 (뽈랑 요들송, 알프스 민요 어린이음악 폴카리듬 140BPM)_18M v4.5-all||",
+"https://cdn1.suno.ai/ef06fb9d-e56a-40e2-b938-3ff2ddd818c9.mp3|0[잉태 기쁨] 뽈랑이의 노래 (뽈랑 요들송, 즐거운 분위기, EDM 130~140 BPM)_16M v4.5-all||",
 "https://cdn1.suno.ai/bf3ddbe8-29ec-41d2-b520-64d755918f57.mp3|0[잉태 기쁨] 뽈랑이의 노래 <br>(7080, 통기타 하모니카 타악기)_02MW v4.5-all||",
 "https://cdn1.suno.ai/681adcfe-85e2-45f2-bf04-21bc526bbca6.mp3|0[잉태 기쁨] 뽈랑이의 노래 <br>(행진곡, 군악대, 팡파르)_09MW v4.5-all||",
+"https://cdn1.suno.ai/5394f3d0-81c5-4ef8-8064-dc9be4845a31.mp3|0[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (7080, 통기타 하모니카 타악기)_08MW v4.5-all||",
+"https://cdn1.suno.ai/d881fc7f-6f12-4aef-8e2f-8376eeb6258d.mp3|0[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(오케스트라, 웅장한 앙상블)_14MW v4.5-all||",
 "https://cdn1.suno.ai/81f411ab-b98e-4b96-aa06-35ef6570c6e5.mp3|0[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(트로트, 역동적인 댄스 비트)_12WM v4.5-all||",
+"https://cdn1.suno.ai/14125451-6cb7-4061-a82d-71029ca36c26.mp3|1[잉태 기쁨] 뽈랑이 사랑가 <br>(트로트 듀엣의 주고받는 보컬)_03M v4.5-all||",
+"https://cdn1.suno.ai/e15a9ae6-16e0-40de-be92-392251d0c100.mp3|1[잉태 기쁨] 뽈랑이 사랑가 <br>(트로트, 역동적인 댄스 비트)_08MW v4.5-all||",
+"https://cdn1.suno.ai/be89a6a5-0958-42a0-b2bf-6eeadcea035b.mp3|1[잉태 기쁨] 뽈랑이의 꿈 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_15MW v4.5-all||",
 "https://cdn1.suno.ai/45b808e7-795f-4e39-a5b9-aa2e01cdc478.mp3|1[잉태 기쁨] 뽈랑이의 꿈 <br>(7080, 통기타 하모니카 타악기)_02MW v4.5-all||",
-"https://cdn1.suno.ai/34114db6-62dc-4016-a82d-06e36115a2f8.mp3|1[잉태 기쁨] 뽈랑이의 꿈 <br>(행진곡 금관악기, 영웅적 축제적)_09MM v4.5-all||",
-"https://cdn1.suno.ai/ef06fb9d-e56a-40e2-b938-3ff2ddd818c9.mp3|1[잉태 기쁨] 뽈랑이의 노래 (뽈랑 요들송, 즐거운 분위기, EDM 130~140 BPM)_16M v4.5-all||",
+"https://cdn1.suno.ai/d0631cb0-a6f8-4beb-aabc-c6a5fb8f1eab.mp3|1[잉태 기쁨] 뽈랑이의 노래 (뽈랑 요들송, 알프스 민요 어린이음악 폴카리듬 140BPM)_18M v4.5-all||",
 "https://cdn1.suno.ai/a46ce5b2-a8c1-4180-9e23-42cfc1057c25.mp3|1[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 120~126 BPM)_11WM v4.5-all||",
+"https://cdn1.suno.ai/039d7577-f7a5-4c19-b3d3-12e76bf7e176.mp3|1[잉태 기쁨] 뽈랑이의 노래 <br>(7080, 통기타 하모니카 타악기)_01MW v4.5-all||",
 "https://cdn1.suno.ai/b1954993-3a14-4e8e-8a8e-8a0ae94c06aa.mp3|1[잉태 기쁨] 뽈랑이의 노래 <br>(트로트 선율, 현대 무용 요소의 조화)_08MW v4.5-all||",
-"https://cdn1.suno.ai/5394f3d0-81c5-4ef8-8064-dc9be4845a31.mp3|1[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (7080, 통기타 하모니카 타악기)_08MW v4.5-all||",
-"https://cdn1.suno.ai/89709ae0-d151-4acd-9b56-0b68c5983c53.mp3|1[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(트로트 선율, 현대 무용 요소의 조화)_10MW v4.5-all||",
+"https://cdn1.suno.ai/795e58c4-318e-4f15-83b2-3e4ac1cfac7f.mp3|1[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (7080, 통기타 하모니카 타악기)_07MW v4.5-all||",
+"https://cdn1.suno.ai/1d2f99a3-f43b-4fe1-89dd-430b02f47797.mp3|1[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(바이올린 독주 오케스트라, 기대)_02M v4.5-all||",
+"https://cdn1.suno.ai/2ecc3ad8-2423-4da4-b305-315968f3bba4.mp3|2[잉태 기쁨] 뽈랑이의 꿈 <br>(동요풍, 갓 태어난 아기 신기함 설렘)_03MW v4.5-all||",
 "https://cdn1.suno.ai/f0cfedc6-a7eb-47cb-ab1a-6d1c049ed90c.mp3|2[잉태 기쁨] 뽈랑이의 꿈 <br>(동요풍, 갓 태어난 아기 신기함 설렘)_04WM v4.5-all||",
 "https://cdn1.suno.ai/86ab578d-3a98-4c80-beaa-2f8908b0517b.mp3|2[잉태 기쁨] 뽈랑이의 노래 (뽈랑 요들송, 알프스 민요 어린이음악 폴카리듬 140BPM)_17M v4.5-all||",
 "https://cdn1.suno.ai/2a425d89-16d9-4132-a46e-0e42428ae019.mp3|2[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (밝고 명랑한 동요, 아기 첫걸음 장난기)_05W v4.5-all||",
+"https://cdn1.suno.ai/81ced993-59dd-4495-8501-7cf17be78485.mp3|2[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (밝고 명랑한 동요, 아기 첫걸음 장난기)_06WM v4.5-all||",
+"https://cdn1.suno.ai/a2d30402-6c0f-4b71-848c-64dfc00ec30f.mp3|3[잉태 기쁨] 뽈랑이 사랑가 <br>(경기 민요 형식, 굿거리 세마치 리듬)_06WM v4.5-all||",
+"https://cdn1.suno.ai/481f0abf-11c2-4181-be25-17a3301e1840.mp3|3[잉태 기쁨] 뽈랑이 사랑가 <br>(한국 전통 발라드, 전통 악기)_09W v4.5-all||",
+"https://cdn1.suno.ai/f7413130-8ad1-4066-86c9-ee7eb4c653a2.mp3|3[잉태 기쁨] 뽈랑이 사랑가 <br>(한국 전통 발라드, 전통 악기)_10W v4.5-all||",
 "https://cdn1.suno.ai/50ca5ee0-50ec-4d5e-b9e0-c1cc0afa6de1.mp3|3[잉태 기쁨] 뽈랑이의 꿈 <br>(바이올린 독주 오케스트라, 기대)_06WM v4.5-all||",
 "https://cdn1.suno.ai/d55c273e-46d7-4b6f-a8e4-44e1f6488403.mp3|3[잉태 기쁨] 뽈랑이의 꿈 <br>(심포닉 EDM 오케스트라 140BPM)_12MW v4.5-all||",
 "https://cdn1.suno.ai/b811b094-0548-409a-8e50-bbefe803e73e.mp3|3[잉태 기쁨] 뽈랑이의 꿈 <br>(오페라 발라드, 현악기 금관악기)_14W v4.5-all||",
 "https://cdn1.suno.ai/d4fb152f-03e8-4d67-9e42-15cbefead6a5.mp3|3[잉태 기쁨] 뽈랑이의 노래 <br>(부드러운 신디사이저 멜로디)_04MW v4.5-all||",
 "https://cdn1.suno.ai/c44a5fa2-3fda-46a3-ba73-110a4aea96b7.mp3|3[잉태 기쁨] 뽈랑이의 노래 <br>(하드록과 댄서블한 그루브 디스코)_06MW v4.5-all||",
 "https://cdn1.suno.ai/8a0176e8-8dce-4238-b066-c73180d5444d.mp3|3[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(바이올린 독주 오케스트라, 기대)_01M v4.5-all||",
-"https://cdn1.suno.ai/1d2f99a3-f43b-4fe1-89dd-430b02f47797.mp3|3[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(바이올린 독주 오케스트라, 기대)_02M v4.5-all||",
 "https://cdn1.suno.ai/f81dc39f-b51c-49e7-a31b-7d8877fd83d3.mp3|3[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(오케스트라, 웅장한 앙상블)_13MW v4.5-all||",
-"https://cdn1.suno.ai/d881fc7f-6f12-4aef-8e2f-8376eeb6258d.mp3|3[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(오케스트라, 웅장한 앙상블)_14MW v4.5-all||",
+"https://cdn1.suno.ai/11fea184-c670-4a33-9cfa-06bfe3d5d891.mp3|4[잉태 기쁨] 뽈랑이 사랑가 <br>(일렉트로 댄스, 신스웨이브, 덥스텝)_11M v4.5-all||",
+"https://cdn1.suno.ai/1b3a21e2-c8fb-4c4e-9b0e-a17f9d6d1f0d.mp3|4[잉태 기쁨] 뽈랑이 사랑가 <br>(일렉트로 댄스, 신스웨이브, 덥스텝)_12M v4.5-all||",
+"https://cdn1.suno.ai/b70922ae-4e94-41e2-9cde-1b352d2a0aa2.mp3|4[잉태 기쁨] 뽈랑이 사랑가 <br>(트로트, 역동적인 댄스 비트)_07MW v4.5-all||",
 "https://cdn1.suno.ai/310a7f52-ef1a-4e92-8d66-c9b08fd98d0a.mp3|4[잉태 기쁨] 뽈랑이의 꿈 (에너지 넘치는 인디)_07MW v4.5-all||",
+"https://cdn1.suno.ai/76d8fdb8-581d-4fef-8b8c-69d8967ca991.mp3|4[잉태 기쁨] 뽈랑이의 꿈 (에너지 넘치는 인디)_08MW v4.5-all||",
+"https://cdn1.suno.ai/80cb9f1c-9759-4d09-9d1f-1443b0eaa37b.mp3|4[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 120~126 BPM)_12M v4.5-all||",
 "https://cdn1.suno.ai/eead8fd7-0f05-4fac-ac01-4adb926a66b3.mp3|4[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 130~140 BPM)_19M v4.5-all||",
-"https://cdn1.suno.ai/29a3ae6d-2741-4475-8f56-38cabc54a101.mp3|4[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 130~140 BPM)_20M v4.5-all||",
+"https://cdn1.suno.ai/b060c8f3-c298-4438-a7fc-3ce742c85d0a.mp3|4[잉태 기쁨] 뽈랑이의 노래 <br>(행진곡, 군악대, 팡파르)_10MW v4.5-all||",
+"https://cdn1.suno.ai/2e32e3fb-b940-4876-8e00-bf5a1429e8f8.mp3|4[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (1980 이탈로 디스코, 신스웨이브 유로댄스)_03M v4.5-all||",
 "https://cdn1.suno.ai/774a9007-d333-4617-a17c-b7d0a2f710f4.mp3|4[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (1980 이탈로 디스코, 신스웨이브 유로댄스)_04M v4.5-all||",
+"https://cdn1.suno.ai/09fb9253-7898-4caf-97d3-c3b1359d86f0.mp3|4[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(트로트 선율, 현대 무용 요소의 조화)_09MW v4.5-all||",
 "https://cdn1.suno.ai/089a4f9a-eb7e-4114-93c1-8c0c9956673d.mp3|4[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(트로트, 역동적인 댄스 비트)_11WM v4.5-all||",
-"https://cdn1.suno.ai/b060c8f3-c298-4438-a7fc-3ce742c85d0a.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(행진곡, 군악대, 팡파르)_10MW v4.5-all||",
-"https://cdn1.suno.ai/80cb9f1c-9759-4d09-9d1f-1443b0eaa37b.mp3|5[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 120~126 BPM)_12M v4.5-all||",
-"https://cdn1.suno.ai/039d7577-f7a5-4c19-b3d3-12e76bf7e176.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(7080, 통기타 하모니카 타악기)_01MW v4.5-all||",
-"https://cdn1.suno.ai/218183ab-3de4-4b1f-8c92-b4ac31235586.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(트로트 선율, 현대 무용 요소의 조화)_07WM v4.5-all||",
-"https://cdn1.suno.ai/795e58c4-318e-4f15-83b2-3e4ac1cfac7f.mp3|5[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (7080, 통기타 하모니카 타악기)_07MW v4.5-all||",
-"https://cdn1.suno.ai/09fb9253-7898-4caf-97d3-c3b1359d86f0.mp3|5[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(트로트 선율, 현대 무용 요소의 조화)_09MW v4.5-all||",
-"https://cdn1.suno.ai/2ecc3ad8-2423-4da4-b305-315968f3bba4.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(동요풍, 갓 태어난 아기 신기함 설렘)_03MW v4.5-all||",
-"https://cdn1.suno.ai/81ced993-59dd-4495-8501-7cf17be78485.mp3|5[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (밝고 명랑한 동요, 아기 첫걸음 장난기)_06WM v4.5-all||",
 "https://cdn1.suno.ai/02924ad0-accc-4539-a8b2-df268d40a57a.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(7080, 통기타 하모니카 타악기)_01MW v4.5-all||",
-"https://cdn1.suno.ai/e613b428-b81e-41fa-ba0f-d8f0561f1e94.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(바이올린 독주 오케스트라, 기대)_05MW v4.5-all||",
-"https://cdn1.suno.ai/bf98ba2d-694e-423d-a22e-b0389851830e.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(심포닉 EDM 오케스트라 140BPM)_11MW v4.5-all||",
-"https://cdn1.suno.ai/a218c1be-3b76-4727-a09d-5b7840a7998e.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(부드러운 신디사이저 멜로디)_03MW v4.5-all||",
-"https://cdn1.suno.ai/76d8fdb8-581d-4fef-8b8c-69d8967ca991.mp3|5[잉태 기쁨] 뽈랑이의 꿈 (에너지 넘치는 인디)_08MW v4.5-all||",
-"https://cdn1.suno.ai/4092c815-9f41-497e-a552-94f5a93000e2.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(하드록과 댄서블한 그루브 디스코)_05MW v4.5-all||",
-"https://cdn1.suno.ai/2e32e3fb-b940-4876-8e00-bf5a1429e8f8.mp3|5[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 (1980 이탈로 디스코, 신스웨이브 유로댄스)_03M v4.5-all||",
-"https://cdn1.suno.ai/98908de8-593f-4a8c-8982-1dd7f79f265e.mp3|5[잉태 기쁨] 뽈랑이의 꿈 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_16MW v4.5-all||",
 "https://cdn1.suno.ai/222dc33b-b4be-40e4-a4f8-56bb962d89fd.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(행진곡 금관악기, 영웅적 축제적)_10MM v4.5-all||",
 "https://cdn1.suno.ai/1331981c-01ab-4829-aafa-02ee5a4bd79b.mp3|5[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 120~126 BPM)_13M v4.5-all||",
 "https://cdn1.suno.ai/cef058d7-0134-4c15-ae9a-5c0935991315.mp3|5[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 120~126 BPM)_14M v4.5-all||",
-"https://cdn1.suno.ai/1875bdd1-e572-4fb9-aec2-afd52ef61cf1.mp3|8[잉태 기쁨] 뽈랑이의 노래 (뽈랑 요들송, 즐거운 분위기, EDM 130~140 BPM)_15M v4.5-all||",
+"https://cdn1.suno.ai/29a3ae6d-2741-4475-8f56-38cabc54a101.mp3|5[잉태 기쁨] 뽈랑이의 노래 (요들송, 감성적 즐거운 분위기, EDM 130~140 BPM)_20M v4.5-all||",
+"https://cdn1.suno.ai/89709ae0-d151-4acd-9b56-0b68c5983c53.mp3|5[건강 기원] 뽈랑아, 우리 곁에 올 그날까지 <br>(트로트 선율, 현대 무용 요소의 조화)_10MW v4.5-all||",
+"https://cdn1.suno.ai/98908de8-593f-4a8c-8982-1dd7f79f265e.mp3|5[잉태 기쁨] 뽈랑이의 꿈 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_16MW v4.5-all||",
+"https://cdn1.suno.ai/e613b428-b81e-41fa-ba0f-d8f0561f1e94.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(바이올린 독주 오케스트라, 기대)_05MW v4.5-all||",
+"https://cdn1.suno.ai/bf98ba2d-694e-423d-a22e-b0389851830e.mp3|5[잉태 기쁨] 뽈랑이의 꿈 <br>(심포닉 EDM 오케스트라 140BPM)_11MW v4.5-all||",
+"https://cdn1.suno.ai/a218c1be-3b76-4727-a09d-5b7840a7998e.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(부드러운 신디사이저 멜로디)_03MW v4.5-all||",
+"https://cdn1.suno.ai/218183ab-3de4-4b1f-8c92-b4ac31235586.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(트로트 선율, 현대 무용 요소의 조화)_07WM v4.5-all||",
+"https://cdn1.suno.ai/4092c815-9f41-497e-a552-94f5a93000e2.mp3|5[잉태 기쁨] 뽈랑이의 노래 <br>(하드록과 댄서블한 그루브 디스코)_05MW v4.5-all||",
 ]
 
 song = [
@@ -1412,7 +1421,7 @@ song = [
 건강하게 웃으며 와줘  <br>
 우린 널 위해 준비돼 있어  <br><br>
 
-<img src="https://i.imgur.com/sOPIUyq.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/HaYg5l4.png" width=100% title="📷 "><br><br>
 
 뽈랑아, 너의 이름 부를 때마다  <br>
 가슴이 벅차 눈물이 흘러  <br>
@@ -1426,7 +1435,7 @@ song = [
 작은 기침, 웃음소리까지도  <br>
 우리의 행복이 돼줄 거야  <br><br>
 
-<img src="https://i.imgur.com/fc8F3W9.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/Hh887zO.png" width=100% title="📷 "><br><br>
 
 뽈랑아, 밤하늘 별들처럼  <br>
 너의 길엔 빛이 가득하길  <br>
@@ -1440,7 +1449,7 @@ song = [
 건강하게 웃으며 와줘  <br>
 우린 널 위해 준비돼 있어  <br><br>
 
-<img src="https://i.imgur.com/eXq2HeO.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/UrwZVRl.jpeg" width=100% title="📷 "><br><br>
 
 뽈랑아, 사랑해  <br>
 언제까지나, 영원토록...<br>
@@ -1453,14 +1462,14 @@ song = [
 우리 마음속에 별처럼 빛나는  <br>
 뽈랑이, 넌 우리의 희망  <br><br>
 
-<img src="https://i.imgur.com/Pg3K0iC.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/i90yonk.png" width=100% title="📷 "><br><br>
 
 뽈랑아, 넌 세상을 밝혀 주는 빛  <br>
 우리 가슴속에 영원한 기쁨  <br>
 파란 하늘처럼, 깊은 바다처럼  <br>
 뽈랑아, 넌 사랑으로 자랄 거야  <br><br>
 
-<img src="https://i.imgur.com/Zu54hF6.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/JmEsxH9.jpeg" width=100% title="📷 "><br><br>
 
 작은 손, 작은 발로 세상을 만나  <br>
 희망의 노래를 부를 아가야  <br>
@@ -1474,21 +1483,21 @@ song = [
 너와 함께할 모든 날이  <br>
 기적 같은 순간, 특별한 선물  <br><br>
 
-<img src="https://i.imgur.com/gdBXqxp.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/ILBvC4R.jpeg" width=100% title="📷 "><br><br>
 
 뽈랑아, 넌 세상을 밝혀 주는 빛  <br>
 우리 가슴속에 영원한 기쁨  <br>
 파란 하늘처럼, 깊은 바다처럼  <br>
 뽈랑아, 넌 사랑으로 자랄 거야  <br><br>
 
-<img src="https://i.imgur.com/JrunL0C.jpeg" width=100% title="📷 "><br><br>
+<img src="https://i.imgur.com/PkfJDkN.jpeg" width=100% title="📷 "><br><br>
 
 뽈랑아, 넌 우리의 소망  <br>
 너와 함께 그리는 하루하루  <br>
 사랑으로 가득 채워진 이 세상에서  <br>
 뽈랑아, 넌 언제나 빛날 거야 <br><br>
 
-<img src="https://i.imgur.com/2aOxcEh.jpeg" width=100% title="📷 ">
+<img src="https://i.imgur.com/CwmQ8rB.jpeg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table style='BACKGROUND:#F6FBFF url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt01_1'> <!--  class='lt01_1' #33ffff #F0F4FF (매우 연한 하늘색) #FFF9F0 (연한 아이보리) #F3E5F5 라벤더//-->
 <P class='mid'><font style="display:none"><b>뽈랑이의 꿈</b></font><br>
@@ -1496,7 +1505,7 @@ song = [
 별이 내려와 속삭인 밤, <br>
 뽈랑이의 시작  <br><br>
 
-<img src="https://i.imgur.com/oGLrlXN.png" width=100% title="📷 별이 내려오는.."><br><br>
+<img src="https://i.imgur.com/nlI09ew.png" width=100% title="📷 별이 내려오는.."><br><br>
 
 작은 손으로 세상을 안아줄 너  <br>
 하늘의 깊은 빛, 바다의 푸른 물결  <br>
@@ -1848,66 +1857,28 @@ const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') re
 <font color='blue'><b></b></font>
 <font color='blue'><b></b></font>
 
-<font color='blue'><b>2026.02.13 순환 재생 방식으로 변경</b></font><br>
-지금까지 생성된 곡 중에서 최종 286곡을 선정, '생성일자' 순으로 <br>
-'계속 순환' 재생하는 방식으로 변경.<br><br>
+<font color='blue'><b>2026.02.26 재생 목록 생성</b></font><br>
+지금까지 생성된 60곡을 '계속 순환' 재생하는 방식.<br><br>
 
-(잉태 → 탄생 → 작명 → 백일 순)<br><br>
+1순환 11곡 (1~11번) 선호도 0순위<br>
+2순환 10곡 (12~21번) 선호도 1순위<br>
+3순환 5곡 (22~26번) 동요 분위기<br>
+4순환 10곡 (27~36번) 발라드 위주<br>
+5순환 12곡 (37~48번) 댄스풍 위주<br><br>
 
-1순환 25곡 (1~25번) 선호도 0순위<br>
-2순환 25곡 (26~50번) 선호도 1순위<br>
-3순환 19곡 (51~69번) 동요 분위기<br>
-4순환 23곡 (70~92번) 발라드 위주<br>
-5순환 26곡 (93~118번) 기타의 장르<br><br>
-
-번외 11곡 (119~129번) 증조모 생일,<br>
-'울 엄마의 기구했던 생일'<br><br>
-
-기타 미분류 157곡 (130~286번) <br>
+기타 미분류 12곡 (49~60번) <br>
 순환 외 나머지 곡 <br><br>
 
-<font color='blue'><b>2025.10.04 (번외) 로운이 증조모님 생일 회상. '울 엄마의 기구했던 생일'</b></font><br>
-로운이 할아버지가 '엄마의 생일'을 회상하는 노래 11곡 생성. <br>
-여기에는 11곡 전곡 수록<br><br>
+<font color='blue'><b>2026.02.25 </b></font><br>
+'뽈랑이 사랑가' 생성<br><br>
 
-<font color='blue'><b>2025.09.10 결혼 4주년 기념일 축하</b></font><br>
-로운이 아빠 (9/13), 엄마 (9/15)의 생일 동시 축하 노래 (영구 버전)<br><br>
+<font color='blue'><b>2026.02.22 건강한 만남(출산) 기원</b></font><br>
+"뽈랑아, 우리 곁에 올 그날까지" 생성<br>
+본 '오디오 플레이어' html 작성.<br><br>
 
-'당신들의 생일을 축하합니다' <br>
-8곡 생성, 여기에는 6곡 수록<br><br>
+<font color='blue'><b>2026.02.21</b></font><br>
+'뽈랑이의 노래' 생성<br><br>
 
-<font color='blue'><b>2025.09.09 결혼 4주년 기념일 축하</b></font><br>
-로운이 엄마 아빠의 결혼기념일 (9/11) 4주년 (혁혼식) 축하 노래<br><br>
-
-'로운이와 함께 하는 결혼 4주년 축하해!' 16곡 생성, 여기에는 10곡 수록<br><br>
-
-<font color='blue'><b>2025.08.23 탄생 百日 축하 및 축복</b></font><br>
-'百日 축하'에 관한 노래 3가지 가사에 노래 다수 생성. <br>
-여기에는 가사 3 x 5세트 = 15곡 수록<br><br>
-
-<font color='blue'><b>2025.06.12 작명 축복</b></font><br>
-'작명 축복'에 관한 노래 4가지 가사에 노래 다수 생성. <br>
-여기에는 가사 4 x 6세트 = 24곡 수록<br><br>
-
-<font color='blue'><b>2025.06.02 탄생 축하 및 축복(로운)</b></font><br>
-기존의 '아기 탄생 축복' 노래에 태명 '뽈랑'에서 세상 이름 '로운'으로 개사.<br>
-여기에는 가사 3 x 3세트 = 9곡 수록.<br><br>
-
-<font color='blue'><b>2025.05.14 탄생 축하 및 축복(뽈랑)</b></font><br>
-'아기 탄생'을 축하하고 축복을 보내는 노래 3가지 가사에 노래 다수 생성. <br>
-여기에는 가사 3 x 3세트 = 9곡 수록.<br><br>
-
-<font color='blue'><b>2025.04.08 건강한 만남 기원</b></font><br>
-건강한 만남 (출산)을 기원하는 노래 <br><br>
-
-"뽈랑아, 우리 곁에 올 그날까지.."<br>
-10곡 생성, 여기에는 3곡만 수록.<br><br>
-
-본 '오디오(MP3) 플레이어' 제작.<br><br>
-
-<font color='blue'><b>2025.04.02 난생처음 만든 노래</b></font><br>
-(잉태의 기쁨, 희망, 소망)<br><br>
-
-노래: 가사 2 x 2세트 = 4곡 생성,<br>
-태담: 5건 x 2 (여기에는 5건만 수록). <br>
+<font color='blue'><b>2026.02.20 잉태의 기쁨 희망 소망</b></font><br>
+'뽈랑이의 꿈' 생성 완료<br>
 </td></tr></table>`
