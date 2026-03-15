@@ -430,6 +430,9 @@ const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') re
 <font color='blue'><b></b></font>
 <font color='blue'><b></b></font>
 
+<font color='blue'><b>2026.03.16 다중 프록시 적용</b></font><br>
+"원문 source 가져오기" 1차 실패 시에도 다중 프록시(세 가지)를 적용하여 성공률 향상<br><br>
+
 <font color='blue'><b>2026.02.25 재생 목록 저장</b></font><br>
 현재 재생 중인 '재생 목록(배열) 과 재생 곡'을 저장하여 다음 접속 시 해당 곡부터 재생<br><br>
 
