@@ -1,101 +1,83 @@
-﻿const title0 = "로운이를 위한 태담과 노래"
+﻿const title0 = "로운이의 어린이집 등원송s"
 
 odi = [
-"https://cdn1.suno.ai/1f8fc36e-0154-429a-a09f-e0318196d46b.mp3|1*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_WM02 v4.5-all||",
-"https://cdn1.suno.ai/7c471ef5-1f51-450c-9442-eb3984979699.mp3|1*[어린이집] 로운이의 즐거운 하루 (경쾌한 피치카토 현악기, 실로폰, 밝은 우쿨렐레)_W08 v4.5-all||",
-"https://cdn1.suno.ai/cbcbcef4-22de-4740-b020-f3e75151319a.mp3|10[어린이집] 로운이의 즐거운 하루 (댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4 킥 드럼)_W15 v4.5-all||",
-"https://cdn1.suno.ai/6b30743a-9087-4789-b419-58f54ad9e048.mp3|10[어린이집] 로운이의 즐거운 하루 (댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4 킥 드럼)_W16 v4.5-all||",
-"https://cdn1.suno.ai/4cf54be3-4c6e-4b63-98e6-ab4df5a0bdff.mp3|10[어린이집] 로운이의 어린이집 모험 (하드록과 댄서블한 그루브 디스코 스타일)_W08 v4.5-all||",
-"https://cdn1.suno.ai/69a4083f-1741-4936-865d-69194b1b6126.mp3|10[어린이집] 로운이의 어린이집 모험 (하드록과 댄서블한 그루브 디스코 스타일)_W09 v4.5-all||",
-"https://cdn1.suno.ai/c5e26e90-3995-4384-9848-504ce7107123.mp3|1*[어린이집] 로운이의 어린이집 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W06 v4.5-all||",
-"https://cdn1.suno.ai/179f56a6-e817-4df1-940f-ab0ca0693ba8.mp3|1*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M04 v4.5-all||",
-"https://cdn1.suno.ai/bdd9981a-9ba4-49a4-a928-6feec9972837.mp3|10[어린이집] 로운이의 어린이집 뽀짝 모험 (봄 들판을 뛰어다니는 아이처럼 즐겁고 활기찬, 함께 손뼉을 칠 수 있는 신나는)_W14 v4.5-all||",
-"https://cdn1.suno.ai/22326139-23e0-446e-9c53-78ab456759d0.mp3|10[어린이집] 로운이의 어린이집 뽀짝 모험 (봄 들판을 뛰어다니는 아이처럼 즐겁고 활기찬, 함께 손뼉을 칠 수 있는 신나는)_W15 v4.5-all||",
-"https://cdn1.suno.ai/8f0e74bd-f2f4-4b27-bc6d-5cc724283278.mp3|1*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 자장가, 오르골 첼레스타 글로켄슈필)_W06 v4.5-all||",
-"https://cdn1.suno.ai/1bc504b0-e68a-464b-bf66-1db81fc2cc78.mp3|1*[어린이집] 로운이, 열 달의 기적 (감성 버전: 가족 자장가처럼 부드럽고 사랑스러운)_WM02 v4.5-all||",
-"https://cdn1.suno.ai/c16fdaa2-a885-4986-a4c5-2a3e6e5b6012.mp3|1*[어린이집] 로운이, 열 달의 기적 (감성 버전: 한국 전통 사극 발라드, 오케스트라)_W08 v4.5-all||",
-"https://cdn1.suno.ai/e1d4dc32-5c47-421b-9389-6993e46c15a3.mp3|1*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W09 v4.5-all||",
-"https://cdn1.suno.ai/85c1ab15-52b1-4204-b349-75fac9646e72.mp3|20[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_WM05 v4.5-all||",
-"https://cdn1.suno.ai/aa0b254f-813a-45de-a222-b1322c921508.mp3|2*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 포트송의 어쿠스틱 동요, 포근한 가족적인 분위기, 진심이 담긴 감성)_WM04 v4.5-all||",
-"https://cdn1.suno.ai/110296a0-8717-4cbc-84a5-52df695de4ce.mp3|2*[어린이집] 로운이의 어린이집 입학송 <br>(코믹 버전: 온 가족이 함께 즐길 수 있는 밝고 사랑스러운 분위기의 노래)_W13 v4.5-all||",
-"https://cdn1.suno.ai/b2dbf2f9-22c4-407c-b136-3e5901b62f35.mp3|2*[어린이집] 로운이의 즐거운 하루 (경쾌한 피치카토 현악기, 실로폰, 밝은 우쿨렐레)_W07 v4.5-all||",
-"https://cdn1.suno.ai/a4575ad7-131a-4bad-b935-78866b0cdfe3.mp3|2*[어린이집] 로운이의 즐거운 하루 (동요 멜로디에 발랄하고 활기찬 분위기, 125 bpm)_W09 v4.5-all||",
-"https://cdn1.suno.ai/f826237d-c97c-4a1a-9352-76ff0f96abf5.mp3|2*[어린이집] 로운이의 어린이집 모험 <br>(한국 뮤지컬 스타일의 어린이 노래)_W04 v4.5-all||",
-"https://cdn1.suno.ai/8cb7c0ec-02b5-4c5b-9c4f-5651b9817010.mp3|2*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M03 v4.5-all||",
-"https://cdn1.suno.ai/d2305214-1c35-4639-bc58-f68f11353840.mp3|2[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W12 v4.5-all||",
-"https://cdn1.suno.ai/b2ef2e7c-8f3b-492e-8c06-7c6bd9e4dfaf.mp3|2*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 자장가, 오르골 첼레스타 글로켄슈필)_W05 v4.5-all||",
-"https://cdn1.suno.ai/a8c3e44f-4087-4dc9-aa92-52d54684e2a8.mp3|2*[어린이집] 로운이, 열 달의 기적 (감성 버전: 가족 자장가처럼 부드럽고 사랑스러운)_WM01 v4.5-all||",
-"https://cdn1.suno.ai/6676a543-7298-40b4-8d11-c8fe3099b5ca.mp3|2*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 어린이 뮤지컬, 재치 스토리텔링)_W07 v4.5-all||",
-"https://cdn1.suno.ai/bb84077c-4afe-48f7-9c51-d6aba29fdc2b.mp3|2*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_WM01 v4.5-all||",
-"https://cdn1.suno.ai/70421390-5439-40a0-9973-732b4d834ca5.mp3|30[어린이집] 로운이의 어린이집 입학송 (코믹 버전 동화 속 배경음악처럼 마법 같은 한국 어린이 동화 노래, 모험적인 멜로디)_W16 v4.5-all||",
-"https://cdn1.suno.ai/ce5773b5-f8f9-4d5a-b3f1-3b828140c1a1.mp3|3*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 아기의 첫 어린이집 경험과 성장 과정을 그린 따뜻한 한국어린이 동화노래)_W15 v4.5-all||",
-"https://cdn1.suno.ai/8dab0bdc-43cc-440a-9342-919e3589b281.mp3|30[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_W21 v4.5-all||",
-"https://cdn1.suno.ai/0eab5942-d335-4be3-ba5c-a40b0f5e301b.mp3|3*[어린이집] 로운이의 어린이집 입학송 <br>(코믹 버전 : 온 가족이 함께 즐길 수 있는 밝고 사랑스러운 분위기의 노래)_W12 v4.5-all||",
-"https://cdn1.suno.ai/88f24ace-a8d7-45a8-a09e-7a56bbc7cb85.mp3|3*[어린이집] 로운이의 즐거운 하루 (밝고 경쾌한 한국 유치원 노래 공연, 120 bpm)_W12 v4.5-all||",
-"https://cdn1.suno.ai/9e8cb8bf-5251-4094-83ba-278896b94a11.mp3|3*[어린이집] 로운이의 즐거운 하루 (장난기 넘치는 한국 아기 노래, 130 bpm)_W13 v4.5-all||132",
-"https://cdn1.suno.ai/30f4328c-4fee-4a22-9f35-3b3eeb83c410.mp3|3*[어린이집] 로운이의 어린이집 모험 (명랑하고 장난기 넘치는 한국 어린이 팝송)_W03 v4.5-all||",
-"https://cdn1.suno.ai/4b8ac53f-eecd-487d-b59a-c7c55a2546d4.mp3|3*[어린이집] 로운이의 어린이집 모험 <br>(한국 뮤지컬 스타일의 어린이 노래)_W05 v4.5-all||",
-"https://cdn1.suno.ai/ed9a311c-77a6-4019-be63-8c039c8a90f8.mp3|3*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W09 v4.5-all||",
-"https://cdn1.suno.ai/5df52a35-e659-43f1-9c71-4d130ac500d7.mp3|3*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W10 v4.5-all||",
-"https://cdn1.suno.ai/b5b46d93-45f6-4284-8c33-d17e2954055f.mp3|3*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_W02 v4.5-all||",
-"https://cdn1.suno.ai/c72f78b7-21d9-4f11-898e-d8d85e9a1c72.mp3|4*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 아기의 첫 어린이집 경험과 성장 과정을 그린 따뜻한 한국어린이 동화노래)_W14후반부에러 v4.5-all||",
-"https://cdn1.suno.ai/0105b80c-cddb-4166-bcb4-2ad42524f62e.mp3|40[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 전통 사극 발라드, 바이올린)_W24 v4.5-all||",
-"https://cdn1.suno.ai/4f24ff89-2f8f-4815-983b-2ff7f02faddb.mp3|40[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 전통 사극 발라드, 바이올린)_W25 v4.5-all||",
-"https://cdn1.suno.ai/d3931e3b-9398-43f4-a667-3d28650776cf.mp3|40[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국전통사극 발라드, 전자 바이올린)_W22 v4.5-all||",
-"https://cdn1.suno.ai/36eef4a3-062b-4f95-88f0-e6bade2ff349.mp3|40[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국전통사극 발라드, 전자 바이올린)_W23 v4.5-all||",
-"https://cdn1.suno.ai/1467ba8b-5d46-4a25-9667-6ab7f1a291a9.mp3|4*[어린이집] 로운이의 즐거운 하루 <br>(차분한 분위기의 자장가 스타일)_W05 v4.5-all||",
-"https://cdn1.suno.ai/5363ccf0-6167-4433-8a1a-2cd093916c7a.mp3|4*[어린이집] 로운이의 어린이집 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W07 v4.5-all||",
-"https://cdn1.suno.ai/84779152-366a-4dec-b58e-32f23bdfd31c.mp3|4*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W13 v4.5-all||",
-"https://cdn1.suno.ai/6685e0a7-5c47-453e-aba3-7b1ed03d4090.mp3|4*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 느리고 깊고 울림 있는 첼로, 부드러운 바이올린, 조용한 오보에 대선율)_WM03 v4.5-all||",
-"https://cdn1.suno.ai/0415cc03-31b3-4444-b4f6-9723fec922da.mp3|4*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 한국 전통 사극 발라드, 오케스트라)_W07 v4.5-all||",
-"https://cdn1.suno.ai/bb421430-fde6-4d2d-aaa4-084c459493b8.mp3|4*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 친근한 남성 휘슬, 편안한 즐거운)_M02 v4.5-all||",
-"https://cdn1.suno.ai/a84d2a2a-fa85-444d-b1e0-2c84a64840b4.mp3|50[어린이집] 로운이의 어린이집 입학송 (코믹 버전 댄스, 빠른 템포의 EDM 트로트 크로스오버, 탄탄한 4/4 박자 킥 드럼)_W19 v4.5-all||",
-"https://cdn1.suno.ai/759aec4c-54ac-40dd-b732-2482b61b42aa.mp3|50[어린이집] 로운이의 어린이집 입학송 (코믹 버전 댄스, 빠른 템포의 EDM 트로트 크로스오버, 탄탄한 4/4 박자 킥 드럼)_W20 v4.5-all||",
-"https://cdn1.suno.ai/a56e0007-b2c7-4618-a931-2898912054c6.mp3|50[어린이집] 로운이의 어린이집 입학송 (코믹 버전 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W18 v4.5-all||",
-"https://cdn1.suno.ai/2072ecea-8ffb-44bb-b326-f38686538a1b.mp3|5*[어린이집] 로운이의 즐거운 하루 (밝고 경쾌한 한국 유치원 노래 공연, 120 bpm)_W11 v4.5-all||",
-"https://cdn1.suno.ai/3be5f25b-6bd5-4bd2-b039-26f8034a8bbb.mp3|5*[어린이집] 로운이의 즐거운 하루 (장난기 넘치는 한국 아기 노래, 130 bpm)_W14 v4.5-all||",
-"https://cdn1.suno.ai/b8d11296-0d2f-4b3d-99b6-06bf251a3b74.mp3|5*[어린이집] 로운이의 어린이집 모험 (명랑하고 장난기 넘치는 한국 어린이 팝송)_W02 v4.5-all||",
-"https://cdn1.suno.ai/97a8421f-5266-4b60-a443-1b8920462077.mp3|5*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(경쾌한 템포와 트로트 듀엣)_W11 v4.5-all||",
-"https://cdn1.suno.ai/7dcf01da-c9de-428b-92b0-1de6f04d2e7d.mp3|5*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(경쾌한 템포와 트로트 듀엣)_WM01 v4.5-all||",
-"https://cdn1.suno.ai/8edf554f-f0e8-4c2f-a102-9b7690e9f4ff.mp3|5*[어린이집] 로운이, 열 달의 기적 <br>(트로트 댄스, 신디사이저 사운드)_W09 v4.5-all||",
-"https://cdn1.suno.ai/44f8af65-f0a2-4d65-9286-4218642dcde5.mp3|5*[어린이집] 로운이, 열 달의 기적 <br>(트로트 댄스, 신디사이저 사운드)_W10 v4.5-all||",
-"https://cdn1.suno.ai/61257b99-836b-4608-bcc9-a35fe8f08c55.mp3|5*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W06 v4.5-all||",
-"https://cdn1.suno.ai/6a024b8c-829b-4d0f-9217-a71312694727.mp3|5*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W03 v4.5-all||",
-"https://cdn1.suno.ai/2142548e-138b-4cdf-a48c-109e24a6849f.mp3|5*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W10 v4.5-all||",
-"https://cdn1.suno.ai/2a2a837b-f79b-49ab-8883-c09364213b9e.mp3|6*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 포크송의 어쿠스틱 동요, 포근한 가족적인 분위기, 진심이 담긴 감성)_WM03 v4.5-all||",
-"https://cdn1.suno.ai/ead31d10-5da6-470d-ae25-b3e2ba92428a.mp3|6*[어린이집] 로운이의 즐거운 하루 <br>(순수하고 장난기 넘치는 분위기)_W04 v4.5-all||",
-"https://cdn1.suno.ai/ae8950a2-b47e-4b53-a273-5f31d59b4809.mp3|6*[어린이집] 로운이의 즐거운 하루 <br>(차분한 분위기의 자장가 스타일)_W06 v4.5-all||",
-"https://cdn1.suno.ai/8b104bc9-968b-4546-bba1-03806a17ad7b.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M02 v4.5-all||",
-"https://cdn1.suno.ai/9309fbb6-c6a3-4081-9a41-e2a482a32797.mp3|6[어린이집] 로운이의 어린이집 입학송 (코믹 버전 어린이집 모험곡, 장난스런 분위기)_W03 v4.5-all||",
-"https://cdn1.suno.ai/aae0172a-f32f-4c40-a853-055558a2124a.mp3|6[어린이집] 로운이의 어린이집 입학송 (코믹 버전 장난스럽고 유쾌한 한국 어린이팝송)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/cd4b071c-ec3a-45d1-a436-ef5e3aa5cada.mp3|6[어린이집] 로운이의 어린이집 모험 (어린이 뮤지컬 오케스트라 팝, 재치 스토리텔링)_W01 v4.5-all||",
-"https://cdn1.suno.ai/62bb1d4f-0dd9-4119-9d56-5db9c89a317b.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M01 v4.5-all||",
-"https://cdn1.suno.ai/b06f49b7-fa80-48bb-be43-1b8938354087.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (아이의 활기찬 탐험을 반영, 따뜻한 분위기)_W03 v4.5-all||",
-"https://cdn1.suno.ai/d6f360c6-e7e7-4078-a06f-3ef8c0291f2c.mp3|6[어린이집] 로운이, 열 달의 기적 (감성 버전: 밝은 우쿨렐레, 장난스러운 실로폰, 가벼운 타악기와 플루트)_W03 v4.5-all||",
-"https://cdn1.suno.ai/a08e43ec-16e2-4e67-b22d-583c6e59c303.mp3|6[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_MW01 v4.5-all||",
-"https://cdn1.suno.ai/cc15ae9c-568b-4102-a53b-bfa7cb2b088e.mp3|6[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_W01 v4.5-all||",
-"https://cdn1.suno.ai/ba7d37b9-2a60-4aaf-85a5-5aa9eb5fd9c9.mp3|6*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W04 v4.5-all||",
-"https://cdn1.suno.ai/7e0892c4-1270-4a61-a4d9-b914fc421b15.mp3|63[어린이집] 로운이의 어린이집 입학송 (코믹 버전 동화 속 배경음악처럼 마법 같은 한국 어린이 동화 노래, 모험적인 멜로디)_W17 v4.5-all||",
-"https://cdn1.suno.ai/638594e4-253c-4f18-98ed-b23bcff0bac8.mp3|6[어린이집] 로운이의 어린이집 입학송 (코믹 버전 장난스럽고 유쾌한 한국 어린이팝송)_W09 v4.5-all||",
-"https://cdn1.suno.ai/90faa349-ea8c-4739-8128-17ddd16ccab9.mp3|6[어린이집] 로운이의 어린이집 입학송 (코믹 버전 즐거움, 우정, 근심 없는 놀이 시간)_W07 v4.5-all||",
-"https://cdn1.suno.ai/6a6ff1ef-18f9-406b-a1c5-bb3cab8d7d75.mp3|6[어린이집] 로운이의 즐거운 하루 (동요 멜로디에 발랄하고 활기찬 분위기, 125 bpm)_W10 v4.5-all||",
-"https://cdn1.suno.ai/c72d31dc-2dad-46e1-aed8-05c34611e930.mp3|6[어린이집] 로운이의 즐거운 하루 <br>(순수하고 장난기 넘치는 분위기)_W03 v4.5-all||",
-"https://cdn1.suno.ai/ed94237e-833c-4464-bc4c-dba2334c8c28.mp3|6[어린이집] 로운이의 즐거운 하루 <br>(어린이집 모험, 순수한 동심)_W02 v4.5-all||",
-"https://cdn1.suno.ai/5a6adaca-f9d2-4f45-ac85-35e8b90060b3.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W02 v4.5-all||",
-"https://cdn1.suno.ai/a94e771f-6dee-4799-b95a-fddf8c46e75e.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (동요 멜로디, 발랄하고 활기찬, 125 BPM)_W07 v4.5-all||",
-"https://cdn1.suno.ai/a22a34c8-3406-41f3-bd45-2b8510b95c9d.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (자장가처럼 부드럽고 편안한 베이스라인)_W06 v4.5-all||",
-"https://cdn1.suno.ai/cb30b359-c72c-40c5-b8b6-8fa9744c623f.mp3|6[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 어린이 뮤지컬, 재치 스토리텔링)_W08 v4.5-all||",
-"https://cdn1.suno.ai/d881a0dc-ca87-4392-837f-1d3688df1bb9.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (자장가처럼 부드럽고 편안한 베이스라인)_W05 v4.5-all||",
-"https://cdn1.suno.ai/e6e806ba-6414-43a7-b1d0-5aa2276eaf6b.mp3|6[어린이집] 로운이, 열 달의 기적 (감성 버전: 느리고 깊고 울림 있는 첼로, 부드러운 바이올린, 조용한 오보에 대선율)_WM04 v4.5-all||",
-"https://cdn1.suno.ai/e356b7ad-4d6b-4698-9911-789d32ecc2c6.mp3|6[어린이집] 로운이, 열 달의 기적 (감성 버전: 피아노, 잔잔한 통기타, 은은한 현악기)_W01 v4.5-all||",
-"https://cdn1.suno.ai/fb92a6d5-7d80-4604-b860-0f43fee76201.mp3|6[어린이집] 로운이, 열 달의 기적 (감성 버전: 피아노, 잔잔한 통기타, 은은한 현악기)_W02 v4.5-all||",
-"https://cdn1.suno.ai/cc13ebcf-6f44-4de7-b2a3-6e160871fb7d.mp3|6[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 친근한 남성, 휘슬, 편안한 즐거운)_M01 v4.5-all||",
-"https://cdn1.suno.ai/9604c901-8951-4e08-90d3-75464f9d3c29.mp3|6[어린이집] 로운이의 어린이집 입학송 (코믹 버전 어린이집 모험곡, 장난스런 분위기)_W04 v4.5-all||",
-"https://cdn1.suno.ai/04721540-d62d-4ba1-b8f3-1f81ec170853.mp3|6[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_M01 v4.5-all||",
-"https://cdn1.suno.ai/f72cd03f-b4e7-4c0b-9ecc-5cdb9b135c19.mp3|6[어린이집] 로운이의 즐거운 하루 <br>(어린이집 모험, 순수한 동심)_W01 v4.5-all||",
-"https://cdn1.suno.ai/4ff640cb-7f6f-4818-8022-26a14e7e5227.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W01 v4.5-all||",
-"https://cdn1.suno.ai/419541b3-1ad0-4525-95b7-50d4785bdfc9.mp3|6*[어린이집] 로운이의 어린이집 뽀짝 모험 (동요 멜로디, 발랄하고 활기찬, 125 BPM)_W08 v4.5-all||",
-"https://cdn1.suno.ai/8123be43-1168-4eb5-b52f-76044c401e43.mp3|6[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W05 v4.5-all||",
+"https://cdn1.suno.ai/1f8fc36e-0154-429a-a09f-e0318196d46b.mp3|10*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_WM02 v4.5-all||",
+"https://cdn1.suno.ai/36eef4a3-062b-4f95-88f0-e6bade2ff349.mp3|10*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국전통사극 발라드, 전자 바이올린)_W23 v4.5-all||",
+"https://cdn1.suno.ai/055343bd-e45b-4f58-91f4-660812f0c897.mp3|10*[어린이집] 로운이의 어린이집 입학송 (코믹버전 &nbsp;95 BPM 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M02 v4.5-all||",
+"https://cdn1.suno.ai/7c471ef5-1f51-450c-9442-eb3984979699.mp3|10*[어린이집] 로운이의 즐거운 하루 (경쾌한 피치카토 현악기, 실로폰, 밝은 우쿨렐레)_W08 v4.5-all||",
+"https://cdn1.suno.ai/3be5f25b-6bd5-4bd2-b039-26f8034a8bbb.mp3|10*[어린이집] 로운이의 즐거운 하루 (장난기 넘치는 한국 아기 노래, 130 bpm)_W14 v4.5-all||",
+"https://cdn1.suno.ai/706828f3-a631-4e52-aeea-099e89610be2.mp3|10*[어린이집] 로운이의 어린이집 모험 <br>(이탈로 디스코, 1980년대, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_MW01 v4.5-all||",
+"https://cdn1.suno.ai/c5e26e90-3995-4384-9848-504ce7107123.mp3|10*[어린이집] 로운이의 어린이집 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W06 v4.5-all||",
+"https://cdn1.suno.ai/179f56a6-e817-4df1-940f-ab0ca0693ba8.mp3|10*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M04 v4.5-all||",
+"https://cdn1.suno.ai/22326139-23e0-446e-9c53-78ab456759d0.mp3|10*[어린이집] 로운이의 어린이집 뽀짝 모험 (봄 들판을 뛰어다니는 아이처럼 즐겁고 활기찬, 함께 손뼉을 칠 수 있는 신나는)_W15 v4.5-all||",
+"https://cdn1.suno.ai/eef1f04e-f35b-4b4d-82e0-16af6139ceaf.mp3|10[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(오페라 발라드, 극적 오케스트레이션 파워풀한 소프라노, 웅장한 현악기)_W16 v4.5-all||",
+"https://cdn1.suno.ai/8f0e74bd-f2f4-4b27-bc6d-5cc724283278.mp3|10*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 자장가, 오르골 첼레스타 글로켄슈필)_W06 v4.5-all||",
+"https://cdn1.suno.ai/1bc504b0-e68a-464b-bf66-1db81fc2cc78.mp3|10*[어린이집] 로운이, 열 달의 기적 (감성 버전 : 가족 자장가처럼 부드럽고 사랑스러운)_WM02 v4.5-all||",
+"https://cdn1.suno.ai/c16fdaa2-a885-4986-a4c5-2a3e6e5b6012.mp3|10*[어린이집] 로운이, 열 달의 기적 (감성 버전 : 한국 전통 사극 발라드, 오케스트라)_W08 v4.5-all||",
+"https://cdn1.suno.ai/88800b24-5ddb-458f-9ce3-b43a57286620.mp3|10*[어린이집] 로운이, 열 달의 기적 (감성 버전 :&nbsp; 95 BPM의 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M01 v4.5-all||",
+"https://cdn1.suno.ai/e1d4dc32-5c47-421b-9389-6993e46c15a3.mp3|10*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W09 v4.5-all||",
+"https://cdn1.suno.ai/85c1ab15-52b1-4204-b349-75fac9646e72.mp3|20*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_WM05 v4.5-all||",
+"https://cdn1.suno.ai/aa0b254f-813a-45de-a222-b1322c921508.mp3|20*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 포크송의 어쿠스틱 동요, 포근한 가족적인 분위기, 진심이 담긴 감성)_WM04 v4.5-all||",
+"https://cdn1.suno.ai/be21e11b-9cbb-4cfb-ad26-2c8bfe309e43.mp3|20*[어린이집] 로운이의 어린이집 입학송 (코믹버전 &nbsp;95 BPM 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M03 v4.5-all||",
+"https://cdn1.suno.ai/110296a0-8717-4cbc-84a5-52df695de4ce.mp3|20*[어린이집] 로운이의 어린이집 입학송 <br>(코믹 버전: 온 가족이 함께 즐길 수 있는 밝고 사랑스러운 분위기의 노래)_W13 v4.5-all||",
+"https://cdn1.suno.ai/a4575ad7-131a-4bad-b935-78866b0cdfe3.mp3|20*[어린이집] 로운이의 즐거운 하루 (동요 멜로디에 발랄하고 활기찬 분위기, 125 bpm)_W09 v4.5-all||",
+"https://cdn1.suno.ai/2072ecea-8ffb-44bb-b326-f38686538a1b.mp3|20*[어린이집] 로운이의 즐거운 하루 (밝고 경쾌한 한국 유치원 노래 공연, 120 bpm)_W11 v4.5-all||",
+"https://cdn1.suno.ai/69a4083f-1741-4936-865d-69194b1b6126.mp3|20*[어린이집] 로운이의 어린이집 모험 (하드록과 댄서블한 그루브 디스코 스타일)_W09 v4.5-all||",
+"https://cdn1.suno.ai/f826237d-c97c-4a1a-9352-76ff0f96abf5.mp3|20*[어린이집] 로운이의 어린이집 모험 <br>(한국 뮤지컬 스타일의 어린이 노래)_W04 v4.5-all||",
+"https://cdn1.suno.ai/5363ccf0-6167-4433-8a1a-2cd093916c7a.mp3|20*[어린이집] 로운이의 어린이집 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W07 v4.5-all||",
+"https://cdn1.suno.ai/8cb7c0ec-02b5-4c5b-9c4f-5651b9817010.mp3|20*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M03 v4.5-all||",
+"https://cdn1.suno.ai/bdd9981a-9ba4-49a4-a928-6feec9972837.mp3|20*[어린이집] 로운이의 어린이집 뽀짝 모험 (봄 들판을 뛰어다니는 아이처럼 즐겁고 활기찬, 함께 손뼉을 칠 수 있는 신나는)_W14 v4.5-all||",
+"https://cdn1.suno.ai/ca1df437-4a71-4e51-afab-d625dcf1d272.mp3|20[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(오페라 발라드, 극적 오케스트레이션 파워풀한 소프라노, 웅장한 현악기)_W17 v4.5-all||",
+"https://cdn1.suno.ai/d2305214-1c35-4639-bc58-f68f11353840.mp3|20*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W12 v4.5-all||",
+"https://cdn1.suno.ai/44f8af65-f0a2-4d65-9286-4218642dcde5.mp3|20*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 댄스 EDM 트로트 크로스오버, 밝은 신스 리드, 탄탄한 4/4 박자 킥 드럼)_W10 v4.5-all||",
+"https://cdn1.suno.ai/b2ef2e7c-8f3b-492e-8c06-7c6bd9e4dfaf.mp3|20*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 자장가, 오르골 첼레스타 글로켄슈필)_W05 v4.5-all||",
+"https://cdn1.suno.ai/a8c3e44f-4087-4dc9-aa92-52d54684e2a8.mp3|20*[어린이집] 로운이, 열 달의 기적 (감성 버전: 가족 자장가처럼 부드럽고 사랑스러운)_WM01 v4.5-all||",
+"https://cdn1.suno.ai/bb84077c-4afe-48f7-9c51-d6aba29fdc2b.mp3|20*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_WM01 v4.5-all||",
+"https://cdn1.suno.ai/70421390-5439-40a0-9973-732b4d834ca5.mp3|30*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 동화 속 배경음악처럼 마법 같은 한국 어린이 동화 노래, 모험적인 멜로디)_W16 v4.5-all||",
+"https://cdn1.suno.ai/ce5773b5-f8f9-4d5a-b3f1-3b828140c1a1.mp3|30*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 아기의 첫 어린이집 경험과 성장 과정을 그린 따뜻한 한국어린이 동화노래)_W15 v4.5-all||",
+"https://cdn1.suno.ai/8dab0bdc-43cc-440a-9342-919e3589b281.mp3|30*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_W21 v4.5-all||",
+"https://cdn1.suno.ai/0eab5942-d335-4be3-ba5c-a40b0f5e301b.mp3|30*[어린이집] 로운이의 어린이집 입학송 <br>(코믹 버전 : 온 가족이 함께 즐길 수 있는 밝고 사랑스러운 분위기의 노래)_W12 v4.5-all||",
+"https://cdn1.suno.ai/b2dbf2f9-22c4-407c-b136-3e5901b62f35.mp3|30*[어린이집] 로운이의 즐거운 하루 (경쾌한 피치카토 현악기, 실로폰, 밝은 우쿨렐레)_W07 v4.5-all||",
+"https://cdn1.suno.ai/88f24ace-a8d7-45a8-a09e-7a56bbc7cb85.mp3|30*[어린이집] 로운이의 즐거운 하루 (밝고 경쾌한 한국 유치원 노래 공연, 120 bpm)_W12 v4.5-all||",
+"https://cdn1.suno.ai/9e8cb8bf-5251-4094-83ba-278896b94a11.mp3|30*[어린이집] 로운이의 즐거운 하루 (장난기 넘치는 한국 아기 노래, 130 bpm)_W13 v4.5-all||132",
+"https://cdn1.suno.ai/b8d11296-0d2f-4b3d-99b6-06bf251a3b74.mp3|30*[어린이집] 로운이의 어린이집 모험 (명랑하고 장난기 넘치는 한국 어린이 팝송)_W02 v4.5-all||",
+"https://cdn1.suno.ai/4b8ac53f-eecd-487d-b59a-c7c55a2546d4.mp3|30*[어린이집] 로운이의 어린이집 모험 <br>(한국 뮤지컬 스타일의 어린이 노래)_W05 v4.5-all||",
+"https://cdn1.suno.ai/ed9a311c-77a6-4019-be63-8c039c8a90f8.mp3|30*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W09 v4.5-all||",
+"https://cdn1.suno.ai/5df52a35-e659-43f1-9c71-4d130ac500d7.mp3|30*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W10 v4.5-all||",
+"https://cdn1.suno.ai/d0bfe1d3-e662-46ef-9380-7c809aada412.mp3|30*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(피아노 선율, 풍성한 현악기와 부드럽고 은은하게 울리는 드럼 비트)_W19 v4.5-all||",
+"https://cdn1.suno.ai/c1a2894c-a516-44d1-81a7-2c593502dd77.mp3|30*[어린이집] 로운이, 열 달의 기적 <br>(감성 버전 : 팝 록, 일렉트릭 팝 록)_W11 v4.5-all||",
+"https://cdn1.suno.ai/b5b46d93-45f6-4284-8c33-d17e2954055f.mp3|30*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_W02 v4.5-all||",
+"https://cdn1.suno.ai/0105b80c-cddb-4166-bcb4-2ad42524f62e.mp3|40*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 &nbsp; 한국 전통 사극 발라드, 바이올린)_W24 v4.5-all||",
+"https://cdn1.suno.ai/4f24ff89-2f8f-4815-983b-2ff7f02faddb.mp3|40*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 &nbsp; 한국 전통 사극 발라드, 바이올린)_W25 v4.5-all||",
+"https://cdn1.suno.ai/d3931e3b-9398-43f4-a667-3d28650776cf.mp3|40*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 &nbsp;한국전통사극 발라드, 전자 바이올린)_W22 v4.5-all||",
+"https://cdn1.suno.ai/c72f78b7-21d9-4f11-898e-d8d85e9a1c72.mp3|40*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 아기의 첫 어린이집 경험과 성장 과정을 그린 따뜻한 한국어린이 동화노래)_W14후반부에러 v4.5-all||",
+"https://cdn1.suno.ai/91e94487-7d1a-42e0-bae6-967acd2982e7.mp3|40*[어린이집] 로운이의 즐거운 하루 (감성적인 슬로우 트로트, 4/4 박자, 70~80 BPM, 전통 트로트 리듬에 현대적인 편곡)_W17 v4.5-all||",
+"https://cdn1.suno.ai/1333c868-de12-493c-b96d-d68e733fd71e.mp3|40*[어린이집] 로운이의 즐거운 하루 (감성적인 슬로우 트로트, 4/4 박자, 70~80 BPM, 전통 트로트 리듬에 현대적인 편곡)_W18 v4.5-all||",
+"https://cdn1.suno.ai/1467ba8b-5d46-4a25-9667-6ab7f1a291a9.mp3|40*[어린이집] 로운이의 즐거운 하루 <br>(차분한 분위기의 자장가 스타일)_W05 v4.5-all||",
+"https://cdn1.suno.ai/a9a4ce74-df5f-4ec8-8bfb-6264a09e3857.mp3|40*[어린이집] 로운이의 어린이집 모험 <br>(애절한 한국 드라마 OST, 멜랑콜리하면서도 부드러운 현악 선율)_W12 v4.5-all||",
+"https://cdn1.suno.ai/862ab91f-6abd-42b5-a297-227fd50e0939.mp3|40*[어린이집] 로운이의 어린이집 모험 <br>(애절한 한국 드라마 OST, 멜랑콜리하면서도 부드러운 현악 선율)_W13 v4.5-all||",
+"https://cdn1.suno.ai/42f8bec7-68c1-444b-8488-22e13b77f378.mp3|40*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 발라드, 감성적 전통악기)_W20 v4.5-all||",
+"https://cdn1.suno.ai/34e46f8d-8564-448f-ba2e-d1ee7d19f437.mp3|40*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 발라드, 감성적 전통악기)_W21 v4.5-all||",
+"https://cdn1.suno.ai/84779152-366a-4dec-b58e-32f23bdfd31c.mp3|40*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W13 v4.5-all||",
+"https://cdn1.suno.ai/6685e0a7-5c47-453e-aba3-7b1ed03d4090.mp3|40*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 느리고 깊고 울림 있는 첼로, 부드러운 바이올린, 조용한 오보에 대선율)_WM03 v4.5-all||",
+"https://cdn1.suno.ai/0415cc03-31b3-4444-b4f6-9723fec922da.mp3|40*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 한국 전통 사극 발라드, 오케스트라)_W07 v4.5-all||",
+"https://cdn1.suno.ai/bb421430-fde6-4d2d-aaa4-084c459493b8.mp3|40*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 친근한 남성 휘슬, 편안한 즐거운)_M02 v4.5-all||",
+"https://cdn1.suno.ai/a84d2a2a-fa85-444d-b1e0-2c84a64840b4.mp3|50*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 댄스, 빠른 템포의 EDM 트로트 크로스오버, 탄탄한 4/4 박자 킥 드럼)_W19 v4.5-all||",
+"https://cdn1.suno.ai/759aec4c-54ac-40dd-b732-2482b61b42aa.mp3|50*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 댄스, 빠른 템포의 EDM 트로트 크로스오버, 탄탄한 4/4 박자 킥 드럼)_W20 v4.5-all||",
+"https://cdn1.suno.ai/a56e0007-b2c7-4618-a931-2898912054c6.mp3|50*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W18 v4.5-all||",
+"https://cdn1.suno.ai/cbcbcef4-22de-4740-b020-f3e75151319a.mp3|50[어린이집] 로운이의 즐거운 하루 (댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4 킥 드럼)_W15 v4.5-all||",
+"https://cdn1.suno.ai/6b30743a-9087-4789-b419-58f54ad9e048.mp3|50*[어린이집] 로운이의 즐거운 하루 (댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4 킥 드럼)_W16 v4.5-all||",
+"https://cdn1.suno.ai/72803a4d-cc02-4846-a8e9-73ce1c4b4c84.mp3|50[어린이집] 로운이의 어린이집 모험 <br>(실험적인 미니멀 테크노, 댄스 플로어 드롭, 브레이크다운과 빌드업)_W10 v4.5-all||",
+"https://cdn1.suno.ai/2cf3a86d-edad-45e7-9450-768fcc180f26.mp3|50[어린이집] 로운이의 어린이집 모험 <br>(실험적인 미니멀 테크노, 댄스 플로어 드롭, 브레이크다운과 빌드업)_W11 v4.5-all||",
+"https://cdn1.suno.ai/998c3b51-dc4b-4e6b-bfb0-22ca694def5a.mp3|50[어린이집] 로운이의 어린이집 모험 <br>(이탈로 디스코, 1980년대, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M01 v4.5-all||",
+"https://cdn1.suno.ai/97a8421f-5266-4b60-a443-1b8920462077.mp3|50*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(경쾌한 템포와 트로트 듀엣)_W11 v4.5-all||",
+"https://cdn1.suno.ai/7dcf01da-c9de-428b-92b0-1de6f04d2e7d.mp3|50*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(경쾌한 템포와 트로트 듀엣)_WM01 v4.5-all||",
+"https://cdn1.suno.ai/8edf554f-f0e8-4c2f-a102-9b7690e9f4ff.mp3|50*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 댄스 EDM 트로트 크로스오버, 밝은 신스 리드, 탄탄한 4/4 박자 킥 드럼)_W09 v4.5-all||",
+"https://cdn1.suno.ai/c8c0aa9e-38dd-49c8-97a1-e6f47d861411.mp3|50*[어린이집] 로운이, 열 달의 기적 (감성 버전 :&nbsp; 95 BPM의 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M02 v4.5-all||",
+"https://cdn1.suno.ai/3493b3e6-77f9-4379-94ac-9796fd01cdde.mp3|50*[어린이집] 로운이, 열 달의 기적 <br>(감성 버전 : 팝 록, 일렉트릭 팝 록)_W12 v4.5-all||",
+"https://cdn1.suno.ai/61257b99-836b-4608-bcc9-a35fe8f08c55.mp3|50*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W06 v4.5-all||",
+"https://cdn1.suno.ai/6a024b8c-829b-4d0f-9217-a71312694727.mp3|50*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W03 v4.5-all||",
+"https://cdn1.suno.ai/2142548e-138b-4cdf-a48c-109e24a6849f.mp3|50*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W10 v4.5-all||",
 ]
 
 song = [
@@ -188,46 +170,74 @@ song = [
 
 <img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_19.png' width=100% title='📷 '>
 </td></tr></table>`,
-`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>로운이, 열 달의 기적</b></font><br>
+`<table class='box' style="BACKGROUND:white url('') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이, 열 달의 기적</b></font>
+
+<img src="https://i.imgur.com/iXAjNwA.png" width=100% title="📷 "><br><br>
 
 열 달 품에 안겼던<br>
 작은 우리 로운이<br><br>
 
+<img src="https://i.imgur.com/1xQ3Ytp.png" width=100% title="📷 "><br><br>
+
 오늘 처음 세상 속<br>
 한 걸음 내딛어요<br><br>
+
+<img src="https://i.imgur.com/LDWjceT.png" width=100% title="📷 "><br><br>
 
 말은 아직 못 하지만<br>
 눈빛은 다~ 말해요<br><br>
 
+<img src="https://i.imgur.com/C1a5riA.png" width=100% title="📷 "><br><br>
+
 엄마 아빠 사랑을<br>
 가슴 가득 안고<br><br>
+
+<img src="https://i.imgur.com/k1xw1zH.png" width=100% title="📷 "><br><br>
 
 가방 메고 서 있는<br>
 그 작은 뒷모습<br><br>
 
+<img src="https://i.imgur.com/IvzTjSg.png" width=100% title="📷 "><br><br>
+
 유모차에 앉았지만<br>
 마음은 훌쩍 컸어요<br><br>
+
+<img src="https://i.imgur.com/7UfzurZ.png" width=100% title="📷 "><br><br>
 
 벚꽃 피는 봄이 오면<br>
 말도 하고 걷겠지요<br><br>
 
+<img src="https://i.imgur.com/mlY3Xog.png" width=100% title="📷 "><br><br>
+
 계절 따라 자라나는<br>
 로운이의 하루하루~<br><br>
+
+<img src="https://i.imgur.com/kXZ2kkC.png" class="fade-in-out" width=100% title="📷 "><br><br>
 
 냠냠~ 잘도 먹고<br>
 새근새근 잠들고<br><br>
 
+<img src="https://i.imgur.com/tqFh5pw.png" width=100% title="📷 "><br><br>
+
 하하 웃는 모습에<br>
 우리 마음 녹아요~<br><br>
+
+<img src="https://i.imgur.com/QhpTYCE.png" width=100% title="📷 "><br><br>
 
 지혜로운 이름처럼<br>
 슬기롭게 자라서<br><br>
 
+<img src="https://i.imgur.com/djens5C.png" class="fade-in-out" width=100% title="📷 "><br><br>
+
 이 세상에 환한 빛<br>
 되어 주렴, 로운아~~<br><br>
 
-<img src="" width=100% title="📷 ">
+<img src="https://i.imgur.com/k5RotGc.png" class="fade-in-out" width=100% title="📷 "><br><br>
+
+사랑한다! 로운아!<br><br>
+
+<img src="https://i.imgur.com/Wj7lgnW.png" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>로운이의 어린이집 모험</b></font><br>
@@ -300,8 +310,7 @@ song = [
 <img src="https://i.imgur.com/mcrw4nS.png" width=100% title="📷 "><br><br>
 
 "엄마 아빠, 다녀오겠습니다"<br>
-하지만 아직 말은 못 한답니다~<br>
-(하하하~)<br><br>
+하지만 아직 말은 못 한답니다~<br><br>
 
 <img src="https://i.imgur.com/zIwDViw.png" width=100% title="📷 "><br><br>
 
@@ -311,8 +320,7 @@ song = [
 <img src="https://i.imgur.com/RybTBj1.png" width=100% title="📷 "><br><br>
 
 가방 메고 아장아장 걸어갑니다<br>
-그러나 오늘은 유모차로 간답니다~<br>
-(하하하~)<br><br>
+그러나 오늘은 유모차로 간답니다~<br><br>
 
 <img src="https://i.imgur.com/0tJrpRA.png" width=100% title="📷 "><br><br>
 
@@ -322,8 +330,7 @@ song = [
 <img src="https://i.imgur.com/cNdwJ8m.png" width=100% title="📷 "><br><br>
 
 딱지치기 딱. 딱. 총싸움도 빵. 빵.<br>
-그런데 지금은 기어 다닌답니다~<br>
-(하하하~)<br><br>
+그런데 지금은 기어 다닌답니다~<br><br>
 
 <img src="https://i.imgur.com/DVCi6Ev.png" width=100% title="📷 "><br><br>
 
@@ -400,7 +407,7 @@ song = [
 
 <img src="https://i.imgur.com/LSkjPkh.png" width=100% title="📷 "><br><br>
 
-나는 나는 될 거예요<br>
+<font style="background-color:gray">나는 나는 될 거예요</font><br>
 어린이집 우등생이 될 거예요<br><br>
 
 <img src="https://i.imgur.com/CvrcJzd.png" width=100% title="📷 "><br><br>
@@ -410,7 +417,7 @@ song = [
 
 <img src="https://i.imgur.com/dE8nfgr.png" width=100% title="📷 "><br><br>
 
-꽁냥 꽁냥, 친구랑 사이좋게<br>
+<font style="background-color:gray">꽁냥 꽁냥, 친구랑 사이좋게</font><br>
 하하 호호, 재밌게 놀면서..<br><br>
 
 <img src="https://i.imgur.com/CxBA4R5.png" width=100% title="📷 "><br><br>
@@ -423,7 +430,12 @@ song = [
 로운 로운 우리 손자 로운이가<br>
 이 세상 열 달 만에 어린이집 갑니다~<br><br>
 
-<img src="https://i.imgur.com/dpPIVS8.png" width=100% title="📷 ">
+<img src="https://i.imgur.com/dpPIVS8.png" width=100% title="📷 "><br><br>
+
+로운이, 최고!<br><br>
+
+<img src="https://i.imgur.com/zMm8Ezo.png" width=100% title="📷 ">
+
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>로운이의 즐거운 하루</b></font><br>
@@ -2311,44 +2323,44 @@ const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') re
 <font color='blue'><b></b></font>
 <font color='blue'><b></b></font>
 
-<font color='blue'><b>2026.03.17 계속 순환 재생 방식</b></font><br>
-지금까지 생성된 곡 중에서 최종 286곡을 선정, '생성일자' 순으로 <br>
-'계속 순환' 재생하는 방식으로 변경.<br><br>
+<font color='blue'><b>2026.03.18 계속 순환 재생 방식</b></font><br>
+지금까지 생성된 곡 중에서 <br>
+최종 77곡을 선정, '생성일자' 순으로 <br>
+'계속 순환' 재생하는 방식.<br><br>
 
-1순환 25곡 (1~25번) 선호도 1순위<br>
-2순환 25곡 (26~50번) 선호도 2순위<br>
-3순환 19곡 (51~69번) 동요 분위기<br>
-4순환 23곡 (70~92번) 발라드 위주<br>
-5순환 26곡 (93~118번) 댄스풍 유사<br><br>
+1순환 15곡 (1~15번) 선호도 1순위<br>
+2순환 17곡 (16~32번) 선호도 2순위<br>
+3순환 14곡 (33~46번) 동요 분위기<br>
+4순환 15곡 (47~61번) 발라드 위주<br>
+5순환 16곡 (62~77번) 댄스풍 유사<br><br>
 
-기타 미분류 157곡 (130~286번) <br>
-순환 외 나머지 곡 <br><br>
-
-<font color='blue'><b>2026.03.16</b></font><br>
+<font color='blue'><b>2026.03.17</b></font><br>
 노래 가사 삽화 1차 완료<br><br>
 
 <font color='blue'><b>2026.03.12</b></font><br>
 감성 버전 "로운이, 열 달의 기적" <br>
-18곡 생성, 여기에는 9곡 수록<br><br>
+18곡 생성, 여기에는 13곡 수록<br><br>
 
 <font color='blue'><b>2026.03.11</b></font><br>
 "로운이의 어린이집 뽀짝 모험"<br>
- 18곡 생성, 여기에는 8곡 수록<br><br>
+ 26곡 생성, 여기에는 15곡 수록<br><br>
 
 <font color='blue'><b>2026.03.08 코믹 버전으로 개사</b></font><br>
 "로운이가 '어린이집'에 갑니다"를 <br>
 약간의 개사와 함께 제목도 <br>
 "로운이의 어린이집 입학송"으로 변경<br>
-32곡 생성, 여기에는 14곡 수록<br><br>
+36곡 생성, 여기에는 18곡 수록<br><br>
 
 <font color='blue'><b>2026.03.07</b></font><br>
 "로운이의 어린이집 모험" <br>
-7곡 생성, 여기에는 6곡 수록<br><br>
+15곡 생성, 여기에는 12곡 수록<br><br>
 
 <font color='blue'><b>2026.03.06</b></font><br>
 "로운이의 즐거운 하루" <br>
-14곡 생성, 여기에는 8곡 수록<br><br>
+18곡 생성, 여기에는 12곡 수록<br><br>
 
 <font color='blue'><b>2026.03.05 어린이집 테마 시작</b></font><br>
-"로운이가 '어린이집'에 갑니다" 생성 시작. 14곡 생성, 여기에는 8곡 수록<br><br>
+"로운이가 '어린이집'에 갑니다" 생성 시작. 14곡 생성, 여기에는 7곡 수록<br><br>
+
+본 html 작성, 깃허브에 업로드.<br><br>
 </td></tr></table>`
