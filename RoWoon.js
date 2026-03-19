@@ -1,346 +1,629 @@
-﻿const title0 = "로운이를 위한 태담과 노래"
+﻿const title0 = "로운이의 성장 가요"
 
 odi = [
-"https://cdn1.suno.ai/45e853e5-2238-4ed4-a938-123ca8cfd735.mp3|1[잉태 기쁨] 파랑이의 꿈 <br>(케이팝, 난생처음 만들어 본 노래)_M01 v4||",
-"https://cdn1.suno.ai/56d66f16-1e2d-43e9-b300-723c51ed4af5.mp3|1[잉태 기쁨] 파랑이의 노래 <br>(7080 포크송, 통기타, 하모니카)_MW02 v4.5-all||",
-"https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이의 소중한 여정 (인준 버전)_TD01 etc||",
-"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 하늘과 바다의 선물 (현수 버전)_TD03 etc||",
-"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이와 하늘의 선물 (서현 버전)_TD05 etc||",
-"https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)_TD07 etc||",
-"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|1[태담 희망] 파랑이와 세상 탐험 (봉진 버전)_TD08 etc||",
-"https://cdn1.suno.ai/3600c86c-8d73-45d2-981c-c46c9e723848.mp3|1[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(첼로 독주 피아노, 순수한 기대감)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/a3784a59-08b7-4f26-9260-b59e31ccb0f3.mp3|1[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (바이올린 독주와 오케스트라 협주곡)_MW38 v4.5-all||",
-"https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|1[탄생 파랑] 나레이션 : 할아버지 할머니의 사랑을, 파랑에게 (손자의 축복, 발라드)_WM34_GPT v4.5||",
-"https://cdn1.suno.ai/937c965a-dd9b-4a04-9f48-52581f9d5764.mp3|1[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (통기타 첼로, 새로운 시작)_WM32 v4.5||",
-"https://cdn1.suno.ai/8db5b656-9327-459a-a346-98d3f90a6abe.mp3|1[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (동요풍 갓 태어난 아기 신기함 설렘)_MW01 v4.5-all||",
-"https://cdn1.suno.ai/0d5c01fa-a6d5-442d-8c51-597498588ed2.mp3|1[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (바이올린 신스팝)_M07 v4.5||",
-"https://cdn1.suno.ai/531f7e2d-927a-474b-a174-84618392c381.mp3|1[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (행진곡, 군악대, 팡파르)_MW11 v4.5-all||",
-"https://cdn1.suno.ai/31376a07-0e5f-4f4c-966b-f16afb5645a0.mp3|1[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (7080 100~120 BPM, 활기차고 경쾌한 템포의 통기타 하모니카 타악기)_MW01 v4.5-all||",
-"https://cdn1.suno.ai/a93ba039-84ed-4a6e-89cb-949687f8bbbe.mp3|1[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (행진곡 금관악기, 영웅적 축제적)_M08 v4.5||",
-"https://cdn1.suno.ai/e055f222-d824-4cd2-888a-20e7ff0ace51.mp3|1[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (7080 포크, 통기타 하모니카)_MW06 v4.5-all||",
-"https://cdn1.suno.ai/fcc3b36a-164e-4a0c-bf4a-fbb5d291f252.mp3|1[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (휘파람, 즐거운 트레킹 기분)_W04 v4.5||",
-"https://cdn1.suno.ai/13af2615-470a-4b74-b375-97c3cdeb71cf.mp3|1[작명 축복] 예쁜 이름 로운아, 축하해! <br>(행진곡 금관악기, 영웅적 축제적)_M01 v4.5||",
-"https://cdn1.suno.ai/1d382870-94ad-4c60-a75e-febf3166714b.mp3|1[작명 축복] 로운아, 빛나라~~~ ☆ (산골 요들송 135bpm, 기쁨 희망 훈훈한 가족애)_M08 v4.5-all||",
-"https://cdn1.suno.ai/55f720a3-1afe-4785-8131-387c5877610d.mp3|1[작명 축복] 로운아, 빛나라~~~ ☆ (인디)_M03 v4.5||",
-"https://cdn1.suno.ai/f39b58fa-13d7-4fc9-90c6-6c16198e9175.mp3|1[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(동심, 새로운 시작을 축하)_M04 v4.5-all||",
-"https://cdn1.suno.ai/b51e402d-f7cf-4743-93c3-56078806f07d.mp3|1[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(트로트 댄스, 신디사이저 사운드)_MW09 v4.5-all||",
-"https://cdn1.suno.ai/a1c17bb1-ce81-461d-9a16-699ebf35fd37.mp3|1[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(행진곡 금관악기, 영웅적 축제적)_MM01 v4.5||",
-"https://cdn1.suno.ai/647c07d6-952f-472d-a9d9-25ebdf657b5e.mp3|1[작명 축복] 이 세상 이름, 로운에게 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_M12 v4.5-all||",
-"https://cdn1.suno.ai/f58815dd-bd04-466f-9d91-79b99040d673.mp3|1[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, 행진곡 영웅적 축제적)_M04 v4.5||235",
-"https://cdn1.suno.ai/ea47e08c-c349-4110-a505-110e141fbdce.mp3|1[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (가벼운 행진곡 리듬의 트로트 듀엣)_MW04 v4.5+||",
-"https://cdn1.suno.ai/b8f63b99-fe53-4c07-aad8-a65c7e504fdf.mp3|1[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (경쾌한 행진곡 리듬, 트로트 스타일)_W09 v4.5+||",
-"https://cdn1.suno.ai/29e0fd83-7c3a-4394-b517-efc9d75c5198.mp3|1[백일 축하] 로운에게 보내는 百日 축하 <br>(발라드, 컨트리 음악, 남녀 보컬)_MW18 v4.5+||",
-"https://cdn1.suno.ai/39b3015e-1c4a-4ff3-bc3e-72c333611b1e.mp3|1[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (심포닉 록, 오케스트라)_MW17 v4.5+||",
-"https://cdn1.suno.ai/4873980c-5f25-4753-a5ff-418d34922f80.mp3|1[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (트로트, 다소 느린 80bpm)_MW05 v4.5+||",
-"https://cdn1.suno.ai/e1d4dc32-5c47-421b-9389-6993e46c15a3.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (극적인 한국 뮤지컬 스타일의 어린이 노래)_W09 v4.5-all||",
-"https://cdn1.suno.ai/2142548e-138b-4cdf-a48c-109e24a6849f.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (극적인 한국 뮤지컬 스타일의 어린이 노래)_W10 v4.5-all||",
-"https://cdn1.suno.ai/8123be43-1168-4eb5-b52f-76044c401e43.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W05 v4.5-all||",
-"https://cdn1.suno.ai/61257b99-836b-4608-bcc9-a35fe8f08c55.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W06 v4.5-all||",
-"https://cdn1.suno.ai/6676a543-7298-40b4-8d11-c8fe3099b5ca.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (어린이 뮤지컬, 재치 넘치는 스토리텔링, 오케스트라 팝)_W07 v4.5-all||",
-"https://cdn1.suno.ai/cb30b359-c72c-40c5-b8b6-8fa9744c623f.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (어린이 뮤지컬, 재치 넘치는 스토리텔링, 오케스트라 팝)_W08 v4.5-all||",
-"https://cdn1.suno.ai/a08e43ec-16e2-4e67-b22d-583c6e59c303.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (장난스럽고 유쾌한 한국 어린이 팝송)_MW01 v4.5-all||",
-"https://cdn1.suno.ai/cc15ae9c-568b-4102-a53b-bfa7cb2b088e.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (장난스럽고 유쾌한 한국 어린이 팝송)_W01 v4.5-all||",
-"https://cdn1.suno.ai/b5b46d93-45f6-4284-8c33-d17e2954055f.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (장난스럽고 유쾌한 한국 어린이 팝송)_W02 v4.5-all||",
-"https://cdn1.suno.ai/bb84077c-4afe-48f7-9c51-d6aba29fdc2b.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (장난스럽고 유쾌한 한국 어린이 팝송)_WM01 v4.5-all||",
-"https://cdn1.suno.ai/cc13ebcf-6f44-4de7-b2a3-6e160871fb7d.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (친근한 남성 보컬, 휘슬, 편안하고 즐거운 분위기)_M01 v4.5-all||",
-"https://cdn1.suno.ai/bb421430-fde6-4d2d-aaa4-084c459493b8.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (친근한 남성 보컬, 휘슬, 편안하고 즐거운 분위기)_M02 v4.5-all||",
-"https://cdn1.suno.ai/6a024b8c-829b-4d0f-9217-a71312694727.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (한국 뮤지컬 스타일의 어린이 노래)_W03 v4.5-all||",
-"https://cdn1.suno.ai/ba7d37b9-2a60-4aaf-85a5-5aa9eb5fd9c9.mp3|1[어린이집] 로운이가 '어린이집'에 갑니다 (한국 뮤지컬 스타일의 어린이 노래)_W04 v4.5-all||",
-"https://cdn1.suno.ai/c72d31dc-2dad-46e1-aed8-05c34611e930.mp3|1[어린이집] 로운이의 즐거운 하루 (순수하고 장난기 넘치는 분위기)_W03 v4.5-all||",
-"https://cdn1.suno.ai/ead31d10-5da6-470d-ae25-b3e2ba92428a.mp3|1[어린이집] 로운이의 즐거운 하루 (순수하고 장난기 넘치는 분위기)_W04 v4.5-all||",
-"https://cdn1.suno.ai/f72cd03f-b4e7-4c0b-9ecc-5cdb9b135c19.mp3|1[어린이집] 로운이의 즐거운 하루 (어린이집 모험, 순수한 동심)_W01 v4.5-all||",
-"https://cdn1.suno.ai/ed94237e-833c-4464-bc4c-dba2334c8c28.mp3|1[어린이집] 로운이의 즐거운 하루 (어린이집 모험, 순수한 동심)_W02 v4.5-all||",
-"https://cdn1.suno.ai/1467ba8b-5d46-4a25-9667-6ab7f1a291a9.mp3|1[어린이집] 로운이의 즐거운 하루 (차분한 분위기의 자장가 스타일)_W05 v4.5-all||",
-"https://cdn1.suno.ai/ae8950a2-b47e-4b53-a273-5f31d59b4809.mp3|1[어린이집] 로운이의 즐거운 하루 (차분한 분위기의 자장가 스타일)_W06 v4.5-all||",
-"https://cdn1.suno.ai/80a1900f-61c5-4461-8b6a-71975c3963f7.mp3|1[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (브라스밴드 행진, 트럼펫 트롬본)_M10 v4.5+||",
-"https://cdn1.suno.ai/c4ed7fb9-51e2-4533-aedf-f8266bed17e0.mp3|1[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (오페라 발라드, 오케스트레이션)_MW07 v4.5-all||",
-"https://cdn1.suno.ai/f2e98da7-6a11-4a9b-ac13-c1ecb0a8c396.mp3|1[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (오페라 발라드, 오케스트레이션)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/c6a702b2-008b-440d-b667-773e1c431a26.mp3|1[생일 축하] 당신들의 생일을 축하합니다 <br>(브라스밴드 행진곡, 낭만적 분위기)_M05 v4.5+||",
-"https://cdn1.suno.ai/9cad251b-69b1-4efb-aaf1-615e4d3be98f.mp3|1[생일 축하] 당신들의 생일을 축하합니다 <br>(트로트 듀엣의 주고받는 보컬)_MW01 v4.5+||",
-"https://cdn1.suno.ai/83ca4e61-6b0c-4684-bc3f-6c5994bb2805.mp3|1[증조모 생일] 울 엄마의 기구했던 생일 <br>(바이올린 신스팝)_MW02 v5||",
-"https://cdn1.suno.ai/245e94a3-a342-4bae-bd25-107f5e9aa124.mp3|1[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 사극 발라드)_W02 v5||",
-"https://cdn1.suno.ai/ed819816-faa9-4dc3-a232-9157de63b425.mp3|2[잉태 기쁨] 파랑이의 꿈 <br>(7080 100~120 BPM, 활기차고 경쾌한 템포의 통기타 하모니카 타악기)_MW06 v4.5-all||",
-"https://cdn1.suno.ai/68db7f93-dd78-43ee-851e-074cd15fdfed.mp3|2[잉태 기쁨] 파랑이의 노래 (자장가, 신스 멜로디)_W01 v4||",
-"https://cdn1.suno.ai/f9f67399-c363-4807-a53c-8edbc44dac8a.mp3|2[잉태 기쁨] 파랑이의 노래 <br>(7080 포크송, 통기타, 하모니카)_MW01 v4.5-all||",
-"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|2[태담 희망] 파랑이의 소중한 여정 (선히 버전)_TD02 etc||",
-"https://blog.kakaocdn.net/dn/Ceo4d/btsM98YzPlV/aIBqypbgKkmqu83G90tME0/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%84%9C%ED%98%84.mp3?attach=2&knm=tfile.mp3|2[태담 희망] 하늘과 바다의 선물 (서현 버전)_TD04 etc||",
-"https://blog.kakaocdn.net/dn/6EKii/btsNbqQWTwU/qRNp7c1EBroFB7Gie4eWKk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%88%9C%EB%B3%B5.mp3?attach=2&knm=tfile.mp3|2[태담 희망] 파랑이와 하늘의 선물 (서현 버전)_TD06 etc||",
-"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|2[건강 기원] 파랑아, 우리 곁에 올 그날까지 ('레몬 트리'처럼 활기차고 즐거운 분위기)_W13_GPT riffusion||",
-"https://blog.kakaocdn.net/dn/bWmAHr/btsNUB5W5CV/IK84tS3rAcxbsRTZcBlTAk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%ED%83%84%EC%83%9D%EC%9D%84%20%EC%B6%95%ED%95%98%29_WM21_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|2[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (한국팝 듀엣, 아기 향한 기쁨과 축복)_WM21_GPT FUZZ-1.0||",
-"https://cdn1.suno.ai/8ee07cb1-38e0-4b8c-a546-323a0900ea54.mp3|2[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (7080, 통기타 하모니카 타악기)_MW37 v4.5-all||",
-"https://cdn1.suno.ai/8d1cab81-0a83-413e-9319-30d8c279a1d3.mp3|2[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (통기타 첼로, 새로운 시작)_MW31 v4.5||",
-"https://cdn1.suno.ai/d7d915e3-d9b7-4053-a1bb-a588ae3d39dd.mp3|2[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (할아버지 할머니의 소원)_M31 v4.5||",
-"https://cdn1.suno.ai/d6651b9d-6ad1-4849-a293-6d2074b9508d.mp3|2[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (7080, 통기타 하모니카 타악기)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/53f58222-9e8d-441e-9511-b2f4a671fabc.mp3|2[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (첼레스타, 새로운 삶을 축하)_WM03 v4.5-all||",
-"https://cdn1.suno.ai/4dc304a8-7ebc-4639-9745-10b5890b880f.mp3|2[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (하드록과 댄서블한 그루브 디스코)_MW09 v4.5-all||",
-"https://cdn1.suno.ai/15abde9f-dcca-484b-b473-b18f6009d042.mp3|2[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (7080 100~120 BPM, 활기차고 경쾌한 템포의 통기타 하모니카 타악기)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/ec8dd3d7-daea-40a7-a372-bd7b1461cd27.mp3|2[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트, 역동적인 댄스 비트)_MW05 v4.5-all||",
-"https://cdn1.suno.ai/063c8d16-f3cd-43ef-955c-06ed16154694.mp3|2[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (경쾌한 템포의 트로트 듀엣)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/0125b64f-7a29-497a-90ea-1355a75ddc4c.mp3|2[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (오페라 발라드, 현악 금관악기)_MW13 v4.5-all||",
-"https://cdn1.suno.ai/915a0008-7de4-45f2-8abb-f2d29a3e9568.mp3|2[작명 축복] 예쁜 이름 로운아, 축하해! <br>(행진곡 금관악기, 영웅적 축제적)_MW01 v4.5||",
-"https://cdn1.suno.ai/4638095c-bb2f-4d21-ab07-6a93d12f3588.mp3|2[작명 축복] 로운아, 빛나라~~~ ☆ <br>(7080, 통기타 하모니카 타악기)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/b7c66bee-eda1-4324-956f-f94c0ecfaa71.mp3|2[작명 축복] 로운아, 빛나라~~~ ☆ <br>(산골 요들송 135bpm, 가족애)_M09 v4.5-all||",
-"https://cdn1.suno.ai/5853b382-ca3a-47fe-9499-8d047637021a.mp3|2[작명 축복] 로운아, 빛나라~~~ ☆ <br>(트로트, 역동적인 댄스 비트)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/7da927b6-7f7d-4e71-9577-b09963933672.mp3|2[작명 축복] 로운아, 빛나라~~~ ☆ <br>(행진곡, 희망찬 새로운 미래)_W16 v4.5||",
-"https://cdn1.suno.ai/00c3b8cb-6468-4e24-a8e9-473a39c0b550.mp3|2[작명 축복] 로운에게 보내는 할아머니의 축복 (가벼운 발걸음으로 산책하는 듯한 기분)_W08 v4.5||",
-"https://cdn1.suno.ai/a0633b3b-5dfb-431c-9960-5ecbb5de144c.mp3|2[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(7080 포크송, 통기타, 하모니카)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/0abf9f8d-4928-4640-ad48-1f961536724f.mp3|2[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(밝고 단순한 멜로디, 안정적인 박자)_WM01 v4.5||",
-"https://cdn1.suno.ai/f426bd56-4b4e-4d85-9656-00e97350a11b.mp3|2[작명 축복] 이 세상 이름, 로운에게 <br>(브라스 밴드 행진곡 영웅적 축제적)_M10 v4.5||",
-"https://cdn1.suno.ai/d0d3d651-ae33-462a-a3cd-dfb06d73ab4b.mp3|2[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 가벼운 발걸음의 트레킹)_MW02 v4.5||",
-"https://cdn1.suno.ai/9aa2e6f5-acf3-41fb-91e4-5ebfce0f5f98.mp3|2[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (가벼운 행진곡 리듬의 트로트 듀엣)_WM06 v4.5+||",
-"https://cdn1.suno.ai/e249f873-967d-4689-a156-c28051132ed3.mp3|2[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (경쾌한 행진곡 리듬, 트로트 스타일)_MW08 v4.5+||",
-"https://cdn1.suno.ai/1193fe9f-59f1-4b74-b49e-e33187dedf10.mp3|2[백일 축하] 로운에게 보내는 百日 축하 (오페라 발라드, 극적인 오케스트레이션)_MW28 v4.5-all||",
-"https://cdn1.suno.ai/adba19da-00c2-4c98-9ba1-f6ec7cd7f6e2.mp3|2[백일 축하] 로운에게 보내는 百日 축하 <br>(가벼운 클래식 크로스오버)_MW22 v4.5+||",
-"https://cdn1.suno.ai/bda6b75b-54aa-40ed-a3b8-9ab41cdf5f19.mp3|2[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (영화적인 심포닉 메탈, 브라스)_MW29 v4.5-all||",
-"https://cdn1.suno.ai/f2e8d536-e7a7-412b-be7c-d511a3cf3f0e.mp3|2[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (인디)_MW08 v4.5+||",
-"https://cdn1.suno.ai/8043225e-1eb7-4ed8-a18d-6b8ee1df6077.mp3|2[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (일렉트로 신스웨이브 덥스텝)_M12 v4.5-all||",
-"https://cdn1.suno.ai/e9dc2a38-e2a4-4b40-a8ae-347e5f9b4f17.mp3|2[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (트로트 듀엣의 주고받는 보컬)_MW05 v4.5+||",
-"https://cdn1.suno.ai/cf1a24b0-c22e-4488-9e3b-c3ad61f69417.mp3|2[생일 축하] 당신들의 생일을 축하합니다 <br>(교향곡 금관악기, 기쁨과 환희)_M04 v4.5+||",
-"https://cdn1.suno.ai/d1f8dabf-3db2-4631-a61d-86958a1a57af.mp3|2[생일 축하] 당신들의 생일을 축하합니다 <br>(오케스트라, 낭만적인 축하 분위기)_M02 v4.5+||",
-"https://cdn1.suno.ai/88160654-39fc-4029-80e7-71009a63e51e.mp3|2[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_M02 v5||",
-"https://cdn1.suno.ai/9a4660e6-f404-4b9e-b8e6-4246b9651735.mp3|2[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_M03 v5||",
-"https://cdn1.suno.ai/2a564d1c-a959-4802-8f03-cfa686987bdd.mp3|3[잉태 기쁨] 파랑이의 꿈 (동요풍, 100~120BPM)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/c69a037a-831c-499d-954b-12e98e37f425.mp3|3[잉태 기쁨] 파랑이의 노래 <br>(동요풍 갓 태어난 아기 신기함 설렘)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/aa0878fb-a7b6-4b43-ad38-8e2475e66d9c.mp3|3[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(아기 탄생을 축복, 밝고 즐거운 노래)_MW07 v4.5-all||",
-"https://cdn1.suno.ai/f123deb0-9bdb-4f73-a59e-13f3f89b1703.mp3|3[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (사랑, 축복, 희망, R&B 95BPM)_W31 v4.5||",
-"https://cdn1.suno.ai/b7e45779-6b08-41f8-80b0-81374e765c51.mp3|3[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (사랑, 축복, 희망, R&B 95BPM)_WM32 v4.5||",
-"https://cdn1.suno.ai/501ad502-f776-4f21-8cbe-fc8e9ac83a71.mp3|3[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (아기 탄생을 축복. 밝고 즐거운 노래)_MW34 v4.5-all||",
-"https://cdn1.suno.ai/e9b26c85-d329-4895-bd1f-039c5a6b842e.mp3|3[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (할아머니의 소원 희망 축하)_W31 v4.5||",
-"https://cdn1.suno.ai/deea0b3a-aee5-405e-be1c-7236e33ec6e1.mp3|3[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (동요풍, 갓 태어난 아기 신기함 설렘)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/d48e54e6-9b4f-49aa-846b-ca0ce243a966.mp3|3[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (아이들의 자유로운 영혼)_W10 v4.5||",
-"https://cdn1.suno.ai/7a245e35-093f-4287-a2a8-363f86b36630.mp3|3[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (동요, 아기에 대한 신기함 설렘)_MW10 v4.5-all||",
-"https://cdn1.suno.ai/4784bacf-2878-4d16-bf92-680abc2f57a2.mp3|3[작명 축복] 예쁜 이름 로운아, 축하해! <br>(동심, 새로운 시작을 축하)_W16 v4.5||",
-"https://cdn1.suno.ai/0e6f2a9c-4cdc-40fd-9fad-3b4789ab60da.mp3|3[작명 축복] 로운아, 빛나라~~~ ☆ <br>(동심, 새로운 시작을 축하)_W08 v4.5||155",
-"https://cdn1.suno.ai/d2e160b7-9ac2-4e20-a679-acb84a255b6f.mp3|3[작명 축복] 로운아, 빛나라~~~ ☆ <br>(동심, 새로운 시작을 축하)_W10 v4.5||",
-"https://cdn1.suno.ai/194be618-781d-4526-b15d-df98704557b2.mp3|3[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(동심, 새로운 시작을 축하)_MW07 v4.5-all||",
-"https://cdn1.suno.ai/d2541a89-0e74-466a-80ad-1a2ed7b726d1.mp3|3[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(동심, 새로운 시작을 축하)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/487f1bf4-5e3d-4e8d-90bd-dfa94cd4e3a5.mp3|3[작명 축복] 이 세상 이름, 로운에게 (가벼운 발걸음으로 트레킹을 떠나는 듯한 기분)_W07 v4.5||",
-"https://cdn1.suno.ai/841c001b-16c7-4e5a-bb05-98b5528eed11.mp3|3[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 행진곡 희망 새로운 미래)_W01 v4.5||",
-"https://cdn1.suno.ai/3d31d0df-7f1e-4320-b910-505c0b34dbcb.mp3|3[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, '레몬 트리' 분위기)_W03 v4.5||",
-"https://cdn1.suno.ai/bad69ddb-75eb-4e05-bf1e-e8bf7a7b9c95.mp3|3[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (밝고 경쾌한 아기 축하 노래)_WM02 v4.5+||",
-"https://cdn1.suno.ai/ea32fb82-4dc4-495c-b04f-c84bfafff0c1.mp3|3[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (아기 음악, 우쿨렐레 실로폰 탬버린)_MW20 v4.5-all||",
-"https://cdn1.suno.ai/e935bd5f-759f-4fff-a1d4-f8b6ea42f531.mp3|3[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (장난스럽고 활기찬 분위기)_W15 v4.5-all||",
-"https://cdn1.suno.ai/b6bb3306-0bdb-4c1a-ad9a-eeb69eb90eeb.mp3|3[백일 축하] 로운에게 보내는 百日 축하 <br>(뽀로로와 같은 아기 주제가 분위기)_MW27 v4.5-all||",
-"https://cdn1.suno.ai/6d25c7df-998a-476c-9b5e-a43feda16ddb.mp3|3[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (동요, 아기에 대한 신기함과 설렘)_MW24 v4.5-all||",
-"https://cdn1.suno.ai/eaf77eb2-d692-42c4-bd1d-05836d7f5821.mp3|3[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (7080 포크송, 통기타 타악기)_MW03 v4.5+||",
-"https://cdn1.suno.ai/56256ca4-6ce8-4be4-933d-85b2aa27e290.mp3|4[잉태 기쁨] 파랑이의 꿈 (바이올린 독주 오케스트라, 새로운 삶을 찬양)_WM04 v4.5-all||",
-"https://cdn1.suno.ai/e750f9d7-a91c-464b-bf56-aefc5f302844.mp3|4[잉태 기쁨] 파랑이의 노래 <br>(심포닉 EDM 오케스트라 140BPM)_W04 v4.5-all||",
-"https://cdn1.suno.ai/bf65f8e0-775d-4011-8f0e-bfdfdbd7a4f6.mp3|4[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(바이올린 독주 오케스트라, 기대)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/c43eb309-81c7-47ce-a2f6-1340d948103c.mp3|4[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피아노 바이올린 오케스트라 협주)_MW37 v4.5-all||",
-"https://cdn1.suno.ai/851344a2-c452-4f3c-b316-138ce71f5baf.mp3|4[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (손주를 향한 깊은 사랑과 축복, 감성적인 발라드 70BPM)_MW31 v4.5||",
-"https://cdn1.suno.ai/e7209213-81da-45fe-aa92-53f8ea38963b.mp3|4[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (발라드, 통기타 잔잔한 타악기)_MW32 v4.5-all||",
-"https://cdn1.suno.ai/5568b824-2ee7-429b-9a5f-e6338d6bf2cc.mp3|4[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (발라드 피아노, 사랑, 탄생, 꿈, 감사)_WM01 v4.5||",
-"https://cdn1.suno.ai/c9843d50-8aa6-4337-a27e-eb77f8e0157a.mp3|4[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 <br>(심포닉 EDM 오케스트라 140BPM)_MW13 v4.5-all||",
-"https://cdn1.suno.ai/fa6c676b-7b2e-4aaf-9c95-68151b436a5d.mp3|4[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트 듀엣의 주고받는 보컬)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/24b10b69-5fc3-4eee-aa59-efe9917148dd.mp3|4[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (오케스트라, 웅장한 앙상블)_M01 v4.5-all||",
-"https://cdn1.suno.ai/6c6429dc-bbe5-42aa-96f3-b579d96c0062.mp3|4[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (오페라 발라드, 현악 금관악기)_MW12 v4.5-all||",
-"https://cdn1.suno.ai/45acd5c3-d509-42cb-a5f8-21c26de4004f.mp3|4[작명 축복] 예쁜 이름 로운아, 축하해! <br>(오케스트라 요소, 우아하고 감성적)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/ab738c92-04ed-4ff1-9d3e-cc8228ad5bdf.mp3|4[작명 축복] 예쁜 이름 로운아, 축하해! <br>(클래식 오케스트라, 평화 사랑 축복)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/074eee5b-8eeb-4f8c-a550-74e32c6dda70.mp3|4[작명 축복] 로운아, 빛나라~~~ ☆ (감성 발라드, 밝은 미래를 기원하는 분위기)_M02 v4.5||",
-"https://cdn1.suno.ai/06401ba5-0de9-4f2f-aca3-6146adcfdc40.mp3|4[작명 축복] 로운아, 빛나라~~~ ☆ <br>(한국 전통 발라드, 대금)_W19 v4.5-all||",
-"https://cdn1.suno.ai/ded5976e-c19b-489f-b4cb-316698d2ff4e.mp3|4[작명 축복] 로운아, 빛나라~~~ ☆ <br>(한국 전통 발라드, 피아노 바이올린)_M06 v4.5-all||",
-"https://cdn1.suno.ai/4dd750df-4446-491a-867a-2171a132dc29.mp3|4[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(발라드, 사랑스러움, 평화로움)_M03 v4.5||",
-"https://cdn1.suno.ai/d61277ec-195b-4c94-b4bb-a346c9c3eced.mp3|4[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(한국 전통 사극 발라드, 오케스트라)_W11 v4.5-all||",
-"https://cdn1.suno.ai/37eb67a5-3656-409b-97ed-67a3e598828f.mp3|4[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(한국 전통 사극 발라드, 오케스트라)_W12 v4.5-all||",
-"https://cdn1.suno.ai/868d93ba-9421-4e2d-92f7-ead053deb960.mp3|4[작명 축복] 이 세상 이름, 로운에게 (발라드 통기타, 자부심, 기쁨, 격려의 마음)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/d2468781-eef6-4269-a8e3-d6cf1b31478a.mp3|4[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 오케스트라 반주 행진곡)_MW01 v4.5||",
-"https://cdn1.suno.ai/1f2787bc-f26f-49d7-b693-0cd02c56393e.mp3|4[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (감성적인 딥 하우스, 신디 퍼커션)_MW16 v4.5-all||",
-"https://cdn1.suno.ai/484f8462-66b9-4688-8da1-21d9c9e2e07a.mp3|4[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (바이올린 신스팝)_MW13 v4.5+||",
-"https://cdn1.suno.ai/6f69af5e-0850-4764-a8de-0a2b8aabf663.mp3|4[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (트로트, 다소 느린 80bpm)_MW11 v4.5+||",
-"https://cdn1.suno.ai/f6a9b344-95a2-42b7-9a02-2599d2013a39.mp3|4[백일 축하] 로운에게 보내는 百日 축하 (한국 전통 사극 발라드, 오케스트라 현악기)_W03 v4.5-all||",
-"https://cdn1.suno.ai/e87ee37c-7bf5-407b-ab05-75cee03a36c7.mp3|4[백일 축하] 로운에게 보내는 百日 축하 <br>(바이올린 신스팝)_MW09 v4.5+||",
-"https://cdn1.suno.ai/9e9c057c-1b18-460e-89af-17345035853f.mp3|4[백일 축하] 로운에게 보내는 百日 축하 <br>(발라드 85 BPM, 감사, 기쁨, 사랑)_MW01 v4.5+||",
-"https://cdn1.suno.ai/43535c9c-c894-4525-8fed-1a80706b4677.mp3|4[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (감성적인 발라드 75 BPM)_MW01 v4.5+||",
-"https://cdn1.suno.ai/f36ff294-9640-47c6-9dee-30470d49e922.mp3|4[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (심포닉 EDM 오케스트라)_MW27 v4.5-all||",
-"https://cdn1.suno.ai/42a314cb-f688-4cad-91a4-45a86a63030b.mp3|4[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (내성적, 감성적 절제된 향수)_M14 v4.5-all||",
-"https://cdn1.suno.ai/267869f8-2b38-48fe-a4ce-70460503eae7.mp3|4[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (바이올린 베이스 드럼, 낭만적인)_M08 v4.5+||",
-"https://cdn1.suno.ai/8d3d5b3d-5c89-4bde-acca-21b7b266afbb.mp3|4[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (발라드 피아노 색소폰 헌신 애정)_M06 v4.5+||",
-"https://cdn1.suno.ai/ace19fb7-58cc-4bb0-9f32-4b112fe7df22.mp3|4[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (발라드)_M05 v4.5+||",
-"https://cdn1.suno.ai/08f45616-b4c9-4454-9ca2-ab6e3ba1adc0.mp3|4[생일 축하] 당신들의 생일을 축하합니다 <br>(교향곡 금관악기, 기쁨과 환희)_M03 v4.5+||",
-"https://cdn1.suno.ai/420bb0a7-4c19-4afe-be32-54031c3a0815.mp3|4[생일 축하] 당신들의 생일을 축하합니다 <br>(오케스트라, 낭만적인 축하 분위기)_M01 v4.5+||",
-"https://cdn1.suno.ai/c31ee404-ee66-42b3-b813-55f53904eed5.mp3|4[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_W03 v5||",
-"https://cdn1.suno.ai/38c73479-2029-46a0-9cd0-7e6d2dc8f1b1.mp3|4[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 사극 발라드)_W01 v5||",
-"https://cdn1.suno.ai/6723d32e-109c-462a-8363-ee000a733f79.mp3|5[잉태 기쁨] 파랑이의 꿈 (케이팝)_W01 v4||194",
-"https://cdn1.suno.ai/9e89c24f-5add-4c60-884f-8779362bdcd7.mp3|5[잉태 기쁨] 파랑이의 노래 (자장가, 신스 멜로디)_W02 v4||",
-"https://cdn1.suno.ai/cf5475df-6c32-485a-8a6a-c9af276aabfe.mp3|5[건강 기원] 파랑아, 우리 곁에 올 그날까지 (실험적 미니멀 테크노 역동적 신디사이저)_W03 v4.5-all||",
-"https://cdn1.suno.ai/48d48944-5d47-45a4-bb34-c95b21b5f6c5.mp3|5[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(브라스밴드 행진, 희망, 새로운 시작)_M10 v4.5-all||",
-"https://cdn1.suno.ai/134a34c9-5ed4-4547-a31e-4e94b4142123.mp3|5[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (아기 탄생을 축복, 밝고 즐거운 노래)_MW35 v4.5-all||",
-"https://cdn1.suno.ai/14fbc195-88e8-41ee-9735-5f94addfde38.mp3|5[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (트롯댄스 금관악기 신디사이저)_MW34 v4.5-all||",
-"https://cdn1.suno.ai/a9af7d35-1c34-49c1-af0a-36e6b3daff8a.mp3|5[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (클럽, DJ, 신스 중심의 팝 일렉트로)_MW07 v4.5-all||",
-"https://cdn1.suno.ai/aad5b74b-a49a-4183-81f1-9956c075b6c3.mp3|5[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (클럽, DJ, 신스 중심의 팝 일렉트로)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/da8d46e4-1d9e-4a64-901b-3260cdec05f4.mp3|5[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (하드록과 댄서블한 그루브 디스코)_MW10 v4.5-all||",
-"https://cdn1.suno.ai/8f1653aa-4783-4103-a2bd-ec6f1bd9308d.mp3|5[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트, 역동적인 댄스 비트)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/1a463b68-bdab-40e7-808a-8a639370fa23.mp3|5[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (행진곡 금관악기, 영웅적 축제적)_M10 v4.5||",
-"https://cdn1.suno.ai/7346e7ed-c747-4f12-a4f2-7b9d9273462d.mp3|5[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (경쾌한 템포의 트로트 듀엣)_MW07 v4.5-all||",
-"https://cdn1.suno.ai/f4c3af5f-2657-4ef8-bcb2-3815db5ad3f2.mp3|5[작명 축복] 예쁜 이름 로운아, 축하해! (인디)_W08 v4.5||",
-"https://cdn1.suno.ai/9e417258-3f45-4a07-b743-ec5fc031e107.mp3|5[작명 축복] 예쁜 이름 로운아, 축하해! <br>(발랄 에너지, 즐겁고 유쾌한 분위기)_WM01 v4.5||",
-"https://cdn1.suno.ai/5ba74d41-4116-4813-9b8d-a41a1c58a55c.mp3|5[작명 축복] 예쁜 이름 로운아, 축하해! <br>(밝고 경쾌한 분위기의 행진곡풍)_W01 v4.5||",
-"https://cdn1.suno.ai/b0a8b250-ab97-4018-b315-6ddd93b236c3.mp3|5[작명 축복] 로운아, 빛나라~~~ ☆ (레이어드 신디사이저, 박동 베이스, 전자 드럼)_W20 v4.5-all||",
-"https://cdn1.suno.ai/b1d18e64-4e52-476b-8d14-659a2870123d.mp3|5[작명 축복] 로운아, 빛나라~~~ ☆ (레이어드 신디사이저, 박동 베이스, 전자 드럼)_W21 v4.5-all||",
-"https://cdn1.suno.ai/cb1f31f7-0687-4431-8bf7-86e77c236709.mp3|5[작명 축복] 로운아, 빛나라~~~ ☆ <br>(일렉트로 댄스, 신스웨이브, 덥스텝)_M05 v4.5-all||",
-"https://cdn1.suno.ai/9f5a1eaa-2d86-43dd-acf1-dbdca429cd8b.mp3|5[작명 축복] 로운아, 빛나라~~~ ☆ <br>(트로트, 역동적인 댄스 비트)_MW07 v4.5-all||",
-"https://cdn1.suno.ai/78f69d24-ba2f-4fd1-850e-f6a3ecd80c72.mp3|5[작명 축복] 로운아, 빛나라~~~ ☆ <br>(행진곡 금관악기, 영웅적 축제적)_W14 v4.5||",
-"https://cdn1.suno.ai/3ef3aa1f-9185-4ed6-a095-ce3378591458.mp3|5[작명 축복] 로운에게 보내는 할아머니의 축복 (80년대 이탈로 디스코, 신스웨이브)_M07 v4.5-all||",
-"https://cdn1.suno.ai/c72112dd-864f-4d5e-bf93-663eb4aad41b.mp3|5[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(댄스, EDM 트로트 크로스오버)_W09 v4.5-all||",
-"https://cdn1.suno.ai/97ede6bc-d4d8-4ed3-9c4d-3083ea526b79.mp3|5[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(트로트 댄스, 신디사이저 사운드)_MW10 v4.5-all||",
-"https://cdn1.suno.ai/f6136165-171f-4061-9bf4-889c24f75abe.mp3|5[작명 축복] 이 세상 이름, 로운에게 <br>(행진곡 금관악기, 영웅적 축제적)_WM02 v4.5||",
-"https://cdn1.suno.ai/2e509f2e-2585-4634-9e8d-a324f9543075.mp3|5[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 오케스트라 반주 행진곡)_M05 v4.5||",
-"https://cdn1.suno.ai/0697cce7-cef7-441c-92fb-cb954973a46b.mp3|5[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, 행진곡 영웅적 축제적)_M03 v4.5||",
-"https://cdn1.suno.ai/28556913-5077-455e-8485-94c37c097ce4.mp3|5[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (댄스, 페스티벌 EDM 트로트 퓨전)_W13 v4.5-all||",
-"https://cdn1.suno.ai/74fdf1df-21bb-4f10-8db7-791d3bfd7d2e.mp3|5[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (댄스, 페스티벌 EDM 트로트 퓨전)_W14 v4.5-all||",
-"https://cdn1.suno.ai/28b80768-523f-4bb9-9921-7c39bfc0a521.mp3|5[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (바이올린 신스팝)_MW14 v4.5+||",
-"https://cdn1.suno.ai/fbdb71ae-acd3-481f-96bc-35c2be86369a.mp3|5[백일 축하] 로운에게 보내는 百日 축하 (80년대 분위기, 신디사이저 일렉트릭 기타)_MW40 v4.5-all||",
-"https://cdn1.suno.ai/36a1987d-bfeb-4fb8-9b1a-08e3473ee0be.mp3|5[백일 축하] 로운에게 보내는 百日 축하 <br>(바이올린 신스팝)_MW08 v4.5+||",
-"https://cdn1.suno.ai/3fa1add0-d1c1-4722-b0d6-46d95c46905d.mp3|5[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (80년대, 뉴 웨이브 펑크 웨이브)_MW21 v4.5+||",
-"https://cdn1.suno.ai/c444768c-434b-4635-ad33-1a56c23ab0be.mp3|5[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (감성적인 이모 팝 80bpm)_MW14 v4.5+||",
-"https://cdn1.suno.ai/3a0734e0-46a6-424e-905a-986ee6c550ea.mp3|5[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (브라스밴드 행진, 트럼펫 트롬본)_M09 v4.5+||",
-"https://cdn1.suno.ai/3a580bea-be87-485c-beae-c21d0f9e8874.mp3|5[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (일렉트로 신스웨이브 덥스텝)_M11 v4.5-all||",
-"https://cdn1.suno.ai/396e05a5-ef14-4d52-8f53-87b64c85adc6.mp3|5[생일 축하] 당신들의 생일을 축하합니다 <br>(브라스밴드 행진곡, 낭만적 분위기)_M06 v4.5+||",
-"https://cdn1.suno.ai/1b2294c2-fe70-4928-8962-fb79d47dc387.mp3|5[생일 축하] 당신들의 생일을 축하합니다 <br>(트로트 듀엣의 주고받는 보컬)_M07 v4.5+||",
-"https://cdn1.suno.ai/bdf54d1b-1bc1-4220-8cad-f515de8828eb.mp3|6[잉태 기쁨] 파랑이의 꿈 <br>(클래식 오케스트라, 평화 사랑 축복)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/53816af0-7e6d-4da9-936a-1cf950313619.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(아기를 기다리는 행복한 마음)_WM01 v4||",
-"https://cdn1.suno.ai/6530f27c-dbfa-44c1-b7bd-18bd1771b7e9.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (바이올린 독주와 오케스트라 협주곡)_MW39 v4.5-all||",
-"https://blog.kakaocdn.net/dn/bqJREe/btsNR8jfu96/SGKmzuZPkgvIPc4K64oxn1/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%EC%82%AC%EB%9E%91%2C%20%ED%83%84%EC%83%9D%2C%20%EA%BF%88%2C%20%EA%B0%90%EC%82%AC%29_M23_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피아노, 사랑, 탄생, 꿈, 감사)_M23_GPT FUZZ-1.0||",
-"https://cdn1.suno.ai/5ded02ea-7b73-47d8-a575-fddafaa2d398.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (성장 가족의 행복을 축하, 85 BPM)_MW32 v4.5||",
-"https://cdn1.suno.ai/c0ad549b-93aa-45ec-8b6e-37411afc6c98.mp3|6[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (7080 통기타 하모니카 타악기)_MW35 v4.5-all||",
-"https://cdn1.suno.ai/4ec417cd-ca36-4da6-a721-fd85b814bb66.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (7080, 통기타 하모니카 타악기)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/73945007-b44a-4983-8d97-9d6c9645cb92.mp3|6[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (오케스트라, 웅장한 앙상블)_MW11 v4.5-all||",
-"https://cdn1.suno.ai/152db13f-a83c-4853-9ab2-b23ac075b84d.mp3|6[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (통기타, 경쾌한 즐거운 분위기)_MW04 v4.5||",
-"https://cdn1.suno.ai/a6a4ef5c-ace7-4692-b78c-02ae5917f2e7.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/005de5ea-2563-4ff8-bf00-21c92719362f.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ (인디)_M04 v4.5||",
-"https://cdn1.suno.ai/1337cf7f-5d35-4a12-9792-c7faff370869.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ <br>(요들송, 희망적 축제적 분위기)_MW05 v4.5-all||",
-"https://cdn1.suno.ai/a80c01e0-efd8-4aff-9bb4-79901dda34eb.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(7080 포크송, 통기타, 하모니카)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/f5eb6228-9265-4958-b293-d0ab6eeaebd7.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(행진곡, 희망찬 새로운 미래)_WM02 v4.5||",
-"https://cdn1.suno.ai/a708bc2f-ff93-49ad-abba-513718a62896.mp3|6[작명 축복] 이 세상 이름, 로운에게 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_MW05 v4.5-all||",
-"https://cdn1.suno.ai/6fd0ae7e-52bd-4658-b3ec-376c737a6389.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (가벼운 행진곡 리듬의 트로트 듀엣)_MW05 v4.5+||",
-"https://cdn1.suno.ai/20e1e1a1-fb0a-420b-b0b7-8620776ca081.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (경쾌한 행진곡 리듬, 트로트 스타일)_WM04 v4.5+||",
-"https://cdn1.suno.ai/0403f6ef-6f27-4fe5-b326-0e9ccea5dfcc.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (장난스럽고 활기찬 멜로디)_MW01 v4.5+||",
-"https://cdn1.suno.ai/9ae0ec37-3a32-4301-9d57-62c4a467fac8.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (장난스럽고 활기찬 멜로디)_MW02 v4.5+||",
-"https://cdn1.suno.ai/d6996445-6b86-4c0b-9f10-301d1834dc23.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (트로트 다소 느린 80bpm)_W12 v4.5+||",
-"https://cdn1.suno.ai/a87c0f53-09c7-4ecc-84c7-68cb989da353.mp3|6[백일 축하] 로운에게 보내는 百日 축하 <br>(가벼운 클래식 크로스오버)_MW23 v4.5+||",
-"https://cdn1.suno.ai/4fedc516-5aee-4051-8cf1-a0c8fbfad04b.mp3|6[백일 축하] 로운에게 보내는 百日 축하 <br>(가벼운 행진곡 리듬의 트로트 듀엣)_MW06 v4.5+||",
-"https://cdn1.suno.ai/5ccc01e3-2b46-40f7-b1b1-0144d23acd28.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (오케스트라 요소, 80~95 BPM)_WM04 v4.5+||",
-"https://cdn1.suno.ai/1dea7f00-9bd1-40ab-b8ad-942cd10a43c2.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (웅장한 서정적인 클래식 스타일)_MW04 v4.5+||",
-"https://cdn1.suno.ai/55ff7625-8175-4995-9735-1fea056f9f0f.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (트로트 특유의 비브라토와 벤딩)_MM01 v4.5+||",
-"https://cdn1.suno.ai/74d4d057-4a49-47ad-8083-5e8025c5fccb.mp3|6[증조모 생일] 울 엄마의 기구했던 생일 <br>(서정적 포크)_M04 v5||",
-"https://cdn1.suno.ai/e52bf5bc-a8cc-476a-afd4-88743305532a.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(브라스밴드 행진, 희망, 새로운 시작)_M09 v4.5-all||",
-"https://cdn1.suno.ai/bf8f7651-0ed4-4fc3-90c1-7e9f168a5450.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피아노 현악,관악기 장엄한 분위기)_M32 v4.5-all||",
-"https://cdn1.suno.ai/78934dc9-0b1f-4d03-8be7-0b7cc8911759.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피아노 현악,관악기 장엄한 분위기)_MW35 v4.5-all||",
-"https://cdn1.suno.ai/1ddbd86b-ec33-4470-a708-8d4b64dac72d.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (7080, 통기타 하모니카 타악기)_MW36 v4.5-all||",
-"https://cdn1.suno.ai/dd98d5de-f29e-4256-babc-21041c150e74.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (피아노, 평화로운 작은 별의 자장가)_WM37 v4.5||",
-"https://cdn1.suno.ai/bd8e589a-81f4-4932-85c1-502224db5727.mp3|6[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (7080 통기타 하모니카 타악기)_MW36 v4.5-all||",
-"https://cdn1.suno.ai/efa8a6cf-3b75-4a17-ab9b-bcc6eb8601fb.mp3|6[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (발라드, 통기타 잔잔한 타악기)_MW33 v4.5-all||",
-"https://cdn1.suno.ai/d59459ba-ecee-4328-92d4-1e8b03a577aa.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (첼레스타, 새로운 삶을 축하)_WM02 v4.5-all||",
-"https://cdn1.suno.ai/b634db3e-1203-49c8-81a4-afee051e540b.mp3|6[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (새로운 이름, 새로운 세상)_W02 v4.5||",
-"https://cdn1.suno.ai/333b47f6-69cf-449f-be65-87104a71a89f.mp3|6[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (7080 포크, 통기타, 하모니카)_MW05 v4.5-all||",
-"https://cdn1.suno.ai/b771a102-fbde-4607-97f3-e4cf163490fa.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ <br>(7080, 통기타 하모니카 타악기)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/364e14ce-7283-492a-9776-68ccb4ad45c7.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(밝고 감성적이며 즐거운 분위기)_WM05 v4.5||",
-"https://cdn1.suno.ai/3cc310a7-333b-4f85-9e48-7d7ef93f60ea.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(밝고 감성적이며 즐거운 분위기)_WW01 v4.5||",
-"https://cdn1.suno.ai/e6566255-2666-4d61-875e-6103d3057648.mp3|6[작명 축복] 이 세상 이름, 로운에게 (발라드 통기타, 자부심, 기쁨, 격려의 마음)_MW01 v4.5-all||",
-"https://cdn1.suno.ai/3c1dce55-2a9f-4b4a-bf96-694b1c90c513.mp3|6[작명 축복] 이 세상 이름, 로운에게 <br>(행진곡, 밝고 희망찬 새로운 미래)_W01 v4.5||",
-"https://cdn1.suno.ai/9a578502-6907-4045-b641-c93e9510d57e.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (7080, 통기타 하모니카 타악기)_MW18 v4.5-all||",
-"https://cdn1.suno.ai/4b734316-af2e-4550-9bf3-ee9efa0d62c8.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (경쾌한 행진곡 리듬, 트로트 스타일)_WM05 v4.5+||",
-"https://cdn1.suno.ai/870e20b8-3f54-4393-9e4b-bfc83330722e.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (밝고 경쾌한 동요 100~120 BPM)_WM03 v4.5+||",
-"https://cdn1.suno.ai/93874342-bef4-4349-992e-af5b410a247d.mp3|6[백일 축하] 로운에게 보내는 百日 축하 (K팝 특유의 활기차고 생동감 넘치는 에너지)_MW24 v4.5-all||",
-"https://cdn1.suno.ai/e1abd8b6-1410-45d8-b7a7-1782bdee8d03.mp3|6[백일 축하] 로운에게 보내는 百日 축하 (컨트리)_MW20 v4.5+||",
-"https://cdn1.suno.ai/ec54aff3-7e67-48bf-859a-123bebd55077.mp3|6[백일 축하] 로운에게 보내는 百日 축하 (컨트리)_MW21 v4.5+||",
-"https://cdn1.suno.ai/7bd7c349-6a64-4960-b7a4-6f158667ba71.mp3|6[백일 축하] 로운에게 보내는 百日 축하 (한국 전통 사극 발라드, 오케스트라 현악기)_W04 v4.5-all||",
-"https://cdn1.suno.ai/740dd4d1-7d96-4b01-afb9-c74a7262ed38.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (발라드, 컨트리 음악, 남녀 보컬)_MW19 v4.5+||",
-"https://cdn1.suno.ai/04609942-0777-4631-a924-73cbf2dd5893.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (영화적인 심포닉 메탈, 브라스)_MW28 v4.5-all||",
-"https://cdn1.suno.ai/87e3c77f-f7ef-4b5b-80d7-91c4b02211d8.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (오케스트라 요소 80~95 BPM)_MW22 v4.5+||",
-"https://cdn1.suno.ai/204a4b73-5816-4d70-999b-88b8689d36c3.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (트로트 90bpm)_MW07 v4.5+||",
-"https://cdn1.suno.ai/593a6203-ab8f-4836-99eb-aa256084b1f2.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (트로트, 다소 느린 80bpm)_MW06 v4.5+||",
-"https://cdn1.suno.ai/b687b145-4b3d-44cd-aeb0-738f7192c4a0.mp3|6[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (7080 포크송, 통기타 타악기)_MW04 v4.5+||",
-"https://cdn1.suno.ai/3b8b6559-9be5-4214-8407-9d0b5a7c38ab.mp3|6[증조모 생일] 울 엄마의 기구했던 생일 <br>(바이올린 신스팝)_MW01 v5||",
-"https://cdn1.suno.ai/0e8d59ae-5f23-486e-a93e-e7ac252046fd.mp3|6[잉태 기쁨] 파랑이의 꿈 (바이올린 독주 오케스트라, 새로운 삶을 찬양)_WM05 v4.5-all||",
-"https://cdn1.suno.ai/246bddf1-790c-4c1f-8753-fef0dc8538b6.mp3|6[잉태 기쁨] 파랑이의 꿈 <br>(피아노와 현악기 플룻, 새로운 삶을 축하, 희망적이고 따뜻한 분위기)_WM01 v4.5-all||",
-"https://cdn1.suno.ai/bdd9c2b5-1d09-4cb4-8e97-37603d27c6a4.mp3|6[잉태 기쁨] 파랑이의 노래 (피치카토 우드 블록 리코더, 아이들의 자유로운 영혼)_MW06 v4.5-all||",
-"https://cdn1.suno.ai/c6ef6e98-7adf-492b-8141-6ebd43e2b6d7.mp3|6[잉태 기쁨] 파랑이의 노래 (활기차고 경쾌한 멜로디, 아이들의 자유로운 영혼)_W03 v4.5-all||",
-"https://cdn1.suno.ai/a4b41b41-6984-4d99-aec4-1c87f934dd07.mp3|6[잉태 기쁨] 파랑이의 노래 <br>(동요풍, 갓 태어난 아기 신기함 설렘)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/2e87ff9f-b515-44cf-b7a9-604122893319.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 (밝고 명랑한 동요, 아기 첫걸음 장난기)_MW05 v4.5-all||",
-"https://cdn1.suno.ai/fe8de27d-2d1c-4cb2-aa82-2f36d9fe9068.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 (밝고 명랑한 동요, 아기 첫걸음, 장난기)_MW06 v4.5-all||",
-"https://cdn1.suno.ai/7e9c8395-3070-448d-a334-b80ef211253d.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (어쿠스틱 기타와 부드러운 타악기)_W32 v4.5-all||",
-"https://cdn1.suno.ai/53356ebf-1ea1-417c-a65e-4fd9b0f01bcb.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피치카토 우드블록, 순수 천진난만)_MW33 v4.5-all||",
-"https://cdn1.suno.ai/c3dcbf81-3b60-47b6-af3c-ce63fd4b9956.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피치카토 우드블록, 순수 천진난만)_MW34 v4.5-all||",
-"https://cdn1.suno.ai/cc163dad-2899-4b7b-bd81-aa786a4e202f.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (발라드, 감사, 세대 간의 사랑, 희망)_WM31 v4.5||",
-"https://cdn1.suno.ai/fc929b1f-f8b9-4560-a50d-be77032b3028.mp3|6[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (단순한 멜로디, 활기찬 분위기)_W04 v4.5||",
-"https://cdn1.suno.ai/4e51edb6-c71b-4596-a260-9ff45a262f91.mp3|6[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (새로운 이름, 새로운 세상, 휘파람)_W01 v4.5||",
-"https://cdn1.suno.ai/8e1160e9-e3f0-4d65-b991-13fe3b6e81da.mp3|6[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (자애로운 목소리의 할머니)_W07 v4.5||",
-"https://cdn1.suno.ai/57948741-6bfe-4e29-bdc3-7c42da4d5498.mp3|6[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (동요, 아기에 대한 신기함 설렘)_MW09 v4.5-all||",
-"https://cdn1.suno.ai/620fcbcc-fd44-451f-a704-ec46c127e7a4.mp3|6[작명 축복] 예쁜 이름 로운아, 축하해! <br>(일정한 리듬, 기억하기 쉬운 멜로디)_W18 v4.5||",
-"https://cdn1.suno.ai/75cc1f4f-fdd5-43db-90af-25ab6677fed7.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ <br>(밝고 단순한 멜로디, 안정적인 박자)_W07 v4.5||",
-"https://cdn1.suno.ai/93560fc9-1ed0-4c11-a199-663a72626f12.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(피치카토 우드블록, 순수 천진난만)_MW01 v4.5-all||",
-"https://cdn1.suno.ai/3c3f715a-204e-4ba5-9c12-1ac3121c7185.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(피치카토 우드블록, 순수 천진난만)_MW02 v4.5-all||",
-"https://cdn1.suno.ai/bbf3d0d0-825e-4eed-beba-989db9409d74.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, '레몬 트리' 분위기)_W02 v4.5||",
-"https://cdn1.suno.ai/7c829d8f-b450-4ad8-b3b9-a72f5e58aac5.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (밝고 경쾌한 동요 100~120 BPM)_W08 v4.5+||",
-"https://cdn1.suno.ai/c662fe61-eded-470f-8476-73c7a0d40319.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (뽀로로와 같은 아기 주제가 분위기)_WW01 v4.5+||",
-"https://cdn1.suno.ai/666e22c3-3d94-4b62-989d-8bb402cca80c.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (아기 음악, 우쿨렐레 실로폰 탬버린)_MW19 v4.5-all||",
-"https://cdn1.suno.ai/bf8647c0-a140-49f1-ba46-29889dea002a.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (장난스럽고 활기찬 분위기)_W16 v4.5-all||",
-"https://cdn1.suno.ai/04be9710-dbc0-45bd-aefd-4883f1ff8a0d.mp3|6[백일 축하] 로운에게 보내는 百日 축하 <br>(뽀로로와 같은 아기 주제가 분위기)_MW26 v4.5-all||",
-"https://cdn1.suno.ai/501d1b91-3ce0-46a1-9c02-9589d1d6cd0f.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (동요, 아기에 대한 신기함과 설렘)_MW25 v4.5-all||",
-"https://cdn1.suno.ai/13945f2f-25b5-46b1-a15c-bfda6942e3b7.mp3|6[증조모 생일] 울 엄마의 기구했던 생일 <br>(서정적 포크)_M05 v5||",
-"https://cdn1.suno.ai/d00fd9cf-4a74-412e-a342-5db985825535.mp3|6[잉태 기쁨] 파랑이의 꿈 (발라드, 피아노 현악기, 느린 템포, 숨소리 섞인 창법)_W02 v4.5-all||",
-"https://cdn1.suno.ai/0a43469e-a230-41ed-8ace-02488ffa1ac8.mp3|6[잉태 기쁨] 파랑이의 꿈 <br>(클래식 오케스트라, 평화 사랑 축복)_MW09 v4.5-all||",
-"https://cdn1.suno.ai/04dd0550-e56e-4966-906a-7fc11675e4c3.mp3|6[잉태 기쁨] 파랑이의 노래 <br>(심포닉 EDM 오케스트라 140BPM)_W05 v4.5-all||",
-"https://cdn1.suno.ai/17c3549e-33ba-4145-aab5-2d33ec0cc5ca.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 (바이올린 독주 오케스트라 협연, 기대)_M11 v4.5-all||",
-"https://cdn1.suno.ai/dbf03e80-4003-424e-926c-52731ab2a20c.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(감성적인 발라드, 아버지 되는 기분)_M05 v4||",
-"https://cdn1.suno.ai/a34ccdcd-d150-4a35-aa91-cca443e089b9.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>('레몬 트리'처럼 설레는 마음)_M07 v4||",
-"https://blog.kakaocdn.net/dn/buiifG/btsNUstsmau/8ocSvcZcg3BC8890VYxgcK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._MW12_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(발라드, 아기를 향한 사랑,희망,기대)_MW12_GPT riffusion||",
-"https://cdn1.suno.ai/48945524-1922-4e91-85d1-9274452cb68e.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(아기 탄생을 축복, 밝고 즐거운 노래)_MW08 v4.5-all||",
-"https://cdn1.suno.ai/d2604844-11bd-4fae-a1a2-eb771e29a6c6.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(첼로 독주 피아노, 순수한 기대감)_MW04 v4.5-all||",
-"https://cdn1.suno.ai/c92ca5ba-8125-4f5b-bc28-fd92d2ad4b45.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (감성 발라드, 사랑, 탄생, 꿈, 감사)_M31 v4.5||",
-"https://cdn1.suno.ai/822a3868-82fe-4cc3-8ed1-7b65c5f54b3c.mp3|6[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피아노 바이올린 오케스트라 협주)_MW36 v4.5-all||",
-"https://cdn1.suno.ai/430ac099-51a8-4334-b16a-872fd076ed1a.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (감성적인 발라드, 피아노)_WM33 v4.5||",
-"https://cdn1.suno.ai/4a43e689-b9de-47e0-b26c-a8aced94e990.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (바이올린 & 오케스트라, 축복 희망)_MW32 v4.5-all||",
-"https://cdn1.suno.ai/ca983edc-2eaa-4cb0-91fc-3cf516d404fb.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (발라드, 감사, 세대 간의 사랑, 희망)_WM32 v4.5||",
-"https://cdn1.suno.ai/fa525d97-1403-4660-a980-58e6433510c6.mp3|6[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (발라드, 피아노, 손자의 축복)_WM34 v4.5||",
-"https://cdn1.suno.ai/57eb2949-f85e-486f-9b26-3559071feea6.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (발라드 이모 팝, 미니멀한 퍼커션)_M04 v4.5||",
-"https://cdn1.suno.ai/90693029-34bf-452b-8102-2cd2253b6661.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (클래식 오케스트라, 평화 사랑 축복)_MW05 v4.5-all||",
-"https://cdn1.suno.ai/5cf91fa4-d395-4f76-98ab-29a5d03498ba.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (클래식 오케스트라, 평화 사랑 축복)_MW06 v4.5-all||",
-"https://cdn1.suno.ai/20a32923-ddff-4cc9-96f2-62de33b147e0.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 <br>(심포닉 EDM 오케스트라 140BPM)_MW14 v4.5-all||",
-"https://cdn1.suno.ai/ace37a46-0f0a-4c86-a615-6558094f496a.mp3|6[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트 듀엣의 주고받는 보컬)_M11 v4.5-all||",
-"https://cdn1.suno.ai/a8fa905a-5b5c-47ba-8683-08d7f36fa87d.mp3|6[작명 축복] 예쁜 이름 로운아, 축하해! <br>(오케스트라 요소, 우아하고 감성적)_WM02 v4.5-all||",
-"https://cdn1.suno.ai/33a832b6-f4bf-4919-b0bc-e52b3c7f4a9f.mp3|6[작명 축복] 예쁜 이름 로운아, 축하해! <br>(클래식 오케스트라, 평화 사랑 축복)_MW03 v4.5-all||",
-"https://cdn1.suno.ai/9174b60a-46c1-4d87-8d0b-0f7963090137.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ <br>(한국 전통 발라드, 대금)_W18 v4.5-all||",
-"https://cdn1.suno.ai/ef0b4fe8-d42b-4cb9-891e-b4478a07a83a.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(7080 포크송, 통기타, 하모니카)_MW05 v4.5-all|149|",
-"https://cdn1.suno.ai/5d3caf36-acdc-42c2-b258-9c7aa59cfe16.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(클래식 오케스트라, 평화 사랑 축복)_MW11 v4.5-all||",
-"https://cdn1.suno.ai/4058b72b-a8d1-4ba6-bb13-26e8e1901ab2.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 발라드 사랑스러움, 평화)_M01 v4.5||",
-"https://cdn1.suno.ai/89852265-4615-4f3e-b9f5-f70fa3d87f49.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 발라드 사랑스러움, 평화)_M02 v4.5||",
-"https://cdn1.suno.ai/d6cc93b2-76c8-4bed-b9ef-1e7ea39838c3.mp3|6[백일 축하] 로운에게 보내는 百日 축하 (오페라 발라드, 극적인 오케스트레이션)_WM03 v4.5-all||",
-"https://cdn1.suno.ai/6e9a321f-16e6-4be8-9e85-dfc0b9b1c377.mp3|6[백일 축하] 로운에게 보내는 百日 축하 (오페라 발라드, 극적인 오케스트레이션)_WM04 v4.5-all||",
-"https://cdn1.suno.ai/4a47607d-fcb6-4a6d-8d88-24f5f2b7dd0e.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (감성적인 발라드 75BPM)_MW02 v4.5+||",
-"https://cdn1.suno.ai/02fba269-fab9-4774-b00a-66fd835d7fa2.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (바이올린 드럼)_MW13 v4.5+||",
-"https://cdn1.suno.ai/bbcf86fb-cf7d-499d-b8e8-823e753a6c40.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (심포닉 EDM 오케스트라)_MW26 v4.5-all||",
-"https://cdn1.suno.ai/7b2c2127-da58-4303-9087-348523bac1df.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (심포닉록, 오케스트라)_MW16 v4.5+||",
-"https://cdn1.suno.ai/5590b6a3-0107-4492-a797-be827c075795.mp3|6[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (어쿠스틱 기타)_M01 v4.5+||",
-"https://cdn1.suno.ai/e9c39240-560b-434c-8e7e-85f40dfd4c06.mp3|6[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (트로트 듀엣의 주고받는 보컬)_MW06 v4.5+||",
-"https://cdn1.suno.ai/5f0782ab-7480-4cb4-aa42-e3f5872f9c26.mp3|6[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (피아노)_M03 v4.5+||",
-"https://cdn1.suno.ai/94f36ae9-a979-48e0-9659-bf402e23b746.mp3|6[증조모 생일] 울 엄마의 기구했던 생일 (발라드)_M01 v5||",
-"https://cdn1.suno.ai/f28345ce-50da-4fdb-be80-9bfdd1d81905.mp3|6[잉태 기쁨] 파랑이의 꿈 <br>(1970년대 펑크 디스코 신스)_W04 v4.5-all||",
-"https://cdn1.suno.ai/ba7f95c0-d5b9-4f7b-86dd-56f2df770ec6.mp3|6[건강 기원] 파랑아, 우리 곁에 올 그날까지 (실험적 미니멀 테크노 역동적 신디사이저)_W02 v4.5-all||",
-"https://cdn1.suno.ai/732aabe2-ff50-4c70-b6c0-2600198a201f.mp3|6[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (트롯댄스 금관악기 신디사이저)_M32 v4.5-all||",
-"https://cdn1.suno.ai/4bf06a44-5342-4867-8a18-f9672c4f4cd9.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (미니멀 테크노, 역동적 신디사이저)_W01 v4.5-all||",
-"https://cdn1.suno.ai/8084a4e8-22eb-49c0-8279-adacb7d4e95b.mp3|6[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (미니멀 테크노, 역동적 신디사이저)_W02 v4.5-all||",
-"https://cdn1.suno.ai/bdb59d5d-29b8-48b5-8525-892ee54802a1.mp3|6[작명 축복] 예쁜 이름 로운아, 축하해! (인디)_M04 v4.5||",
-"https://cdn1.suno.ai/2eeb6c6c-96bd-4fa0-bd5c-12589b3cb009.mp3|6[작명 축복] 예쁜 이름 로운아, 축하해! (인디)_W07 v4.5||",
-"https://cdn1.suno.ai/ea07e108-c5ad-4e34-b3d2-425bcadaec61.mp3|6[작명 축복] 로운아, 빛나라~~~ ☆ <br>(일렉트로 댄스, 신스웨이브, 덥스텝)_W17 v4.5-all||",
-"https://cdn1.suno.ai/d13d5fa9-834a-4d0d-bff9-3da8f271dd76.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 (80년대 이탈로 디스코, 신스웨이브)_M06 v4.5-all||",
-"https://cdn1.suno.ai/8b2243da-4509-4023-9280-3344cf9e3c80.mp3|6[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(댄스, EDM 트로트 크로스오버)_W10 v4.5-all||",
-"https://cdn1.suno.ai/2b72d3c9-79b8-47ea-8a91-52358aec3c02.mp3|6[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (감성적인 딥 하우스, 신디 퍼커션)_MW15 v4.5-all||",
-"https://cdn1.suno.ai/25172b98-31cc-43fd-bc39-eabb5e6ad5e3.mp3|6[백일 축하] 로운에게 보내는 百日 축하 <br>(감성적인 이모 팝 보컬 멜로디)_MW10 v4.5+||",
-"https://cdn1.suno.ai/4aeeb100-e517-407d-a4c3-955ad13a67cd.mp3|6[백일 축하] 로운에게 보내는 百日 축하 <br>(트로트 댄스, 신디사이저 사운드)_W02 v4.5-all||",
-"https://cdn1.suno.ai/bd1633f1-4533-48ee-b86f-6cef398bc943.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (2000년대 일렉트로닉 팝)_W01 v4.5+||",
-"https://cdn1.suno.ai/7777289b-1281-4c43-9878-55998645ba57.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (2000년대 일렉트로닉 팝)_W02 v4.5+||",
-"https://cdn1.suno.ai/ec59bfc4-8a56-426a-9944-30cae8d1683c.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (80년대, 뉴 웨이브 펑크 웨이브)_MW20 v4.5+||",
-"https://cdn1.suno.ai/ac5d4fb0-8f81-4407-9a4a-65ad39df61d5.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (바이올린 신스팝)_MW10 v4.5+||",
-"https://cdn1.suno.ai/15864649-9ed2-4435-80be-62bf27c87015.mp3|6[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (인디)_MW09 v4.5+||",
-"https://cdn1.suno.ai/5e1c7bda-dd53-441f-96e7-7a684778881f.mp3|6[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_W04 v5||",
+"https://cdn1.suno.ai/45e853e5-2238-4ed4-a938-123ca8cfd735.mp3|10*[잉태 기쁨] 파랑이의 꿈 <br>(케이팝, 난생처음 만들어 본 노래)_M01 v4||",
+"https://cdn1.suno.ai/56d66f16-1e2d-43e9-b300-723c51ed4af5.mp3|10[잉태 기쁨] 파랑이의 노래 <br>(7080 포크송, 통기타, 하모니카)_MW02 v4.5-all||",
+"https://blog.kakaocdn.net/dn/y3j5T/btsNalXDxFt/eMhfv3ne3DPbbLiUhEqmu0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%9D%B8%EC%A4%80.mp3?attach=2&knm=tfile.mp3|10[태담 희망] 파랑이의 소중한 여정 (인준 버전)_TD01 etc||",
+"https://blog.kakaocdn.net/dn/blxWuV/btsNbg8Qdf1/KD2x0GBbT7iWQMGWMfdjn1/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%ED%98%84%EC%88%98.mp3?attach=2&knm=tfile.mp3|10[태담 희망] 하늘과 바다의 선물 (현수 버전)_TD03 etc||",
+"https://blog.kakaocdn.net/dn/bCYfdo/btsNdidVK5J/5vLxj96qyB0aWo1lb4mqZ0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC%20%28%EC%84%9C%ED%98%84%29.mp3?attach=2&knm=tfile.mp3|10[태담 희망] 파랑이와 하늘의 선물 (서현 버전)_TD05 etc||",
+"https://blog.kakaocdn.net/dn/mkEzO/btsNc8oXJJu/KkPDz41GOHKIC8LZGbBHm0/%5B%ED%83%9C%EB%8B%B4%5D%20%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EB%84%88%EB%8A%94%20%ED%95%98%EB%8A%98%EC%9D%84%20%EB%84%98%EC%96%B4%EC%98%A8%20%EC%9E%91%EC%9D%80%20%EA%B8%B0%EC%A0%81%21%20%28Hyunsu%20%EB%B2%84%EC%A0%84%29.mp3?attach=2&knm=tfile.mp3|10[태담 희망] 파랑아, 너는 하늘을 넘어온 작은 기적 (Hyunsu 버전)_TD07 etc||",
+"https://blog.kakaocdn.net/dn/bITJOL/btsNbauhuwr/gYbefS7SEKgQKyKjynUARK/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%EC%84%B8%EC%83%81%20%ED%83%90%ED%97%98_%EB%B4%89%EC%A7%84.mp3?attach=2&knm=tfile.mp3|10[태담 희망] 파랑이와 세상 탐험 (봉진 버전)_TD08 etc||",
+"https://cdn1.suno.ai/3600c86c-8d73-45d2-981c-c46c9e723848.mp3|10*[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(첼로 독주 피아노, 순수한 기대감)_MW03 v4.5-all||",
+"https://cdn1.suno.ai/a3784a59-08b7-4f26-9260-b59e31ccb0f3.mp3|10*[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (바이올린 독주와 오케스트라 협주곡)_MW38 v4.5-all||",
+"https://blog.kakaocdn.net/dn/bCQPG0/btsNTlXgmhK/9kEvkLKdNMsxcYZUx5c7P1/%EB%82%98%EB%A0%88%EC%9D%B4%EC%85%98_%ED%95%A0%EC%95%84%EB%B2%84%EC%A7%80%20%ED%95%A0%EB%A8%B8%EB%8B%88%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%2C%20%ED%8C%8C%EB%9E%91%EC%97%90%EA%B2%8C%20%28%EC%86%90%EC%9E%90%EC%9D%98%20%EC%B6%95%EB%B3%B5%29_WM34_GPT_Suno4.5.mp3?attach=1&knm=tfile.mp3|10*[탄생 파랑] 나레이션 : 할아버지 할머니의 사랑을, 파랑에게 (손자의 축복, 발라드)_WM34 v4.5||",
+"https://cdn1.suno.ai/937c965a-dd9b-4a04-9f48-52581f9d5764.mp3|10*[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (통기타 첼로, 새로운 시작)_WM32 v4.5||",
+"https://cdn1.suno.ai/0d5c01fa-a6d5-442d-8c51-597498588ed2.mp3|10*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (바이올린 신스팝)_M07 v4.5||",
+"https://cdn1.suno.ai/531f7e2d-927a-474b-a174-84618392c381.mp3|10*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (행진곡, 군악대, 팡파르)_MW11 v4.5-all||",
+"https://cdn1.suno.ai/31376a07-0e5f-4f4c-966b-f16afb5645a0.mp3|10*[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (7080 100~120 BPM, 활기차고 경쾌한 템포의 통기타 하모니카 타악기)_MW01 v4.5-all||",
+"https://cdn1.suno.ai/a93ba039-84ed-4a6e-89cb-949687f8bbbe.mp3|10*[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (행진곡 금관악기, 영웅적 축제적)_M08 v4.5||",
+"https://cdn1.suno.ai/e055f222-d824-4cd2-888a-20e7ff0ace51.mp3|10*[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (7080 포크, 통기타 하모니카)_MW06 v4.5-all||",
+"https://cdn1.suno.ai/fcc3b36a-164e-4a0c-bf4a-fbb5d291f252.mp3|10*[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (휘파람, 즐거운 트레킹 기분)_W04 v4.5||",
+"https://cdn1.suno.ai/13af2615-470a-4b74-b375-97c3cdeb71cf.mp3|10*[작명 축복] 예쁜 이름 로운아, 축하해! <br>(행진곡 금관악기, 영웅적 축제적)_M01 v4.5||",
+"https://cdn1.suno.ai/1d382870-94ad-4c60-a75e-febf3166714b.mp3|10*[작명 축복] 로운아, 빛나라~~~ ☆ (산골 요들송 135bpm, 기쁨 희망 훈훈한 가족애)_M08 v4.5-all||",
+"https://cdn1.suno.ai/55f720a3-1afe-4785-8131-387c5877610d.mp3|10*[작명 축복] 로운아, 빛나라~~~ ☆ (인디)_M03 v4.5||",
+"https://cdn1.suno.ai/f39b58fa-13d7-4fc9-90c6-6c16198e9175.mp3|10*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(동심, 새로운 시작을 축하)_M04 v4.5-all||",
+"https://cdn1.suno.ai/b51e402d-f7cf-4743-93c3-56078806f07d.mp3|10*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(트로트 댄스, 신디사이저 사운드)_MW09 v4.5-all||",
+"https://cdn1.suno.ai/a1c17bb1-ce81-461d-9a16-699ebf35fd37.mp3|10*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(행진곡 금관악기, 영웅적 축제적)_MM01 v4.5||",
+"https://cdn1.suno.ai/647c07d6-952f-472d-a9d9-25ebdf657b5e.mp3|10*[작명 축복] 이 세상 이름, 로운에게 (영화적인 심포닉 메탈, 웅장한 브라스와 현악기)_M12 v4.5-all||",
+"https://cdn1.suno.ai/f58815dd-bd04-466f-9d91-79b99040d673.mp3|10*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, 행진곡 영웅적 축제적)_M04 v4.5||235",
+"https://cdn1.suno.ai/ea47e08c-c349-4110-a505-110e141fbdce.mp3|10*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (가벼운 행진곡 리듬의 트로트 듀엣)_MW04 v4.5+||",
+"https://cdn1.suno.ai/b8f63b99-fe53-4c07-aad8-a65c7e504fdf.mp3|10*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (경쾌한 행진곡 리듬, 트로트 스타일)_W09 v4.5+||",
+"https://cdn1.suno.ai/29e0fd83-7c3a-4394-b517-efc9d75c5198.mp3|10*[백일 축하] 로운에게 보내는 百日 축하 <br>(발라드, 컨트리 음악, 남녀 보컬)_MW18 v4.5+||",
+"https://cdn1.suno.ai/39b3015e-1c4a-4ff3-bc3e-72c333611b1e.mp3|10*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (심포닉 록, 오케스트라)_MW17 v4.5+||",
+"https://cdn1.suno.ai/4873980c-5f25-4753-a5ff-418d34922f80.mp3|10*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (트로트, 다소 느린 80bpm)_MW05 v4.5+||",
+"https://cdn1.suno.ai/1f8fc36e-0154-429a-a09f-e0318196d46b.mp3|1*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_WM02 v4.5-all||",
+"https://cdn1.suno.ai/36eef4a3-062b-4f95-88f0-e6bade2ff349.mp3|1*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국전통사극 발라드, 전자 바이올린)_W23 v4.5-all||",
+"https://cdn1.suno.ai/055343bd-e45b-4f58-91f4-660812f0c897.mp3|1*[어린이집] 로운이의 어린이집 입학송 (코믹버전 &nbsp;95 BPM 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M02 v4.5-all||",
+"https://cdn1.suno.ai/7c471ef5-1f51-450c-9442-eb3984979699.mp3|1*[어린이집] 로운이의 즐거운 하루 (경쾌한 피치카토 현악기, 실로폰, 밝은 우쿨렐레)_W08 v4.5-all||",
+"https://cdn1.suno.ai/3be5f25b-6bd5-4bd2-b039-26f8034a8bbb.mp3|1*[어린이집] 로운이의 즐거운 하루 (장난기 넘치는 한국 아기 노래, 130 bpm)_W14 v4.5-all||",
+"https://cdn1.suno.ai/706828f3-a631-4e52-aeea-099e89610be2.mp3|1*[어린이집] 로운이의 어린이집 모험 <br>(이탈로 디스코, 1980년대, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_MW01 v4.5-all||",
+"https://cdn1.suno.ai/c5e26e90-3995-4384-9848-504ce7107123.mp3|1*[어린이집] 로운이의 어린이집 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W06 v4.5-all||",
+"https://cdn1.suno.ai/179f56a6-e817-4df1-940f-ab0ca0693ba8.mp3|1[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M04 v4.5-all||",
+"https://cdn1.suno.ai/22326139-23e0-446e-9c53-78ab456759d0.mp3|1*[어린이집] 로운이의 어린이집 뽀짝 모험 (봄 들판을 뛰어다니는 아이처럼 즐겁고 활기찬, 함께 손뼉을 칠 수 있는 신나는)_W15 v4.5-all||",
+"https://cdn1.suno.ai/eef1f04e-f35b-4b4d-82e0-16af6139ceaf.mp3|1*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(오페라 발라드, 극적 오케스트레이션 파워풀한 소프라노, 웅장한 현악기)_W16 v4.5-all||",
+"https://cdn1.suno.ai/8f0e74bd-f2f4-4b27-bc6d-5cc724283278.mp3|1*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 자장가, 오르골 첼레스타 글로켄슈필)_W06 v4.5-all||",
+"https://cdn1.suno.ai/1bc504b0-e68a-464b-bf66-1db81fc2cc78.mp3|1*[어린이집] 로운이, 열 달의 기적 (감성 버전 : 가족 자장가처럼 부드럽고 사랑스러운)_WM02 v4.5-all||",
+"https://cdn1.suno.ai/c16fdaa2-a885-4986-a4c5-2a3e6e5b6012.mp3|1[어린이집] 로운이, 열 달의 기적 (감성 버전 : 한국 전통 사극 발라드, 오케스트라)_W08 v4.5-all||",
+"https://cdn1.suno.ai/88800b24-5ddb-458f-9ce3-b43a57286620.mp3|1*[어린이집] 로운이, 열 달의 기적 (감성 버전 :&nbsp; 95 BPM의 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M01 v4.5-all||",
+"https://cdn1.suno.ai/e1d4dc32-5c47-421b-9389-6993e46c15a3.mp3|1*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W09 v4.5-all||",
+"https://cdn1.suno.ai/80a1900f-61c5-4461-8b6a-71975c3963f7.mp3|10*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (브라스밴드 행진, 트럼펫 트롬본)_M10 v4.5+||",
+"https://cdn1.suno.ai/f2e98da7-6a11-4a9b-ac13-c1ecb0a8c396.mp3|10*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (오페라 발라드, 오케스트레이션)_MW08 v4.5-all||",
+"https://cdn1.suno.ai/c6a702b2-008b-440d-b667-773e1c431a26.mp3|10*[생일 축하] 당신들의 생일을 축하합니다 <br>(브라스밴드 행진곡, 낭만적 분위기)_M05 v4.5+||",
+"https://cdn1.suno.ai/9cad251b-69b1-4efb-aaf1-615e4d3be98f.mp3|10*[생일 축하] 당신들의 생일을 축하합니다 <br>(트로트 듀엣의 주고받는 보컬)_MW01 v4.5+||",
+"https://cdn1.suno.ai/83ca4e61-6b0c-4684-bc3f-6c5994bb2805.mp3|10*[증조모 생일] 울 엄마의 기구했던 생일 <br>(바이올린 신스팝)_MW02 v5||",
+"https://cdn1.suno.ai/245e94a3-a342-4bae-bd25-107f5e9aa124.mp3|10*[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 사극 발라드)_W02 v5||",
+"https://cdn1.suno.ai/ed819816-faa9-4dc3-a232-9157de63b425.mp3|20*[잉태 기쁨] 파랑이의 꿈 <br>(7080 100~120 BPM, 활기차고 경쾌한 템포의 통기타 하모니카 타악기)_MW06 v4.5-all||",
+"https://cdn1.suno.ai/68db7f93-dd78-43ee-851e-074cd15fdfed.mp3|20*[잉태 기쁨] 파랑이의 노래 (자장가, 신스 멜로디)_W01 v4||",
+"https://blog.kakaocdn.net/dn/bmr5oU/btsNahAVb5y/KCjkOnAGXuHouB2cK3R8M0/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%9D%98%20%EC%86%8C%EC%A4%91%ED%95%9C%20%EC%97%AC%EC%A0%95_%EC%84%A0%ED%9E%88.mp3?attach=2&knm=tfile.mp3|20[태담 희망] 파랑이의 소중한 여정 (선히 버전)_TD02 etc||",
+"https://blog.kakaocdn.net/dn/Ceo4d/btsM98YzPlV/aIBqypbgKkmqu83G90tME0/%ED%95%98%EB%8A%98%EA%B3%BC%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%84%9C%ED%98%84.mp3?attach=2&knm=tfile.mp3|20[태담 희망] 하늘과 바다의 선물 (서현 버전)_TD04 etc||",
+"https://blog.kakaocdn.net/dn/6EKii/btsNbqQWTwU/qRNp7c1EBroFB7Gie4eWKk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%99%80%20%ED%95%98%EB%8A%98%EC%9D%98%20%EC%84%A0%EB%AC%BC_%EC%88%9C%EB%B3%B5.mp3?attach=2&knm=tfile.mp3|20[태담 희망] 파랑이와 하늘의 선물 (서현 버전)_TD06 etc||",
+"https://blog.kakaocdn.net/dn/b0fd6f/btsNR8RcVqB/y7kJ7iGg2RhGQK5niiSKPK/%ED%8C%8C%EB%9E%91%EC%95%84%2C%20%EC%9A%B0%EB%A6%AC%20%EA%B3%81%EC%97%90%20%EC%98%AC%20%EA%B7%B8%EB%82%A0%EA%B9%8C%EC%A7%80.._W13_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|20*[건강 기원] 파랑아, 우리 곁에 올 그날까지 ('레몬 트리'처럼 활기차고 즐거운 분위기)_W13 riffusion||",
+"https://blog.kakaocdn.net/dn/bWmAHr/btsNUB5W5CV/IK84tS3rAcxbsRTZcBlTAk/%ED%8C%8C%EB%9E%91%EC%9D%B4%EC%97%90%EA%B2%8C%20%EB%B3%B4%EB%82%B4%EB%8A%94%20%EC%97%84%EB%A7%88%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%B6%95%EB%B3%B5%20%28%ED%83%84%EC%83%9D%EC%9D%84%20%EC%B6%95%ED%95%98%29_WM21_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|20[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (한국팝 듀엣, 아기 향한 기쁨과 축복)_WM21 FUZZ-1.0||",
+"https://cdn1.suno.ai/8ee07cb1-38e0-4b8c-a546-323a0900ea54.mp3|20[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (7080, 통기타 하모니카 타악기)_MW37 v4.5-all||",
+"https://cdn1.suno.ai/8d1cab81-0a83-413e-9319-30d8c279a1d3.mp3|20*[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (통기타 첼로, 새로운 시작)_MW31 v4.5||",
+"https://cdn1.suno.ai/d7d915e3-d9b7-4053-a1bb-a588ae3d39dd.mp3|20*[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (할아버지 할머니의 소원)_M31 v4.5||",
+"https://cdn1.suno.ai/4dc304a8-7ebc-4639-9745-10b5890b880f.mp3|20*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (하드록과 댄서블한 그루브 디스코)_MW09 v4.5-all||",
+"https://cdn1.suno.ai/ec8dd3d7-daea-40a7-a372-bd7b1461cd27.mp3|20*[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트, 역동적인 댄스 비트)_MW05 v4.5-all||",
+"https://cdn1.suno.ai/063c8d16-f3cd-43ef-955c-06ed16154694.mp3|20[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (경쾌한 템포의 트로트 듀엣)_MW08 v4.5-all||",
+"https://cdn1.suno.ai/0125b64f-7a29-497a-90ea-1355a75ddc4c.mp3|20*[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (오페라 발라드, 현악 금관악기)_MW13 v4.5-all||",
+"https://cdn1.suno.ai/915a0008-7de4-45f2-8abb-f2d29a3e9568.mp3|20*[작명 축복] 예쁜 이름 로운아, 축하해! <br>(행진곡 금관악기, 영웅적 축제적)_MW01 v4.5||",
+"https://cdn1.suno.ai/4638095c-bb2f-4d21-ab07-6a93d12f3588.mp3|20*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(7080, 통기타 하모니카 타악기)_MW02 v4.5-all||",
+"https://cdn1.suno.ai/b7c66bee-eda1-4324-956f-f94c0ecfaa71.mp3|20*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(산골 요들송 135bpm, 가족애)_M09 v4.5-all||",
+"https://cdn1.suno.ai/5853b382-ca3a-47fe-9499-8d047637021a.mp3|20*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(트로트, 역동적인 댄스 비트)_MW08 v4.5-all||",
+"https://cdn1.suno.ai/7da927b6-7f7d-4e71-9577-b09963933672.mp3|20*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(행진곡, 희망찬 새로운 미래)_W16 v4.5||",
+"https://cdn1.suno.ai/00c3b8cb-6468-4e24-a8e9-473a39c0b550.mp3|20*[작명 축복] 로운에게 보내는 할아머니의 축복 (가벼운 발걸음으로 산책하는 듯한 기분)_W08 v4.5||",
+"https://cdn1.suno.ai/a0633b3b-5dfb-431c-9960-5ecbb5de144c.mp3|20*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(7080 포크송, 통기타, 하모니카)_MW03 v4.5-all||",
+"https://cdn1.suno.ai/0abf9f8d-4928-4640-ad48-1f961536724f.mp3|20*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(밝고 단순한 멜로디, 안정적인 박자)_WM01 v4.5||",
+"https://cdn1.suno.ai/f426bd56-4b4e-4d85-9656-00e97350a11b.mp3|20*[작명 축복] 이 세상 이름, 로운에게 <br>(브라스 밴드 행진곡 영웅적 축제적)_M10 v4.5||",
+"https://cdn1.suno.ai/d0d3d651-ae33-462a-a3cd-dfb06d73ab4b.mp3|20*[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 가벼운 발걸음의 트레킹)_MW02 v4.5||",
+"https://cdn1.suno.ai/9aa2e6f5-acf3-41fb-91e4-5ebfce0f5f98.mp3|20*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (가벼운 행진곡 리듬의 트로트 듀엣)_WM06 v4.5+||",
+"https://cdn1.suno.ai/e249f873-967d-4689-a156-c28051132ed3.mp3|20*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (경쾌한 행진곡 리듬, 트로트 스타일)_MW08 v4.5+||",
+"https://cdn1.suno.ai/adba19da-00c2-4c98-9ba1-f6ec7cd7f6e2.mp3|20*[백일 축하] 로운에게 보내는 百日 축하 <br>(가벼운 클래식 크로스오버)_MW22 v4.5+||",
+"https://cdn1.suno.ai/bda6b75b-54aa-40ed-a3b8-9ab41cdf5f19.mp3|20*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (영화적인 심포닉 메탈, 브라스)_MW29 v4.5-all||",
+"https://cdn1.suno.ai/f2e8d536-e7a7-412b-be7c-d511a3cf3f0e.mp3|20*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (인디)_MW08 v4.5+||",
+"https://cdn1.suno.ai/85c1ab15-52b1-4204-b349-75fac9646e72.mp3|2*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_WM05 v4.5-all||",
+"https://cdn1.suno.ai/aa0b254f-813a-45de-a222-b1322c921508.mp3|2*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 포크송의 어쿠스틱 동요, 포근한 가족적인 분위기, 진심이 담긴 감성)_WM04 v4.5-all||",
+"https://cdn1.suno.ai/be21e11b-9cbb-4cfb-ad26-2c8bfe309e43.mp3|2*[어린이집] 로운이의 어린이집 입학송 (코믹버전 &nbsp;95 BPM 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M03 v4.5-all||",
+"https://cdn1.suno.ai/110296a0-8717-4cbc-84a5-52df695de4ce.mp3|2*[어린이집] 로운이의 어린이집 입학송 <br>(코믹 버전: 온 가족이 함께 즐길 수 있는 밝고 사랑스러운 분위기의 노래)_W13 v4.5-all||",
+"https://cdn1.suno.ai/a4575ad7-131a-4bad-b935-78866b0cdfe3.mp3|2*[어린이집] 로운이의 즐거운 하루 (동요 멜로디에 발랄하고 활기찬 분위기, 125 bpm)_W09 v4.5-all||",
+"https://cdn1.suno.ai/2072ecea-8ffb-44bb-b326-f38686538a1b.mp3|2*[어린이집] 로운이의 즐거운 하루 (밝고 경쾌한 한국 유치원 노래 공연, 120 bpm)_W11 v4.5-all||",
+"https://cdn1.suno.ai/69a4083f-1741-4936-865d-69194b1b6126.mp3|2*[어린이집] 로운이의 어린이집 모험 (하드록과 댄서블한 그루브 디스코 스타일)_W09 v4.5-all||",
+"https://cdn1.suno.ai/f826237d-c97c-4a1a-9352-76ff0f96abf5.mp3|2*[어린이집] 로운이의 어린이집 모험 <br>(한국 뮤지컬 스타일의 어린이 노래)_W04 v4.5-all||",
+"https://cdn1.suno.ai/5363ccf0-6167-4433-8a1a-2cd093916c7a.mp3|2*[어린이집] 로운이의 어린이집 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W07 v4.5-all||",
+"https://cdn1.suno.ai/8cb7c0ec-02b5-4c5b-9c4f-5651b9817010.mp3|2*[어린이집] 로운이의 어린이집 뽀짝 모험 (경쾌한 폴카, 어린이 음악, 행복하고 신나는)_M03 v4.5-all||",
+"https://cdn1.suno.ai/bdd9981a-9ba4-49a4-a928-6feec9972837.mp3|2[어린이집] 로운이의 어린이집 뽀짝 모험 (봄 들판을 뛰어다니는 아이처럼 즐겁고 활기찬, 함께 손뼉을 칠 수 있는 신나는)_W14 v4.5-all||",
+"https://cdn1.suno.ai/ca1df437-4a71-4e51-afab-d625dcf1d272.mp3|2*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(오페라 발라드, 극적 오케스트레이션 파워풀한 소프라노, 웅장한 현악기)_W17 v4.5-all||",
+"https://cdn1.suno.ai/d2305214-1c35-4639-bc58-f68f11353840.mp3|2*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W12 v4.5-all||",
+"https://cdn1.suno.ai/44f8af65-f0a2-4d65-9286-4218642dcde5.mp3|2*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 댄스 EDM 트로트 크로스오버, 밝은 신스 리드, 탄탄한 4/4 박자 킥 드럼)_W10 v4.5-all||",
+"https://cdn1.suno.ai/b2ef2e7c-8f3b-492e-8c06-7c6bd9e4dfaf.mp3|2*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 자장가, 오르골 첼레스타 글로켄슈필)_W05 v4.5-all||",
+"https://cdn1.suno.ai/a8c3e44f-4087-4dc9-aa92-52d54684e2a8.mp3|2*[어린이집] 로운이, 열 달의 기적 (감성 버전: 가족 자장가처럼 부드럽고 사랑스러운)_WM01 v4.5-all||",
+"https://cdn1.suno.ai/bb84077c-4afe-48f7-9c51-d6aba29fdc2b.mp3|2*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_WM01 v4.5-all||",
+"https://cdn1.suno.ai/e9dc2a38-e2a4-4b40-a8ae-347e5f9b4f17.mp3|20*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (트로트 듀엣의 주고받는 보컬)_MW05 v4.5+||",
+"https://cdn1.suno.ai/cf1a24b0-c22e-4488-9e3b-c3ad61f69417.mp3|20*[생일 축하] 당신들의 생일을 축하합니다 <br>(교향곡 금관악기, 기쁨과 환희)_M04 v4.5+||",
+"https://cdn1.suno.ai/d1f8dabf-3db2-4631-a61d-86958a1a57af.mp3|20*[생일 축하] 당신들의 생일을 축하합니다 <br>(오케스트라, 낭만적인 축하 분위기)_M02 v4.5+||",
+"https://cdn1.suno.ai/88160654-39fc-4029-80e7-71009a63e51e.mp3|20*[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_M02 v5||",
+"https://cdn1.suno.ai/9a4660e6-f404-4b9e-b8e6-4246b9651735.mp3|20*[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_M03 v5||",
+"https://cdn1.suno.ai/2a564d1c-a959-4802-8f03-cfa686987bdd.mp3|30*[잉태 기쁨] 파랑이의 꿈 (동요풍, 100~120BPM)_MW04 v4.5-all||",
+"https://cdn1.suno.ai/c69a037a-831c-499d-954b-12e98e37f425.mp3|30*[잉태 기쁨] 파랑이의 노래 <br>(동요풍 갓 태어난 아기 신기함 설렘)_MW03 v4.5-all||",
+"https://cdn1.suno.ai/aa0878fb-a7b6-4b43-ad38-8e2475e66d9c.mp3|30[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(아기 탄생을 축복, 밝고 즐거운 노래)_MW07 v4.5-all||",
+"https://cdn1.suno.ai/b7e45779-6b08-41f8-80b0-81374e765c51.mp3|30*[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (사랑, 축복, 희망, R&B 95BPM)_WM32 v4.5||",
+"https://cdn1.suno.ai/501ad502-f776-4f21-8cbe-fc8e9ac83a71.mp3|30[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (아기 탄생을 축복. 밝고 즐거운 노래)_MW34 v4.5-all||",
+"https://cdn1.suno.ai/e9b26c85-d329-4895-bd1f-039c5a6b842e.mp3|30*[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (할아머니의 소원 희망 축하)_W31 v4.5||",
+"https://cdn1.suno.ai/deea0b3a-aee5-405e-be1c-7236e33ec6e1.mp3|30*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (동요풍, 갓 태어난 아기 신기함 설렘)_MW02 v4.5-all||",
+"https://cdn1.suno.ai/d48e54e6-9b4f-49aa-846b-ca0ce243a966.mp3|30*[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (아이들의 자유로운 영혼)_W10 v4.5||",
+"https://cdn1.suno.ai/7a245e35-093f-4287-a2a8-363f86b36630.mp3|30*[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (동요, 아기에 대한 신기함 설렘)_MW10 v4.5-all||",
+"https://cdn1.suno.ai/4784bacf-2878-4d16-bf92-680abc2f57a2.mp3|30*[작명 축복] 예쁜 이름 로운아, 축하해! <br>(동심, 새로운 시작을 축하)_W16 v4.5||",
+"https://cdn1.suno.ai/0e6f2a9c-4cdc-40fd-9fad-3b4789ab60da.mp3|30*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(동심, 새로운 시작을 축하)_W08 v4.5||155",
+"https://cdn1.suno.ai/d2e160b7-9ac2-4e20-a679-acb84a255b6f.mp3|30*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(동심, 새로운 시작을 축하)_W10 v4.5||",
+"https://cdn1.suno.ai/d2541a89-0e74-466a-80ad-1a2ed7b726d1.mp3|30*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(동심, 새로운 시작을 축하)_MW08 v4.5-all||",
+"https://cdn1.suno.ai/487f1bf4-5e3d-4e8d-90bd-dfa94cd4e3a5.mp3|30*[작명 축복] 이 세상 이름, 로운에게 (가벼운 발걸음으로 트레킹을 떠나는 듯한 기분)_W07 v4.5||",
+"https://cdn1.suno.ai/841c001b-16c7-4e5a-bb05-98b5528eed11.mp3|30*[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 행진곡 희망 새로운 미래)_W01 v4.5||",
+"https://cdn1.suno.ai/3d31d0df-7f1e-4320-b910-505c0b34dbcb.mp3|30*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, '레몬 트리' 분위기)_W03 v4.5||",
+"https://cdn1.suno.ai/bad69ddb-75eb-4e05-bf1e-e8bf7a7b9c95.mp3|30*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (밝고 경쾌한 아기 축하 노래)_WM02 v4.5+||",
+"https://cdn1.suno.ai/e935bd5f-759f-4fff-a1d4-f8b6ea42f531.mp3|30*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (장난스럽고 활기찬 분위기)_W15 v4.5-all||",
+"https://cdn1.suno.ai/b6bb3306-0bdb-4c1a-ad9a-eeb69eb90eeb.mp3|30*[백일 축하] 로운에게 보내는 百日 축하 <br>(뽀로로와 같은 아기 주제가 분위기)_MW27 v4.5-all||",
+"https://cdn1.suno.ai/6d25c7df-998a-476c-9b5e-a43feda16ddb.mp3|30[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (동요, 아기에 대한 신기함과 설렘)_MW24 v4.5-all||",
+"https://cdn1.suno.ai/70421390-5439-40a0-9973-732b4d834ca5.mp3|3*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 동화 속 배경음악처럼 마법 같은 한국 어린이 동화 노래, 모험적인 멜로디)_W16 v4.5-all||",
+"https://cdn1.suno.ai/ce5773b5-f8f9-4d5a-b3f1-3b828140c1a1.mp3|3[어린이집] 로운이의 어린이집 입학송 (코믹 버전 아기의 첫 어린이집 경험과 성장 과정을 그린 따뜻한 한국어린이 동화노래)_W15 v4.5-all||",
+"https://cdn1.suno.ai/8dab0bdc-43cc-440a-9342-919e3589b281.mp3|3*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 한국 뮤지컬 스타일의 어린이 노래)_W21 v4.5-all||",
+"https://cdn1.suno.ai/0eab5942-d335-4be3-ba5c-a40b0f5e301b.mp3|3*[어린이집] 로운이의 어린이집 입학송 <br>(코믹 버전 : 온 가족이 함께 즐길 수 있는 밝고 사랑스러운 분위기의 노래)_W12 v4.5-all||",
+"https://cdn1.suno.ai/b2dbf2f9-22c4-407c-b136-3e5901b62f35.mp3|3[어린이집] 로운이의 즐거운 하루 (경쾌한 피치카토 현악기, 실로폰, 밝은 우쿨렐레)_W07 v4.5-all||",
+"https://cdn1.suno.ai/88f24ace-a8d7-45a8-a09e-7a56bbc7cb85.mp3|3*[어린이집] 로운이의 즐거운 하루 (밝고 경쾌한 한국 유치원 노래 공연, 120 bpm)_W12 v4.5-all||",
+"https://cdn1.suno.ai/9e8cb8bf-5251-4094-83ba-278896b94a11.mp3|3*[어린이집] 로운이의 즐거운 하루 (장난기 넘치는 한국 아기 노래, 130 bpm)_W13 v4.5-all||132",
+"https://cdn1.suno.ai/b8d11296-0d2f-4b3d-99b6-06bf251a3b74.mp3|3[어린이집] 로운이의 어린이집 모험 (명랑하고 장난기 넘치는 한국 어린이 팝송)_W02 v4.5-all||",
+"https://cdn1.suno.ai/4b8ac53f-eecd-487d-b59a-c7c55a2546d4.mp3|3*[어린이집] 로운이의 어린이집 모험 <br>(한국 뮤지컬 스타일의 어린이 노래)_W05 v4.5-all||",
+"https://cdn1.suno.ai/ed9a311c-77a6-4019-be63-8c039c8a90f8.mp3|3*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W09 v4.5-all||",
+"https://cdn1.suno.ai/5df52a35-e659-43f1-9c71-4d130ac500d7.mp3|3*[어린이집] 로운이의 어린이집 뽀짝 모험 (귀엽고 명랑한 한국 어린이노래 밝고 발랄한)_W10 v4.5-all||",
+"https://cdn1.suno.ai/d0bfe1d3-e662-46ef-9380-7c809aada412.mp3|3*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(피아노 선율, 풍성한 현악기와 부드럽고 은은하게 울리는 드럼 비트)_W19 v4.5-all||",
+"https://cdn1.suno.ai/c1a2894c-a516-44d1-81a7-2c593502dd77.mp3|3*[어린이집] 로운이, 열 달의 기적 <br>(감성 버전 : 팝 록, 일렉트릭 팝 록)_W11 v4.5-all||",
+"https://cdn1.suno.ai/b5b46d93-45f6-4284-8c33-d17e2954055f.mp3|3[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 장난스럽고 유쾌한 어린이 팝송)_W02 v4.5-all||",
+"https://cdn1.suno.ai/eaf77eb2-d692-42c4-bd1d-05836d7f5821.mp3|30*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (7080 포크송, 통기타 타악기)_MW03 v4.5+||",
+"https://cdn1.suno.ai/56256ca4-6ce8-4be4-933d-85b2aa27e290.mp3|40*[잉태 기쁨] 파랑이의 꿈 (바이올린 독주 오케스트라, 새로운 삶을 찬양)_WM04 v4.5-all||",
+"https://cdn1.suno.ai/e750f9d7-a91c-464b-bf56-aefc5f302844.mp3|40*[잉태 기쁨] 파랑이의 노래 <br>(심포닉 EDM 오케스트라 140BPM)_W04 v4.5-all||",
+"https://cdn1.suno.ai/bf65f8e0-775d-4011-8f0e-bfdfdbd7a4f6.mp3|40*[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(바이올린 독주 오케스트라, 기대)_MW02 v4.5-all||",
+"https://cdn1.suno.ai/c43eb309-81c7-47ce-a2f6-1340d948103c.mp3|40[탄생 파랑] 파랑이에게 보내는 엄마 아빠의 축복 (피아노 바이올린 오케스트라 협주)_MW37 v4.5-all||",
+"https://cdn1.suno.ai/fa525d97-1403-4660-a980-58e6433510c6.mp3|40*[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (발라드, 피아노, 손자의 축복)_WM34 v4.5||",
+"https://cdn1.suno.ai/851344a2-c452-4f3c-b316-138ce71f5baf.mp3|40*[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (손주를 향한 깊은 사랑과 축복, 감성적인 발라드 70BPM)_MW31 v4.5||",
+"https://cdn1.suno.ai/e7209213-81da-45fe-aa92-53f8ea38963b.mp3|40[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (발라드, 통기타 잔잔한 타악기)_MW32 v4.5-all||",
+"https://cdn1.suno.ai/5568b824-2ee7-429b-9a5f-e6338d6bf2cc.mp3|40*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (발라드 피아노, 사랑, 탄생, 꿈, 감사)_WM01 v4.5||",
+"https://cdn1.suno.ai/c9843d50-8aa6-4337-a27e-eb77f8e0157a.mp3|40*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 <br>(심포닉 EDM 오케스트라 140BPM)_MW13 v4.5-all||",
+"https://cdn1.suno.ai/fa6c676b-7b2e-4aaf-9c95-68151b436a5d.mp3|40[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트 듀엣의 주고받는 보컬)_MW03 v4.5-all||",
+"https://cdn1.suno.ai/6c6429dc-bbe5-42aa-96f3-b579d96c0062.mp3|40*[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (오페라 발라드, 현악 금관악기)_MW12 v4.5-all||",
+"https://cdn1.suno.ai/45acd5c3-d509-42cb-a5f8-21c26de4004f.mp3|40*[작명 축복] 예쁜 이름 로운아, 축하해! <br>(오케스트라 요소, 우아하고 감성적)_MW04 v4.5-all||",
+"https://cdn1.suno.ai/ab738c92-04ed-4ff1-9d3e-cc8228ad5bdf.mp3|40[작명 축복] 예쁜 이름 로운아, 축하해! <br>(클래식 오케스트라, 평화 사랑 축복)_MW02 v4.5-all||",
+"https://cdn1.suno.ai/074eee5b-8eeb-4f8c-a550-74e32c6dda70.mp3|40*[작명 축복] 로운아, 빛나라~~~ ☆ (감성 발라드, 밝은 미래를 기원하는 분위기)_M02 v4.5||",
+"https://cdn1.suno.ai/4dd750df-4446-491a-867a-2171a132dc29.mp3|40*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(발라드, 사랑스러움, 평화로움)_M03 v4.5||",
+"https://cdn1.suno.ai/d61277ec-195b-4c94-b4bb-a346c9c3eced.mp3|40*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(한국 전통 사극 발라드, 오케스트라)_W11 v4.5-all||",
+"https://cdn1.suno.ai/37eb67a5-3656-409b-97ed-67a3e598828f.mp3|40*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(한국 전통 사극 발라드, 오케스트라)_W12 v4.5-all||",
+"https://cdn1.suno.ai/868d93ba-9421-4e2d-92f7-ead053deb960.mp3|40[작명 축복] 이 세상 이름, 로운에게 (발라드 통기타, 자부심, 기쁨, 격려의 마음)_MW02 v4.5-all||",
+"https://cdn1.suno.ai/d2468781-eef6-4269-a8e3-d6cf1b31478a.mp3|40*[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 오케스트라 반주 행진곡)_MW01 v4.5||",
+"https://cdn1.suno.ai/6f69af5e-0850-4764-a8de-0a2b8aabf663.mp3|40*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (트로트, 다소 느린 80bpm)_MW11 v4.5+||",
+"https://cdn1.suno.ai/f6a9b344-95a2-42b7-9a02-2599d2013a39.mp3|40*[백일 축하] 로운에게 보내는 百日 축하 (한국 전통 사극 발라드, 오케스트라 현악기)_W03 v4.5-all||",
+"https://cdn1.suno.ai/e87ee37c-7bf5-407b-ab05-75cee03a36c7.mp3|40*[백일 축하] 로운에게 보내는 百日 축하 <br>(바이올린 신스팝)_MW09 v4.5+||",
+"https://cdn1.suno.ai/9e9c057c-1b18-460e-89af-17345035853f.mp3|40*[백일 축하] 로운에게 보내는 百日 축하 <br>(발라드 85 BPM, 감사, 기쁨, 사랑)_MW01 v4.5+||",
+"https://cdn1.suno.ai/43535c9c-c894-4525-8fed-1a80706b4677.mp3|40*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (감성적인 발라드 75 BPM)_MW01 v4.5+||",
+"https://cdn1.suno.ai/0105b80c-cddb-4166-bcb4-2ad42524f62e.mp3|4*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 &nbsp; 한국 전통 사극 발라드, 바이올린)_W24 v4.5-all||",
+"https://cdn1.suno.ai/4f24ff89-2f8f-4815-983b-2ff7f02faddb.mp3|4*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 &nbsp; 한국 전통 사극 발라드, 바이올린)_W25 v4.5-all||",
+"https://cdn1.suno.ai/d3931e3b-9398-43f4-a667-3d28650776cf.mp3|4*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 &nbsp;한국전통사극 발라드, 전자바이올린)_W22 v4.5-all||",
+"https://cdn1.suno.ai/c72f78b7-21d9-4f11-898e-d8d85e9a1c72.mp3|4*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 아기의 첫 어린이집 경험과 성장 과정을 그린 따뜻한 한국어린이 동화노래)_W14후반부에러 v4.5-all||",
+"https://cdn1.suno.ai/91e94487-7d1a-42e0-bae6-967acd2982e7.mp3|4*[어린이집] 로운이의 즐거운 하루 (감성적인 슬로우 트로트, 4/4 박자, 70~80 BPM, 전통 트로트 리듬에 현대적인 편곡)_W17 v4.5-all||",
+"https://cdn1.suno.ai/1333c868-de12-493c-b96d-d68e733fd71e.mp3|4*[어린이집] 로운이의 즐거운 하루 (감성적인 슬로우 트로트, 4/4 박자, 70~80 BPM, 전통 트로트 리듬에 현대적인 편곡)_W18 v4.5-all||",
+"https://cdn1.suno.ai/1467ba8b-5d46-4a25-9667-6ab7f1a291a9.mp3|4[어린이집] 로운이의 즐거운 하루 <br>(차분한 분위기의 자장가 스타일)_W05 v4.5-all||",
+"https://cdn1.suno.ai/a9a4ce74-df5f-4ec8-8bfb-6264a09e3857.mp3|4*[어린이집] 로운이의 어린이집 모험 <br>(애절한 한국 드라마 OST, 멜랑콜리하면서도 부드러운 현악 선율)_W12 v4.5-all||",
+"https://cdn1.suno.ai/862ab91f-6abd-42b5-a297-227fd50e0939.mp3|4*[어린이집] 로운이의 어린이집 모험 <br>(애절한 한국 드라마 OST, 멜랑콜리하면서도 부드러운 현악 선율)_W13 v4.5-all||",
+"https://cdn1.suno.ai/42f8bec7-68c1-444b-8488-22e13b77f378.mp3|4*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 발라드, 감성적 전통악기)_W20 v4.5-all||",
+"https://cdn1.suno.ai/34e46f8d-8564-448f-ba2e-d1ee7d19f437.mp3|4*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 발라드, 감성적 전통악기)_W21 v4.5-all||",
+"https://cdn1.suno.ai/84779152-366a-4dec-b58e-32f23bdfd31c.mp3|4*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(한국 전통 사극 발라드, 오케스트라)_W13 v4.5-all||",
+"https://cdn1.suno.ai/6685e0a7-5c47-453e-aba3-7b1ed03d4090.mp3|4*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 느리고 깊고 울림 있는 첼로, 부드러운 바이올린, 조용한 오보에 대선율)_WM03 v4.5-all||",
+"https://cdn1.suno.ai/0415cc03-31b3-4444-b4f6-9723fec922da.mp3|4*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 한국 전통 사극 발라드, 오케스트라)_W07 v4.5-all||",
+"https://cdn1.suno.ai/bb421430-fde6-4d2d-aaa4-084c459493b8.mp3|4*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 친근한 남성 휘슬, 편안한 즐거운)_M02 v4.5-all||",
+"https://cdn1.suno.ai/267869f8-2b38-48fe-a4ce-70460503eae7.mp3|40*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (바이올린 베이스 드럼, 낭만적인)_M08 v4.5+||",
+"https://cdn1.suno.ai/ace19fb7-58cc-4bb0-9f32-4b112fe7df22.mp3|40*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (발라드 피아노 색소폰 헌신 애정)_M05 v4.5+||",
+"https://cdn1.suno.ai/8d3d5b3d-5c89-4bde-acca-21b7b266afbb.mp3|40*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (발라드 피아노 색소폰 헌신 애정)_M06 v4.5+||261",
+"https://cdn1.suno.ai/08f45616-b4c9-4454-9ca2-ab6e3ba1adc0.mp3|40*[생일 축하] 당신들의 생일을 축하합니다 <br>(교향곡 금관악기, 기쁨과 환희)_M03 v4.5+||",
+"https://cdn1.suno.ai/420bb0a7-4c19-4afe-be32-54031c3a0815.mp3|40*[생일 축하] 당신들의 생일을 축하합니다 <br>(오케스트라, 낭만적인 축하 분위기)_M01 v4.5+||",
+"https://cdn1.suno.ai/94f36ae9-a979-48e0-9659-bf402e23b746.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 (발라드)_M01 v5||",
+"https://cdn1.suno.ai/3b8b6559-9be5-4214-8407-9d0b5a7c38ab.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 <br>(바이올린 신스팝)_MW01 v5||",
+"https://cdn1.suno.ai/74d4d057-4a49-47ad-8083-5e8025c5fccb.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 <br>(서정적 포크)_M04 v5||",
+"https://cdn1.suno.ai/13945f2f-25b5-46b1-a15c-bfda6942e3b7.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 <br>(서정적 포크)_M05 v5||",
+"https://cdn1.suno.ai/5e1c7bda-dd53-441f-96e7-7a684778881f.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드)_W04 v5||",
+"https://cdn1.suno.ai/c31ee404-ee66-42b3-b813-55f53904eed5.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 발라드, 애절한 여성 보컬)_W03 v5||",
+"https://cdn1.suno.ai/38c73479-2029-46a0-9cd0-7e6d2dc8f1b1.mp3|40*[증조모 생일] 울 엄마의 기구했던 생일 <br>(전통 사극 발라드, 오케스트라 현악)_W01 v5||",
+"https://cdn1.suno.ai/6723d32e-109c-462a-8363-ee000a733f79.mp3|50*[잉태 기쁨] 파랑이의 꿈 (케이팝, 베이스라인)_W01 v4||194",
+"https://cdn1.suno.ai/9e89c24f-5add-4c60-884f-8779362bdcd7.mp3|50*[잉태 기쁨] 파랑이의 노래 (자장가, 신스 멜로디)_W02 v4||",
+"https://cdn1.suno.ai/cf5475df-6c32-485a-8a6a-c9af276aabfe.mp3|50[건강 기원] 파랑아, 우리 곁에 올 그날까지 (실험적 미니멀 테크노 역동적 신디사이저)_W03 v4.5-all||",
+"https://cdn1.suno.ai/48d48944-5d47-45a4-bb34-c95b21b5f6c5.mp3|50[건강 기원] 파랑아, 우리 곁에 올 그날까지 <br>(브라스밴드 행진, 희망, 새로운 시작)_M10 v4.5-all||",
+"https://cdn1.suno.ai/134a34c9-5ed4-4547-a31e-4e94b4142123.mp3|50[탄생 파랑] 할아버지 할머니의 사랑을, 파랑에게 (아기 탄생을 축복, 밝고 즐거운 노래)_MW35 v4.5-all||",
+"https://cdn1.suno.ai/14fbc195-88e8-41ee-9735-5f94addfde38.mp3|50*[탄생 파랑] 할아버지 할머니가 보내는 파랑이의 축복 (트롯댄스 금관악기 신디사이저)_MW34 v4.5-all||",
+"https://cdn1.suno.ai/a9af7d35-1c34-49c1-af0a-36e6b3daff8a.mp3|50[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (클럽, DJ, 신스 중심의 팝 일렉트로)_MW07 v4.5-all||",
+"https://cdn1.suno.ai/da8d46e4-1d9e-4a64-901b-3260cdec05f4.mp3|50*[탄생 로운] 로운에게 보내는 엄마 아빠의 축복 (하드록과 댄서블한 그루브 디스코)_MW10 v4.5-all||",
+"https://cdn1.suno.ai/8f1653aa-4783-4103-a2bd-ec6f1bd9308d.mp3|50*[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (트로트, 역동적인 댄스 비트)_MW04 v4.5-all||",
+"https://cdn1.suno.ai/1a463b68-bdab-40e7-808a-8a639370fa23.mp3|50*[탄생 로운] 할아버지 할머니의 사랑을, 로운에게 (행진곡 금관악기, 영웅적 축제적)_M10 v4.5||",
+"https://cdn1.suno.ai/7346e7ed-c747-4f12-a4f2-7b9d9273462d.mp3|50*[탄생 로운] 할아버지 할머니가 보내는 로운이의 축복 (경쾌한 템포의 트로트 듀엣)_MW07 v4.5-all||",
+"https://cdn1.suno.ai/f4c3af5f-2657-4ef8-bcb2-3815db5ad3f2.mp3|50*[작명 축복] 예쁜 이름 로운아, 축하해! (인디)_W08 v4.5||",
+"https://cdn1.suno.ai/9e417258-3f45-4a07-b743-ec5fc031e107.mp3|50*[작명 축복] 예쁜 이름 로운아, 축하해! <br>(발랄 에너지, 즐겁고 유쾌한 분위기)_WM01 v4.5||",
+"https://cdn1.suno.ai/5ba74d41-4116-4813-9b8d-a41a1c58a55c.mp3|50*[작명 축복] 예쁜 이름 로운아, 축하해! <br>(밝고 경쾌한 분위기의 행진곡풍)_W01 v4.5||",
+"https://cdn1.suno.ai/b0a8b250-ab97-4018-b315-6ddd93b236c3.mp3|50*[작명 축복] 로운아, 빛나라~~~ ☆ (레이어드 신디사이저, 박동 베이스, 전자 드럼)_W20 v4.5-all||",
+"https://cdn1.suno.ai/cb1f31f7-0687-4431-8bf7-86e77c236709.mp3|50*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(일렉트로 댄스, 신스웨이브, 덥스텝)_M05 v4.5-all||",
+"https://cdn1.suno.ai/78f69d24-ba2f-4fd1-850e-f6a3ecd80c72.mp3|50*[작명 축복] 로운아, 빛나라~~~ ☆ <br>(행진곡 금관악기, 영웅적 축제적)_W14 v4.5||",
+"https://cdn1.suno.ai/c72112dd-864f-4d5e-bf93-663eb4aad41b.mp3|50*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(댄스, EDM 트로트 크로스오버)_W09 v4.5-all||",
+"https://cdn1.suno.ai/97ede6bc-d4d8-4ed3-9c4d-3083ea526b79.mp3|50*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(트로트 댄스, 신디사이저 사운드)_MW10 v4.5-all||",
+"https://cdn1.suno.ai/f6136165-171f-4061-9bf4-889c24f75abe.mp3|50*[작명 축복] 이 세상 이름, 로운에게 <br>(행진곡 금관악기, 영웅적 축제적)_WM02 v4.5||",
+"https://cdn1.suno.ai/2e509f2e-2585-4634-9e8d-a324f9543075.mp3|50*[작명 축복] 로운에게 보내는 할아머니의 축복 (가사 수정 전, 오케스트라 반주 행진곡)_M05 v4.5||",
+"https://cdn1.suno.ai/0697cce7-cef7-441c-92fb-cb954973a46b.mp3|50*[작명 축복] 로운에게 보내는 할아머니의 축복 <br>(가사 수정 전, 행진곡 영웅적 축제적)_M03 v4.5||",
+"https://cdn1.suno.ai/1f2787bc-f26f-49d7-b693-0cd02c56393e.mp3|50[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (감성적인 딥 하우스, 신디 퍼커션)_MW16 v4.5-all||",
+"https://cdn1.suno.ai/74fdf1df-21bb-4f10-8db7-791d3bfd7d2e.mp3|50*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (댄스, 페스티벌 EDM 트로트 퓨전)_W14 v4.5-all||",
+"https://cdn1.suno.ai/484f8462-66b9-4688-8da1-21d9c9e2e07a.mp3|50[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (바이올린 신스팝)_MW13 v4.5+||",
+"https://cdn1.suno.ai/28b80768-523f-4bb9-9921-7c39bfc0a521.mp3|50*[백일 축하] 까꿍~ 로운아! 탄생 100일을 축하해! (바이올린 신스팝, 80 bpm 다소 느림)_MW14 v4.5+||",
+"https://cdn1.suno.ai/fbdb71ae-acd3-481f-96bc-35c2be86369a.mp3|50*[백일 축하] 로운에게 보내는 百日 축하 (80년대 분위기, 신디사이저 일렉트릭 기타)_MW40 v4.5-all||",
+"https://cdn1.suno.ai/36a1987d-bfeb-4fb8-9b1a-08e3473ee0be.mp3|50*[백일 축하] 로운에게 보내는 百日 축하 <br>(바이올린 신스팝)_MW08 v4.5+||",
+"https://cdn1.suno.ai/3fa1add0-d1c1-4722-b0d6-46d95c46905d.mp3|50*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (80년대, 뉴 웨이브 펑크 웨이브)_MW21 v4.5+||",
+"https://cdn1.suno.ai/c444768c-434b-4635-ad33-1a56c23ab0be.mp3|50*[백일 축하] 로운에게 보내는 할아머니의 百日 축복 (감성적인 이모 팝 80bpm)_MW14 v4.5+||",
+"https://cdn1.suno.ai/a84d2a2a-fa85-444d-b1e0-2c84a64840b4.mp3|5[어린이집] 로운이의 어린이집 입학송 (코믹 버전 댄스, 빠른 템포의 EDM 트로트 크로스오버, 탄탄한 4/4 박자 킥 드럼)_W19 v4.5-all||",
+"https://cdn1.suno.ai/759aec4c-54ac-40dd-b732-2482b61b42aa.mp3|5*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 댄스, 빠른 템포의 EDM 트로트 크로스오버, 탄탄한 4/4 박자 킥 드럼)_W20 v4.5-all||",
+"https://cdn1.suno.ai/a56e0007-b2c7-4618-a931-2898912054c6.mp3|5*[어린이집] 로운이의 어린이집 입학송 (코믹 버전 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W18 v4.5-all||",
+"https://cdn1.suno.ai/cbcbcef4-22de-4740-b020-f3e75151319a.mp3|5[어린이집] 로운이의 즐거운 하루 (댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4 킥 드럼)_W15 v4.5-all||",
+"https://cdn1.suno.ai/6b30743a-9087-4789-b419-58f54ad9e048.mp3|5*[어린이집] 로운이의 즐거운 하루 (댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4 킥 드럼)_W16 v4.5-all||",
+"https://cdn1.suno.ai/72803a4d-cc02-4846-a8e9-73ce1c4b4c84.mp3|5*[어린이집] 로운이의 어린이집 모험 <br>(실험적인 미니멀 테크노, 댄스 플로어 드롭, 브레이크다운과 빌드업)_W10 v4.5-all||",
+"https://cdn1.suno.ai/2cf3a86d-edad-45e7-9450-768fcc180f26.mp3|5*[어린이집] 로운이의 어린이집 모험 <br>(실험적인 미니멀 테크노, 댄스 플로어 드롭, 브레이크다운과 빌드업)_W11 v4.5-all||",
+"https://cdn1.suno.ai/998c3b51-dc4b-4e6b-bfb0-22ca694def5a.mp3|5*[어린이집] 로운이의 어린이집 모험 <br>(이탈로 디스코, 1980년대, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M01 v4.5-all||",
+"https://cdn1.suno.ai/97a8421f-5266-4b60-a443-1b8920462077.mp3|5[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(경쾌한 템포와 트로트 듀엣)_W11 v4.5-all||",
+"https://cdn1.suno.ai/7dcf01da-c9de-428b-92b0-1de6f04d2e7d.mp3|5*[어린이집] 로운이의 어린이집 뽀짝 모험 <br>(경쾌한 템포와 트로트 듀엣)_WM01 v4.5-all||",
+"https://cdn1.suno.ai/8edf554f-f0e8-4c2f-a102-9b7690e9f4ff.mp3|5*[어린이집] 로운이, 열 달의 기적 (감성 버전 : &nbsp; 댄스 EDM 트로트 크로스오버, 밝은 신스 리드, 탄탄한 4/4 박자 킥 드럼)_W09 v4.5-all||",
+"https://cdn1.suno.ai/c8c0aa9e-38dd-49c8-97a1-e6f47d861411.mp3|5*[어린이집] 로운이, 열 달의 기적 (감성 버전 :&nbsp; 95 BPM의 1985년 클래식 이탈로 디스코, 오케스트라 합창, 빈티지 신스)_M02 v4.5-all||",
+"https://cdn1.suno.ai/3493b3e6-77f9-4379-94ac-9796fd01cdde.mp3|5*[어린이집] 로운이, 열 달의 기적 <br>(감성 버전 : 팝 록, 일렉트릭 팝 록)_W12 v4.5-all||",
+"https://cdn1.suno.ai/61257b99-836b-4608-bcc9-a35fe8f08c55.mp3|5*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 레트로 키즈 디스코, 펑키한 베이스라인, 경쾌한 신스, 코믹한 분위기)_W06 v4.5-all||",
+"https://cdn1.suno.ai/6a024b8c-829b-4d0f-9217-a71312694727.mp3|5[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W03 v4.5-all||",
+"https://cdn1.suno.ai/2142548e-138b-4cdf-a48c-109e24a6849f.mp3|5*[어린이집] 로운이가 '어린이집'에 갑니다 (개사 전, 한국 뮤지컬 스타일 어린이 노래)_W10 v4.5-all||",
+"https://cdn1.suno.ai/3a0734e0-46a6-424e-905a-986ee6c550ea.mp3|50[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (브라스밴드 행진, 트럼펫 트롬본)_M09 v4.5+||222",
+"https://cdn1.suno.ai/3a580bea-be87-485c-beae-c21d0f9e8874.mp3|50*[결혼 기념] 로운이와 함께 하는 결혼 4주년 축하해! (일렉트로 신스웨이브 덥스텝)_M11 v4.5-all||",
+"https://cdn1.suno.ai/396e05a5-ef14-4d52-8f53-87b64c85adc6.mp3|50*[생일 축하] 당신들의 생일을 축하합니다 <br>(브라스밴드 행진곡, 낭만적 분위기)_M06 v4.5+||",
+"https://cdn1.suno.ai/1b2294c2-fe70-4928-8962-fb79d47dc387.mp3|50*[생일 축하] 당신들의 생일을 축하합니다 <br>(트로트 듀엣의 주고받는 보컬)_M07 v4.5+||",
 ]
 
 song = [
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 어린이집 뽀짝 모험</b></font>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_01.jpg' width=100% title='📷 '><br><br>
+
+햇님 방긋 상쾌한 아침<br>
+꼬물꼬물 눈을 비벼요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_03.png' width=100% title='📷 '><br><br>
+
+토닥토닥 엄마 품에서<br>
+싱글벙글 인사를 해요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_04.png' width=100% title='📷 '><br><br>
+
+가방 메고 출발을 해요<br>
+뽀짝 뽀짝 걸음걸이로<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_05.png' width=100% title='📷 '><br><br>
+
+띵동 띵동 문이 열리며<br>
+선생님이 반겨주네요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_06.png' width=100% title='📷 '><br><br>
+
+냠냠~ 냠냠, 이유식 먹고<br>
+오물오물 입술을 쪽쪽~<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_07.png' width=100% title='📷 '><br><br>
+
+꿀꺽꿀꺽 잘도 먹어요<br>
+짝짝 짝짝 박수를 쳐요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_08.png' width=100% title='📷 '><br><br>
+
+블록 쌓기 톡톡. 탁탁탁<br>
+데굴데굴 공을 굴려요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_09.png' width=100% title='📷 '><br><br>
+
+까르르르 웃음꽃들이<br>
+몽실몽실 피어나네요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_10.png' width=100% title='📷 '><br><br>
+
+새록새록 낮잠 시간에<br>
+포근포근 이불 속으로..<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_11.png' width=100% title='📷 '><br><br>
+
+꿈속에서 둥실 두둥실<br>
+별나라로 여행을 가요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_12.png' width=100% title='📷 '><br><br>
+
+친구들과 손을 잡고서<br>
+조잘조잘 이야기꽃을..<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_13.png' width=100% title='📷 '><br><br>
+
+양보 배려 척척해내요<br>
+슬기로운 로운이에요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_14.png' width=100% title='📷 '><br><br>
+
+선생님과 눈을 맞추며<br>
+귀는 쫑긋, 고개는 끄덕<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_15.png' width=100% title='📷 '><br><br>
+
+봉긋봉긋 지혜가 가득<br>
+사랑둥이 빛이 나네요~~<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_16.png' width=100% title='📷 '><br><br>
+
+하원 길에 총총 총총총<br>
+잘도 먹고, 잠 잘 자면서<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_17.png' width=100% title='📷 '><br><br>
+
+오늘도 또, 잘 놀았기에<br>
+무럭무럭 자라납니다~~<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_18.png' width=100% title='📷 '><br><br>
+
+로운이, 멋지다 멋져!<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_19.png' width=100% title='📷 '>
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이, 열 달의 기적</b></font><br>
+
+열 달 품에 안겼던<br>
+작은 우리 로운이<br><br>
+
+오늘 처음 세상 속<br>
+한 걸음 내딛어요<br><br>
+
+말은 아직 못 하지만<br>
+눈빛은 다~ 말해요<br><br>
+
+엄마 아빠 사랑을<br>
+가슴 가득 안고<br><br>
+
+가방 메고 서 있는<br>
+그 작은 뒷모습<br><br>
+
+유모차에 앉았지만<br>
+마음은 훌쩍 컸어요<br><br>
+
+벚꽃 피는 봄이 오면<br>
+말도 하고 걷겠지요<br><br>
+
+계절 따라 자라나는<br>
+로운이의 하루하루~<br><br>
+
+냠냠~ 잘도 먹고<br>
+새근새근 잠들고<br><br>
+
+하하 웃는 모습에<br>
+우리 마음 녹아요~<br><br>
+
+지혜로운 이름처럼<br>
+슬기롭게 자라서<br><br>
+
+이 세상에 환한 빛<br>
+되어 주렴, 로운아~~<br><br>
+
+<img src="" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 어린이집 모험</b></font><br>
+
+콩. 콩. 콩. 발걸음, 두근두근 설레임<br> 
+알록달록 가방에 파란 꿈 가득 담아<br>
+까르르 웃음소리, 반짝반짝 눈빛으로<br>
+로운이 오늘도 씩씩하게 출발해요<br><br>
+
+<img src="https://i.imgur.com/LXaf9Bt.png" width=100% title="📷 "><br><br>
+
+쓱싹쓱싹 그림을, 색칠하며 놀고<br>  
+똑딱똑딱 블록을, 차곡차곡 쌓고<br><br>
+
+<img src="https://i.imgur.com/xCqoF1o.png" width=100% title="📷 "><br><br>
+
+찰방찰방 물놀이, 신나는 웃음<br>
+로운이 친구랑 사이좋게 어울려요<br><br>
+
+<img src="https://i.imgur.com/3Bhjb1D.png" width=100% title="📷 "><br><br>
+
+냠냠~ 냠냠~ 맛있게 밥을 먹으면<br>  
+스르륵~ 졸리는 눈, 달콤한 낮잠의<br>
+꿈속에서 하하 호호 춤을 추면서<br>
+로운이 쑥쑥쑥 건강하게 자라나요~~<br><br>
+
+<img src="https://i.imgur.com/HF0i1aQ.png" width=100% title="📷 "><br><br>
+
+손을 잡고 빙빙빙 원을 그리고<br>
+랄라라라 노래 부르며 뛰노는<br><br>
+
+<img src="https://i.imgur.com/ePJ0zrM.png" width=100% title="📷 "><br><br>
+
+찰칵. 찰칵. 사진 속의 웃는 얼굴<br>
+로운이 하루가 행복으로 가득해요<br><br>
+
+<img src="https://i.imgur.com/ny3IoiE.png" width=100% title="📷 "><br><br>
+
+선생님 말씀에는 귀 쫑긋 세우고<br>
+또래 친구들과 재미있게 놀면서<br><br>
+
+<img src="https://i.imgur.com/MO1r6re.png" width=100% title="📷 "><br><br>
+
+슬기로운 마음이 쑥쑥 자라나는<br>
+로운이 하루는 지혜롭게 빛이 나요<br><br>
+
+<img src="https://i.imgur.com/LPHKn4P.png" width=100% title="📷 "><br><br>
+
+톡. 톡. 톡. 작은 손, 사랑을 전하고<br>
+방글방글 미소로 모두를 감싸며<br><br>
+
+<img src="https://i.imgur.com/x1a9wyh.png" width=100% title="📷 "><br><br>
+
+콩닥콩닥 심장에 희망을 담고서<br>
+로운이 내일도 활기차게 올 거예요~~<br><br>
+
+<img src="https://i.imgur.com/Rpnx5wn.png" width=100% title="📷 "><br><br>
+
+로운아! 사랑해~~~ ♡<br><br>
+
+<img src="https://i.imgur.com/s60IPfW.png" width=100% title="📷 ">
+
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 어린이집 입학송</b></font><br>
+
+로운 로운, 우리 아들 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/mcrw4nS.png" width=100% title="📷 "><br><br>
+
+"엄마 아빠, 다녀오겠습니다"<br>
+하지만 아직 말은 못 한답니다~<br>
+(하하하~)<br><br>
+
+<img src="https://i.imgur.com/zIwDViw.png" width=100% title="📷 "><br><br>
+
+벚꽃이 만발하는 사월이 오면<br>
+그때는 말문이 터질 거예요~ (정말?)<br><br>
+
+<img src="https://i.imgur.com/RybTBj1.png" width=100% title="📷 "><br><br>
+
+가방 메고 아장아장 걸어갑니다<br>
+그러나 오늘은 유모차로 간답니다~<br>
+(하하하~)<br><br>
+
+<img src="https://i.imgur.com/0tJrpRA.png" width=100% title="📷 "><br><br>
+
+첫돌을 맞이하는 오월이 오면<br>
+아마도 뛰어갈 거예요~ (진짜?)<br><br>
+
+<img src="https://i.imgur.com/cNdwJ8m.png" width=100% title="📷 "><br><br>
+
+딱지치기 딱. 딱. 총싸움도 빵. 빵.<br>
+그런데 지금은 기어 다닌답니다~<br>
+(하하하~)<br><br>
+
+<img src="https://i.imgur.com/DVCi6Ev.png" width=100% title="📷 "><br><br>
+
+이제 곧 말도 하고, 걷게 되면<br>
+뛰뛰 빵빵, 자동차 놀이할 거예요~<br>
+(좋겠다~)<br><br>
+
+<img src="https://i.imgur.com/LSkjPkh.png" width=100% title="📷 "><br><br>
+
+나는 나는 될 거예요<br>
+어린이집 우등생이 될 거예요~~<br><br>
+
+<img src="https://i.imgur.com/CvrcJzd.png" width=100% title="📷 "><br><br>
+
+냠냠~ 냠냠, 맛있게 먹고<br>
+새록 새록, 잠도 잘 자고<br><br>
+
+<img src="https://i.imgur.com/dE8nfgr.png" width=100% title="📷 "><br><br>
+
+꽁냥 꽁냥, 친구랑 사이좋게<br>
+하하 호호, 재미있게 놀면서..<br><br>
+
+<img src="https://i.imgur.com/CxBA4R5.png" width=100% title="📷 "><br><br>
+
+지혜로운.. 슬기로운..<br>
+로운이가 될 거예요 (와~~ 기특하네)<br><br>
+
+<img src="https://i.imgur.com/sGheH9R.png" width=100% title="📷 "><br><br>
+
+로운 로운, 우리 손자 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/dpPIVS8.png" width=100% title="📷 "><br><br>
+
+로운이, 최고!<br><br>
+
+<img src="https://i.imgur.com/zMm8Ezo.png" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이가 '어린이집'에 갑니다</b></font><br>
+
+로운 로운 우리 아들 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/mcrw4nS.png" width=100% title="📷 "><br><br>
+
+"엄마 아빠, 다녀오겠습니다"<br>
+하지만 아직 말은 못 한답니다~<br><br>
+
+<img src="https://i.imgur.com/zIwDViw.png" width=100% title="📷 "><br><br>
+
+벚꽃이 만발하는 사월이 오면<br>
+그때는 말문이 터질 거예요~<br><br>
+
+<img src="https://i.imgur.com/RybTBj1.png" width=100% title="📷 "><br><br>
+
+가방 메고 아장아장 걸어갑니다<br>
+그러나 오늘은 유모차로 간답니다~<br><br>
+
+<img src="https://i.imgur.com/0tJrpRA.png" width=100% title="📷 "><br><br>
+
+첫돌을 맞이하는 오월이 오면<br>
+아마도 뛰어갈 거예요~<br><br>
+
+<img src="https://i.imgur.com/cNdwJ8m.png" width=100% title="📷 "><br><br>
+
+딱지치기 딱. 딱. 총싸움도 빵. 빵.<br>
+그런데 지금은 기어다닌답니다~<br><br>
+
+<img src="https://i.imgur.com/DVCi6Ev.png" width=100% title="📷 "><br><br>
+
+이제 곧 말도 하고, 걷게 되면<br>
+뛰뛰 빵빵, 자동차 놀이할 거예요~<br><br>
+
+<img src="https://i.imgur.com/LSkjPkh.png" width=100% title="📷 "><br><br>
+
+나는 나는 될 거예요<br>
+어린이집 우등생이 될 거예요<br><br>
+
+<img src="https://i.imgur.com/CvrcJzd.png" width=100% title="📷 "><br><br>
+
+쩝쩝 냠냠, 맛있게 먹고<br>
+새록 새록, 잠도 잘 자고<br><br>
+
+<img src="https://i.imgur.com/dE8nfgr.png" width=100% title="📷 "><br><br>
+
+꽁냥 꽁냥, 친구랑 사이좋게<br>
+하하 호호, 재밌게 놀면서..<br><br>
+
+<img src="https://i.imgur.com/CxBA4R5.png" width=100% title="📷 "><br><br>
+
+지혜로운.. 슬기로운..<br>
+로운이가 될 거예요~<br><br>
+
+<img src="https://i.imgur.com/sGheH9R.png" width=100% title="📷 "><br><br>
+
+로운 로운 우리 손자 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/dpPIVS8.png" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 즐거운 하루</b></font><br>
+
+옹알이 뿅뿅~, 로운이 콩콩콩~<br>
+세상이 궁금해, 눈이 반짝반짝<br><br>
+
+<img src="https://i.imgur.com/R9rU1Bl.png" width=100% title="📷 "><br><br>
+
+어린이집 갑니다, 룰루랄라 신이 나요<br>
+새 친구 만나러, 폴짝폴짝 뛰어갑니다<br><br>
+
+<img src="https://i.imgur.com/LvnWD99.png" width=100% title="📷 "><br><br>
+
+선생님 품에 안겨, 까르르~ 웃음꽃<br>
+장난감 친구들과, 데굴데굴 춤춰요<br><br>
+
+<img src="https://i.imgur.com/i6zw5qT.png" width=100% title="📷 "><br><br>
+
+냠냠 맛있는 점심, 꿀꺽꿀꺽 잘 먹어요<br>
+쿨쿨 달콤한 낮잠, 세상모르고 잘 자요<br><br>
+
+<img src="https://i.imgur.com/eem9DgT.png" width=100% title="📷 "><br><br>
+
+미끄럼틀 슝슝~, 깔깔깔~ 신나는 놀이<br>
+친구 손잡고 빙글, 모두 함께 즐거워요<br><br>
+
+<img src="https://i.imgur.com/k2dzK8Z.png" width=100% title="📷 "><br><br>
+
+블록 쌓기 차곡차곡, 멋진 성을 지어요<br>
+색깔 크레파스로, <br>
+알록달록 그림 그려요<br><br>
+
+<img src="https://i.imgur.com/YmHc4xG.png" width=100% title="📷 "><br><br>
+
+냠냠 맛있는 간식, 오물오물 잘 먹어요<br>
+쿨쿨 달콤한 꿈나라, 예쁜 꿈을 꾸어요<br><br>
+
+<img src="https://i.imgur.com/M5Bm43q.png" width=100% title="📷 "><br><br>
+
+집에 갈 시간 땡! 엄마 아빠 보고파요<br>
+오늘 하루 즐거웠어요, 내일 또 만나요<br><br>
+
+<img src="https://i.imgur.com/GNQDz0n.png" width=100% title="📷 "><br><br>
+
+씩씩한 로운이, 사랑스러운 로운이<br>
+선아 어린이집, 최고로 즐거워요~~<br><br>
+
+<img src="https://i.imgur.com/I0Ot68b.png" width=100% title="📷 "><br><br>
+
+선아 어린이집! 최고야~!<br><br>
+
+<img src="https://i.imgur.com/nsnJpx1.png" width=100% title="📷 ">
+
+</td></tr></table>`,
 `<table class='box' style="BACKGROUND:white url('https://i.imgur.com/dgZzxa6.jpeg') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'>
-<font color='blue'><b>울 엄마의 기구했던 생일</b></font><br><br>
+<P class='mid'><font style="display:none"><b>울 엄마의 기구했던 생일</b></font><br>
 
 용띠 해 무진년에 오시어<br>
 용띠 해 갑진년에 가신..<br>
@@ -2169,7 +2452,30 @@ const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') re
 
 <font color='blue'><b></b></font>
 <font color='blue'><b></b></font>
-<font color='blue'><b></b></font>
+
+<font color='blue'><b>2026.03.18 순환 재생 방식 수정</b></font><br>
+지금까지 생성된 곡 중에서 최종 238곡을 선정, '생성일자' 순으로 <br>
+'계속 순환' 재생하는 방식으로 수정.<br><br>
+
+(잉태 → 탄생 → 작명 → 백일 → 어린이집 순)<br><br>
+
+1순환 51곡 (1~51번) 선호도 1순위<br>
+2순환 51곡 (52~102번) 선호도 2순위<br>
+3순환 35곡 (103~137번) 동요 분위기<br>
+4순환 51곡 (138~188번) 발라드 위주<br>
+5순환 50곡 (189~238번) 댄스풍 유사<br><br><br>
+
+
+<font color='blue'><b>2026.03.17 [어린이집] 테마 완료</b></font><br>
+무료 버전 (4.5-all) 77곡 수록<br><br>
+
+<font color='blue'><b>2026.03.05 [어린이집] 테마 생성</b></font><br>
+1. 로운이의 어린이집 입학송 (코믹 버전)<br>
+2. 로운이의 즐거운 하루<br>
+3. 로운이의 어린이집 모험<br>
+4. 로운이의 어린이집 뽀짝 모험<br>
+5. 로운이, 열 달의 기적 (감성 버전)<br>
+6. 로운이가 '어린이집'에 갑니다 (개사 전)<br><br>
 
 <font color='blue'><b>2026.02.13 순환 재생 방식으로 변경</b></font><br>
 지금까지 생성된 곡 중에서 최종 286곡을 선정, '생성일자' 순으로 <br>
