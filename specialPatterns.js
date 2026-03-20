@@ -100,6 +100,13 @@
     }
   },
   {
+    check: (html) => html.includes(`Ta08,`),
+    extract: (html) => {
+      try { return html.split(`Ta08,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
     check: (html) => html.includes("日本語 歌詞"),
     extract: (html) => {
       try { return html.split(`self.__next_f.push([1,"\\n`)[1].split(`"])`)[0]; }
