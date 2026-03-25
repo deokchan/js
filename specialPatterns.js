@@ -9,6 +9,20 @@
   },
 */
   {
+    check: (html) => html.includes(`[Intro]`),
+    extract: (html) => {
+      try { return `[Intro]` + html.split(`[Intro]`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`self.__next_f.push([1,"“`),
+    extract: (html) => {
+      try { return `"` + html.split(`self.__next_f.push([1,"“`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
     check: (html) => html.includes(`self.__next_f.push([1,"“`),
     extract: (html) => {
       try { return `"` + html.split(`self.__next_f.push([1,"“`)[1].split(`"])`)[0]; }
@@ -30,13 +44,6 @@
     }
   },
   {
-    check: (html) => html.includes(`self.__next_f.push([1,"Oh boy`),
-    extract: (html) => {
-      try { return `Oh boy` + html.split(`self.__next_f.push([1,"Oh boy`)[1].split(`"])`)[0]; }
-      catch(e) { return ""; }
-    }
-  },
-  {
     check: (html) => html.includes(`Verse 1`),
     extract: (html) => {
       try { return `Verse 1` + html.split(`Verse 1`)[1].split(`"])`)[0]; }
@@ -51,16 +58,16 @@
     }
   },
   {
-    check: (html) => html.includes(`self.__next_f.push([1,"26:T53d,`),
+    check: (html) => html.includes(`[verse1]`),
     extract: (html) => {
-      try { return html.split(`self.__next_f.push([1,"26:T53d,`)[1].split(`"])`)[0]; }
+      try { return `[verse1]` + html.split(`[verse1]`)[1].split(`"])`)[0]; }
       catch(e) { return ""; }
     }
   },
   {
-    check: (html) => html.includes(`self.__next_f.push([1,"26:T6f1,`),
+    check: (html) => html.includes(`self.__next_f.push([1,"Oh boy`),
     extract: (html) => {
-      try { return html.split(`self.__next_f.push([1,"26:T6f1,`)[1].split(`"])`)[0]; }
+      try { return `Oh boy` + html.split(`self.__next_f.push([1,"Oh boy`)[1].split(`"])`)[0]; }
       catch(e) { return ""; }
     }
   },
@@ -86,6 +93,48 @@
     }
   },
   {
+    check: (html) => html.includes(`self.__next_f.push([1,"26:T53d,`),
+    extract: (html) => {
+      try { return html.split(`self.__next_f.push([1,"26:T53d,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`self.__next_f.push([1,"26:T6f1,`),
+    extract: (html) => {
+      try { return html.split(`self.__next_f.push([1,"26:T6f1,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`self.__next_f.push([1,"41:T413,`),
+    extract: (html) => {
+      try { return html.split(`self.__next_f.push([1,"41:T413,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`self.__next_f.push([1,"41:T6f1,`),
+    extract: (html) => {
+      try { return html.split(`self.__next_f.push([1,"41:T6f1,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`self.__next_f.push([1,"41:Ta17,`),
+    extract: (html) => {
+      try { return html.split(`self.__next_f.push([1,"41:Ta17,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`self.__next_f.push([1,"41:T53d,`),
+    extract: (html) => {
+      try { return html.split(`self.__next_f.push([1,"41:T53d,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
     check: (html) => html.includes(`self.__next_f.push([1,"Chorus`),
     extract: (html) => {
       try { return `Chorus ` + html.split(`self.__next_f.push([1,"Chorus`)[1].split(`"])`)[0]; }
@@ -103,6 +152,13 @@
     check: (html) => html.includes(`Ta08,`),
     extract: (html) => {
       try { return html.split(`Ta08,`)[1].split(`"])`)[0]; }
+      catch(e) { return ""; }
+    }
+  },
+  {
+    check: (html) => html.includes(`우리가 어쩌다`),
+    extract: (html) => {
+      try { return `우리가 어쩌다` + html.split(`우리가 어쩌다`)[1].split(`"])`)[0]; }
       catch(e) { return ""; }
     }
   },
