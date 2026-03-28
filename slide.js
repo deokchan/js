@@ -1,4 +1,4 @@
-﻿const = [
+﻿const img = [
 "https://cheerful-kangaroo-a63580.netlify.app/YangYang/260109_0938_김밥천국 화재 1.jpg",
 "https://cheerful-kangaroo-a63580.netlify.app/YangYang/260109_1001_김밥천국 화재 2 - 서쪽 하늘엔 웅게구름.jpg",
 "https://cheerful-kangaroo-a63580.netlify.app/YangYang/260109_1211_김밥천국 화재 3 - 봉안당 하늘).jpg",
