@@ -1266,77 +1266,141 @@ L. M. G. 조총훈련 뜀박질에 새빠지고<br>
 이십칠 연대로 나는 간다~~~
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>고결한 전설, 자존의 꽃 수선화</b></font>
+<P class='mid'><font style="display:none"><b>고결한 전설, 자존의 꽃 수선화</b></font><br>
 
 찬 바람 가시지 않은 이른 봄날에도<br>
-얼었던 땅을 뚫고 노랗게 피었네요<br>
+얼었던 땅을 뚫고 노랗게 피었네요<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_183839.webp" width="100%" title='📷 '><br><br>
+
 초록빛 치마를 입고 방긋 웃는 너는<br>
 봄날의 시작을 알리는 노란 종소리<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_183845.webp" width="100%" title='📷 '><br><br><br>
+
 
 누구보다 자신을 가장 사랑했기에<br>
 고귀한 자존심을 향기로 채웠나요?<br>
 자아도취라 말해도 어쩔 수 없어요<br>
 나만의 당당함은 봄의 선물인걸요<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_183853.webp" width="100%" title='📷 '><br><br><br>
+
+
 그리스 먼 옛날의 슬픈 전설 중 하나,<br>
 호수에 비친 내 얼굴 사랑에 빠져서<br>
 물가에 핀 꽃 되어 영원을 노래하는<br>
 나르키소스 눈물이 꽃잎 되었구나~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260419_094903.webp" width="100%" title='📷 '><br><br><br>
+
 
 맑은 물 흐르는 곳에 자리를 잡고서<br>
 '물속의 신선'이라 불리는 그 이름은<br>
 차가운 물가에서도 기품을 지키는<br>
 '수선화', 그 이름 참으로 고결하구나<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_173901.webp" width="100%" title='📷 '><br><br><br>
+
+
 돌 틈새의 척박한 땅도 가리지 않고<br>
-햇살 드는 곳마다 희망을 틔우네요<br>
+햇살 드는 곳마다 희망을 틔우네요<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_184219.webp" width="100%" title='📷 '><br><br>
+
 바람에 흔들려도 단단히 서는 모습,<br>
 강인한 그 미소에 내 마음 끌리네요~~<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_184227.webp" width="100%" title='📷 '><br><br><br>
+
+
 태어난 곳 달라도 소롯이 피어나는<br>
-자신을 아끼는 법, 나를 깨우치네요<br>
+자신을 아끼는 법, 나를 깨우치네요<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131809.webp" width="100%" title='📷 '><br><br>
+
 가슴속에 수선화 한 송이 간직하며<br>
-우리도 우리네 인생을 사랑하리라~
+우리도 우리네 인생을 사랑하리라~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260419_094859.webp" width="100%" title='📷 '>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>스치는 바람 속의 수선화</b></font>
+<P class='mid'><font style="display:none"><b>스치는 바람 속의 수선화</b></font><br>
 
 고요히 고개를 든 노란 빛<br>
-아무 말도 없이 봄을 연다<br>
+아무 말도 없이 봄을 연다<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_183900.webp" width="100%" title='📷 '><br><br>
+
 바람은 스치듯 지나가고<br>
 꽃은 그 자리에 남아 있다~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260419_094902.webp" width="100%" title='📷 '><br><br><br>
+
 
 물 위에 비친 한 사람처럼<br>
 자기의 모습에 잠겨 있던<br>
 이름 모를 오래된 이야기<br>
 꽃이 되어 다시 피어난다~<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_173926.webp" width="100%" title='📷 '><br><br><br>
+
+
 햇살을 오래 품은 잎 사이<br>
-작은 온기들이 번져 간다<br>
+작은 온기들이 번져 간다<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260419_094926.webp" width="100%" title='📷 '><br><br>
+
 드러내지 않아도 충분히<br>
 계절은 이미 깊어져 있다~<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_174926.webp" width="100%" title='📷 '><br><br><br>
+
+
 돌 틈 사이를 밀어 올리며<br>
-무던히도 견뎌 낸 시간들<br>
+무던히도 견뎌 낸 시간들<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_184317.webp" width="100%" title='📷 '><br><br>
+
 그 끝에서 만난 한 줄기 빛<br>
 그것으로 삶은 충분하다~<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_175022.webp" width="100%" title='📷 '><br><br><br>
+
+
 누군가 심고 잊었더라도<br>
-꽃들은 스스로 길을 찾고<br>
+꽃들은 스스로 길을 찾고<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131746.webp" width="100%" title='📷 '><br><br>
+
 머물 자리 하나 정해지면<br>
 그곳이 곧 봄이 되어 간다~~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131802.webp" width="100%" title='📷 '><br><br><br>
+
 
 혼자 피어도 흔들림 없이<br>
 자기 빛으로 단단히 서는<br>
 그 모습 닮은 하루 끝에서<br>
 나도 조금은 고요해진다~<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_184237.webp" width="100%" title='📷 '><br><br><br>
+
+
 바람이 또 계절을 부르면<br>
-그 꽃은 또다시 길을 연다<br>
+그 꽃은 또다시 길을 연다<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_174036.webp" width="100%" title='📷 '><br><br>
+
 사라진 듯 다시 돌아오는<br>
 그 이름, 수선화라 부른다~~<br><br>
 
-"바람 속에서도 나를 잃지 않는다"
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_174958.webp" width="100%" title='📷 '><br><br><br>
+
+
+"바람 속에서도 나를 잃지 않는다"<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260419_094914.webp" width="100%" title='📷 '>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>모노골의 분홍빛 봄</b></font>
