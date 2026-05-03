@@ -143,6 +143,7 @@ odi = [
 "https://cdn1.suno.ai/390e26d9-7942-4269-aab2-98a857b7db95.mp3|[뮤지컬] 자랑스러운 양양의 노래-뮤지컬 리빌드 5 (오페라풍, 극적인 오케스트레이션, 파워풀한 소프라노 및 바리톤 보컬, 웅장한 현악기, 위엄 있는 금관악기, 천둥 같은 팀파니, 신비로운 합창)_MW05 v5.5||463",
 ]
 
+
 song = [
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b></b></font>
@@ -4611,15 +4612,24 @@ AI로 건강 관리, <br>
 물안개 속 황어 떼가 춤추면<br>
 그 물길엔 여전히 시간이 흐르네<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_131338.webp" width="100%" title="📷 01"><br><br>
+
+
 연어의 고향, 투명한 물결 위로<br>
 은어와 황어가 힘차게 오르고<br>
 제방뚝 따라 자전거 지나가면<br>
 아이들 웃음이 물결에 닿는다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_131413.webp" width="100%" title="📷 02"><br><br>
+
+
 갈대 흔들리는 남대천의 길 위로<br>
 다시, 내가 어린 시절을 걷네<br>
 벚꽃 아래 흐르던 그 물결처럼<br>
 기억은 천천히 나를 감싸와~~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_131522.webp" width="100%" title="📷 03"><br><br>
+
 
 남대천의 봄, 너와 걷던 그 길<br>
 해당화 핀 제방뚝에서,,,<br>
@@ -4627,6 +4637,9 @@ AI로 건강 관리, <br>
 
 물살에 반사된 우리의 시간<br>
 지금도 흐르고 있어, 그때처럼..<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_133414.webp" width="100%" title="📷 04"><br><br>
+
 
 뚜거리 낚시하던 꼬마들의 노래<br>
 용바위에서 멱 감던 여름,,,<br><br>
@@ -4635,10 +4648,15 @@ AI로 건강 관리, <br>
 불 피우고 웃던 우리, <br>
 별빛 속의 청춘<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_131935.webp" width="100%" title="📷 05"><br><br>
+
+
 이젠 손주 데리고 다시 찾는 물가<br>
 하지만 마음은 여전히 그 시절<br>
 제방뚝에 앉아 있으면,<br>
 그때의 네가 옆에 앉아 있는 듯해<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_131951.webp" width="100%" title="📷 06"><br><br>
 
 남대천의 봄, 너와 걷던 그 길<br>
 해당화 핀 제방뚝에서,,,<br>
@@ -4647,12 +4665,15 @@ AI로 건강 관리, <br>
 물살에 반사된 우리의 시간<br>
 지금도 흐르고 있어, 그때처럼..<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260405_133442.webp" width="100%" title="📷 07"><br><br>
+
+
 남대천은 여전히 그 모습<br>
 시간만이 다르게 흐를 뿐<br>
 그 물길 따라, 봄처럼 잔잔히<br>
 오늘 나는 다시 청춘이 되는 날..<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/bS9s2x/btsNd5s9EMh/KVmnw0wNQ9YUgm8e8iIurK/img.jpg' width=100%><br>
+<img src='https://blog.kakaocdn.net/dn/bS9s2x/btsNd5s9EMh/KVmnw0wNQ9YUgm8e8iIurK/img.jpg' width="100%" title="📷 08"><br>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/dtdiIN/btsOxArBHyb/4z2Fx5ERKFsEKmzA95bvv0/img.jpg') repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>벚꽃 아래, 우리라는 계절</b></font>
