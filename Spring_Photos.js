@@ -678,84 +678,130 @@ still bloom<br>
 our season
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>우리의 봄은 아직-발라드 리빌드</b></font>
+<P class='mid'><font style="display:none"><b>우리의 봄은 아직-발라드 리빌드</b></font><br>
 
 조용히 불어오는 봄바람<br>
 그 속에 네가 있어<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_181058.webp" width="100%" title="📷 01"><br><br>
+
 벚꽃 아래 걷던 그날<br>
-아직도 선명한 기억<br>
+아직도 선명한 기억<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_181143.webp" width="100%" title="📷 02"><br><br>
+
 현산 언덕 그 하얀 길 위에<br>
 우린 멈춰 있었지<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_183620.webp" width="100%" title="📷 03"><br><br>
 
 시간은 흘러갔어도<br>
 왜 넌 그대로일까<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_175247.webp" width="100%" title="📷 04"><br><br>
+
 벚꽃 아래 너와 걷던 봄<br>
-세상이 멈춘 듯했던 순간<br>
+세상이 멈춘 듯했던 순간<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_175607.webp" width="100%" title="📷 05"><br><br>
+
 사진보다 더 선명했던<br>
 우리의 그 하루<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_175340.webp" width="100%" title="📷 06"><br><br>
+
 지금도 내 마음 한 켠에<br>
-조용히 피어나~<br>
+조용히 피어나~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_180612.webp" width="100%" title="📷 07"><br><br>
+
 우리라는 계절은<br>
-끝나지 않은 채..<br><br><br>
+끝나지 않은 채..<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_175727.webp" width="100%" title="📷 08"><br><br><br>
 
 
 교복 위로 내려앉던<br>
-그날의 꽃잎처럼<br>
+그날의 꽃잎처럼<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_180640.webp" width="100%" title="📷 09"><br><br>
+
 말하지 못한 그 한마디<br>
 아직도 남아 있어<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_180551.webp" width="100%" title="📷 10"><br><br>
+
 잊은 줄 알았던 마음이<br>
-바람 따라 다시 와~<br>
+바람 따라 다시 와~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_180658.webp" width="100%" title="📷 11"><br><br>
+
 그날의 너를 부르면<br>
 눈물이 흘러..<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_181102.webp" width="100%" title="📷 12"><br><br>
+
 벚꽃 아래 다시 만난다면<br>
-그땐 꼭 말할 수 있을까<br>
+그땐 꼭 말할 수 있을까<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_181236.webp" width="100%" title="📷 13"><br><br>
+
 사라지지 않은 이 마음<br>
 여전히 너를 향해..<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_175937.webp" width="100%" title="📷 14"><br><br>
+
 우리의 봄은 아직<br>
-여기 남아 있어
+여기 남아 있어<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_175831.webp" width="100%" title="📷 15">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>벚꽃 아래 그날-트로트 리빌드</b></font>
+<P class='mid'><font style="display:none"><b>벚꽃 아래 그날-트로트 리빌드</b></font><br>
 
 남: 하나 둘 셋 넷!<br>
 여: 어머나 시작부터 설레네~<br><br>
 
-벚꽃 날리던 그 거리에서<br>
-너를 처음 만났지<br><br>
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_182425.webp" width="100%" title="📷 01"><br><br><br>
 
-웃음 한 번에 심장이 쿵!<br>
-그날이 시작이었지<br><br>
 
-남: 기억나니 그 벤치<br>
-여: 기억나지 그 눈빛<br><br>
+남: 벚꽃 날리던 그 거리에서<br>
+남: 너를 처음 만났지<br><br>
+
+여: 웃음 한 번에 심장이 쿵!<br>
+여: 그날이 시작이었지<br><br>
+
+남: 기억나니? 그 벤치<br>
+여: 기억나지? 그 눈빛<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_183654.webp" width="100%" title="📷 02"><br><br>
 
 남: 벚꽃 아래서~<br>
 여: 너와 걸었던 그 봄!<br>
 남: 세상이 멈춘~<br>
 여: 그 순간 속으로!<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_174345.webp" width="100%" title="📷 03"><br><br>
+
 함께:<br>
 사진보다 선명한 기억<br>
 우리라는 계절 속에<br>
 지금도 피어나는 사랑<br>
-다시 돌아갈 수 있을까<br><br><br>
+다시 돌아갈 수 있을까<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_174548.webp" width="100%" title="📷 04"><br><br><br>
 
 
-낙화주 한 잔에 취해<br>
-네 이름 불렀었지<br><br>
+남: 낙화주 한 잔에 취해<br>
+남: 네 이름 불렀었지<br><br>
 
-[Verse][Female]<br>
-그때 난 웃기만 했지<br>
-사실은 떨렸었어<br><br>
+여: 그때 난 웃기만 했지<br>
+여: 사실은 떨렸었어<br><br>
 
 남: 흩어진 시간 속에서<br>
 여: 다시 만나면<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_175040.webp" width="100%" title="📷 05"><br><br>
 
 함께:<br>
 그날처럼 웃을 수 있을까<br><br>
@@ -764,6 +810,8 @@ our season
 우리 사랑 그때처럼<br>
 아니, 더 뜨겁게<br>
 지금 여기 다시 피어나~~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260406_174812.webp" width="100%" title="📷 06"><br><br>
 
 남: 자~ 다시 한 번!<br>
 여: 벚꽃 아래서~<br>
@@ -4556,7 +4604,7 @@ AI로 건강 관리, <br>
 <img src='https://blog.kakaocdn.net/dn/VTyNi/btsNnKvKw42/mflxnWyKAkVECLZKUqSH10/img.jpg' width=100%><br>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/c1zh1C/btsOxjjjhOy/0EKEpY3Gqm7nDaYqlwlyuk/img.jpg') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>남대천 따라 봄이 흐르네</b></font>
+<P class='mid'><font style="display:none"><b>남대천 따라 봄이 흐르네</b></font><br>
 
 남대천 따라 걷는 이 봄날<br>
 벚꽃이 흐드러지게 웃고<br>
@@ -4733,54 +4781,64 @@ AI로 건강 관리, <br>
 그 아래 역사 속 이야기들 <br>
 모두 숨 쉬네.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/b6jO5V/btrBFGMeQ57/KzE7VV7wyyLXcQcIoD59hK/img.jpg?original' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/b6jO5V/btrBFGMeQ57/KzE7VV7wyyLXcQcIoD59hK/img.jpg?original' width=100%><br><br><br>
+
 
 행정수복 기념탑의 빛, <br>
 충혼탑의 자랑스런 기개,<br>
 봄바람 속에 떠올라 <br>
 고요함 속의 대화처럼..<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_184253.webp" width=100%><br><br><br>
+
+
 벚꽃길을 걷는다. <br>
 눈부신 순간을 따라가며<br>
 다시 돌아오는 연어처럼 <br>
 마음은 고향으로 흘러가~<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/b3lC3V/btsNemuKnXE/YZcv2elUy3Pdqqw5goWEg0/img.jpg' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/b3lC3V/btsNemuKnXE/YZcv2elUy3Pdqqw5goWEg0/img.jpg' width=100%><br><br><br>
+
 
 남대천의 맑은 물결 <br>
 은어 떼가 길을 재촉하듯,<br>
 너와 나의 봄날 <br>
 지금 여기서 노래한다.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/bcN7oP/btsNGIKOquT/5ST0XdqUXqmXRUdkfKYaEk/img.jpg' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/bcN7oP/btsNGIKOquT/5ST0XdqUXqmXRUdkfKYaEk/img.jpg' width=100%><br><br><br>
+
 
 연어의 모천이라 불리는 곳 <br>
 남대천은 웅장히 흐르네.<br>
 물살을 거슬러 오르는 황어의 열정 <br>
 생명의 춤을 새기며,<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/djgqUW/btsGBxQUtGQ/ueSSjzRkbO8pFCWFg1ogr0/img.jpg' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/djgqUW/btsGBxQUtGQ/ueSSjzRkbO8pFCWFg1ogr0/img.jpg' width=100%><br><br><br>
+
 
 뚝방 벚꽃길, 그 향기가 퍼지며 <br>
 생생 축제의 시작을 알리네.<br>
 자연의 힘 속에서 <br>
 우리의 봄은 더 빛난다.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/EIkp7/btsNes9rXGb/w3fRIPWgrkEHEEA2zHR6q0/img.jpg' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/EIkp7/btsNes9rXGb/w3fRIPWgrkEHEEA2zHR6q0/img.jpg' width=100%><br><br><br>
+
 
 영동의 가장 맑은 물길에서<br>
 새로운 생명들이 춤을 추며,<br>
 벚꽃 아래의 모든 기억<br>
 그곳에서 우린 사랑을 찾네.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/LkrIW/btsNdLvf8uB/325rDdG4hwp7iBmExsvMzk/img.jpg' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/LkrIW/btsNdLvf8uB/325rDdG4hwp7iBmExsvMzk/img.jpg' width=100%><br><br><br>
+
 
 벚꽃길을 걷는다. <br>
 눈부신 순간을 따라가며<br>
 다시 돌아오는 연어처럼 <br>
 마음은 고향으로 흘러가~~<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/LVnbP/btsNHgfH3Rh/zSKf2pBM3g2T7tyJxqLYI1/img.jpg' width=100%><br><br>
+<img src='https://blog.kakaocdn.net/dn/LVnbP/btsNHgfH3Rh/zSKf2pBM3g2T7tyJxqLYI1/img.jpg' width=100%><br><br><br>
+
 
 남대천의 맑은 물결 <br>
 은어 떼가 길을 재촉하듯,<br>
