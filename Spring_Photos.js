@@ -1518,47 +1518,70 @@ L. M. G. 조총훈련 뜀박질에 새빠지고<br>
 <img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_101516.webp" width="100%" title="📷 12">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>현산의 봄, 우리는 아직 피어있어요</b></font>
+<P class='mid'><font style="display:none"><b>현산의 봄, 우리는 아직 피어있어요</b></font><br>
 
 벚꽃 피던 그해 봄날에<br>
 책가방 들고 오르던 길<br>
 친구들 웃음처럼<br>
 하얀 꽃잎 흩날리던 날<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_183139.webp" width="100%" title="📷 01"><br><br><br>
+
+
 현산 길은 그대로인데<br>
 우리 모습은 사라지고<br>
 나무 사이 스며든 시간,<br>
 그때의 숨결만 남아있고<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_183621.webp" width="100%" title="📷 02"><br><br><br>
+
 
 기념비 아래 서 있으면<br>
 말없이 가슴이 조용해져<br>
 지나간 날들이 돌아와<br>
 내 안에 다시 스며듭니다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_183919.webp" width="100%" title="📷 03"><br><br><br>
+
+
 벚꽃길을 함께 걷던<br>
 그날의 우리는 어디쯤일까<br>
 사진 속에 멈춘 웃음<br>
 아직도 나를 바라보네요<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_183933.webp" width="100%" title="📷 04"><br><br><br>
+
 
 바람 불면 꽃잎 지고<br>
 계절은 또 흘러가는데<br>
 그 봄만은 떠나지 않고<br>
 여전히 여기 머무릅니다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_184201.webp" width="100%" title="📷 05"><br><br><br>
+
+
 다시 그 길을 걸어보면<br>
 익숙한 향기가 번져오고<br>
 말없이 고개를 들면<br>
 그날의 하늘이 내려보네요<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_184052.webp" width="100%" title="📷 06"><br><br><br>
+
 
 나도 모르는 사이에<br>
 조금 더 와 있는 봄,<br>
 벚꽃 아래 서 있는 나는<br>
 그때의 나를 마주합니다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_184406.webp" width="100%" title="📷 07"><br><br><br>
+
+
 돌아갈 수 없는 계절<br>
 그래서 더 선명한 순간,<br>
 현산의 봄 그 자리에<br>
-우리는 아직 피어있어요—
+우리는 아직 피어있어요—<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260407_184415.webp" width="100%" title="📷 08">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'><font style="display:none"><b>모노골의 하얀 날개</b></font><br>
