@@ -24,14 +24,22 @@ odi = [
 "https://cdn1.suno.ai/e8fc2622-8d12-4fe6-8420-b55e348a80d5.mp3|[심포니] 남대천 따라 봄이 흐르네 (오케스트라 선율 웅장한 앙상블, 강렬한 분위기)_MW10 v5.5||",
 "https://cdn1.suno.ai/2a2d6279-3260-4205-b85c-a571027b8c09.mp3|[심포니] 남대천 따라 봄이 흐르네 <br>(오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 바리톤 보컬)_MW11 v5.5||",
 "https://cdn1.suno.ai/1e73e612-91c0-4e6e-83ef-6a6e4ad4530b.mp3|[미분류] 남대천 따라 봄이 흐르네 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트, 95 BPM)_M10 v5.5||",
-"https://cdn1.suno.ai/989025e4-c8b9-421d-91db-657084283485.mp3|1*[포크] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M10 v5.5||",
-"https://cdn1.suno.ai/7cf81c0d-f645-4168-940c-1269dc3aaddf.mp3|1*[댄스] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M04 v5.5||",
-"https://cdn1.suno.ai/958d5818-2ff3-4d29-8fa5-b6b6edc5f908.mp3|1*[심포니] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (웅장한 합창 음악, 서사적 장엄, 현악기와 관악기 갖춘 풀 오케스트라, 남녀 혼성 합창단, 75-90bpm)_M02 v5.5||",
-"https://cdn1.suno.ai/f16d876a-f8d2-49df-86f8-4edc3d46c263.mp3|1*[심포니] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 <br>(오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 바리톤 보컬)_W03 v5.5||",
-"https://cdn1.suno.ai/bf1f71e6-1b2a-4cb2-87ca-7789d8319891.mp3|1*[발라드] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W01 v5.5||",
-"https://cdn1.suno.ai/84ca8fa5-b0a9-4542-889e-942f73ac6f04.mp3|1*[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (크로스오버 국악 퓨전 스타일, 가야금과 대금에 오케스트라 현악기, 70-90bpm, 자연과 생명의 순환 담은 서사, 신비롭고 신성한 느낌)_MW01 v5.5||",
-"https://cdn1.suno.ai/0d739570-e3d1-48a7-ab9c-a0ac2be9b78c.mp3|1*[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (하드록과 댄서블한 그루브 디스코 스타일의 하이햇, 부드러우면서 약간 거친 록 에너지가 섞인 느낌)_M08 v5.5||",
-"https://cdn1.suno.ai/2ae6178e-6b94-40fe-a353-f585407eeadb.mp3|1*[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M05 v5.5||",
+"https://cdn1.suno.ai/989025e4-c8b9-421d-91db-657084283485.mp3|1*[포크] 한계목이 부르는 연어의 귀향-가사 수정 전 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M10 v5.5||",
+"https://cdn1.suno.ai/7cf81c0d-f645-4168-940c-1269dc3aaddf.mp3|1*[댄스] 한계목이 부르는 연어의 귀향-가사 수정 전 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M04 v5.5||",
+"https://cdn1.suno.ai/958d5818-2ff3-4d29-8fa5-b6b6edc5f908.mp3|1*[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 (웅장한 합창 음악, 서사적 장엄, 현악기와 관악기 갖춘 풀 오케스트라, 남녀 혼성 합창단, 75-90bpm)_M02 v5.5||",
+"https://cdn1.suno.ai/f16d876a-f8d2-49df-86f8-4edc3d46c263.mp3|1*[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 <br>(오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 바리톤 보컬)_W03 v5.5||",
+"https://cdn1.suno.ai/bf1f71e6-1b2a-4cb2-87ca-7789d8319891.mp3|1*[발라드] 한계목이 부르는 연어의 귀향-가사 수정 전 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W01 v5.5||",
+"https://cdn1.suno.ai/84ca8fa5-b0a9-4542-889e-942f73ac6f04.mp3|1*[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 (크로스오버 국악 퓨전 스타일, 가야금과 대금에 오케스트라 현악기, 70-90bpm, 자연과 생명의 순환 담은 서사, 신비롭고 신성한 느낌)_MW01 v5.5||",
+"https://cdn1.suno.ai/0d739570-e3d1-48a7-ab9c-a0ac2be9b78c.mp3|1*[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 (하드록과 댄서블한 그루브 디스코 스타일의 하이햇, 부드러우면서 약간 거친 록 에너지가 섞인 느낌)_M08 v5.5||",
+"https://cdn1.suno.ai/2ae6178e-6b94-40fe-a353-f585407eeadb.mp3|1*[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M05 v5.5||",
+"https://cdn1.suno.ai/2789e897-f940-4bd4-82e7-5e222dd7622b.mp3|1[포크] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M11 v5.5||",
+"https://cdn1.suno.ai/a15b0277-9828-45d9-bc4f-a2bc5a5f9634.mp3|1[포크] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M12 v5.5||",
+"https://cdn1.suno.ai/1417f0de-6b13-4c3f-ae07-45229e55e43c.mp3|1[댄스] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M13 v5.5||",
+"https://cdn1.suno.ai/c0a92c31-754a-4ff9-b6c0-b88facf11811.mp3|1[댄스] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M14 v5.5||",
+"https://cdn1.suno.ai/bc978191-69e8-4dc5-af31-9350affd00c0.mp3|1[발라드] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W04 v5.5||",
+"https://cdn1.suno.ai/52031877-2e65-4442-a320-fc255a99c754.mp3|1[발라드] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W05 v5.5||",
+"https://cdn1.suno.ai/c20d9fcb-fbda-4844-9ccc-9ca3a46c6247.mp3|1[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M15 v5.5||",
+"https://cdn1.suno.ai/8b98e4b5-12b4-4be9-8f16-236e45eb8d07.mp3|1[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M16 v5.5||",
 "https://cdn1.suno.ai/38fa027d-23a5-408d-9c99-5e27046fa100.mp3|[트롯 댄스] 양양 모노골, 하얀 설렘의 노래 (경쾌하고 리드미컬한 트로트 신나는 댄스)_W06 v5.5||",
 "https://cdn1.suno.ai/d8c30b4a-9265-4447-b625-3f49924bc366.mp3|[트롯 댄스] 양양 모노골, 하얀 설렘의 노래 (댄스, 빠른 템포 EDM 트로트 크로스오버로, 밝은 신스 리드, 4/4박자 킥 드럼)_W04 v5.5||",
 "https://cdn1.suno.ai/3ebb3160-331a-4cc5-985a-859328a12eb4.mp3|[댄스] 양양 모노골, 하얀 설렘의 노래 <br>(1980년대 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M10 v5.5||",
@@ -161,14 +169,97 @@ song = [
 <P class='mid'><font style="display:none"><b>한계목이 부르는 연어의 귀향-리얼리티 리빌드</b></font><br>
 
 낙산 대교 위에 서서 바라본<br>
-남대천의 끝, 숨 고른 한계목<br>
+남대천의 끝, 숨 고른 한계목<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/EnrrC/btsNCfOEfFO/ReD2AwkdInpgjqPVgBwPWK/img.jpg" width=100% title="📷 "><br><br>
+
 열 배로 당겨도 보이지 않는<br>
 좁은 물목에 시간이 모인다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/cX2YKz/btsNBsgRNqW/N9SwkFDZSyrzSoKO6zYe30/img.jpg" width=100% title="📷 "><br><br><br>
+
 
 북태평양을 건너온 숨결들<br>
 몸에 새겨진 길 하나를 따라<br>
 수천의 생명 한 줄기로 겹쳐<br>
 마침내 이 문 앞에 들어선다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/9hjE6/btsNA23MVT2/mWakq1AgYMf6nJJc73BX31/img.jpg" width=100% title="📷 "><br><br>
+
+비좁은 길 하나 건너기 위해<br>
+수많은 시간들이 밀려든다<br><br>
+
+여기는 귀향의 관문, 한계목!<br>
+되돌아와야 이어지는 약속<br>
+굽이쳐 겹치는 생명의 물결<br>
+남대천은 그들을 품어준다~~<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/qCiRi/btsNzYajHSY/qurKxCZwJP0yK5AZMTkngK/img.jpg" width=100% title="📷 "><br><br><br>
+
+
+물살 가르며 은어가 오르고<br>
+한 몸처럼 길을 잇는 황어 떼<br>
+오르는 그 수많은 몸짓 위로<br>
+갈매기 떼 부리가 스쳐 간다<br><br>
+
+숨 가쁘게 쫓고 쫓기는 속에<br>
+잠시도 멈출 수 없는 이유는<br>
+쫓기고 밀려도 또 올라서는<br>
+대를 이어갈 숙명적 몸부림<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/coBgDf/btsNAXuGcIj/5nusSIuBc26V9IAkLx7uVK/img.jpg" width=100% title="📷 "><br><br>
+
+오직 돌아갈 곳 하나를 향해<br>
+끝내 거슬러 오르고야 만다<br><br>
+
+여기는 약속의 관문, 한계목!<br>
+바다와 남대천이 만나는 곳<br>
+사라지지 않는 영원이 되어<br>
+새 생명으로 다시 이어진다~~<br><br><br>
+
+
+렌즈 너머로 겨우 잡힌 물결<br>
+그 안에 숨은 수천의 이야기<br>
+보이지 않아 더 또렷해지는<br>
+필히 되돌아오는 이유 하나<br><br>
+
+여기는 생명의 관문, 한계목!<br>
+끝과 시작이 맞닿은 자리에<br>
+돌아온 생명들이 남겨 놓은<br>
+또 새로운 시간이 시작된다~~<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/GOnnN/btsNAQ3C6VB/T2MqF0wWtEb7kjzrFKYpH1/img.jpg" width=100% title="📷 "><br><br><br>
+
+보이지 않던 그 좁은 물목에<br>
+오늘도 수많은 숨이 스친다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/sVc7h/btsNAULvHKf/qkQgMHFX1mJYs9Qp0s2Ks1/img.jpg" width=100% title="📷 "><br><br>
+
+남대천은 말없이 흐르지만<br>
+그 모든 귀향들을 축복한다~~<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/RKDZK/btsNz8jw7VJ/SPMiyrdSo5SGrJdlk17Q61/img.jpg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>한계목이 부르는 연어의 귀향-가사 수정 전</b></font><br>
+
+낙산 대교 위에 서서 바라본<br>
+남대천의 끝, 숨 고른 한계목<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/EnrrC/btsNCfOEfFO/ReD2AwkdInpgjqPVgBwPWK/img.jpg" width=100% title="📷 "><br><br>
+
+열 배로 당겨도 보이지 않는<br>
+좁은 물목에 시간이 모인다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/cX2YKz/btsNBsgRNqW/N9SwkFDZSyrzSoKO6zYe30/img.jpg" width=100% title="📷 "><br><br><br>
+
+
+북태평양을 건너온 숨결들<br>
+몸에 새겨진 길 하나를 따라<br>
+수천의 생명 한 줄기로 겹쳐<br>
+마침내 이 문 앞에 들어선다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/9hjE6/btsNA23MVT2/mWakq1AgYMf6nJJc73BX31/img.jpg" width=100% title="📷 "><br><br>
 
 비좁은 길 하나 건너기 위해<br>
 수많은 시간들이 밀려든다<br><br>
@@ -176,7 +267,9 @@ song = [
 여기는 귀향의 관문, 한계목<br>
 되돌아와야 이어지는 약속<br>
 흐르자 겹치는 생명의 물결<br>
-남대천은 그들을 품어준다<br><br><br>
+남대천은 그들을 품어준다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/qCiRi/btsNzYajHSY/qurKxCZwJP0yK5AZMTkngK/img.jpg" width=100% title="📷 "><br><br><br>
 
 
 물살 가르며 은어가 오르고<br>
@@ -189,6 +282,8 @@ song = [
 쫓기고 밀려도 또 올라서는<br>
 이어야 할 필연적인 몸부림<br><br>
 
+<img src="https://blog.kakaocdn.net/dn/coBgDf/btsNAXuGcIj/5nusSIuBc26V9IAkLx7uVK/img.jpg" width=100% title="📷 "><br><br>
+
 오직 돌아갈 곳 하나를 향해<br>
 끝내 거슬러 오르고야 만다<br><br>
 
@@ -197,6 +292,7 @@ song = [
 사라지지 않는 영원이 되어<br>
 새 생명으로 다시 이어진다<br><br><br>
 
+<img src="" width=100% title="📷 ">
 
 렌즈 너머로 겨우 잡힌 물결<br>
 그 안에 숨은 수천의 이야기<br>
@@ -206,26 +302,44 @@ song = [
 여기는 귀향의 관문, 한계목<br>
 끝과 시작이 맞닿은 자리에<br>
 돌아온 생명들이 남겨 놓은<br>
-또 새로운 시간이 시작된다<br><br><br>
+또 새로운 시간이 시작된다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/GOnnN/btsNAQ3C6VB/T2MqF0wWtEb7kjzrFKYpH1/img.jpg" width=100% title="📷 "><br><br><br>
 
 
 보이지 않던 그 좁은 물목에<br>
-오늘도 수많은 숨이 스친다<br>
+오늘도 수많은 숨이 스친다<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/sVc7h/btsNAULvHKf/qkQgMHFX1mJYs9Qp0s2Ks1/img.jpg" width=100% title="📷 "><br><br>
+
 남대천은 말없이 흐르지만<br>
-그 모든 귀향들을 축복한다~~
+그 모든 귀향들을 축복한다~~<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/RKDZK/btsNz8jw7VJ/SPMiyrdSo5SGrJdlk17Q61/img.jpg" width=100% title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>수수꽃다리의 보랏빛 추억</b></font>
+<P class='mid'><font style="display:none"><b>수수꽃다리의 보랏빛 추억</b></font><br>
 
 오랍뜰 담벼락에 보랏빛 물들면<br>
 은은한 향기로 봄날이 깊어간다<br>
 미처 피지 못한 수줍은 꽃봉오리<br>
 가슴에 묻은 첫사랑 설렘이어라<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131311.webp" width=100% title="📷 01"><br><br><br>
+
+<!-- img src="https://blog.kakaocdn.net/dn/bFOUwY/btsNBatK5df/HXTk81LUV5LdAeVHoa2o01/img.jpg" width=100% title="📷 01" //-->
+
 젊은 날 추억이 꽃잎에 피어날 때<br>
-흰 꽃은 순결한 맹세를 속삭이네<br>
+흰 꽃은 순결한 맹세를 속삭이네<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131302.webp" width=100% title="📷 02"><br><br>
+
+<!-- img src="https://blog.kakaocdn.net/dn/bHsMP0/btsNCafG8kw/ofNfOZYxZHcL5zBy2Mqu60/img.jpg" width=100% title="📷 02" //-->
+
 보랏빛 향기에 사랑의 싹이 트고<br>
-지난 청춘의 그리움이 밀려온다~~<br><br><br>
+지난 청춘의 그리움이 밀려온다~~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131513.webp" width=100% title="📷 03"><br><br><br>
 
 
 바람 피해 숨은 가련한 님프처럼<br>
@@ -233,52 +347,79 @@ song = [
 목신 판이 만들어 불던 피리 소리<br>
 라일락 가지에 눈물로 맺혔어라<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190547.webp" width=100% title="📷 04"><br><br><br>
+
+
 가여운 소녀의 눈물이 비가 되어<br>
 흰색 라일락을 보라로 적시었나<br>
 슬픔은 향기로 바람에 날리는데<br>
 고상한 그 빛깔, 아픔을 품었구나<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132112.webp" width=100% title="📷 05"><br><br><br>
+
+
 페르시아 푸른빛 리락의 노래여<br>
 시린크스 피리 소리 귀에 맴돌 때<br>
 아름다운 맹세는 하늘로 퍼지고<br>
-첫사랑 기억들은 별빛 되었구나<br><br><br>
+첫사랑 기억들은 별빛 되었구나<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131323.webp" width=100% title="📷 06"><br><br><br>
 
 
 봄이 오면 오랍뜰엔 <br>
 여전히 그 꽃이 핍니다. <br>
 보랏빛 향기가 동네에 흩날리면, <br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_184348.webp" width=100% title="📷 07"><br><br>
+
 잊은 줄 알았던 그 시절의 내가... <br>
-가만히 나를 불러냅니다.<br><br><br>
+가만히 나를 불러냅니다.<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190533.webp" width=100% title="📷 08"><br><br><br>
 
 
 오랍뜰 가득하게 향기가 번지면<br>
 젊은 날 우리를 가만히 추억한다<br>
 계절이 흘러도 잊히지 않는 그대<br>
-영원한 사랑으로 내 곁에 머문다~~
+영원한 사랑으로 내 곁에 머문다~~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132127.webp" width=100% title="📷 09">
+
+<!-- img src="https://blog.kakaocdn.net/dn/bKvtAM/btsNChyUkaB/g3LAQiJCiPKYZBrbyMnZx1/img.jpg" width=100% title="📷 09"  //-->
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>아스라이 멀어진 첫사랑의 기억</b></font>
+<P class='mid'><font style="display:none"><b>아스라이 멀어진 첫사랑의 기억</b></font><br>
 
 하루가 덜 익은 향기로<br>
 가지 끝에 온 듯 만 듯<br>
 이름도 없이 스쳐가던<br>
 그 계절이 다시 온다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190600.webp" width=100% title="📷 01"><br><br><br>
+
+
 햇살에 살짝 젖은 바람<br>
 그 속에 남아 있는 숨결<br>
 보이지 않아도 알 수 있는<br>
 그윽한 너의 향기처럼<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132139.webp" width=100% title="📷 02"><br><br><br>
+
 
 피어나기 전의 마음들이<br>
 조용히 부풀어 오르고<br>
 말하지 않아도 전해오던<br>
 그날의 떨림 그대로<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132104.webp" width=100% title="📷 03"><br><br><br>
+
+
 잡히지 않는 어떤 이름<br>
 머물지 않는 어떤 순간<br>
 향기롭던 추억이기에<br>
-더 오래 남는 것일까?<br><br><br>
+더 오래 남는 것일까?<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132057.webp" width=100% title="📷 04"><br><br><br>
 
 
 라일락 향기 스며들면<br>
@@ -286,29 +427,42 @@ song = [
 닿지 못했던 그 거리도<br>
 따뜻하게 물들어 간다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131544.webp" width=100% title="📷 05"><br><br><br>
+
+
 보이지 않아도 다가오는<br>
 닿지 않아도 전해오는<br>
 그 이름을 부르지 않아도<br>
 이미 봄은 너로 가득해진다<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131505.webp" width=100% title="📷 06"><br><br><br>
+
 
 흰빛으로 맑았던 우리<br>
 보랏빛으로 깊어지며<br>
 서로 다른 색으로 변해도<br>
 향기는 하나로 이어진다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131250.webp" width=100% title="📷 07"><br><br><br>
+
+
 잡으려 하면 흩어지고<br>
 놓아두면 곁에 머무는<br>
 처음인 듯 끝이 되어버린<br>
-아스라한 그날의 시간들..<br><br><br>
+아스라한 그날의 시간들..<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131539.webp" width=100% title="📷 08"><br><br><br><br>
 
 
 잊힌 듯 잊히지 않는..<br><br>
 
 그 이름은<br>
-라일락의 기억
+라일락의 기억<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190759.webp" width=100% title="📷 09">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
-<P class='mid'><font style="display:none"><b>아스라이 멀어진 첫사랑의 기억 {듀엣 버전}</b></font>
+<P class='mid'><font style="display:none"><b>아스라이 멀어진 첫사랑의 기억 {듀엣 버전}</b></font><br>
 
 [Male - Verse 1]<br>
 햇살에 살짝 젖은 바람<br>
@@ -316,11 +470,17 @@ song = [
 보이지 않아도 알 수 있는<br>
 그윽한 너의 향기처럼<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132139.webp" width=100% title="📷 02"><br><br><br>
+
+
 [Female - Verse 2]<br>
 피어나기 전의 마음들이<br>
 조용히 부풀어 오르고<br>
 말하지 않아도 전해오던<br>
 그날의 떨림 그대로<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132104.webp" width=100% title="📷 03"><br><br><br>
+
 
 [Together - Pre-Chorus]<br>
 잡히지 않는 어떤 이름<br>
@@ -328,13 +488,21 @@ song = [
 그래서 더 오래 남는 건<br>
 향기 같은 추억일까~~<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_132057.webp" width=100% title="📷 04"><br><br><br>
+
+
 [Male - Chorus]<br>
 라일락 향기 스며들면<br>
 잊었던 날이 돌아오고<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190615.webp" width=100% title="📷 05"><br><br><br>
+
 [Female]<br>
 닿지 못했던 그 거리도<br>
 따뜻하게 물들어 간다<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131544.webp" width=100% title="📷 05"><br><br><br>
+
 
 [Together]<br>
 보이지 않아도 다가오는<br>
@@ -342,11 +510,17 @@ song = [
 그 이름을 부르지 않아도<br>
 이미 봄은 너로 가득해진다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131505.webp" width=100% title="📷 06"><br><br><br>
+
+
 [Female - Verse 3]<br>
 흰빛처럼 맑았던 시간<br>
 보랏빛처럼 깊어지면<br>
 서로 다른 색으로 남은<br>
 하나의 향기로 이어진다<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131250.webp" width=100% title="📷 07"><br><br><br>
+
 
 [Male - Bridge]<br>
 잡으려 하면 흩어지고<br>
@@ -354,23 +528,34 @@ song = [
 처음인 듯 끝이 되어버린<br>
 아스라한 그날의 시간들<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260412_131539.webp" width=100% title="📷 08"><br><br><br><br>
+
+
 [Together - Final Chorus]<br>
 라일락 향기 스며들면<br>
 잊었던 날이 돌아오고<br>
 닿지 못했던 그 거리도<br>
 따뜻하게 물들어 간다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190719.webp" width=100% title="📷 05"><br><br><br>
+
+
 보이지 않아도 다가오는<br>
 닿지 않아도 전해오는<br>
 그 이름을 부르지 않아도<br>
 이미 봄은 너로 가득해진다~~<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190745.webp" width=100% title="📷 05"><br><br><br>
+
 
 [Outro - Female → Male]<br>
 (여) 잊힌 듯 잊히지 않는  <br>
 (남) 그 이름은..<br><br>
 
 [Together]<br>
-라일락의 기억
+라일락의 기억<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/2604/260413_190759.webp" width=100% title="📷 09">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:white url('https://i.imgur.com/dgZzxa6.jpeg') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'>
@@ -4410,6 +4595,9 @@ AI로 건강 관리, <br>
 빨강 의자에 쌓이는 옛 우정들..<br>
 소나무 아래에 바다가 속삭이며<br>
 고향의 기억 속 추억을 불러오네요.<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/cQJzrX/btsNChyUeJz/Nkdq3C7mOGoikHmg40JJ4k/img.jpg" width=100% title="📷 "><br><br><br>
+
 
 빨강, 노랑, 파랑의 세상<br>
 초등 시절의 이야기가 피어나는 곳.<br>
