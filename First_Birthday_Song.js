@@ -1,0 +1,2465 @@
+﻿const title0 = "로운이의 첫돌 기념 축하송s"
+
+odi = [
+"https://cdn1.suno.ai/08eb896d-9368-4974-b58c-9a5eac9ab37d.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (바이올린, 신스팝, 여성 보컬, 템포는 약 80bpm으로 다소 느린 편)_W06 v5.5||",
+"https://cdn1.suno.ai/cdec853b-efd2-4bc9-98be-f6e150cc3b3b.mp3|0[첫돌] 자아를 찾는 모험, 두 돌까지의 여정 (남녀 보컬, 1980년대, 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스)_MW01 v5.5||",
+"https://cdn1.suno.ai/2a2eeeae-c8bf-468e-b862-f6313adfae78.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (7080, 따뜻한 어쿠스틱 포크 음악, 밝은 통기타 연주, 부드러운 피아노, 중간 템포의 경쾌하고 따뜻한 분위기)_MW01 v5.5||",
+"https://cdn1.suno.ai/8d5667b4-bf6d-4ece-8437-ac297b572dff.mp3|0[첫돌] 자아를 찾는 모험, 두 돌까지의 여정 (유아 시절 나의 여정, 키즈 팝, 활기 넘치는, 우쿨렐레, 손뼉, 경쾌한 베이스라인, 여성 보컬, 125 BPM, 쾌활한 학습, 자아 인식, 기발한, 긍정적인)_W03 v5.5||",
+"https://cdn1.suno.ai/d7e03cf4-df24-4c3d-922a-828bd16c8dc5.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (경쾌한 키즈 팝, 통통 튀는 신스 멜로디, 가벼운 퍼커션, 장난스럽고 활기 넘치는, 행복하고 밝은 분위기)_W01 v5.5||",
+"https://cdn1.suno.ai/0ffb75c8-717f-4727-b20f-f2416b70a6ab.mp3|0[첫돌] 자아를 찾는 모험, 두 돌까지의 여정 (자아 발견의 2년, 어린이 포크, 장난스럽고, 경쾌한 통기타, 가벼운 타악기, 기발한 피아노, 110 BPM, 즐겁고 교육적, 성장 테마, 밝고 매력적인)_W01 v5.5||",
+"https://cdn1.suno.ai/4154e230-dcce-408d-8b6a-a8a798d7a4df.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (오케스트라 팝, 영화적인 현악기, 우아한 피아노, 느린 템포에서 중간 템포까지, 감성적이고 웅장하며 희망적인)_W03 v5.5||",
+"https://cdn1.suno.ai/9ed0b02f-7757-49a7-8ed5-5847929422d6.mp3|0[첫돌] 자아를 찾는 모험, 두 돌까지의 여정 (여성 보컬, 1980년대, 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스)_W05 v5.5||",
+"https://cdn1.suno.ai/e656a2f6-ae17-45d6-bd38-0ef2135779af.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (여성 보컬, 1980년대, 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스)_W05 v5.5||",
+"https://cdn1.suno.ai/dea40516-1795-4b07-a1e0-26d34c40d1c6.mp3|0[첫돌] 자아를 찾는 모험, 두 돌까지의 여정 (유아 시절 나의 여정, 키즈 팝, 활기 넘치는, 우쿨렐레, 손뼉, 경쾌한 베이스라인, 여성 보컬, 125 BPM, 쾌활한 학습, 자아 인식, 기발한, 긍정적인)_W04 v5.5||",
+"https://cdn1.suno.ai/5e0a797f-be27-4468-890a-5f9a9d7a6488.mp3|0[첫돌] 자아를 찾는 모험, 두 돌까지의 여정 (자아 발견의 2년, 어린이 포크, 장난스럽고, 경쾌한 통기타, 가벼운 타악기, 기발한 피아노, 110 BPM, 즐겁고 교육적, 성장 테마, 밝고 매력적인)_W02 v5.5||",
+"https://cdn1.suno.ai/06652964-3948-4676-9382-a2a6680d49c1.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (오케스트라 팝, 영화적인 현악기, 우아한 피아노, 느린 템포에서 중간 템포까지, 감성적이고 웅장하며 희망적인)_W04 v5.5||",
+"https://cdn1.suno.ai/f5fffe51-1fb8-4228-93c4-7f12bd32a199.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (7080, 따뜻한 어쿠스틱 포크 음악, 밝은 통기타 연주, 부드러운 피아노, 중간 템포의 경쾌하고 따뜻한 분위기)_MW02 v5.5||",
+"https://cdn1.suno.ai/06299fe2-9dbc-480d-b74d-c11203456cad.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (바이올린, 신스팝, 여성 보컬, 템포는 약 80bpm으로 다소 느린 편)_W07 v5.5||",
+"https://cdn1.suno.ai/3e9deb3b-f8d0-4e09-8ba2-ec6cb36066f7.mp3|0[첫돌] 세상으로 첫발을, 첫돌까지의 여정 (경쾌한 키즈 팝, 통통 튀는 신스 멜로디, 가벼운 퍼커션, 장난스럽고 활기 넘치는, 행복하고 밝은 분위기)_W02 v5.5||",
+]
+
+song = [
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b></b></font><br>
+
+
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>자아를 찾는 모험, 두 돌까지의 여정</b></font><br>
+
+[13개월 - 꼬마 심부름꾼]<br>
+아장아장 걸음마, 온 동네 누비고<br>
+엄마 아빠 심부름도 척척 잘해요<br>
+친구에게 조금씩 관심을 가지고<br>
+소꿉놀이하며 협동심도 키워요<br><br>
+
+[14개월 - 작은 예술가]<br>
+서툰 숟가락질, 포기하지 않아요<br>
+도화지에 낙서하며 말도 늘어요<br>
+자아 중심성, 내 것이라 고집해도<br>
+엄마 아빠는 경청, 존중해야 해요<br><br>
+
+[15개월 - 아니야! 대장]<br>
+높은 의자 올라가 세상을 보지요<br>
+자는 척, 전화받는 척, 흉내도 내요<br>
+싫어! 안 해! 하면서 반항도 하지만<br>
+마음을 읽어주면 금방 웃어줘요~~<br><br>
+
+[16개월 - 언어의 마법]<br>
+아는 단어 늘어서 말하고 싶어요<br>
+쫑알쫑알~ 혼자 해도 즐거워져요<br>
+집중을 다하여 블록을 쌓아봐요<br>
+잘한다~ 칭찬에 어깨 으쓱해져요<br><br>
+
+[17개월 - 흉내쟁이 천사]<br>
+내 물건을 챙기며 "내 꺼"라 말해요<br>
+엄마 아빠 일을 따라 하고 싶어요<br>
+양보하기는 아직 조금 어렵지만<br>
+같이 노는 재미, 조금씩 알아가요<br><br>
+
+[18개월 - 기저귀와 안녕]<br>
+감정 표현 많아져 울고 또 웃어요<br>
+혼자 변기에 앉아 응가도 잘해요<br>
+엄마가 좋아도 떨어져서 놀지요<br>
+내가.. 고집도 사랑으로 안아줘요~~<br><br>
+
+[19개월 - 호기심 대장]<br>
+높은 곳에 올라가 깜짝 놀래켜요<br>
+두 단어를 이어서 말을 시작하고<br>
+호기심 많아져서 질문도 늘어요<br>
+온 세상이 커다란 놀이터 같지요<br><br>
+
+[20개월 - 친구와 함께]<br>
+친구 마음 살피며 질투도 느껴요<br>
+두 단어를 붙여서 말도 잘하네요<br>
+부모님 감정 따라가는 우리 아기<br>
+엄마 예쁜 말, 아빠 고운 말 배워요<br><br>
+
+[21개월 - 장한 우리 아기]<br>
+계단 오르내려 혼자서도 놀아요<br>
+눈, 코, 입과 얼굴을 모두 다 알지요<br>
+혼자 옷 입으려 끙끙대는 그 모습<br>
+스스로 해내는 우리 아기 장해요~~<br><br>
+
+[22개월 - 나의 이야기]<br>
+나와 "너"라는 말을 분명하게 쓰며<br>
+언어로 자기 마음을 표현하지요<br>
+긍정적인 훈육이 부모를 닮으며<br>
+바르게 자라나는 기초가 되어요<br><br>
+
+[23개월 - 두 돌의 약속]<br>
+동그라미 그려서 재밌게 놀아요<br>
+친구랑 같이 앉아서, 따로 놀지요<br>
+엄마 아빠 사랑받은 깊은 애착과<br>
+웃는 얼굴 인사로 사회성 배워요<br><br>
+
+[24개월 - 두 돌의 기적]<br>
+두 돌배기, 폴짝 뛰고 공도 차네요<br>
+문장으로 말하는 나이가 됐어요<br>
+스스로 행동하며 성취감 느껴요<br>
+기저귀, 안녕! 멋쟁이 되었답니다~~
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>세상으로 첫발을, 첫돌까지의 여정</b></font><br>
+
+[0개월 -  신생아의 꿈]<br>
+세상으로 처음 나온 소중한 생명,<br>
+눈 감고 꿈꾸며 무럭무럭 자라요<br>
+배고프면 울고 먹으면 잠들면서<br>
+엄마 아빠 품에서 신뢰를 배워요<br><br>
+
+[1개월 - 눈 맞춤의 기적]<br>
+초롱초롱 눈 맞추고 방긋 웃으며<br>
+고개를 조금씩 들어 세상을 봐요<br>
+어설픈 옹알이도 너무 깜찍해요<br>
+터미타임, 우리 아기 튼튼해져요<br><br>
+
+[2개월 - 배냇웃음꽃]<br>
+소리 나는 곳으로 고개를 돌리고<br>
+알록달록 모빌 보며 발을 굴려요<br>
+배냇웃음에도 엄마는 심쿵 해요<br>
+세상 향한 신뢰가 싹트고 있어요~~<br><br>
+
+[3개월 - 뒤집기 대작전]<br>
+뒤집기 시도하며 끙끙거리더니<br>
+어느새 목 가누고 씩씩해졌어요<br>
+딸랑이 흔들며 즐거워하는 아기<br>
+엄마가 안 보이면 눈으로 찾아요<br><br>
+
+[4개월 - 옹알이 폭발]<br>
+입술을 달싹이며 옹알이 터지고<br>
+잇몸이 간질간질 이가 나오네요<br>
+거울 속 제 모습에 신기해하고<br>
+예쁜 색깔 보면 기분 좋아하지요<br><br>
+
+[5개월 -  앉아보기 연습]<br>
+두 손을 뻗어 장난감도 꽉 잡으며<br>
+엄마 아빠 목소리 똑똑히 알아요<br>
+이유식을 시작할 준비를 하면서<br>
+의젓하게 앉아서 주위를 보네요~~<br><br>
+
+[6개월 - 첫 미음 한 입]<br>
+맛있는 미음 한 입 꿀꺽 삼켜봐요<br>
+혼자서 앉으려고 엉덩이도 실룩,<br>
+낯선 사람 보면 눈이 둥그레져요<br>
+사랑으로 기른 정성 꽃이 피네요<br><br>
+
+[7개월 - 까꿍과 배밀이]<br>
+배밀이 시작하며 영차영차 해요<br>
+엄마랑 떨어지면 앙앙앙 울어요<br>
+까꿍 놀이 하나에 까르르 웃지요<br>
+낯가림은 사랑이 깊어진 거예요<br><br>
+
+[8개월 - 기어가는 탐험가]<br>
+온 집안 기어가며 보물 찾기 해요<br>
+핑거 푸드 오물오물 직접 먹지요.<br>
+인과 관계 알면서 호기심 커지고<br>
+잼잼 놀이하면서 재롱도 부려요~~<br><br>
+
+[9개월 - 잡고 일어서기]<br>
+가구 잡고 일어서는 늠름한 모습,<br>
+흉내 내기 시작하며 쑥쑥 자라요<br>
+호기심 가득, 이것저것 탐색하고<br>
+엄마가 '안 돼' 하면 멈추기도 해요<br><br>
+
+[10개월 - 집게손의 마법]<br>
+작은 손가락으로 콩알도 집어요<br>
+안녕하며 손 흔들면 마음 녹지요<br>
+엄마의 표정 보고 눈치를 살피며<br>
+아빠의 목소리에 세상을 배워요<br><br>
+
+[11개월 - 첫걸음의 설렘]<br>
+벽 잡고 섰지만 이젠 걸을 거예요<br>
+'엄마 아빠' 첫 마디에 가슴이 뭉클!<br>
+스스로 하려는 독립심도 생기고<br>
+걸음마 연습하며 첫돌 기다려요~~<br><br>
+
+[12개월 - 첫돌의 기쁨]<br>
+삐뚤빼뚤 걷다 아장아장 걸으며<br>
+우유도 마시고, 형아처럼 굴지요<br>
+첫돌 축하받고 잔치도 벌렸으니<br>
+이제 어린이집 우등생 될 거예요
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 어린이집 뽀짝 모험</b></font>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_01.jpg' width=100% title='📷 '><br><br>
+
+햇님 방긋 상쾌한 아침<br>
+꼬물꼬물 눈을 비벼요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_03.png' width=100% title='📷 '><br><br>
+
+토닥토닥 엄마 품에서<br>
+싱글벙글 인사를 해요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_04.png' width=100% title='📷 '><br><br>
+
+가방 메고 출발을 해요<br>
+뽀짝 뽀짝 걸음걸이로<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_05.png' width=100% title='📷 '><br><br>
+
+띵동 띵동 문이 열리며<br>
+선생님이 반겨주네요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_06.png' width=100% title='📷 '><br><br>
+
+냠냠~ 냠냠, 이유식 먹고<br>
+오물오물 입술을 쪽쪽~<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_07.png' width=100% title='📷 '><br><br>
+
+꿀꺽꿀꺽 잘도 먹어요<br>
+짝짝 짝짝 박수를 쳐요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_08.png' width=100% title='📷 '><br><br>
+
+블록 쌓기 톡톡. 탁탁탁<br>
+데굴데굴 공을 굴려요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_09.png' width=100% title='📷 '><br><br>
+
+까르르르 웃음꽃들이<br>
+몽실몽실 피어나네요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_10.png' width=100% title='📷 '><br><br>
+
+새록새록 낮잠 시간에<br>
+포근포근 이불 속으로..<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_11.png' width=100% title='📷 '><br><br>
+
+꿈속에서 둥실 두둥실<br>
+별나라로 여행을 가요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_12.png' width=100% title='📷 '><br><br>
+
+친구들과 손을 잡고서<br>
+조잘조잘 이야기꽃을..<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_13.png' width=100% title='📷 '><br><br>
+
+양보 배려 척척해내요<br>
+슬기로운 로운이에요<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_14.png' width=100% title='📷 '><br><br>
+
+선생님과 눈을 맞추며<br>
+귀는 쫑긋, 고개는 끄덕<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_15.png' width=100% title='📷 '><br><br>
+
+봉긋봉긋 지혜가 가득<br>
+사랑둥이 빛이 나네요~~<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_16.png' width=100% title='📷 '><br><br>
+
+하원 길에 총총 총총총<br>
+잘도 먹고, 잠 잘 자면서<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_17.png' width=100% title='📷 '><br><br>
+
+오늘도 또, 잘 놀았기에<br>
+무럭무럭 자라납니다~~<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_18.png' width=100% title='📷 '><br><br>
+
+로운이, 멋지다 멋져!<br><br>
+
+<img src='https://cheerful-kangaroo-a63580.netlify.app/23 로운이의 어린이집 뽀짝 모험_J_19.png' width=100% title='📷 '>
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이, 열 달의 기적</b></font>
+
+<img src="https://i.imgur.com/iXAjNwA.png" width=100% title="📷 "><br><br>
+
+열 달 품에 안겼던<br>
+작은 우리 로운이<br><br>
+
+<img src="https://i.imgur.com/1xQ3Ytp.png" width=100% title="📷 "><br><br>
+
+오늘 처음 세상 속<br>
+한 걸음 내딛어요<br><br>
+
+<img src="https://i.imgur.com/LDWjceT.png" width=100% title="📷 "><br><br>
+
+말은 아직 못 하지만<br>
+눈빛은 다~ 말해요<br><br>
+
+<img src="https://i.imgur.com/C1a5riA.png" width=100% title="📷 "><br><br>
+
+엄마 아빠 사랑을<br>
+가슴 가득 안고<br><br>
+
+<img src="https://i.imgur.com/k1xw1zH.png" width=100% title="📷 "><br><br>
+
+가방 메고 서 있는<br>
+그 작은 뒷모습<br><br>
+
+<img src="https://i.imgur.com/IvzTjSg.png" width=100% title="📷 "><br><br>
+
+유모차에 앉았지만<br>
+마음은 훌쩍 컸어요<br><br>
+
+<img src="https://i.imgur.com/7UfzurZ.png" width=100% title="📷 "><br><br>
+
+벚꽃 피는 봄이 오면<br>
+말도 하고 걷겠지요<br><br>
+
+<img src="https://i.imgur.com/mlY3Xog.png" width=100% title="📷 "><br><br>
+
+계절 따라 자라나는<br>
+로운이의 하루하루~<br><br>
+
+<img src="https://i.imgur.com/kXZ2kkC.png" class="fade-in-out" width=100% title="📷 "><br><br>
+
+냠냠~ 잘도 먹고<br>
+새근새근 잠들고<br><br>
+
+<img src="https://i.imgur.com/tqFh5pw.png" width=100% title="📷 "><br><br>
+
+하하 웃는 모습에<br>
+우리 마음 녹아요~<br><br>
+
+<img src="https://i.imgur.com/QhpTYCE.png" width=100% title="📷 "><br><br>
+
+지혜로운 이름처럼<br>
+슬기롭게 자라서<br><br>
+
+<img src="https://i.imgur.com/djens5C.png" class="fade-in-out" width=100% title="📷 "><br><br>
+
+이 세상에 환한 빛<br>
+되어 주렴, 로운아~~<br><br>
+
+<img src="https://i.imgur.com/k5RotGc.png" class="fade-in-out" width=100% title="📷 "><br><br>
+
+사랑한다! 로운아!<br><br>
+
+<img src="https://i.imgur.com/Wj7lgnW.png" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 어린이집 모험</b></font><br>
+
+콩. 콩. 콩. 발걸음, 두근두근 설레임<br> 
+알록달록 가방에 파란 꿈 가득 담아<br>
+까르르 웃음소리, 반짝반짝 눈빛으로<br>
+로운이 오늘도 씩씩하게 출발해요<br><br>
+
+<img src="https://i.imgur.com/LXaf9Bt.png" width=100% title="📷 "><br><br>
+
+쓱싹쓱싹 그림을, 색칠하며 놀고<br>  
+똑딱똑딱 블록을, 차곡차곡 쌓고<br><br>
+
+<img src="https://i.imgur.com/xCqoF1o.png" width=100% title="📷 "><br><br>
+
+찰방찰방 물놀이, 신나는 웃음<br>
+로운이 친구랑 사이좋게 어울려요<br><br>
+
+<img src="https://i.imgur.com/3Bhjb1D.png" width=100% title="📷 "><br><br>
+
+냠냠~ 냠냠~ 맛있게 밥을 먹으면<br>  
+스르륵~ 졸리는 눈, 달콤한 낮잠의<br>
+꿈속에서 하하 호호 춤을 추면서<br>
+로운이 쑥쑥쑥 건강하게 자라나요~~<br><br>
+
+<img src="https://i.imgur.com/HF0i1aQ.png" width=100% title="📷 "><br><br>
+
+손을 잡고 빙빙빙 원을 그리고<br>
+랄라라라 노래 부르며 뛰노는<br><br>
+
+<img src="https://i.imgur.com/ePJ0zrM.png" width=100% title="📷 "><br><br>
+
+찰칵. 찰칵. 사진 속의 웃는 얼굴<br>
+로운이 하루가 행복으로 가득해요<br><br>
+
+<img src="https://i.imgur.com/ny3IoiE.png" width=100% title="📷 "><br><br>
+
+선생님 말씀에는 귀 쫑긋 세우고<br>
+또래 친구들과 재미있게 놀면서<br><br>
+
+<img src="https://i.imgur.com/MO1r6re.png" width=100% title="📷 "><br><br>
+
+슬기로운 마음이 쑥쑥 자라나는<br>
+로운이 하루는 지혜롭게 빛이 나요<br><br>
+
+<img src="https://i.imgur.com/LPHKn4P.png" width=100% title="📷 "><br><br>
+
+톡. 톡. 톡. 작은 손, 사랑을 전하고<br>
+방글방글 미소로 모두를 감싸며<br><br>
+
+<img src="https://i.imgur.com/x1a9wyh.png" width=100% title="📷 "><br><br>
+
+콩닥콩닥 심장에 희망을 담고서<br>
+로운이 내일도 활기차게 올 거예요~~<br><br>
+
+<img src="https://i.imgur.com/Rpnx5wn.png" width=100% title="📷 "><br><br>
+
+로운아! 사랑해~~~ ♡<br><br>
+
+<img src="https://i.imgur.com/s60IPfW.png" width=100% title="📷 ">
+
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 어린이집 입학송</b></font><br>
+
+로운 로운, 우리 아들 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/mcrw4nS.png" width=100% title="📷 "><br><br>
+
+"엄마 아빠, 다녀오겠습니다"<br>
+하지만 아직 말은 못 한답니다~<br><br>
+
+<img src="https://i.imgur.com/zIwDViw.png" width=100% title="📷 "><br><br>
+
+벚꽃이 만발하는 사월이 오면<br>
+그때는 말문이 터질 거예요~ (정말?)<br><br>
+
+<img src="https://i.imgur.com/RybTBj1.png" width=100% title="📷 "><br><br>
+
+가방 메고 아장아장 걸어갑니다<br>
+그러나 오늘은 유모차로 간답니다~<br><br>
+
+<img src="https://i.imgur.com/0tJrpRA.png" width=100% title="📷 "><br><br>
+
+첫돌을 맞이하는 오월이 오면<br>
+아마도 뛰어갈 거예요~ (진짜?)<br><br>
+
+<img src="https://i.imgur.com/cNdwJ8m.png" width=100% title="📷 "><br><br>
+
+딱지치기 딱. 딱. 총싸움도 빵. 빵.<br>
+그런데 지금은 기어 다닌답니다~<br><br>
+
+<img src="https://i.imgur.com/DVCi6Ev.png" width=100% title="📷 "><br><br>
+
+이제 곧 말도 하고, 걷게 되면<br>
+뛰뛰 빵빵, 자동차 놀이할 거예요~<br>
+(좋겠다~)<br><br>
+
+<img src="https://i.imgur.com/LSkjPkh.png" width=100% title="📷 "><br><br>
+
+나는 나는 될 거예요<br>
+어린이집 우등생이 될 거예요~~<br><br>
+
+<img src="https://i.imgur.com/CvrcJzd.png" width=100% title="📷 "><br><br>
+
+냠냠~ 냠냠, 맛있게 먹고<br>
+새록 새록, 잠도 잘 자고<br><br>
+
+<img src="https://i.imgur.com/dE8nfgr.png" width=100% title="📷 "><br><br>
+
+꽁냥 꽁냥, 친구랑 사이좋게<br>
+하하 호호, 재미있게 놀면서..<br><br>
+
+<img src="https://i.imgur.com/CxBA4R5.png" width=100% title="📷 "><br><br>
+
+지혜로운.. 슬기로운..<br>
+로운이가 될 거예요 (와~~ 기특하네)<br><br>
+
+<img src="https://i.imgur.com/sGheH9R.png" width=100% title="📷 "><br><br>
+
+로운 로운, 우리 손자 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/dpPIVS8.png" width=100% title="📷 "><br><br>
+
+로운이, 최고!<br><br>
+
+<img src="https://i.imgur.com/zMm8Ezo.png" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이가 '어린이집'에 갑니다</b></font><br>
+
+로운 로운 우리 아들 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/mcrw4nS.png" width=100% title="📷 "><br><br>
+
+"엄마 아빠, 다녀오겠습니다"<br>
+하지만 아직 말은 못 한답니다~<br><br>
+
+<img src="https://i.imgur.com/zIwDViw.png" width=100% title="📷 "><br><br>
+
+벚꽃이 만발하는 사월이 오면<br>
+그때는 말문이 터질 거예요~<br><br>
+
+<img src="https://i.imgur.com/RybTBj1.png" width=100% title="📷 "><br><br>
+
+가방 메고 아장아장 걸어갑니다<br>
+그러나 오늘은 유모차로 간답니다~<br><br>
+
+<img src="https://i.imgur.com/0tJrpRA.png" width=100% title="📷 "><br><br>
+
+첫돌을 맞이하는 오월이 오면<br>
+아마도 뛰어갈 거예요~<br><br>
+
+<img src="https://i.imgur.com/cNdwJ8m.png" width=100% title="📷 "><br><br>
+
+딱지치기 딱. 딱. 총싸움도 빵. 빵.<br>
+그런데 지금은 기어다닌답니다~<br><br>
+
+<img src="https://i.imgur.com/DVCi6Ev.png" width=100% title="📷 "><br><br>
+
+이제 곧 말도 하고, 걷게 되면<br>
+뛰뛰 빵빵, 자동차 놀이할 거예요~<br><br>
+
+<img src="https://i.imgur.com/LSkjPkh.png" width=100% title="📷 "><br><br>
+
+<font style="background-color:gray">나는 나는 될 거예요</font><br>
+어린이집 우등생이 될 거예요<br><br>
+
+<img src="https://i.imgur.com/CvrcJzd.png" width=100% title="📷 "><br><br>
+
+쩝쩝 냠냠, 맛있게 먹고<br>
+새록 새록, 잠도 잘 자고<br><br>
+
+<img src="https://i.imgur.com/dE8nfgr.png" width=100% title="📷 "><br><br>
+
+<font style="background-color:gray">꽁냥 꽁냥, 친구랑 사이좋게</font><br>
+하하 호호, 재밌게 놀면서..<br><br>
+
+<img src="https://i.imgur.com/CxBA4R5.png" width=100% title="📷 "><br><br>
+
+지혜로운.. 슬기로운..<br>
+로운이가 될 거예요~<br><br>
+
+<img src="https://i.imgur.com/sGheH9R.png" width=100% title="📷 "><br><br>
+
+로운 로운 우리 손자 로운이가<br>
+이 세상 열 달 만에 어린이집 갑니다~<br><br>
+
+<img src="https://i.imgur.com/dpPIVS8.png" width=100% title="📷 "><br><br>
+
+로운이, 최고!<br><br>
+
+<img src="https://i.imgur.com/zMm8Ezo.png" width=100% title="📷 ">
+
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운이의 즐거운 하루</b></font><br>
+
+옹알이 뿅뿅~, 로운이 콩콩콩~<br>
+세상이 궁금해, 눈이 반짝반짝<br><br>
+
+<img src="https://i.imgur.com/R9rU1Bl.png" width=100% title="📷 "><br><br>
+
+어린이집 갑니다, 룰루랄라 신이 나요<br>
+새 친구 만나러, 폴짝폴짝 뛰어갑니다<br><br>
+
+<img src="https://i.imgur.com/LvnWD99.png" width=100% title="📷 "><br><br>
+
+선생님 품에 안겨, 까르르~ 웃음꽃<br>
+장난감 친구들과, 데굴데굴 춤춰요<br><br>
+
+<img src="https://i.imgur.com/i6zw5qT.png" width=100% title="📷 "><br><br>
+
+냠냠 맛있는 점심, 꿀꺽꿀꺽 잘 먹어요<br>
+쿨쿨 달콤한 낮잠, 세상모르고 잘 자요<br><br>
+
+<img src="https://i.imgur.com/eem9DgT.png" width=100% title="📷 "><br><br>
+
+미끄럼틀 슝슝~, 깔깔깔~ 신나는 놀이<br>
+친구 손잡고 빙글, 모두 함께 즐거워요<br><br>
+
+<img src="https://i.imgur.com/k2dzK8Z.png" width=100% title="📷 "><br><br>
+
+블록 쌓기 차곡차곡, 멋진 성을 지어요<br>
+색깔 크레파스로, <br>
+알록달록 그림 그려요<br><br>
+
+<img src="https://i.imgur.com/YmHc4xG.png" width=100% title="📷 "><br><br>
+
+냠냠 맛있는 간식, 오물오물 잘 먹어요<br>
+쿨쿨 달콤한 꿈나라, 예쁜 꿈을 꾸어요<br><br>
+
+<img src="https://i.imgur.com/M5Bm43q.png" width=100% title="📷 "><br><br>
+
+집에 갈 시간 땡! 엄마 아빠 보고파요<br>
+오늘 하루 즐거웠어요, 내일 또 만나요<br><br>
+
+<img src="https://i.imgur.com/GNQDz0n.png" width=100% title="📷 "><br><br>
+
+씩씩한 로운이, 사랑스러운 로운이<br>
+선아 어린이집, 최고로 즐거워요~~<br><br>
+
+<img src="https://i.imgur.com/I0Ot68b.png" width=100% title="📷 "><br><br>
+
+선아 어린이집! 최고야~!<br><br>
+
+<img src="https://i.imgur.com/h29f3Sk.png" width=100% title="📷 ">
+
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:white url('https://i.imgur.com/dgZzxa6.jpeg') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>울 엄마의 기구했던 생일</b></font><br>
+
+용띠 해 무진년에 오시어<br>
+용띠 해 갑진년에 가신..<br>
+막내도 같은 띠, 용띠라 하시며<br>
+좋아하셨던 나의 어머니!<br><br>
+
+<img src="https://i.imgur.com/y3ZpxAB.jpeg" width=100% title="📷 "><br><br>
+
+울 엄마 생일은 음력 12월 30일.<br>
+"올해는 엄마 생일이 없네?"<br>
+"어머야! 왜 내 생일이 없니?"<br><br>
+
+<img src="https://i.imgur.com/R6GOl4s.png" width=100% title="📷 "><br><br>
+
+섣달그믐은 늘 오는데<br>
+음력 서른 날은 없는 해가 많아요<br>
+그래서 이제부터 울 엄마 생일은<br>
+무조건 설날 하루 전!<br><br>
+
+<img src="https://i.imgur.com/r5RWfQF.jpeg" width=100% title="📷 "><br><br>
+
+기구했던 엄마의 생일날이기에 <br>
+모처럼 찾아온 온전한 올해는 <br>
+케이크 들고 재롱 떨려 했는데, <br><br>
+
+<img src="https://i.imgur.com/w6cSxyv.jpeg" width=100% title="📷 "><br><br>
+
+가족들 사진 보면 환하게 웃으시던<br>
+그 모습 보고 싶어 애써 준비했는데<br><br>
+
+<img src="https://i.imgur.com/QzymRzx.jpeg" width=100% title="📷 "><br><br>
+
+불과 며칠 남기고, <br>
+왜 홀연히 떠나셨나요..<br><br>
+
+<img src="https://i.imgur.com/hXEJRly.png" width=100% title="📷 "><br><br>
+
+부엌에서 과수원으로 분주한 삶에도<br>
+세월 따라 손주들 자라는 자리에, <br>
+함께 웃던 그 모든 날의 그 모습들.. <br>
+사진 속에는 선명하게 살아계시네요~<br><br>
+
+<img src="https://i.imgur.com/a1SIJqp.jpeg" width=100% title="📷 "><br><br><br>
+
+
+1번 성찬, 2번 덕찬, 3번 승찬! <br>
+휴대폰의 무용지물에 가슴 아파졌고,<br><br>
+
+<img src="https://i.imgur.com/MPh9L4b.jpeg" width=100% title="📷 "><br><br>
+
+애지중지하던 통장을 내어주실 때<br>
+가슴이 미어졌습니다~<br><br>
+
+<img src="https://i.imgur.com/EbzDKiL.png" width=100% title="📷 "><br><br>
+
+엘리베이터 안,<br>
+"엄마! 안녕" 나의 손짓에<br>
+맥없이 손 흔들어 주시던 그 모습!<br>
+그것이 마지막 인사일 줄이야... 아~~<br><br>
+
+<img src="https://i.imgur.com/osWK0ID.png" width=100% title="📷 "><br><br>
+
+논화리 아버님 모셔온 그 자리, <br>
+7층 로얄층에 편히 잠드소서. <br><br>
+
+<img src="https://i.imgur.com/4NPx3Lj.png" width=100% title="📷 "><br><br>
+
+섣달그믐 아닌 좋은 날에<br>
+고통 없는 곳으로, <br>
+부디 극락 왕생하세요. <br><br>
+
+<img src="https://i.imgur.com/yeSYJSQ.jpeg" width=100% title="📷 "><br><br><br>
+
+
+아버님! 어머님!<br>
+언제나 고마웠습니다!<br><br>
+
+<img src="https://i.imgur.com/HBrfxU3.png" width=100% title="📷 "><br><br>
+
+나의 어머님!<br>
+영원히 사랑합니다!<br><br>
+
+<img src="https://i.imgur.com/b4GkUZR.png" width=100% title="📷 "><br><br>
+
+나의 아버님!<br>
+영원히 사랑합니다~~~<br><br>
+
+<img src="https://i.imgur.com/FzxRBRY.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/bvn2Wa/btsOyojFwNE/oQF6pyZs1UJR5h2oDftYeK/img.png') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>당신들의 생일을 축하합니다</b></font><br>
+
+사랑하는 아들, 고운 며느리!<br>
+오늘 당신들의 생일을 축하합니다~ ☆<br><br>
+
+<img src="https://i.imgur.com/EWZIw9U.png" width=100% title="📷 "><br><br>
+
+두 사람이 함께 걸어가는 길<br>
+언제나 행복과 웃음 가득하기를..<br><br>
+
+<img src="https://i.imgur.com/LTpQf2J.jpeg" width=100% title="📷 "><br><br>
+
+생일 축하해요, 나의 소중한 두 사람!<br>
+세상 가장 아름다운 당신들을 위해<br>
+이 노래를 불러요, 마음을 담아..<br><br>
+
+<img src="https://i.imgur.com/Ohsif0H.jpeg" width=100% title="📷 "><br><br>
+
+늘 건강하고, <br>
+늘 사랑하며, <br>
+늘 행복하세요~~<br><br>
+
+<img src="https://i.imgur.com/DXIveTr.jpeg" width=100% title="📷 "><br><br>
+
+처음 당신들을 만났던 그날<br>
+가슴 벅찬 설렘과 기쁨이었소<br>
+어느새 이렇게 훌쩍 자라<br>
+나의 든든한 버팀목이 되어주었네요.<br><br>
+
+<img src="https://i.imgur.com/lVTDnas.png" width=100% title="📷 "><br><br>
+
+생일 축하해요, 나의 소중한 두 사람!<br>
+세상 가장 아름다운 당신들을 위해<br>
+이 노래를 불러요, 마음을 담아..<br><br>
+
+<img src="https://i.imgur.com/bjhcrHs.jpeg" width=100% title="📷 "><br><br>
+
+늘 건강하고, <br>
+늘 사랑하며, <br>
+늘 행복하세요~~<br><br>
+
+<img src="https://i.imgur.com/FlHOxSm.jpeg" width=100% title="📷 "><br><br>
+
+때로는 힘든 날도 있겠지만<br>
+서로를 보듬어주며 이겨내길 바라요.<br><br>
+
+<img src="https://i.imgur.com/i8beEJ2.png" width=100% title="📷 "><br><br>
+
+함께 살아가며 아름다운 추억을<br>
+하나하나 만들어가는 당신들이 되기를<br><br>
+
+<img src="https://i.imgur.com/K7jiyCV.jpeg" width=100% title="📷 "><br><br>
+
+생일 축하해요, 나의 소중한 두 사람!<br>
+세상 가장 아름다운 당신들을 위해<br>
+이 노래를 불러요, 마음을 담아..<br><br>
+
+<img src="https://i.imgur.com/0xpSrq1.jpeg" width=100% title="📷 "><br><br>
+
+늘 건강하고, <br>
+늘 사랑하며, <br>
+늘 행복하세요~~<br><br>
+
+<img src="https://i.imgur.com/xeFSOkP.jpeg" width=100% title="📷 "><br><br>
+
+다시 한번 생일을 축하하며,<br>
+이 기쁜 날, 오래도록 기억되기를..<br><br>
+
+<img src="https://i.imgur.com/YxmArdL.png" width=100% title="📷 "><br><br>
+
+사랑해요. 나의 아들, 나의 며느리!<br>
+영원히 축복합니다~~~ ☆<br>
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('http://cfile239.uf.daum.net/original/21085844525FBD3201F5E6') repeat fixed center top" cellpadding='2' width=100%><tr valign=middle><td class='lt'>
+<P class='mid2'><font style="display:none"><b>로운이와 함께 하는 결혼 4주년 축하해!</b></font><br>
+
+경진과 휘경, 두 사람의 이야기<br>
+사랑으로 엮어가는 4년의 시간<br><br>
+
+<img src="https://i.imgur.com/kUlat99.jpeg" width=100% title="📷 "><br><br>
+
+햇살 닮은 미소로 처음 만난 날<br>
+설렘 가득한 눈빛, 운명처럼 이끌렸지<br><br>
+
+<img src="https://i.imgur.com/v5vZDhk.jpeg" width=100% title="📷 "><br><br>
+
+함께 걸어온 발걸음, <br>
+때론 힘들 때도 있었지만<br>
+서로를 향한 믿음으로 굳건히 지켜왔네<br><br>
+
+<img src="https://i.imgur.com/UQNOwIp.jpeg" width=100% title="📷 "><br><br>
+
+시간은 흘러 4주년, <br>
+혁혼의 약속으로 다시 한번<br>
+두 사람의 사랑을 세상에 노래하네<br><br>
+
+<img src="https://i.imgur.com/ERK2fEG.jpeg" width=100% title="📷 "><br><br>
+
+경진아, 휘경아, <br>
+너희들의 결혼 4주년을 축하한다<br><br>
+
+<img src="https://i.imgur.com/j4MLFhw.jpeg" width=100% title="📷 "><br><br>
+
+함께 웃고 울었던 소중한 기억들<br>
+앞으로도 변치 않을 사랑으로<br>
+행복 가득한 날들만 만들어가기를..<br><br>
+
+<img src="https://i.imgur.com/hBNNkB6.jpeg" width=100% title="📷 "><br><br>
+
+작년엔 없었던 작은 천사, <br>
+로운이가 찾아왔으니<br>
+온 세상의 빛이 되어 너희 곁을 지키네<br><br>
+
+<img src="https://i.imgur.com/lHgiIHU.jpeg" width=100% title="📷 "><br><br>
+
+세 식구가 된 너희들의 모습, <br>
+얼마나 아름다운지<br>
+사랑이 넘치는 가정, 희망이 꽃피는구나<br><br>
+
+<img src="https://i.imgur.com/5IqFmEr.png" width=100% title="📷 "><br><br>
+
+시간은 흘러 4주년, <br>
+혁혼의 약속으로 다시 한번<br>
+두 사람의 사랑을 세상에 노래하네<br><br>
+
+<img src="https://i.imgur.com/rZ5pXQ8.jpeg" width=100% title="📷 "><br><br>
+
+경진아, 휘경아, <br>
+너희들의 결혼 4주년을 축하한다<br><br>
+
+함께 웃고 울었던 소중한 기억들<br>
+앞으로도 변치 않을 사랑으로<br>
+행복 가득한 날들만 만들어가기를..<br><br>
+
+<img src="https://i.imgur.com/pmnJc94.png" width=100% title="📷 "><br><br>
+
+로운이의 환한 웃음처럼<br>
+너희들의 앞날도 늘 밝게 빛나기를<br>
+축복의 노래가 끊이지 않기를..<br><br>
+
+<img src="https://i.imgur.com/UcHazfA.png" width=100% title="📷 "><br><br>
+
+경진아, 휘경아, <br>
+결혼 4주년을 진심으로 축하한다<br><br>
+
+함께 써 내려갈 수많은 날들<br>
+영원한 사랑을 맹세하며<br>
+세상 가장 행복한 부부가 되기를..<br><br>
+
+<img src="https://i.imgur.com/jDefw8f.jpeg" width=100% title="📷 "><br><br>
+
+축하한다, 그리고 사랑한다<br>
+경진아, 휘경아, 로운아!<br>
+영원히 행복하기를…<br><br>
+
+<img src="https://i.imgur.com/4CJfg6o.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/sNaVQ/btsOw5MrWui/XGD5nbYNLQJf9kOr9t8nNk/img.png') repeat fixed center top" cellpadding='2' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운에게 보내는 할아머니의 百日 축복</b></font><br>
+
+따스한 햇살처럼 반짝이는 <br>
+우리 아가 로운아!<br>
+백일의 기쁨이 우리에게 찾아왔구나~<br><br>
+
+<img src="https://i.imgur.com/yuKiZb9.png" width=100% title="📷 "><br><br><br>
+
+
+작고 여린 손으로 세상을 더듬던 날<br>
+우릴 보며 처음으로 웃음 짓던 그날<br>
+할아버지 할머니는 매일 기도했단다<br>
+건강하게 자라라고, 행복하라고..<br><br>
+
+<img src="https://i.imgur.com/5O1kG8i.png" width=100% title="📷 "><br><br>
+
+무럭무럭 자라나는 너의 모습 볼 때면<br>
+가슴 벅찬 감동이 샘솟는구나<br><br>
+
+<img src="https://i.imgur.com/VvBn8iq.png" width=100% title="📷 "><br><br>
+
+세상의 좋은 빛깔이 너에게 향하기를<br>
+곱고 이로운 마음으로 꿈을 펼치려무나<br><br>
+
+<img src="https://i.imgur.com/NCaFs81.png" width=100% title="📷 "><br><br><br>
+
+
+어느새 이렇게 훌쩍 자란 우리 아가야<br>
+너의 웃음소리, 집안 가득 채우는구나~<br><br>
+
+<img src="https://i.imgur.com/QtXauSh.png" width=100% title="📷 "><br><br>
+<!-- img src='https://i.imgur.com/9IbXqwg.jpeg' width=100% title='📷 로운 고양이 배경'><br><br //-->
+
+축하해, 우리 아가! <br>
+백일을 맞은 로운아~~<br>
+세상이 준 선물, 가장 소중한 보물<br><br>
+
+<img src="https://i.imgur.com/u5wrtdW.png" width=100% title="📷 "><br><br>
+
+앞으로 펼쳐질 너의 모든 날들을<br>
+할아버지 할머니가 언제나 응원할게<br><br>
+
+<img src="https://i.imgur.com/LVo2Xkp.png" width=100% title="📷 "><br><br><br>
+
+
+때로는 넘어지고 어려울 때도 있겠지만<br>
+그럴 때는 우리가 너를 지켜줄게<br><br>
+
+<img src="https://i.imgur.com/LUdak2m.png" width=100% title="📷 "><br><br>
+
+세상에 하나뿐인 너를 사랑하기에<br>
+어떤 어려움도 이겨내게 해줄 거야<br><br>
+
+<img src="https://i.imgur.com/6RZSB99.png" width=100% title="📷 "><br><br>
+
+반짝이는 눈빛 속에 호기심 가득한 너<br>
+슬기로운 지혜로 이 세상을 배우려무나<br><br>
+
+<img src="https://i.imgur.com/9LD9tEn.png" width=100% title="📷 "><br><br>
+
+할아버지 할머니는 너의 든든한 울타리<br>
+언제나 너의 곁에서 힘이 되어 줄 거야<br><br>
+
+<img src="https://i.imgur.com/gNaFYxz.png" width=100% title="📷 "><br><br><br>
+
+
+어느새 이렇게 훌쩍 자란 우리 아가야<br>
+너의 웃음소리, 집안 가득 채우는구나~<br><br>
+
+축하해, 우리 아가! <br>
+백일을 맞은 로운아~~<br>
+세상이 준 선물, 가장 소중한 보물<br><br>
+
+앞으로 펼쳐질 너의 모든 날들을<br>
+할아버지 할머니가 언제나 응원할게<br><br>
+
+<img src="https://i.imgur.com/0XHALzA.png" width=100% title="📷 "><br><br><br>
+
+
+우리 손자로 우리에게 와주어서<br>
+온 세상이 환하게 빛나는 것 같아<br><br>
+
+<img src="https://i.imgur.com/LoEZvj1.png" width=100% title="📷 "><br><br>
+
+감사해, 사랑해! <br>
+우리 예쁜 아가 로운아~~<br>
+영원히 너의 편이 되어 줄게<br><br>
+
+<img src="https://i.imgur.com/2B0rGc7.png" width=100% title="📷 "><br><br>
+
+축하해, 우리 아가! <br>
+백일을 맞은 로운아~~<br>
+세상이 준 선물, 가장 소중한 보물<br><br>
+
+앞으로 펼쳐질 너의 모든 날들을<br>
+할아버지 할머니가 언제나 응원할게<br><br>
+
+<img src="https://i.imgur.com/TYF7sAQ.png" width=100% title="📷 "><br><br><br>
+
+
+로운아 사랑한다... <br>
+백일을 축하한다...<br><br>
+
+<img src='https://i.imgur.com/ONpOhEg.png' class="fade-in-out" width=100% title='📷 로운 백일 반지'>
+</td></tr></table>`,
+`<table class='box' style="BACKGROUND:#ccffff url('http://cfile211.uf.daum.net/original/255B5044525FBE65234AD3') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운에게 보내는 百日 축하</b></font><br>
+
+사랑하는 우리 아가 로운아, <br>
+어느새 백일이야<br>
+작고 소중한 너의 모습에 <br>
+매일매일 감사해<br><br>
+
+<img src="https://i.imgur.com/CKzi95t.png" width=100% title="📷 "><br><br>
+
+까꿍하며 웃는 너의 얼굴, <br>
+세상을 다 가진 듯해<br>
+반짝이는 두 눈 속으로 <br>
+엄마 사랑 가득 보낸다~<br><br>
+
+<img src="https://i.imgur.com/t6hhA2e.jpeg" width=100% title="📷 "><br><br>
+<!-- img src='https://i.imgur.com/NIbmceM.jpeg' style="filter: opacity(70%);" width=100% title='📷 로운 50일 기념'><br><br //-->
+
+세상에 태어나줘서 고마워, <br>
+우리의 보물<br>
+하나, 둘, 셋.. 세어보던 날들이 <br>
+꿈만 같아<br><br>
+
+<img src="https://i.imgur.com/2u8OJQz.jpeg" width=100% title="📷 "><br><br>
+
+힘들 때도 있었지만 <br>
+너의 미소 보면 힘이 나~<br>
+아빠의 넓은 품에서 <br>
+언제나 편안하기를..<br><br>
+
+<img src="https://i.imgur.com/gEEV9tL.png" width=100% title="📷 "><br><br><br>
+
+
+작은 천사 우리 아가 로운아, <br>
+세상의 빛이 될 거야<br>
+너의 모든 날들이 축복으로 가득하길<br><br>
+
+<img src="https://i.imgur.com/jGgSSiD.jpeg" width=100% title="📷 "><br><br>
+
+백일의 기쁨, 우리 아가 로운아 축하해<br>
+사랑으로 너를 감싸 안아줄게<br>
+환하게 웃는 너의 모습 그대로<br>
+세상 가장 행복한 아이로 자라렴<br><br>
+
+<img src="https://i.imgur.com/pTHJhve.png" width=100% title="📷 "><br><br><br>
+
+
+꽃보다 예쁜 손자 로운아, <br>
+어느덧 백일이라니<br>
+할미 가슴엔 늘 네가 있었단다, <br>
+사랑한다 로운아!<br><br>
+
+<img src="https://i.imgur.com/vXHk5Lc.jpeg" width=100% title="📷 "><br><br>
+
+배냇저고리 입은 모습이 <br>
+어찌나 귀엽던지<br>
+무럭무럭 자라는 너의 모습에 <br>
+할미는 행복해<br><br>
+
+<img src="https://i.imgur.com/Y5ZOghJ.jpeg" width=100% title="📷 "><br><br><br>
+
+
+힘찬 기운 받아라, <br>
+우리의 자랑스러운 손자<br>
+건강하게, 씩씩하게, <br>
+지혜롭게 자라다오<br><br>
+
+<img src="https://i.imgur.com/FsXNV5t.jpeg" width=100% title="📷 "><br><br>
+
+언제나 너의 곁엔 <br>
+든든한 할아버지 있단다<br>
+세상 모든 좋은 것들이 <br>
+너에게 향하기를..<br><br>
+
+<img src="https://i.imgur.com/RZCKLZQ.jpeg" width=100% title="📷 "><br><br><br>
+
+
+작은 새싹, 우리 아가 로운아, <br>
+푸른 꿈을 펼치렴<br>
+너의 모든 순간이 행복으로 물들기를..<br><br>
+
+<img src="https://i.imgur.com/VmS2aUG.jpeg" width=100% title="📷 "><br><br>
+
+백일의 기쁨, 우리 아가 로운아 축하해<br>
+사랑으로 너를 감싸 안아줄게<br><br>
+
+<img src="https://i.imgur.com/5nDkGoX.jpeg" width=100% title="📷 "><br><br>
+
+환하게 웃는 너의 모습 그대로<br>
+세상 가장 행복한 아이로 자라렴<br><br>
+
+<img src="https://i.imgur.com/c5A0IJb.jpeg" width=100% title="📷 "><br><br><br>
+
+
+넘어져도 괜찮아, <br>
+다시 일어설 수 있도록<br><br>
+
+<img src="https://i.imgur.com/25ihrh0.jpeg" width=100% title="📷 "><br><br>
+
+늘 곁에서 응원할게, <br>
+너의 꿈을 맘껏 펼치렴<br><br>
+
+<img src="https://i.imgur.com/k4moqwY.jpeg" width=100% title="📷 "><br><br>
+
+백일의 기쁨, 우리 아가 로운아 축하해<br>
+사랑으로 너를 감싸 안아줄게<br><br>
+
+<img src="https://i.imgur.com/fqop708.jpeg" width=100% title="📷 "><br><br>
+
+환하게 웃는 너의 모습 그대로<br>
+세상 가장 행복한 아이로 자라렴<br><br>
+
+<img src="https://i.imgur.com/JL1djn5.jpeg" width=100% title="📷 "><br><br><br>
+
+
+<!-- img src='https://i.imgur.com/RzZNHH8.jpeg' width=100% title='📷 로운 액자'><br><br //-->
+
+사랑한다, 우리 아가 로운아!<br><br>
+
+언제나 사랑한다. 영원토록...<br><br>
+
+<img src="https://i.imgur.com/vvUpnXo.jpeg" width=100% title="📷 "></font>
+</td></tr></table>`,
+`<table style="BACKGROUND:#ffff66 url('https://blog.kakaocdn.net/dn/Xj6h3/btsOxjDAXcz/cen6SOE7KJFtvqXrwhQkEk/img.png') repeat fixed center top" cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>까꿍~ 로운아! 탄생 100일을 축하해!</b></font><br>
+
+까꿍 까꿍, 우리 아가 로운아<br>
+옹알 옹알, 옹알 대장 로운아<br><br>
+
+<img src="https://i.imgur.com/I2OamTB.jpeg" width=100% title="📷 "><br><br>
+
+축하 축하, 로운이의 백일을..<br>
+축복 축복, 로운에게 보낸다~~<br><br>
+
+<img src="https://i.imgur.com/0TyLBjz.jpeg" width=100% title="📷 "><br><br><br>
+
+
+조물 조물, 손가락이 귀여워<br><br>
+
+<img src="https://i.imgur.com/stmYyjm.jpeg" width=100% title="📷 "><br><br>
+
+꼬물 꼬물, 발가락도 예뻐라<br><br>
+
+<img src="https://i.imgur.com/bFQi2Ud.jpeg" width=100% title="📷 "><br><br>
+
+토실 토실, 복스러운 종아리<br><br>
+
+<img src="https://i.imgur.com/5jqisiG.png" width=100% title="📷 "><br><br>
+
+씰룩 씰룩, 엉덩이가 통통해<br><br>
+
+<img src="https://i.imgur.com/BiiH3ig.png" width=100% title="📷 "><br><br><br>
+
+
+똘망 똘망, 사랑스런 눈망울<br><br>
+
+<img src="https://i.imgur.com/HPINsjE.png" width=100% title="📷 "><br><br>
+
+포동 포동, 볼퉁이도 예뻐요<br><br>
+
+<img src="https://i.imgur.com/mKZoJLD.jpeg" width=100% title="📷 "><br><br>
+
+복슬 복슬, 머릿결이 빛나고<br><br>
+
+<img src="https://i.imgur.com/HKjEcXw.png" width=100% title="📷 "><br><br>
+
+새근 새근, 잠든 모습 상큼해<br><br>
+
+<img src="https://i.imgur.com/WrDndsw.png" width=100% title="📷 "><br><br><br>
+
+
+무럭 무럭, 건강하게 자라라<br><br>
+
+<img src="https://i.imgur.com/GyQiUPb.jpeg" width=100% title="📷 "><br><br>
+
+불끈 불끈, 씩씩하게 힘내라<br><br>
+
+<img src="https://i.imgur.com/sSXqWuw.jpeg" width=100% title="📷 "><br><br>
+
+듬뿍 듬뿍, 사랑으로 나눠라<br><br>
+
+<img src="https://i.imgur.com/BXMLifn.jpeg" width=100% title="📷 "><br><br>
+
+가득 가득, 행복으로 채워라<br><br>
+
+<img src="https://i.imgur.com/qGLH5xp.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운 로운, 슬기 로운 로운아<br><br>
+
+<img src="https://i.imgur.com/lBQr7DU.png" width=100% title="📷 "><br><br>
+
+크게 크게, 너의 꿈을 키워라<br><br>
+
+<img src="https://i.imgur.com/sxzHJVC.png" width=100% title="📷 "><br><br>
+
+높게 높게, 너의 이상 펼쳐라<br><br>
+
+<img src="https://i.imgur.com/Qx6cAxv.jpeg" width=100% title="📷 "><br><br>
+
+반짝 반짝, 우리 보배 빛나라<br><br>
+
+<img src="https://i.imgur.com/KArcT3H.jpeg" width=100% title="📷 "><br><br><br>
+
+
+널찍한 아빠의 가슴팍에 안기어<br>
+귀여운 옹알이로 응답해 준 로운아~~<br>
+로운이 아빠라서 자랑스러워<br><br>
+
+<img src="https://i.imgur.com/KpfJkxG.png" width=100% title="📷 "><br><br>
+
+어느 날 목 가누며, 앙증스런 얼굴로<br>
+엄마에게 천사 미소 보내준 로운아~~<br>
+로운이 엄마라서 너무 행복해<br><br>
+
+<img src="https://i.imgur.com/7LDu0ez.png" width=100% title="📷 "><br><br><br>
+<!-- img src='https://i.imgur.com/GYGm9Ct.jpeg' style='border-radius: 10%;' width=100% title='📷 로운 조약돌 배경'><br><br><br //-->
+
+
+뭉클 뭉클, 엄마 아빠 가슴이<br>
+몽글 몽글, 피어 나는 감격에..<br><br>
+
+<img src="https://i.imgur.com/grYeyRg.png" width=100% title="📷 "><br><br>
+
+백일 백일, 축하한다 로운아<br>
+로운 로운, 축하한다 백일을..<br><br>
+
+<img src="https://i.imgur.com/boMLSUM.jpeg" width=100% title="📷 "><br><br>
+
+거듭 거듭, 축하한다 백일을..<br>
+다시 다시, 축하한다 백일을..<br>
+자꾸 자꾸, 축하한다 백일을..<br><br>
+
+<img src="https://i.imgur.com/qJGp8H2.jpeg" width=100% title="📷 "><br><br>
+
+다시 한번 축하한다. <br>
+로운이의 백일을~~~<br>
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/blyuoe/btsN2b0gXx6/iDOSuLAnhr8fXK3p4dhZv0/img.png') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>할아버지 할머니가 보내는 로운이의 축복</b></font><br>
+
+작은 심장이 두근거려요<br>
+로운이의 세상이 시작되었네<br><br>
+
+<img src="https://i.imgur.com/7N1Loi6.jpeg" width=100% title="📷 "><br><br>
+
+휘경아 경진아 애썼구나<br>
+사랑스런 아가를 품에 안으니<br>
+벅찬 기쁨에 눈물이 핑 돌아<br><br>
+
+<img src="https://i.imgur.com/EeVXQCK.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 할아버지 할머니는<br>
+너의 웃음소리에 힘이 솟는다<br>
+반짝이는 눈망울, 우리의 별이구나<br><br>
+
+<img src="https://i.imgur.com/If1WoyD.jpeg" width=100% title="📷 "><br><br>
+
+로운 로운 우리 아가 로운이는<br>
+온 세상 축복 속에 태어났어요<br>
+휘경아 경진아 마음껏 펼쳐라<br>
+희망과 사랑으로 가득한 미래를...<br><br>
+
+<img src="https://i.imgur.com/3zCDcyI.jpeg" width=100% title="📷 "><br><br>
+
+새근새근 잠든 모습이 천사 같아<br>
+아픔 없이 건강하게 자라려무나<br>
+지혜롭고 씩씩한 아이로...<br><br>
+
+<img src="https://i.imgur.com/i3i9SFs.jpeg" width=100% title="📷 "><br><br>
+
+엄마와 아빠의 사랑 듬뿍 받으며<br>
+세상 모든 아름다움을 배우려무나<br>
+할아버지 할머니가 언제나 지켜줄게<br><br>
+
+<img src="https://i.imgur.com/1AYauHv.jpeg" width=100% title="📷 "><br><br>
+
+로운 로운 우리 아가 로운이는<br>
+온 세상 축복 속에 태어났어요<br>
+휘경아 경진아 마음껏 펼쳐라<br>
+희망과 사랑으로 가득한 미래를...<br><br>
+
+작은 발걸음 하나하나에<br>
+소중한 추억 만들어가려무나<br>
+함께 노래하고 함께 웃으며...<br><br>
+
+<img src="https://i.imgur.com/1iprl1v.jpeg" width=100% title="📷 "><br><br>
+
+로운 로운 우리 아가 로운이는<br>
+온 세상 축복 속에 태어났어요<br>
+휘경아 경진아 마음껏 펼쳐라<br>
+희망과 사랑으로 가득한 미래를...<br><br>
+
+<img src="https://i.imgur.com/iT44NA2.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 사랑한다<br>
+우리 아가 로운아, 영원토록...<br><br>
+
+<img src="https://i.imgur.com/9udPFb5.jpeg" width=100% title="📷 "><br>
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/RYT3z/btsN1SzNxf5/FvWnM0omExZiWsUAarjrb0/img.jpg') repeat fixed center top\" cellpadding='2' width=100%><tr valign=middle><td class='lt'>\
+<P class='mid2'><font style="display:none"><b>로운에게 보내는 엄마 아빠의 축복</b></font><br>
+
+사랑스러운 우리 아기, 로운아<br>
+건강하게 우리에게 와줘서 고마워<br>
+온 세상이 너의 탄생을 축하해<br>
+모두가 기뻐하며 축복을 보내<br><br>
+
+<img src="https://i.imgur.com/HtdjZVY.jpeg" width=100% title="📷 "><br><br>
+
+작은 손짓, 작은 발길이 감격스러워<br>
+너의 웃음, 너의 울음에 가슴이 벅차<br>
+바다 색, 하늘 빛깔을 닮은 로운아<br>
+너는 우리에게 소중한 기적의 선물이야 <br><br>
+
+<img src="https://i.imgur.com/cGK5NPm.jpeg" width=100% title="📷 "><br><br>
+
+로운이의 꿈, 펼쳐질 세상이 온 거야<br>
+햇살이 눈부시고 뭉게구름이 피어나<br>
+너를 안을 수 있어서 너무 기뻐<br>
+너와 마주할 수 있어, 너무 행복해<br><br>
+
+<img src="https://i.imgur.com/FzMnmM7.jpeg" width=100% title="📷 "><br><br>
+
+튼튼하고 건강하게 자랄 수 있도록<br>
+항상 든든하게 너의 곁에 서 있을게<br>
+언제나 사랑으로 너의 모습 바라볼게<br>
+모든 순간, 모든 날이 행복하기를...<br><br>
+
+<img src="https://i.imgur.com/K38TMY9.jpeg" width=100% title="📷 "><br><br>
+
+로운이의 미래를 함께 걸을 거야<br>
+희망을 더 크게, 키워줄 거야<br>
+사랑스런 눈빛으로 세상을 보고<br>
+사랑 가득한 마음으로 살 수 있도록...<br><br>
+
+<img src="https://i.imgur.com/1RPv5KP.jpeg" width=100% title="📷 "><br><br>
+
+로운이의 꿈, 우리가 키워줄게<br>
+로운이의 길, 우리가 밝혀줄게<br>
+엄마 품에서 네 꿈이 피어나고<br>
+아빠 품에선 그 꿈이 자랄 거야<br><br>
+
+<img src="https://i.imgur.com/oWexNvE.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 사랑해<br>
+이 세상에 빛으로 와줘서 고마워<br>
+너는 우리 삶에서<br>
+가장 찬란한 봄날의 시작이야<br><br>
+
+<img src="https://i.imgur.com/3zZ9lUG.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/nxO4z/btsN2oZm5xw/qITmE0LZ1xxbTLffYrjtmk/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>이 세상 이름, 로운에게</b></font><br>
+
+파랑아, <br>
+웃으면서 우리 곁에 와줘서 고마워<br><br><font color='black'>
+
+이제 세상에서 <br>
+너를 부를 이름이 생겼구나<br><br>
+
+여울 로, 높을 운— <br>
+맑고 멋진 이름이로다<br><br>
+
+로운아, 로운아, <br>
+자꾸만 불러보고 싶구나~<br><br>
+
+<img src="https://i.imgur.com/R4shAhl.png" width=100% title="📷 "><br><br><br>
+
+
+세차게 흐르는 여울처럼 <br>
+씩씩한 너 되기를<br><br>
+
+<img src="https://i.imgur.com/S1FSwrY.jpeg" width=100% title="📷 "><br><br>
+
+하늘을 향해 꿈을 펼칠 <br>
+높을 운의 아이야<br><br>
+
+<img src="https://i.imgur.com/q5lnutM.jpeg" width=100% title="📷 "><br><br>
+
+이로운 마음, 슬기로운 눈빛으로<br>
+이 세상에 웃음과 사랑 나누어 주기를<br><br>
+
+<img src="https://i.imgur.com/thHpvTc.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아~ 귀엽게 잠든 너를 바라보며<br>
+조용히 너의 이름을 속삭여 본다<br><br>
+
+<img src="https://i.imgur.com/S5Xs5D3.jpeg" width=100% title="📷 "><br><br>
+
+아픔 없이 건강하게 자라주기를<br>
+희망과 사랑이 가득한 아이 되기를<br><br>
+
+<img src="https://i.imgur.com/ntZOhpU.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운이라는 이름에 <br>
+축복이 담겨 있단다<br><br>
+
+할아버지 목소리에도, <br>
+할머니 미소 속에도<br><br>
+
+<img src="https://i.imgur.com/kSWdNrd.png" width=100% title="📷 "><br><br>
+
+너의 이름은 기쁨, 너의 이름은 약속<br>
+언제나 이로운 빛으로 <br>
+세상을 밝혀 주기를..<br><br>
+
+<img src="https://i.imgur.com/2wMtjsx.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑으로 온 너, <br>
+로운이 되어 피어났구나<br><br>
+
+<img src="https://i.imgur.com/oaR84S0.jpeg" width=100% title="📷 "><br><br>
+
+햇살 같은 아이야, 우리 모두의 봄날<br><br>
+
+<img src="https://i.imgur.com/7ki5Ryn.jpeg" width=100% title="📷 "><br><br>
+
+바람결에도, 나뭇잎 위에도<br>
+로운이라는 이름이 <br>
+아름답게 퍼져 간다<br><br>
+
+<img src="https://i.imgur.com/4a5d84L.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아~ 사랑스러운 우리 손주야<br>
+그 이름 또 불러보고 싶구나, 로운아~<br><br>
+
+<img src="https://i.imgur.com/nXM7VDr.jpeg" width=100% title="📷 "><br><br>
+
+자랑스럽고 슬기로운 그 이름<br>
+이로운 이 세상에 <br>
+널리 널리 빛날지어라<br><br>
+
+<img src="https://i.imgur.com/cK145yi.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아, 사랑해<br>
+너의 이름을 마음에 새긴다..<br><br>
+
+<img src="https://i.imgur.com/dtGPA8q.png" width=100% title="📷 "><br><br>
+
+이 세상 어디서든 그 이름으로<br>
+밝게, 건강하게 살아가기를…<br><br>
+
+<img src="https://i.imgur.com/cmZ7XGP.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/8on3l/btsOwFtmEEn/HSYC0Gfmz4UIyGihvrnyk1/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font color='white'><font style="display:none"><b>로운에게 보내는 할아머니의 축복</b></font><br>
+
+건강하게 우리 곁에 와줘서 고마워, <br>
+파랑아!<br>
+드디어 이 세상이 부를 <br>
+너의 이름 지어졌네<br><br>
+
+<img src="https://i.imgur.com/ZYkUlCt.jpeg" width=100% title="📷 "><br><br>
+
+여울 로, 높을 운, <br>
+참으로 멋진 그 이름, 로운아!<br>
+새로운 너의 이름 <br>
+자꾸만 불러보고 싶구나<br><br>
+
+<img src="https://i.imgur.com/3ZCcPQj.jpeg" width=100% title="📷 "><br><br>
+
+세찬 여울처럼 씩씩한 기백으로<br>
+높을 운답게 꿈과 이상을 높이 펼쳐라<br><br>
+
+<img src="https://i.imgur.com/5fVb7n7.jpeg" width=100% title="📷 "><br><br>
+
+슬기로운 눈길로 세상을 바라보고<br>
+이로운 마음으로 행복을 나누려무나<br><br>
+
+<img src="https://i.imgur.com/8GxZ9g9.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아~<br>
+높이 날아라 자유롭게, <br>
+용감한 기상으로 세상을 향해...<br><br>
+
+<img src="https://i.imgur.com/aRrCQ7j.png" width=100% title="📷 "><br><br>
+
+긍정적인 너의 삶이 <br>
+언제나 행복하기를..<br>
+모든 날 모든 순간을 우리가 축복할게<br><br>
+
+<img src="https://i.imgur.com/8mtHRwJ.jpeg" width=100% title="📷 "><br><br>
+
+새근새근 귀엽게 잠든 <br>
+네 모습 지켜보면서<br>
+조용히 너의 이름을 불러본다, <br>
+로운아~~<br><br>
+
+<img src="https://i.imgur.com/hZehBFz.jpeg" width=100% title="📷 "><br><br>
+
+아픔 없이 밝고 건강하게 자라려무나<br>
+희망과 사랑으로 가득한 아이로...<br><br>
+
+<img src="https://i.imgur.com/1C1DA4e.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아~<br>
+높이 날아라 자유롭게, <br>
+용감한 기상으로 세상을 향해...<br><br>
+
+긍정적인 너의 삶이 <br>
+언제나 행복하기를<br>
+모든 날 모든 순간을 우리가 축복할게<br><br>
+
+소중하고 사랑스러운 우리 손주, <br>
+로운아!<br>
+그 이름 또 한 번 불러본다, 로운아~~<br><br>
+
+<img src="https://i.imgur.com/Upcuqck.jpeg" width=100% title="📷 "><br><br>
+
+자랑스럽고 슬기로운 그 이름,<br>
+이로운 이 세상에 <br>
+널리 널리 빛날지어라~~~ ☆<br><br>
+
+<img src="https://i.imgur.com/JA6ERre.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/ceHzN3/btsOv8v4VZh/45ektZI7qUwePeiyzhU6e0/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>로운아, 빛나라~~~ ☆</b></font><br>
+
+파랑 빛 미소로 우리 곁에 찾아온 너<br><br>
+
+<img src="https://i.imgur.com/tAwxtkd.jpeg" width=100% title="📷 "><br><br>
+
+새로운 세상 속에서 첫걸음 내딛네<br><br>
+
+<img src="https://i.imgur.com/g2qtiQc.jpeg" width=100% title="📷 "><br><br>
+
+여울처럼 힘차게, 바람처럼 자유롭게<br><br>
+
+<img src="https://i.imgur.com/RFQtFrP.jpeg" width=100% title="📷 "><br><br>
+
+높은 하늘 향해 네 꿈을 펼쳐보렴..<br><br>
+
+<img src="https://i.imgur.com/8Goutkc.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아, 빛나라~ 밝은 별처럼..<br><br>
+
+<img src="https://i.imgur.com/8NTN2Lu.jpeg" width=100% title="📷 "><br><br>
+
+슬기로운 마음으로 세상을 품으려무나<br><br>
+
+<img src="https://i.imgur.com/Zc44taZ.png" width=100% title="📷 "><br><br>
+
+이로운 사랑으로 모두를 감싸며<br><br>
+
+<img src="https://i.imgur.com/6R64lif.jpeg" width=100% title="📷 "><br><br>
+
+우리 곁에서 소중하게 피어나렴..<br><br>
+
+<img src="https://i.imgur.com/LuPOdas.jpeg" width=100% title="📷 "><br><br><br>
+
+
+밤하늘 속 작은 별이 빛을 잃지 않듯<br>
+네 이름 속 희망도 언제나 반짝일 거야<br><br>
+
+<img src="https://i.imgur.com/WeKtPb3.png" width=100% title="📷 "><br><br>
+
+기쁜 날도, 힘든 날도, 너를 불러줄게<br>
+너의 이름 속에 담긴 사랑을 기억하며<br><br>
+
+<img src="https://i.imgur.com/x66Kvon.png" width=100% title="📷 "><br><br><br>
+
+
+로운아, 빛나라~ 밝은 별처럼..<br>
+슬기로운 마음으로 세상을 품으려무나<br>
+이로운 사랑으로 모두를 감싸며<br>
+우리 곁에서 소중하게 피어나렴..<br><br><br>
+
+
+높은 곳에서 밝게 빛나는 너<br>
+세상 어디서나 그 이름 울려 퍼지기를<br><br>
+
+<img src="https://i.imgur.com/uAy9R12.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 너의 이름처럼<br>
+우리 곁에 기쁨을 안겨주기를..<br><br>
+
+<img src="https://i.imgur.com/ZeTLLqZ.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아, 빛나라~ 밝은 별처럼..<br>
+이로운 세상으로 너의 사랑을 전하렴<br><br>
+
+<img src="https://i.imgur.com/UCYse3y.jpeg" width=100% title="📷 "><br><br>
+
+슬기로운 마음으로 모두를 감싸며<br>
+소중한 너의 빛을 <br>
+영원히 간직하려무나~~~ ☆<br><br></font>
+
+<img src="https://i.imgur.com/KO29JPb.png" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/wBbix/btsN1lbKcry/EuTYJsBqFw6IGoAtF8uG6K/img.png') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>할아버지 할머니의 사랑을, 로운에게</b></font><br>
+
+로운아, 사랑스러운 우리 아가야<br>
+우리 곁에 와줘서 정말 고마워<br>
+엄마와 아빠를 닮은 너의 얼굴 보면<br>
+우리는 눈물이 나도록 감사해<br><br>
+
+<img src="https://i.imgur.com/5N3DU2Z.jpeg" width=100% title="📷 "><br><br>
+
+로운이 엄마, 휘경아<br>
+로운이 아빠, 경진아<br>
+너희 둘의 사랑이 씨앗이 되었고<br>
+이제 결실을 맺은 기적을 축하해<br><br>
+
+<img src="https://i.imgur.com/7ARphGE.jpeg" width=100% title="📷 "><br><br>
+
+둘이 만들었던 사랑과 믿음으로<br>
+지나온 시간들이 열매를 맺었구나<br>
+이제는 셋이서 더 큰 사랑으로<br>
+더 깊고 큰 행복을 만들어가기를..<br><br>
+
+<img src="https://i.imgur.com/boaZhtl.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 할아버지 할머니는 정말 좋아<br>
+너를 안을 수 있어서 너무 행복해<br>
+뛰어노는 너의 모습 상상만 해도<br>
+가슴이 벅차서 웃음이 그치지 않아<br><br>
+
+<img src="https://i.imgur.com/AX82Zno.jpeg" width=100% title="📷 "><br><br>
+
+사랑스런 눈빛으로 세상을 보고<br>
+사랑 가득한 마음으로 자라나는<br>
+너의 반듯한 모습을 지켜보며<br>
+우리의 행복도 더 커져갈 거야<br><br>
+
+<img src="https://i.imgur.com/kavz7CV.jpeg" width=100% title="📷 "><br><br>
+
+로운이의 희망, 우리가 키워줄게<br>
+로운이의 소원, 우리도 기도할게<br>
+맑은 마음으로 네 꿈을 피우고<br>
+힘찬 기백으로 그 꿈을 펼쳐라<br><br>
+
+<img src="https://i.imgur.com/3106rH7.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 이 세상에 와줘서 고마워<br>
+우리에게 너는 세상 가장 큰 기쁨이야<br>
+큰 사랑 가득 담긴 이 노래처럼<br>
+언제나 너를 축복할게<br><br>
+
+<img src="https://i.imgur.com/QaMjqze.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 사랑해..<br>
+언제나 너의 편이 되어줄게<br>
+우리의 마음을 다하여 너를 응원할게, <br>
+언제까지나 영원토록...<br><br>
+
+<img src="https://i.imgur.com/k0atV2k.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/cNRdEW/btsN2lnXfqg/4hhAemVBwUY4WVniGa8NpK/img.png') repeat fixed left top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>예쁜 이름 로운아, 축하해!</b></font><br>
+
+파랑~, 고운 빛깔 품고 온 아가<br><br>
+
+<img src="https://i.imgur.com/y0RXe7m.png" width=100% title="📷 "><br><br><font color='black'>
+
+로운~, 예쁜 이름 세상에 빛나네<br><br>
+
+<img src="https://i.imgur.com/zFSzx4N.jpeg" width=100% title="📷 "><br><br><br>
+
+
+세찬 여울처럼 씩씩하게 자라렴<br><br>
+
+<img src="https://i.imgur.com/30L0KZN.jpeg" width=100% title="📷 "><br><br>
+
+가슴 벅찬 꿈을 향해 나아가렴<br><br>
+
+<img src="https://i.imgur.com/D74HaRi.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아, 축복 가득한 너의 길에<br>
+슬기롭고 이로운 빛을 더하려무나<br><br>
+
+<img src="https://i.imgur.com/JjZEmQA.png" width=100% title="📷 "><br><br>
+
+높은 뜻 펼쳐서 밝게 빛나는<br>
+사랑스러운 아가, 우리 로운아<br><br>
+
+<img src="https://i.imgur.com/1dC47Q0.jpeg" width=100% title="📷 "><br><br>
+
+높을 '운'처럼 꿈을 높이 펼치고<br>
+이 세상 가득 사랑을 채워주렴<br><br>
+
+<img src="https://i.imgur.com/cmAcYDy.jpeg" width=100% title="📷 "><br><br>
+
+슬기로운 마음으로 세상을 배우고<br>
+이로운 손길로 행복을 만들어가려무나<br><br>
+
+<img src="https://i.imgur.com/Utg5Flc.jpeg" width=100% title="📷 "><br><br><br>
+
+
+로운아, 축복 가득한 너의 길에<br>
+슬기롭고 이로운 빛을 더하려무나<br><br>
+
+높은 뜻 펼쳐서 밝게 빛나는<br>
+사랑스러운 아가, 우리 로운아<br><br>
+
+<img src="https://i.imgur.com/rG12wI9.jpeg" width=100% title="📷 "><br><br>
+
+때로는 힘겨운 날도 있겠지만<br><br>
+
+<img src="https://i.imgur.com/h1RQJ8f.jpeg" width=100% title="📷 "><br><br>
+
+넘어져도 괜찮아, <br>
+다시 일어설 수 있으니까<br><br>
+
+<img src="https://i.imgur.com/u95Dusi.jpeg" width=100% title="📷 "><br><br>
+
+로운아, 축복 가득한 너의 길에<br>
+슬기롭고 이로운 빛을 더하려무나<br>
+높은 뜻 펼쳐서 밝게 빛나는<br>
+사랑스러운 아가, 우리 로운아<br><br>
+
+<img src="https://i.imgur.com/nUzb3lq.jpeg" width=100% title="📷 "><br><br>
+
+밝고 건강하게, 로운아<br>
+사랑 가득하게, 로운아<br><br>
+
+<img src="https://i.imgur.com/sX5SYz7.png" width=100% title="📷 "><br><br>
+
+언제나 응원할게<br>
+모든 순간, 너의 모든 날들을...<br><br>
+
+<img src="https://i.imgur.com/HZt3zSk.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#ffffcc repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt04_4'>
+<P class='mid'><font style="display:none"><b>할아버지 할머니가 보내는 파랑이의 축복</b></font><br>
+
+작은 심장이 두근거려요<br>
+파랑이의 세상이 시작되었네<br><br>
+
+<img src="https://i.imgur.com/EjOLdak.jpeg" width=100% title="📷 "><br><br>
+
+휘경아 경진아 애썼구나<br>
+사랑스런 아가를 품에 안으니<br>
+벅찬 기쁨에 눈물이 핑 돌아<br><br>
+
+<img src="https://i.imgur.com/CJdzfoB.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 할아버지 할머니는<br>
+너의 웃음소리에 힘이 솟는다<br>
+반짝이는 눈망울, 우리의 별이구나<br><br>
+
+<img src="https://i.imgur.com/i9ngBef.jpeg" width=100% title="📷 "><br><br>
+
+파랑 파랑 우리 아가 파랑이는<br>
+온 세상 축복 속에 태어났어요<br>
+휘경아 경진아 마음껏 펼쳐라<br>
+희망과 사랑으로 가득한 미래를...<br><br>
+
+<img src="https://i.imgur.com/GjU1AXU.jpeg" width=100% title="📷 "><br><br>
+
+새근새근 잠든 모습이 천사 같아<br>
+아픔 없이 건강하게 자라려무나<br>
+지혜롭고 씩씩한 아이로...<br><br>
+
+<img src="https://i.imgur.com/kgrjKk8.jpeg" width=100% title="📷 "><br><br>
+
+엄마와 아빠의 사랑 듬뿍 받으며<br>
+세상 모든 아름다움을 배우려무나<br>
+할아버지 할머니가 언제나 지켜줄게<br><br>
+
+<img src="https://i.imgur.com/ftvh2bt.jpeg" width=100% title="📷 "><br><br>
+
+파랑 파랑 우리 아가 파랑이는<br>
+온 세상 축복 속에 태어났어요<br>
+휘경아 경진아 마음껏 펼쳐라<br>
+희망과 사랑으로 가득한 미래를...<br><br>
+
+<img src="https://i.imgur.com/mF2tzCM.jpeg" width=100% title="📷 "><br><br>
+
+작은 발걸음 하나하나에<br>
+소중한 추억 만들어가려무나<br>
+함께 노래하고 함께 웃으며...<br><br>
+
+<img src="https://i.imgur.com/ZctEmq3.jpeg" width=100% title="📷 "><br><br>
+
+파랑 파랑 우리 아가 파랑이는<br>
+온 세상 축복 속에 태어났어요<br>
+휘경아 경진아 마음껏 펼쳐라<br>
+희망과 사랑으로 가득한 미래를...<br><br>
+
+<img src="https://i.imgur.com/L3rAcTO.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑한다<br>
+우리 아가 파랑아, 영원토록...<br><br>
+
+<img src="https://i.imgur.com/zLvWsgv.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table class='box' style=\"BACKGROUND:#ffff66 url('https://blog.kakaocdn.net/dn/c1zh1C/btsOxjjjhOy/0EKEpY3Gqm7nDaYqlwlyuk/img.jpg') repeat fixed center top\" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>나레이션 : 할아버지 할머니의 사랑을, 파랑에게</b></font><br>
+
+<font color='#FF5722'>[Intro Narration 할아버지] </font><br><br>
+
+파랑아! <br>
+이 할아버지는 네가 태어난다는 소식을 들었을 때, 가슴이 뭉클했단다.  <br><br>
+
+그리고 눈물이 핑 돌 정도로 감격스러웠어. 너는 우리 가족에게 아주 큰 기쁨이란다.  <br><br>
+
+엄마와 아빠가 함께 걸어온 사랑의 시간이, 이제 너라는 선물로 찾아온 거지<br><br>
+
+<img src="https://i.imgur.com/6GPajoX.jpeg" width=100% title="📷 "><br><br>
+
+할아버지는 네가 건강하게 자라고,  <br>
+밝은 웃음으로 세상을 가득 채우길 바란단다.  <br><br>
+
+언제나 네 곁을 지켜줄게.<br>
+사랑한다, 파랑아.<br><br>
+
+<img src="https://i.imgur.com/wlL9d4O.jpeg" width=100% title="📷 "><br><br><br>
+
+<!-- img src='https://i.imgur.com/RCNQ4sG.jpeg' width=100% title='📷 로운 03'><br><br><br //-->
+
+
+[노래]<br><br>
+
+파랑아, 사랑스러운 우리 아가야<br>
+우리 곁에 와줘서 정말 고마워<br>
+엄마와 아빠를 닮은 너의 얼굴 보면<br>
+우리는 눈물이 나도록 감사해<br><br>
+
+<img src="https://i.imgur.com/2k7huWN.jpeg" width=100% title="📷 "><br><br>
+
+파랑이 엄마, 휘경아<br>
+파랑이 아빠, 경진아<br>
+너희 둘의 사랑이 씨앗이 되었고<br>
+이제는 결실이 된 기적을 축하해<br><br>
+
+<img src="https://i.imgur.com/T2GtXMI.jpeg" width=100% title="📷 "><br><br>
+
+서로 아껴주던 그날들을 기억해<br>
+함께한 시간들이 열매를 맺었구나<br>
+이제는 셋이서 더 큰 사랑으로<br>
+더 깊고 큰 행복을 만들어가기를...<br><br>
+
+<img src="https://i.imgur.com/4MpQ4uO.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 할아버지 할머니는 좋아<br>
+너를 안을 수 있어서 너무 행복해<br><br>
+
+<img src="https://i.imgur.com/MtReWQX.jpeg" width=100% title="📷 "><br><br>
+
+뛰어노는 너의 모습 상상만 해도<br>
+가슴이 벅차고 웃음이 멈추질 않아<br><br>
+
+<img src="https://i.imgur.com/xMH81sQ.jpeg" width=100% title="📷 "><br><br>
+
+사랑스런 눈빛으로 세상을 보고<br>
+사랑 가득한 마음으로 자라나는<br>
+너의 반듯한 모습 지켜보며<br>
+우리의 행복도 더 커져갈 거야<br><br>
+
+<img src="https://i.imgur.com/j9xmKYf.jpeg" width=100% title="📷 "><br><br>
+
+파랑이의 희망, 우리가 키워줄게<br>
+파랑이의 소원, 우리도 기도할게<br>
+맑은 마음으로 네 꿈을 피우고<br>
+힘찬 기백으로 그 꿈을 펼쳐라<br><br>
+
+<img src="https://i.imgur.com/0kbqYoU.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 이 세상에 와줘서 고마워<br>
+우리에게 너는 세상 가장 큰 기쁨이야<br>
+큰 사랑 가득 담긴 이 노래처럼<br>
+언제나 너를 축복할게<br><br>
+
+<img src="https://i.imgur.com/iuJfbWo.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑해..<br>
+언제나 너의 편이 되어줄게<br>
+우리의 마음을 다하여<br>
+너를 응원할게, 영원토록...<br><br>
+
+<img src="https://i.imgur.com/a9I286V.jpeg" width=100% title="📷 "><br><br><br>
+
+
+<font color='#FF5722'>[Outro Narration 할머니] </font><br><br>
+
+파랑아! 사랑스러운 우리 손자야.  <br><br>
+
+네가 엄마 뱃속에 있을 때부터,  <br>
+할머니는 매일, 네가 태어날 날을 기다렸단다.  <br><br>
+
+너의 작은 숨결 하나, 작은 웃음 하나.  <br>
+그 모든 게, 우리에게는 말로 다 못할 기쁨이란다.  <br><br>
+
+<img src="https://i.imgur.com/k0Hlv97.jpeg" width=100% title="📷 "><br><br>
+
+너를 만나게 돼서, 정말 고맙구나.  <br>
+앞으로 네 삶이, 사랑으로 가득하길, 할머니는 늘 축복할게.  <br><br>
+
+사랑한다, 파랑아.  <br>
+할머니는 언제나, 네 편이야.<br><br>
+
+<img src="https://i.imgur.com/7rmGpfj.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#ccccff repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt'>
+<P class='mid'><font style="display:none"><b>할아버지 할머니의 사랑을, 파랑에게</b></font><br>
+
+파랑아, 사랑스러운 우리 아가야<br>
+우리 곁에 와줘서 정말 고마워<br>
+엄마와 아빠를 닮은 너의 얼굴 보면<br>
+우리는 눈물이 나도록 감사해<br><br>
+
+<img src="https://i.imgur.com/2k7huWN.jpeg" width=100% title="📷 "><br><br>
+
+파랑이 엄마, 휘경아<br>
+파랑이 아빠, 경진아<br>
+너희 둘의 사랑이 씨앗이 되었고<br>
+이제는 결실이 된 기적을 축하해<br><br>
+
+<img src="https://i.imgur.com/T2GtXMI.jpeg" width=100% title="📷 "><br><br>
+
+서로 아껴주던 그날들을 기억해<br>
+함께한 시간들이 열매를 맺었구나<br>
+이제는 셋이서 더 큰 사랑으로<br>
+더 깊고 큰 행복을 만들어가기를...<br><br>
+
+<img src="https://i.imgur.com/4MpQ4uO.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 할아버지 할머니는 좋아<br>
+너를 안을 수 있어서 너무 행복해<br><br>
+
+<img src="https://i.imgur.com/MtReWQX.jpeg" width=100% title="📷 "><br><br>
+
+뛰어노는 너의 모습 상상만 해도<br>
+가슴이 벅차고 웃음이 멈추질 않아<br><br>
+
+<img src="https://i.imgur.com/xMH81sQ.jpeg" width=100% title="📷 "><br><br>
+
+사랑스런 눈빛으로 세상을 보고<br>
+사랑 가득한 마음으로 자라나는<br>
+너의 반듯한 모습 지켜보며<br>
+우리의 행복도 더 커져갈 거야<br><br>
+
+<img src="https://i.imgur.com/j9xmKYf.jpeg" width=100% title="📷 "><br><br>
+
+파랑이의 희망, 우리가 키워줄게<br>
+파랑이의 소원, 우리도 기도할게<br>
+맑은 마음으로 네 꿈을 피우고<br>
+힘찬 기백으로 그 꿈을 펼쳐라<br><br>
+
+<img src="https://i.imgur.com/0kbqYoU.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 이 세상에 와줘서 고마워<br>
+우리에게 너는 세상 가장 큰 기쁨이야<br>
+큰 사랑 가득 담긴 이 노래처럼<br>
+언제나 너를 축복할게<br><br>
+
+<img src="https://i.imgur.com/iuJfbWo.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑해..<br>
+언제나 너의 편이 되어줄게<br>
+우리의 마음을 다하여<br>
+너를 응원할게, 영원토록...<br><br>
+
+<img src="https://i.imgur.com/a9I286V.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#ccffff repeat fixed left top;' cellpadding='2' width=100%><tr valign=middle><td class='lt04_1'>
+<P class='mid'><font style="display:none"><b>파랑이에게 보내는 엄마 아빠의 축복</b></font><br>
+
+사랑스러운 우리 아기, 파랑아<br>
+건강하게 우리에게 와줘서 고마워<br>
+온 세상이 너의 탄생을 축하해<br>
+모두가 기뻐하며 축복을 보내<br><br>
+
+<img src="https://i.imgur.com/50DKNy2.jpeg" width=100% title="📷 "><br><br>
+
+작은 손짓, 작은 발길이 감격스러워<br>
+너의 웃음, 너의 울음에 가슴이 벅차<br>
+바다 색, 하늘 빛깔 닮은 파랑아<br>
+너는 우리에게 소중한 기적의 선물이야 <br><br>
+
+<img src="https://i.imgur.com/57LKuaT.jpeg" width=100% title="📷 "><br><br>
+
+파랑이의 꿈, 펼쳐질 세상이 온 거야<br>
+햇살이 눈부시고 뭉게구름이 피어나<br>
+너를 안을 수 있어서 너무 기뻐<br>
+너와 마주할 수 있어, 너무 행복해<br><br>
+
+<img src="https://i.imgur.com/lR4M35l.jpeg" width=100% title="📷 "><br><br>
+
+튼튼하고 건강하게 자랄 수 있도록<br>
+항상 든든하게 너의 곁에 서 있을게<br>
+언제나 사랑으로 너의 모습 바라볼게<br>
+모든 순간, 모든 날이 행복하기를...<br><br>
+
+<img src="https://i.imgur.com/M1jCzc6.png" width=100% title="📷 "><br><br>
+
+파랑이의 미래를 함께 걸을 거야<br>
+희망을 더 크게, 키워줄 거야<br>
+사랑스런 눈빛으로 세상을 보고<br>
+사랑 가득한 마음으로 살 수 있도록...<br><br>
+
+<img src="https://i.imgur.com/OXDEOFm.jpeg" width=100% title="📷 "><br><br>
+
+파랑이의 꿈, 우리가 키워줄게<br>
+파랑이의 길, 우리가 밝혀줄게<br>
+엄마 품에서 네 꿈이 피어나고<br>
+아빠 품에선 그 꿈이 자랄 거야<br><br>
+
+<img src="https://i.imgur.com/1661ojP.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑해<br>
+이 세상에 빛으로 와줘서 고마워<br>
+너는 우리 삶에서<br>
+가장 찬란한 봄날의 시작이야<br><br>
+
+<img src="https://i.imgur.com/2yfNUH1.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#99ffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt03'>
+<P class='mid'><font style="display:none"><b>파랑아, 우리 곁에 올 그날까지</b></font><br>
+
+조용한 밤, 너를 떠올려  <br>
+아직 만나지 못한 너의 미소  <br>
+작은 심장 두근대는 소리  <br>
+우릴 향한 사랑의 시작  <br><br>
+
+<img src="https://i.imgur.com/SRJ3uC7.png" width=100% title="📷 "><br><br>
+
+파랑아, 너는 우리 꿈이야  <br>
+하루하루 너를 그리며 살아  <br>
+작은 손, 작은 발, 작은 눈망울  <br>
+세상 가장 귀한 선물  <br><br>
+
+<img src="https://i.imgur.com/0bipMY1.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑한단 말로는 모자라  <br>
+너의 모든 순간 함께할게  <br>
+건강하게 웃으며 와줘  <br>
+우린 널 위해 준비돼 있어  <br><br>
+
+<img src="https://i.imgur.com/sOPIUyq.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 너의 이름 부를 때마다  <br>
+가슴이 벅차 눈물이 흘러  <br>
+너를 품에 안을 그날만 기다려  <br>
+우리의 온 세상이 돼줄게  <br><br>
+
+<img src="https://i.imgur.com/cRSPNHr.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 자랑스러운 우리 아기야  <br>
+네가 오는 길 모든 순간이 기적이야  <br>
+작은 기침, 웃음소리까지도  <br>
+우리의 행복이 돼줄 거야  <br><br>
+
+<img src="https://i.imgur.com/fc8F3W9.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 밤하늘 별들처럼  <br>
+너의 길엔 빛이 가득하길  <br>
+넘어질 땐 우리가 손 내밀게  <br>
+언제나 네 편이 되어줄게  <br><br>
+
+<img src="https://i.imgur.com/TU0hQTE.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑한단 말로는 모자라  <br>
+너의 모든 순간 함께할게  <br>
+건강하게 웃으며 와줘  <br>
+우린 널 위해 준비돼 있어  <br><br>
+
+<img src="https://i.imgur.com/eXq2HeO.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 사랑해  <br>
+언제까지나, 영원토록...<br>
+</td></tr></table>`,
+`<table style='BACKGROUND:#fce4ec url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt01_2'>
+<P class='mid'><font style="display:none"><b>파랑이의 노래</b></font><br>
+
+하늘빛의 선물로 온 너, 작은 파랑아<br>
+바다의 품 속에서 자란 소중한 꿈 <br>
+우리 마음속에 별처럼 빛나는  <br>
+파랑이, 넌 우리의 희망  <br><br>
+
+<img src="https://i.imgur.com/Pg3K0iC.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 넌 세상을 밝혀 주는 빛  <br>
+우리 가슴속에 영원한 기쁨  <br>
+파란 하늘처럼, 깊은 바다처럼  <br>
+파랑아, 넌 사랑으로 자랄 거야  <br><br>
+
+<img src="https://i.imgur.com/Zu54hF6.jpeg" width=100% title="📷 "><br><br>
+
+작은 손, 작은 발로 세상을 만나  <br>
+희망의 노래를 부를 아가야  <br>
+엄마와 아빠의 끝없는 사랑 속에 <br>
+파랑아, 넌 영원히 빛나  <br><br>
+
+<img src="https://i.imgur.com/AIyUY5w.jpeg" width=100% title="📷 "><br><br>
+
+파란색 바다 속 무한한 꿈을  <br>
+파란색 하늘 속 자유를 담고  <br>
+너와 함께할 모든 날이  <br>
+기적 같은 순간, 특별한 선물  <br><br>
+
+<img src="https://i.imgur.com/gdBXqxp.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 넌 세상을 밝혀 주는 빛  <br>
+우리 가슴속에 영원한 기쁨  <br>
+파란 하늘처럼, 깊은 바다처럼  <br>
+파랑아, 넌 사랑으로 자랄 거야  <br><br>
+
+<img src="https://i.imgur.com/JrunL0C.jpeg" width=100% title="📷 "><br><br>
+
+파랑아, 넌 우리의 소망  <br>
+너와 함께 그리는 하루하루  <br>
+사랑으로 가득 채워진 이 세상에서  <br>
+파랑아, 넌 언제나 빛날 거야 <br><br>
+
+<img src="https://i.imgur.com/2aOxcEh.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#F6FBFF url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt01_1'> <!--  class='lt01_1' #33ffff #F0F4FF (매우 연한 하늘색) #FFF9F0 (연한 아이보리) #F3E5F5 라벤더//-->
+<P class='mid'><font style="display:none"><b>파랑이의 꿈</b></font><br>
+
+별이 내려와 속삭인 밤, <br>
+파랑이의 시작  <br><br>
+
+<img src="https://i.imgur.com/oGLrlXN.png" width=100% title="📷 별이 내려오는.."><br><br>
+
+작은 손으로 세상을 안아줄 너  <br>
+하늘의 깊은 빛, 바다의 푸른 물결  <br>
+파랑아, 넌 우리의 가장 큰 꿈  <br><br>
+
+<img src="https://i.imgur.com/6lUSTGu.png" width=100% title="📷 하늘과 바다 사이의 파랑이"><br><br>
+
+파랑아, 너는 세상을 환히 비춰 줄 별  <br>
+희망 속에 빛나는 우리 사랑의 아이  <br>
+너의 웃음은 태양처럼 따뜻하고  <br>
+파랑아, 넌 소중한 기적이야  <br><br>
+
+<img src="https://i.imgur.com/CKpcsbi.png" width=100% title="📷 두 팔 벌리고 환하게 웃는 파랑이"><br><br>
+
+엄마의 품에서 자라는 너의 온기  <br>
+아빠의 손길로 느끼는 세상의 너  <br>
+작은 발걸음으로 이뤄낼 모든 꿈  <br>
+파랑아, 넌 끝없는 희망을 품었어  <br><br>
+
+<img src="https://i.imgur.com/pMSA1MH.png" width=100% title="📷 엄마 아빠 사이에서 행복한 표정의 파랑이"><br><br>
+
+하늘 위를 바라보며 우리는 약속해  <br>
+너의 날개가 커져서 <br>
+세상에 날 수 있길..  <br><br>
+
+바다처럼 넓은 마음으로 세상을 품고  <br>
+파랑아, 넌 사랑으로 물들일 거야  <br><br>
+
+<img src="https://i.imgur.com/idF1lbd.png" width=100% title="📷 무지갯빛 하늘을 향해 선 날개 단 파랑이"><br><br>
+
+파랑아, <br>
+너는 세상을 환히 비춰 줄 별<br><br>
+
+희망 속에 빛나는 우리 사랑의 아이  <br>
+너의 웃음은 태양처럼 따뜻하고  <br>
+파랑아, 넌 소중한 기적이야<br><br>
+
+<img src="https://i.imgur.com/GKmhyZB.png" width=100% title="📷 하늘에 환한 빛으로 떠있는 파랑이"><br><br>
+
+파랑아, <br>
+우리의 노래는 너를 향해 울려  <br><br>
+
+너와 함께하는 하루가 가장 빛나  <br>
+사랑으로 가득한 세상 속에서  <br>
+파랑아, 넌 언제나 특별할 거야  <br>
+
+<img src="https://i.imgur.com/x9fwNg7.png" width=100% title="📷 엄마 아빠의 품 속에서 빛나는 파랑이의 발">
+</td></tr></table>`,
+`<table style='BACKGROUND:#00ffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_4'>
+<P class='mid'><font style="display:none"><b>파랑아, 너는 하늘을 넘어온 작은 기적</b></font><br>
+
+파랑아! 아빠가 오늘 너에게 아주 특별한 이야기를 들려줄게. <br><br>
+
+너는 알까? 엄마와 아빠가 처음 너를 느낀 그날, 하늘이 얼마나 파랗고 아름다웠는지. <br><br>
+
+우리는 그날 너를 '파랑이'라고 불렀단다, 하늘의 색처럼 순수하고 빛나는 이름이야.<br><br>
+
+<img src="https://i.imgur.com/nyLkI5f.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑아, 너는 하늘에서 내려온 작은 기적이란다. <br><br>
+
+하늘의 바람이 속삭이며 우리에게 선물을 주겠다고 약속했지. <br><br>
+
+그리고 너는 그 약속을 이루기 위해 엄마 품속에서 자라고 있어. <br><br>
+
+아빠는 매일 너를 생각하며 얼마나 자랑스럽고 행복한지 몰라.<br><br>
+
+<img src="https://i.imgur.com/7meDLca.png" width=100% title="📷 "><br><br><br>
+
+
+파랑아! 네가 자라고 있는 동안, 아빠는 세상의 모든 멋진 이야기를 준비하고 있어. <br><br>
+
+너와 함께 나무 아래서 바람을 느끼고, 별빛 아래서 너의 웃음을 듣고 싶단다. <br><br>
+
+네 작은 손으로 아빠의 손을 꼭 잡아주는 날을 상상하면, 아빠는 그저 눈물이 날 만큼 기쁘고 감사해.<br><br>
+
+<img src="https://i.imgur.com/JoHhZoJ.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑아, 건강하게 자라서 아빠와 만나면 너에게 세상의 놀라운 것들을 보여줄 거야. <br><br>
+
+커다란 나무, 바람의 속삭임, 그리고 사랑이 가득한 가족의 품이 얼마나 따뜻한지. <br><br>
+
+아빠는 매일 너의 첫 번째 웃음과 네 작은 발걸음을 기대하며 사랑으로 가득한 날을 꿈꾼단다.<br><br>
+
+<img src="https://i.imgur.com/oqtNtXY.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑아! 너는 엄마와 아빠의 마음속에서 빛나는 별처럼, 세상을 밝히는 빛이 될 거란다. <br><br>
+
+그리고 우리는 항상 너를 사랑하고 응원할 거야. <br><br>
+
+우리 파랑아, 건강하게 자라서 아빠와 만나자. <br><br>
+
+아빠가 네게 세상에서 가장 큰 사랑을 보여줄게.<br><br>
+
+<img src="https://i.imgur.com/0r7zTEn.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#33ffcc url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_5'>
+<P class='mid'><font style="display:none"><b>파랑이와 세상 탐험</b></font><br>
+
+아빠는 작은 파랑이를 품에 안고 다정하게 속삭였어요. <br><br>
+
+파랑아, 내 소중한 아가. 네가 엄마 품속에 들어오던 그날, 우리 마음엔 별처럼 빛나는 기적이 생겼단다.<br><br>
+
+<img src="https://i.imgur.com/64Vybn4.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑이는 아빠의 말을 들으며 작은 눈을 깜박였지요. <br><br>
+
+아빠는 따뜻한 미소를 지으며 이야기를 이어갔습니다. <br><br>
+
+"파랑아, <br>
+세상은 넓고 신비로운 곳이란다.<br><br>
+
+내가 어릴 때, 커다란 나무 아래에서 바람이 속삭이는 소리를 들으며 꿈을 꾸었어. <br><br>
+
+그리고 나무 꼭대기에서 보면 하늘이 얼마나 파랗고 멋진지 알 수 있었지."<br><br>
+
+<img src="https://i.imgur.com/Sc9hOCx.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑이는 작은 손을 움찔하며 아빠의 말에 귀를 기울였어요. <br><br>
+
+아빠는 파랑이를 살짝 들어올려 작은 발을 가리키며 말했지요. <br><br>
+
+"파랑아, 이 작은 발로 너는 언젠가 나무 아래를 달리고, 햇살을 따라 멀리 걷게 될 거야. <br><br>
+
+처음 걸음을 내딛는 그 순간이 얼마나 특별할지 알까?"<br><br>
+
+<img src="https://i.imgur.com/bLr0Nbk.jpeg" width=100% title="📷 "><br><br><br>
+
+
+아빠는 살며시 파랑이의 손을 잡으며 말했어요. <br><br>
+
+"세상은 때때로 낯설고 어려워 보일 수 있지만, 파랑아, 너의 용기는 모든 것을 이겨낼 거야. <br><br>
+
+그리고 네 발걸음마다 새로운 이야기가 시작될 거란다."<br><br>
+
+<img src="https://i.imgur.com/GvEikGs.png" width=100% title="📷 "><br><br><br>
+
+
+파랑이는 미소를 띠며 아빠에게 더 가까이 다가갔습니다. <br><br>
+
+아빠는 마지막으로 속삭였어요. <br><br>
+
+"파랑아, 네가 어디로 가든, 우리는 항상 너의 곁에 있을 거야. <br><br>
+
+별처럼 빛나는 세상을 너의 사랑으로 가득 채우길 바란다."<br><br>
+
+<img src="https://i.imgur.com/x2bik4Z.png" width=100% title="📷 "><br><br><br>
+
+
+파랑이는 아빠의 품에서 편안히 잠이 들었고, 그 순간 아빠는 더없이 행복했답니다.<br><br>
+
+<img src="https://i.imgur.com/lZRhRzO.png" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#ccffff url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_3'>
+<P class='mid'><font style="display:none"><b>파랑이와 하늘의 선물</b></font><br>
+
+옛날 옛적에, 하늘이 파랗고 바다가 깊은 곳에 아주 특별한 별이 살았단다<br><br>
+
+그 별은 다른 별들처럼 빛나지 않았지만, 눈부신 사랑과 희망의 힘을 지니고 있었어. <br><br>
+
+<img src="https://i.imgur.com/sCacjPT.jpeg" width=100% title="📷 "><br><br><br>
+
+
+하늘의 바람은 그 별에게 속삭였지, <br><br>
+
+"세상을 밝혀줄 <br>
+작은 기적을 만들어 주렴."<br><br>
+
+그리고 그 별은 자신을 작은 씨앗으로 변신시켜 하늘에서 아래로 내려왔단다<br><br>
+
+<img src="https://i.imgur.com/cEPqqQE.jpeg" width=100% title="📷 "><br><br><br>
+
+
+아주 아름답고 따스한 날, <br>
+그 씨앗은 엄마와 아빠의 마음속 깊이 자리잡았어. <br><br>
+
+"이 씨앗은 우리의 파랑이가 될 거야"<br><br>
+
+엄마와 아빠는 기쁨과 설렘으로 속삭였지. <br><br>
+
+파랑이는 엄마 품속에서 자라며, 사랑과 행복의 멜로디로 가득한 세상을 꿈꾸었단다.<br><br>
+
+<img src="https://i.imgur.com/Fpub0Af.png" width=100% title="📷 "><br><br><br>
+
+
+시간이 흘러 어느날, 엄마는 파랑이에게 이렇게 말했어. <br><br>
+
+"파랑아, <br>
+너는 하늘에서 내려온 작은 별이란다. 세상을 환히 비추고 사랑을 전하기 위해 태어난 소중한 기적이지<br><br>
+
+엄마는 다정한 목소리로 이야기를 들려주며 파랑이에게 다가올 날들을 축복했어.<br><br>
+
+<img src="https://i.imgur.com/OIGIImU.jpeg" width=100% title="📷 "><br><br><br>
+
+
+언젠가 너는 첫 번째 발걸음을 내딛을 거야, 엄마는 말했단다. <br><br>
+
+그리고 바람처럼 자유롭게 달리고, 별들처럼 반짝일 거란다.<br><br>
+
+세상은 넓고 놀라운 것들로 가득하지만, 너의 웃음과 사랑이 세상을 더 아름답게 만들 거야."<br><br>
+
+<img src="https://i.imgur.com/FU3YJoy.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑이는 그 이야기를 듣고 마음속에서 따스한 햇살이 퍼지는 듯한 느낌을 받았어. <br><br>
+
+"엄마, 나는 어떻게 사랑을 전할 수 있을까요?" 파랑이가 물었지.<br><br>
+
+엄마는 환히 웃으며 대답했어. <br><br>
+
+"파랑아, 사랑은 아주 간단하단다. <br>
+네가 웃을 때, 네가 따뜻한 마음으로 누군가를 바라볼 때, 그 모두가 사랑을 전하는 방법이란다."<br><br>
+
+<img src="https://i.imgur.com/3bG3FY5.jpeg" width=100% title="📷 "><br><br><br>
+
+
+그리고 파랑이는 엄마의 품에서 조용히 속삭였어. <br><br>
+
+"엄마, <br>
+나도 하늘의 별처럼 빛날 거예요."<br><br>
+
+엄마는 파랑이를 꼭 안아주며 속삭였단다. <br><br>
+
+"파랑아, 넌 이미 우리 세상을 환히 비추는 별이란다."<br><br>
+
+<img src="https://i.imgur.com/I3b5o2N.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#82eafa url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_1'>
+<P class='mid'><font style="display:none"><b>파랑이의 소중한 여정</b></font><br>
+
+아주 오랜 옛날, 하늘과 바다는 특별한 약속을 나누었어요. <br><br>
+
+"우리의 사랑과 희망을 담은 귀한 선물을 세상에 보내자," <br>
+하늘이 속삭였지요<br><br>
+
+바다는 고요한 물결로 대답했어요. <br><br>
+
+"좋아, 우리의 모든 마음을 담아 특별한 존재를 만들자."<br><br>
+
+<img src="https://i.imgur.com/xlnBjVI.png" width=100% title="📷 "><br><br><br>
+
+
+그리고 그 순간, 파란빛으로 빛나는 작은 별이 하늘에서 내려왔어요. <br><br>
+
+그 별은 하늘의 사랑과 바다의 품을 담고 있었답니다. <br><br>
+
+그래서 모두 '파랑'이라고 불렀어요. <br><br>
+
+"파랑아, 넌 우리의 희망과 사랑을 품고 있어. 넌 세상에 무한한 기쁨과 따뜻함을 줄 존재란다," <br>
+하늘과 바다가 말했어요.<br><br>
+
+<img src="https://i.imgur.com/Lzj74no.png" width=100% title="📷 "><br><br><br>
+
+
+파랑이는 점점 세상으로 내려가 엄마와 아빠를 만나게 되었어요. <br><br>
+
+엄마는 파랑이를 품에 안으며 이렇게 속삭였답니다. <br><br>
+
+"파랑아, 넌 우리에게 온 가장 소중한 선물이야. <br>
+너의 존재가 우리의 하루를 밝히고, <br>
+우리의 마음을 가득 채워준단다."<br><br>
+
+<img src="https://i.imgur.com/fvBbGEs.jpeg" width=100% title="📷 "><br><br><br>
+
+
+아빠는 작은 파랑이의 손을 잡으며 말했어요. <br><br>
+
+"우리는 너를 기다리는 동안 얼마나 설레고 행복했는지 몰라. <br>
+너와 함께할 모든 날들이 더없이 특별하고 소중할 거야."<br><br>
+
+<img src="https://i.imgur.com/KsJNMQD.jpeg" width=100% title="📷 "><br><br><br>
+
+
+파랑이의 눈에는 하늘의 빛과 바다의 깊은 물결이 담겨 있었어요. <br><br>
+
+파랑이는 언제나 사랑받으며, 세상에 기쁨과 희망을 전해줄 존재가 될 거예요. <br><br>
+
+그리고 엄마와 아빠는 파랑이가 커가는 동안, 사랑과 기대, 그리고 무한한 희망을 함께 나누며 하루 하루를 보내겠지요.<br><br>
+
+<img src="https://i.imgur.com/Zkc5KwG.jpeg" width=100% title="📷 ">
+</td></tr></table>`,
+`<table style='BACKGROUND:#66ffcc url('') repeat fixed left top;' cellpadding='10' width=100%><tr valign=middle><td class='lt02_2'>
+<P class='mid'><font style="display:none"><b>하늘과 바다의 선물</b></font><br>
+
+옛날 아주 먼 옛날, 하늘은 파란 옷을 입고, 바다는 푸른 물결로 춤을 추며 서로를 바라보는 친구였어요. <br><br>
+
+하늘은 맑은 빛을, 바다는 촉촉한 바람을 서로 나누며 세상을 아름답게 만들었지요.<br><br>
+
+<img src="https://i.imgur.com/rcJGIlK.jpeg" width=100% title="📷 "><br><br><br>
+
+
+어느 날, 하늘과 바다는 사랑과 희망을 가득 담은 특별한 선물을 세상에 주기로 했어요. <br><br>
+
+그래서 둘은 힘을 모아 가장 반짝이는 별빛과 가장 따뜻한 물결을 모아 작은 씨앗을 만들었답니다. <br><br>
+
+그 씨앗은 세상을 따뜻하게 품어줄 아기였어요.<br><br>
+
+<img src="https://i.imgur.com/wlrUMVV.png" width=100% title="📷 "><br><br><br>
+
+
+"아가야, <br>
+넌 하늘의 넓은 사랑과 바다의 깊은 꿈을 간직한 특별한 선물이야,"<br><br>
+
+하늘과 바다가 말했어요. <br><br>
+
+"너의 웃음은 태양처럼 세상을 환히 비출 거야. 너의 손길은 꽃처럼 사람들에게 기쁨을 줄 거란다."<br><br>
+
+<img src="https://i.imgur.com/DnblD4L.jpeg" width=100% title="📷 "><br><br><br>
+
+
+그리고 그 아가는 어느 멋진 날, <br>
+엄마와 아빠의 품에 안기게 되었어요. <br><br>
+
+엄마는 사랑스런 마음으로 아가를 품으며 속삭였어요. <br><br>
+
+"너는 우리에게 온 가장 소중한 선물이야. <br><br>
+
+네가 오기 전부터 우리는 너를 기다렸고, 지금 너를 만나게 되어 정말 행복해."<br><br>
+
+<img src="https://i.imgur.com/HOQlyZP.jpeg" width=100% title="📷 "><br><br><br>
+
+
+아빠는 아가의 작은 손을 잡으며 말했어요. <br><br>
+
+"하늘과 바다가 준 선물을 우리가 지켜줄게. <br><br>
+
+너는 언제나 사랑받고, 소중히 여겨질 거야."<br><br>
+
+<img src="https://i.imgur.com/mgdZEMR.jpeg" width=100% title="📷 "><br><br><br>
+
+
+이렇게 하늘과 바다가 아가에게 전한 사랑은 엄마와 아빠의 마음속에 더욱 크게 자라났답니다. <br><br>
+
+그리고 그 사랑은 아가가 커가는 동안에도 언제나 함께할 거예요.<br><br>
+
+<img src="https://i.imgur.com/PpAq7Xn.jpeg" width=100% title="📷 ">
+</td></tr></table>`
+]
+
+const updat = `<table style=\"border-radius: 30px; BACKGROUND:#ffcccc url('') repeat fixed left top\" cellpadding='10'><tr valign=middle width=100%><td>
+<P class='mid'><font color='red'><b>업데이트 내역</b></font><br><br>
+
+<font color='blue'><b></b></font>
+<font color='blue'><b></b></font>
+<font color='blue'><b></b></font>
+
+<font color='blue'><b>2026.03.18 계속 순환 재생 방식</b></font><br>
+지금까지 생성된 곡 중에서 <br>
+최종 77곡을 선정, '생성일자' 순으로 <br>
+'계속 순환' 재생하는 방식.<br><br>
+
+1순환 15곡 (1~15번) 선호도 1순위<br>
+2순환 17곡 (16~32번) 선호도 2순위<br>
+3순환 14곡 (33~46번) 동요 분위기<br>
+4순환 15곡 (47~61번) 발라드 위주<br>
+5순환 16곡 (62~77번) 댄스풍 유사<br><br>
+
+<font color='blue'><b>2026.03.17</b></font><br>
+노래 가사 삽화 1차 완료<br><br>
+
+<font color='blue'><b>2026.03.12</b></font><br>
+감성 버전 "로운이, 열 달의 기적" <br>
+18곡 생성, 여기에는 13곡 수록<br><br>
+
+<font color='blue'><b>2026.03.11</b></font><br>
+"로운이의 어린이집 뽀짝 모험"<br>
+ 26곡 생성, 여기에는 15곡 수록<br><br>
+
+<font color='blue'><b>2026.03.08 코믹 버전으로 개사</b></font><br>
+"로운이가 '어린이집'에 갑니다"를 <br>
+약간의 개사와 함께 제목도 <br>
+"로운이의 어린이집 입학송"으로 변경<br>
+36곡 생성, 여기에는 18곡 수록<br><br>
+
+<font color='blue'><b>2026.03.07</b></font><br>
+"로운이의 어린이집 모험" <br>
+15곡 생성, 여기에는 12곡 수록<br><br>
+
+<font color='blue'><b>2026.03.06</b></font><br>
+"로운이의 즐거운 하루" <br>
+18곡 생성, 여기에는 12곡 수록<br><br>
+
+<font color='blue'><b>2026.03.05 어린이집 테마 시작</b></font><br>
+"로운이가 '어린이집'에 갑니다" 생성 시작. 14곡 생성, 여기에는 7곡 수록<br><br>
+
+본 html 작성, 깃허브에 업로드.<br><br>
+</td></tr></table>`
