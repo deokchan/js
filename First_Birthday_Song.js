@@ -61,7 +61,10 @@ song = [
 
 [아들 내외에게 보내는 마음]<br>
 아들 경진아! 며느리 휘경아! 고맙구나<br>
-로운이를 정성껏 키워온 너희의 사랑,<br>
+로운이를 정성껏 키워온 너희의 사랑,<br><br>
+
+<img src="https://blog.kakaocdn.net/dn/EASTG/btsIQfOcYJQ/37wxzX5FAgcl3JWSXsDfhK/img.jpg" width="100%" title="📷 "><br><br>
+
 밤잠 설쳐 키운 그간의 모든 수고들이<br>
 아름다운 결실을 맺어 눈시울 적시네<br><br>
 
