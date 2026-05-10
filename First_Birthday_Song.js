@@ -38,17 +38,25 @@ song = [
 건강하게 잘 자라준 로운이의 모습이<br>
 할배에겐 더할 나위 없는 기쁨이란다<br><br>
 
+<img src="https://i.imgur.com/R7vzKIf.png" width="100%" title="📷 "><br><br><br>
+
+
 [첫걸음의 용기 : 걸음마의 대견함]<br>
 두 발로 세상 향해 당당하게 나아가며<br>
 비틀대도 스스로 예쁘게 중심을 잡아<br>
 손을 떼고 한 걸음 더 힘차게 내디디며<br>
 용기라는 소중한 씨앗을 키워나가네<br><br>
 
+<img src="https://i.imgur.com/YmsgKPI.png" width="100%" title="📷 "><br><br><br>
+
+
 [씩씩한 어린이집 생활:사회로의 첫발]<br>
 어린이집 가는 네 모습 참 대견하구나<br>
 선생님과 친구들의 사랑 듬뿍 받으며<br>
 까르르 웃으며 사이좋게 노는 모습이<br>
-기특하고 우리들 마음도 뿌듯해진다~<br><br><br>
+기특하고 우리들 마음도 뿌듯해진다~<br><br>
+
+<img src="https://i.imgur.com/VYF96S0.png" width="100%" title="📷 "><br><br><br>
 
 
 [아들 내외에게 보내는 마음]<br>
@@ -57,26 +65,40 @@ song = [
 밤잠 설쳐 키운 그간의 모든 수고들이<br>
 아름다운 결실을 맺어 눈시울 적시네<br><br>
 
-[첫 번째 생일 파티 ; 첫돌 축하]<br>
+<img src="https://i.imgur.com/CLYZy9n.png" width="100%" title="📷 "><br><br><br>
+
+
+[첫 번째 생일 파티 : 첫돌 축하]<br>
 로운이 첫돌 축하 마음들이 모여든다<br>
 색동옷 곱게 입고 환하게 웃는 네 얼굴<br>
 세상 가장 빛나는 환희의 웃음이어라<br>
 모두의 축복 속에 행복이 가득하기를~<br><br>
 
+<img src="https://i.imgur.com/RZRJmRG.png" width="100%" title="📷 "><br><br><br>
+
+
 [밝고 행복한 미래 : 축복과 기원]<br>
 앞으로도 더없이 화목한 가정 속에서<br>
 지혜롭고 따뜻한 사람으로 자라기를<br>
 로운의 앞날은 밝은 빛으로 가득하길<br>
-사랑하고 축복해! 영원한 우리 보배야!<br><br><br>
+사랑하고 축복해! 영원한 우리 보배야!<br><br>
+
+<img src="https://i.imgur.com/JdeQjVj.png" width="100%" title="📷 "><br><br><br>
 
 
 로운아! 양.양.<br>
 로운아! 양.양.<br><br>
 
+<img src="https://i.imgur.com/JvTWnL1.png" width="100%" title="📷 "><br><br>
+
 로운아! 양양 할아버지는..<br>
 로운이를 하늘만큼 땅만큼 사랑한다~<br><br>
 
-로운아! 사랑해! 축하한다~~~
+<img src="https://i.imgur.com/5TEnqas.jpeg" width="100%" title="📷 "><br><br>
+
+로운아! 사랑해! 축하한다~~~<br><br>
+
+<img src="https://i.imgur.com/FavDfuk.jpeg" width="100%" title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>우리에게 온 로운이의 1년</b></font><br>
