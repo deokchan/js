@@ -233,7 +233,10 @@ song = [
 
 
 로운아! 첫 번째 생일을 축하한다<br>
-건강하게 자라줘서 참 고맙구나<br>
+건강하게 자라줘서 참 고맙구나<br><br>
+
+<img src="https://i.imgur.com/drpdV7s.png" width="100%" title="📷 "><br><br>
+
 너의 모든 날, 순간들이 빛나기를<br>
 온 마음 다해 언제나 너를 축복해<br><br>
 
@@ -241,7 +244,10 @@ song = [
 
 
 함께 했던 지난 계절, 지나온 시간<br>
-울고 웃던 순간마다 행복이었어<br>
+울고 웃던 순간마다 행복이었어<br><br>
+
+<img src="https://i.imgur.com/cUUb5Sb.png" width="100%" title="📷 "><br><br>
+
 작은 숨결 하나에도 웃음 지어 준<br>
 너로 인해 우리 삶은 더욱 환해져<br><br>
 
@@ -249,31 +255,41 @@ song = [
 
 
 힘든 날이 오더라도 함께 갈 거야<br>
-언제나 네 곁에서 힘이 되어 줄게<br>
+언제나 네 곁에서 힘이 되어 줄게<br><br>
+
+<img src="https://i.imgur.com/h1JDvg1.jpeg" width="100%" title="📷 "><br><br>
+
 세상 가장 환한 별로 자라나기를<br>
 사랑 속에 행복하게 피어나기를...<br><br>
 
-<img src="https://i.imgur.com/h1JDvg1.jpeg" width="100%" title="📷 "><br><br><br>
+<img src="https://i.imgur.com/AbxbngK.png" width="100%" title="📷 "><br><br><br>
 
 
 로운아! 첫 번째 생일을 축하한다<br>
-이 세상 가장 소중한 우리 아가야<br>
+이 세상 가장 소중한 우리 아가야<br><br>
+
+<img src="https://i.imgur.com/0DEMyeU.png" width="100%" title="📷 "><br><br>
+
 희망으로 반짝이는 푸른 꿈 안고<br>
 기쁨과 행복 만발하길 기도할게<br><br>
 
 <img src="https://i.imgur.com/UW9KItO.jpeg" width="100%" title="📷 "><br><br><br>
 
 
+다시 맞이하는 우리 로운이의 봄!<br><br>
 
-다시 맞이하는 우리 로운이의 봄!<br>
+<img src="https://i.imgur.com/c3tihhG.png" width="100%" title="📷 "><br><br>
+
 오늘 여기 모인 축복 가득 받으며<br>
 더 밝고 화사한 봄으로 빛나기를~~<br><br>
 
-<img src="https://i.imgur.com/c3tihhG.png" width="100%" title="📷 "><br><br><br>
+<img src="https://i.imgur.com/cGrMRJj.png" width="100%" title="📷 "><br><br><br>
 
 
 로운아! 개구쟁이라도 좋다!<br>
 튼튼하게만 자라다오!<br><br>
+
+<img src="https://i.imgur.com/CQx0C4j.png" width="100%" title="📷 "><br><br>
 
 로운아! 축하해! 사랑한다~~~
 </td></tr></table>`,
