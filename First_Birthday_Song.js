@@ -383,9 +383,12 @@ song = [
 니나노~<br>
 늴리리야 늴리리야 니나노~<br><br>
 
-<img src="https://i.imgur.com/ZFqCc3B.jpeg" width="100%" title="📷 "><br><br>
+<img src="https://i.imgur.com/ZFqCc3B.jpeg" width="100%" title="📷 "><br><br><br>
 
-로운아! 축하한다! 사랑한다~~~
+
+로운아! 축하한다! 사랑한다~~~<br><br>
+
+<img src="https://i.imgur.com/jSOw9Yg.png" class="fade-in-out" width="100%" title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>로운이의 첫돌 잔치</b></font><br>
@@ -463,9 +466,12 @@ song = [
 니나노~ <br>
 늴리리야 늴리리야 니나노~<br><br>
 
-<img src="https://i.imgur.com/ZFqCc3B.jpeg" width="100%" title="📷 "><br><br>
+<img src="https://i.imgur.com/ZFqCc3B.jpeg" width="100%" title="📷 "><br><br><br>
 
-로운아! 축하한다! 사랑한다~~~
+
+로운아! 축하한다! 사랑한다~~~<br><br>
+
+<img src="https://i.imgur.com/jSOw9Yg.png" class="fade-in-out" width="100%" title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>성장 가요 - 첫돌부터 두 돌까지-가창 분배</b></font><br>
