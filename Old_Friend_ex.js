@@ -1,94 +1,12 @@
 ﻿const title0 = "묵은지 친구 제1집"
 
 odi = [
-"https://cdn1.suno.ai/98b492db-b2e2-477f-b126-053eda4c2afd.mp3|1[포크] 봄날에 찾아온 묵은지 친구 <br>(7080 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 부드러운 타악기, 85 BPM 감성적인 스토리텔링)_M03 v5.5|",
-"https://cdn1.suno.ai/b6b9141c-9485-403a-ab29-d9e1ca1bc8a6.mp3|0.6[포크] 봄날에 찾아온 묵은지 친구 <br>(7080 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 부드러운 타악기, 85 BPM 감성적인 스토리텔링)_M04 v5.5|",
-"https://cdn1.suno.ai/e49d52f1-ffe9-43c7-aeb1-408bae4b6229.mp3|0.6[트롯] 봄날에 찾아온 묵은지 친구 <br>(경쾌한 템포, 트로트 듀엣 특유의 주고받는 보컬 특징, 밝은 신디사이저)_MW01 v5.5|",
-"https://cdn1.suno.ai/aea36c57-ae6a-4f38-8386-45db7439dc61.mp3|1[트롯] 봄날에 찾아온 묵은지 친구 <br>(경쾌한 템포, 트로트 듀엣 특유의 주고받는 보컬 특징, 밝은 신디사이저)_MW02 v5.5|",
-"https://cdn1.suno.ai/34cf2754-0a30-42a9-b115-0056ac9d7fee.mp3|1[댄스] 봄날에 찾아온 묵은지 친구 <br>(1980년대 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M07 v5.5|",
-"https://cdn1.suno.ai/b2682b82-c95a-46a0-ad8b-38dc6c9e98f5.mp3|0[댄스] 봄날에 찾아온 묵은지 친구 <br>(1980년대 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M08 v5.5|",
-"https://cdn1.suno.ai/97c2963f-c2f5-4ea4-a82c-00725b159e22.mp3|1[발라드] 봄날에 찾아온 묵은지 친구 (감성적인 남성, 풍부한 편곡, 감성적인 전통 악기가 어우러진 한국 전통 발라드)_M05 v5.5|",
-"https://cdn1.suno.ai/2210fbd0-7845-4009-8e7f-a5820d8c29e5.mp3|0.6[발라드] 봄날에 찾아온 묵은지 친구 (감성적인 남성, 풍부한 편곡, 감성적인 전통 악기가 어우러진 한국 전통 발라드)_M06 v5.5|",
-"https://cdn1.suno.ai/393e116e-7879-44cc-a41a-3703dba558fb.mp3|1[미분류] 봄날에 찾아온 묵은지 친구 (바이올린 신스팝 남녀 보컬, 템포는 분당 약 90)_MW03 v5.5|",
-"https://cdn1.suno.ai/07cedfe6-11dc-4cc6-b0fb-ac42ed5f23cc.mp3|0.6[미분류] 봄날에 찾아온 묵은지 친구 (바이올린 신스팝 여성 보컬, 템포는 분당 약 90)_W01 v5.5|",
-"https://cdn1.suno.ai/91e15152-82df-4c63-900a-3e806d91027d.mp3|0.7[미분류] 봄날에 찾아온 묵은지 친구 <br>(바이올린 신스팝)_M02 v4.5|",
-"https://cdn1.suno.ai/989025e4-c8b9-421d-91db-657084283485.mp3|2*[포크] 한계목이 부르는 연어의 귀향-가사 수정 전 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M10 v5.5|",
-"https://cdn1.suno.ai/7cf81c0d-f645-4168-940c-1269dc3aaddf.mp3|2*[댄스] 한계목이 부르는 연어의 귀향-가사 수정 전 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M04 v5.5|",
-"https://cdn1.suno.ai/958d5818-2ff3-4d29-8fa5-b6b6edc5f908.mp3|2*[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 (웅장한 합창 음악, 서사적 장엄, 현악기와 관악기 갖춘 풀 오케스트라, 남녀 혼성 합창단, 75-90bpm)_M02 v5.5|",
-"https://cdn1.suno.ai/f16d876a-f8d2-49df-86f8-4edc3d46c263.mp3|2*[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 <br>(오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 바리톤 보컬)_W03 v5.5|",
-"https://cdn1.suno.ai/bf1f71e6-1b2a-4cb2-87ca-7789d8319891.mp3|2*[발라드] 한계목이 부르는 연어의 귀향-가사 수정 전 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W01 v5.5|",
-"https://cdn1.suno.ai/84ca8fa5-b0a9-4542-889e-942f73ac6f04.mp3|2*[민요] 한계목이 부르는 연어의 귀향-가사 수정 전 (크로스오버 국악 퓨전 스타일, 가야금과 대금에 오케스트라 현악기, 70-90bpm, 자연과 생명의 순환 담은 서사, 신비롭고 신성한 느낌)_MW01 v5.5|",
-"https://cdn1.suno.ai/0d739570-e3d1-48a7-ab9c-a0ac2be9b78c.mp3|2*[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 (하드록과 댄서블한 그루브 디스코 스타일의 하이햇, 부드러우면서 약간 거친 록 에너지가 섞인 느낌)_M08 v5.5|",
-"https://cdn1.suno.ai/2ae6178e-6b94-40fe-a353-f585407eeadb.mp3|2*[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M05 v5.5|",
-"https://cdn1.suno.ai/276818e0-0bb3-4796-a6e5-3c88d4c0d024.mp3|2[포크] 한계목이 부르는 연어의 귀향-가사 수정 전 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M09 v5.5|",
-"https://cdn1.suno.ai/ab324141-5fb2-48b9-9dd8-f443f6d2683f.mp3|0.1[댄스] 한계목이 부르는 연어의 귀향-가사 수정 전 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M03 v5.5|",
-"https://cdn1.suno.ai/77236fed-0380-44a1-9bba-19128f4ba4d3.mp3|2[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 (웅장한 합창 음악, 서사적 장엄, 현악기와 관악기 갖춘 풀 오케스트라, 남녀 혼성 합창단, 75-90bpm)_M01 v5.5|",
-"https://cdn1.suno.ai/d7cb9c5a-35ec-4bc8-8033-66805ad872c2.mp3|2[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 <br>(오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 바리톤 보컬)_WM01 v5.5|",
-"https://cdn1.suno.ai/05ad59f1-d2ce-4297-85b0-6080ee6e4c02.mp3|2[발라드] 한계목이 부르는 연어의 귀향-가사 수정 전 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W02 v5.5|",
-"https://cdn1.suno.ai/75be3765-8826-4402-9f9d-b06198090279.mp3|2[민요] 한계목이 부르는 연어의 귀향-가사 수정 전 (크로스오버 국악 퓨전 스타일, 가야금과 대금에 오케스트라 현악기, 70-90bpm, 자연과 생명의 순환 담은 서사, 신비롭고 신성한 느낌)_MW02 v5.5|",
-"https://cdn1.suno.ai/b860a67e-fd00-4ea8-a7ca-46b4fbe8b6a9.mp3|2[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 (하드록과 댄서블한 그루브 디스코 스타일의 하이햇, 부드러우면서 약간 거친 록 에너지가 섞인 느낌)_M07 v5.5|",
-"https://cdn1.suno.ai/409f4a31-28c2-4599-b88a-bbd2c712e093.mp3|2[미분류] 한계목이 부르는 연어의 귀향-가사 수정 전 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M06 v5.5|",
-"https://cdn1.suno.ai/2789e897-f940-4bd4-82e7-5e222dd7622b.mp3|3*[포크] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M11 v5.5|",
-"https://cdn1.suno.ai/a15b0277-9828-45d9-bc4f-a2bc5a5f9634.mp3|0.1*[포크] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M12 v5.5|387",
-"https://cdn1.suno.ai/1417f0de-6b13-4c3f-ae07-45229e55e43c.mp3|3*[댄스] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M13 v5.5|",
-"https://cdn1.suno.ai/c0a92c31-754a-4ff9-b6c0-b88facf11811.mp3|0.6*[댄스] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M14 v5.5|",
-"https://cdn1.suno.ai/bc978191-69e8-4dc5-af31-9350affd00c0.mp3|3*[발라드] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W04 v5.5|",
-"https://cdn1.suno.ai/52031877-2e65-4442-a320-fc255a99c754.mp3|0.6*[발라드] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W05 v5.5|",
-"https://cdn1.suno.ai/c20d9fcb-fbda-4844-9ccc-9ca3a46c6247.mp3|3*[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M15 v5.5|",
-"https://cdn1.suno.ai/8b98e4b5-12b4-4be9-8f16-236e45eb8d07.mp3|0.6*[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 <br>(저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 깊고 조용한 드럼)_M16 v5.5|",
-"https://cdn1.suno.ai/e556745b-8bf6-497a-97c1-a16425721f1f.mp3|4[포크] 묵은지 벗과 걷는 유채꽃 사잇길 (7080 포크, 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 타악기, 85 BPM, 감성적인 스토리텔링)_M03 v5.5|",
-"https://cdn1.suno.ai/46a9832d-caec-4bc7-b5d5-13367041e812.mp3|0.1[포크] 묵은지 벗과 걷는 유채꽃 사잇길 (7080 포크, 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 타악기, 85 BPM, 감성적인 스토리텔링)_M04 v5.5|",
-"https://cdn1.suno.ai/9fa1c366-1ea8-4edb-903e-526d50cc2444.mp3|4[발라드] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(감성적인 남성, 풍부한 편곡, 전통 악기가 어우러진 한국 전통 발라드)_M05 v5.5|",
-"https://cdn1.suno.ai/cf1f74b1-2177-4c50-92d8-2d54fd55553c.mp3|4[발라드] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(감성적인 남성, 풍부한 편곡, 전통 악기가 어우러진 한국 전통 발라드)_M06 v5.5|",
-"https://cdn1.suno.ai/a9205f9f-8075-4aec-9b1b-36e255b38322.mp3|4[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트 95 BPM, 빈티지 신스 멜로디)_M09 v5.5|",
-"https://cdn1.suno.ai/0be39496-eb36-4ba5-995f-ff8ff79338a9.mp3|4[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트 95 BPM, 빈티지 신스 멜로디)_M10 v5.5|",
-"https://cdn1.suno.ai/051105a2-d8e2-4be5-94f6-6dbf3db96d1f.mp3|4[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(1980년대, 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M11 v5.5|",
-"https://cdn1.suno.ai/27092341-bae2-4099-b63f-97fb501c8a88.mp3|0.1[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(1980년대, 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M12 v5.5|",
-"https://cdn1.suno.ai/84bd278c-8038-4a29-918c-7d7599f4cc07.mp3|0.7[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(바이올린 신스팝)_M02 v4.5|",
-"https://cdn1.suno.ai/4f4b9111-d056-4221-ae50-2e7204af5c46.mp3|4[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(바이올린, 신스팝, 저음 남성 보컬, 템포는 약 80bpm으로 다소 느린 편)_M07 v5.5|",
-"https://cdn1.suno.ai/a7552e75-1297-4f19-aff4-f267f0e7e0c6.mp3|0.1[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(바이올린, 신스팝, 저음 남성 보컬, 템포는 약 80bpm으로 다소 느린 편)_M08 v5.5|",
-"https://cdn1.suno.ai/1da992ac-eb27-4eee-b26f-b2033d7049d0.mp3|5[포크] 묵은지 우정과 동심의 벤치 (7080 포크, 120~130 BPM, 활기찬 경쾌한 템포 통기타 하모니카 부드러운 타악기)_MW01 v5.5|",
-"https://cdn1.suno.ai/1c2cb11d-9e99-4762-851d-2ca7fc4170a7.mp3|0.1[포크] 묵은지 우정과 동심의 벤치 (7080 포크, 120~130 BPM, 활기찬 경쾌한 템포 통기타 하모니카 부드러운 타악기)_WM01 v5.5|",
-"https://cdn1.suno.ai/72dcfd28-764b-4316-982e-a4e47b4891e9.mp3|5[트롯댄스] 묵은지 우정과 동심의 벤치 <br>(경쾌하고 리드미컬한 트로트. 신나는 댄스 비트, 콜앤리스폰스 듀엣 특징)_MW06 v5.5|",
-"https://cdn1.suno.ai/32f36671-626f-4b19-ab90-9cc0d00cfa9a.mp3|0.1[트롯댄스] 묵은지 우정과 동심의 벤치 <br>(경쾌하고 리드미컬한 트로트. 신나는 댄스 비트, 콜앤리스폰스 듀엣 특징)_MW07 v5.5|",
-"https://cdn1.suno.ai/165e873a-15ef-4ffc-ab37-745024155266.mp3|5[미분류] 묵은지 우정과 동심의 벤치 (바이올린 신스팝 남녀 보컬, 템포는 분당 약 90)_MW02 v5.5|",
-"https://cdn1.suno.ai/ea805f3e-e770-47c4-a988-8c826d85ca69.mp3|0.1[미분류] 묵은지 우정과 동심의 벤치 (바이올린 신스팝 남녀 보컬, 템포는 분당 약 90)_MW03 v5.5|",
-"https://cdn1.suno.ai/6112ef6f-08dc-493b-9f53-ebb77eec89ae.mp3|5[댄스] 묵은지 우정과 동심의 벤치 <br>(1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트 95 BPM, 빈티지 신스 멜로디)_MW04 v5.5|",
-"https://cdn1.suno.ai/caa8d1c3-65ad-4601-a54e-7a5aaf1fe970.mp3|0.1[댄스] 묵은지 우정과 동심의 벤치 <br>(1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트 95 BPM, 빈티지 신스 멜로디)_MW05 v5.5|",
-"https://cdn1.suno.ai/22859807-df6b-41ad-975f-b31c3b0806ac.mp3|6[트롯댄스] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 <br>(댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4박자 킥 드럼이 전통 트로트 음계)_W09 v5.5|",
-"https://cdn1.suno.ai/3ccaf7d3-003b-4108-b0df-a01cb6aac88d.mp3|6[트롯댄스] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 <br>(댄스, 강렬한 페스티벌 EDM 트로트 퓨전, 밝은 신스 리드와 쿵쾅거리는 4/4박자 킥 드럼이 전통 트로트 음계)_W10 v5.5|",
-"https://cdn1.suno.ai/e6d23fd8-e2fa-4286-8a90-a7719ecb121f.mp3|0.1[심포니] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (심포닉 EDM, 오케스트라 트랜스 140BPM, 바이올린과 피아노 선율, 몽환적 초현실적 희망적이고 웅장)_MW03 v5.5|",
-"https://cdn1.suno.ai/46b628fb-ccde-4d86-9a5d-4d2e119d04c8.mp3|6[심포니] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (심포닉 EDM, 오케스트라 트랜스 140BPM, 바이올린과 피아노 선율, 몽환적 초현실적 희망적이고 웅장)_W08 v5.5|",
-"https://cdn1.suno.ai/da078222-1a89-4af3-a64a-524733a79506.mp3|6[발라드] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (한국 영화 음악 스타일의 팝 발라드, 따뜻하고 맑은 보컬, 70~85bpm, 바닷바람 같은 분위기, 밝고 상쾌한 무드, 감성적이면서도 평화로운 톤)_W05 발음 에러 v5.5|",
-"https://cdn1.suno.ai/9d8262e8-de5a-4248-97c2-4e58da4df9a1.mp3|6[발라드] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (한국 영화 음악 스타일의 팝 발라드, 따뜻하고 맑은 보컬, 70~85bpm, 바닷바람 같은 분위기, 밝고 상쾌한 무드, 감성적이면서도 평화로운 톤)_W06 발음 에러 v5.5|",
-"https://cdn1.suno.ai/a219af2f-cdd7-400d-a306-62442c84b6e7.mp3|6[미분류] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼)_M08 v5.5|",
-"https://cdn1.suno.ai/73115bb4-bb92-4f55-b378-8b2a1b6453f0.mp3|6[미분류] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼)_M09 v5.5|",
-"https://cdn1.suno.ai/981f721c-9a66-485b-aa30-72435d2fdf01.mp3|6[미분류] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (바이올린, 신스팝, 남녀 보컬, 템포는 약 80bpm으로 다소 느린 편)_MW02 v5.5|",
-"https://cdn1.suno.ai/dec79075-0298-4fa6-8de8-399e83c8dc14.mp3|6[트롯] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (바이올린, 신스팝, 여성 보컬, 템포는 약 80bpm으로 다소 느린 편)_W07 v5.5|",
-"https://cdn1.suno.ai/7ad692da-8ad3-420f-ab17-9cf839428201.mp3|6[미분류] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 <br>(한국 전통 민요 경기민요 창부타령과 태평가에서 영감을 받음, 장구, 북, 대금, 해금, 비리, 전통 타악기)_W11 v5.5|",
-"https://cdn1.suno.ai/292ac989-3a77-4e50-8c94-ab56e037623b.mp3|0.1[미분류] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 <br>(한국 전통 민요 경기민요 창부타령과 태평가에서 영감을 받음, 장구, 북, 대금, 해금, 비리, 전통 타악기)_W12 v5.5|",
-"https://cdn1.suno.ai/b267d551-983f-4c1e-9ee5-c15c363290f4.mp3|0.7[팝컨추리] 양양 쏠비치, 내 추억의 뜰 <br>(바이올린 신스팝)_W01 v4.5|",
-"https://cdn1.suno.ai/ec7c08ed-f5f4-465b-a94b-00e3bd514dd5.mp3|7[포크] {옥이의} 쏠비치 리사이틀 <br>(7080 남녀 화음, 통기타, 하모니카, 타악기, 85-95bpm 밝고 경쾌한 분위기, 바닷가 분위기 자연스러운 잔향)_MW01 v5.5|",
-"https://cdn1.suno.ai/32102f71-b62b-4187-91cb-66447dd8d502.mp3|7[포크] {옥이의} 쏠비치 리사이틀 <br>(7080 남녀 화음, 통기타, 하모니카, 타악기, 85-95bpm 밝고 경쾌한 분위기, 바닷가 분위기 자연스러운 잔향)_MW02 v5.5|",
-"https://cdn1.suno.ai/2301948a-8bfa-437d-a914-b2e2533624b7.mp3|7[트롯댄스] {옥이의} 쏠비치 리사이틀 (전통 트로트와 현대 무용 리듬의 조화, 현악기가 감성적인 멜로디를 이끌고, 금관악기의 경쾌한 악센트. 타악기는 리드미컬하고 바다를 연상시키는 분위기)_W07 v5.5|",
-"https://cdn1.suno.ai/9f231ccb-a650-4925-81c9-3bff619ba031.mp3|0.1[트롯댄스] {옥이의} 쏠비치 리사이틀 (전통 트로트와 현대 무용 리듬의 조화, 현악기가 감성적인 멜로디를 이끌고, 금관악기의 경쾌한 악센트. 타악기는 리드미컬하고 바다를 연상시키는 분위기)_W08 v5.5|",
-"https://cdn1.suno.ai/d0387d32-9c78-4944-9d97-1504958a182f.mp3|7[트롯댄스] {옥이의} 쏠비치 리사이틀 (트로트 춤, 여성 보컬, 경쾌한 템포 110-120bpm 리드미컬한 그루브, 브라스와 신디사이저의 조화 발랄하고 활기찬 분위기)_W05 v5.5|",
-"https://cdn1.suno.ai/9617f90c-ce56-4b56-ba52-657d550dc391.mp3|0.1[트롯댄스] {옥이의} 쏠비치 리사이틀 (트로트 춤, 여성 보컬, 경쾌한 템포 110-120bpm 리드미컬한 그루브, 브라스와 신디사이저의 조화 발랄하고 활기찬 분위기)_W06 v5.5|",
-"https://cdn1.suno.ai/6683d6d3-915e-458a-866c-426eeae099b8.mp3|7[심포니] {옥이의} 쏠비치 리사이틀 (부드러운 현악기와 목관악기의 왈츠풍 분위기, 신디사이저의 은은한 터치. 금관악기의 낙관적인 기운, 바닷가의 추억)_W13 v5.5|",
-"https://cdn1.suno.ai/496d0d87-76b8-4b80-904a-ea0f3d18da0b.mp3|0.1[심포니] {옥이의} 쏠비치 리사이틀 (부드러운 현악기와 목관악기의 왈츠풍 분위기, 신디사이저의 은은한 터치. 금관악기의 낙관적인 기운, 바닷가의 추억)_W14 v5.5|",
-"https://cdn1.suno.ai/3ccdcb92-150e-431a-ae82-68e3ae5c4a1a.mp3|7[심포니] {옥이의} 쏠비치 리사이틀 (오케스트라 현악기의 웅장하고 감미로운 멜로디, 금관악기가 극적인 분위기, 신스 아르페지오가 현대적인 댄스 리듬)_W15 v5.5|",
-"https://cdn1.suno.ai/d44d1867-69e5-48f4-91b3-cbb5eaeaf0bd.mp3|0[심포니] {옥이의} 쏠비치 리사이틀 (오케스트라 현악기의 웅장하고 감미로운 멜로디, 금관악기가 극적인 분위기, 신스 아르페지오가 현대적인 댄스 리듬)_W16 v5.5|",
-"https://cdn1.suno.ai/61b89edd-6c69-498b-bda6-f2f85729b183.mp3|7[미분류] {옥이의} 쏠비치 리사이틀 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트, 95 BPM)_W17 v5.5|",
-"https://cdn1.suno.ai/77c8f462-3b12-4348-a107-e83969e2d10e.mp3|0[미분류] {옥이의} 쏠비치 리사이틀 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트, 95 BPM)_W18 v5.5|",
-"https://cdn1.suno.ai/84f5362a-c611-4a19-a4ab-e3f8131c8bdd.mp3|0.6[미분류] {옥이의} 쏠비치 리사이틀 (바이올린, 신스팝 여성 보컬, 템포는 분당 약 80)_W19 v5.5|",
-"https://cdn1.suno.ai/954f5c68-24eb-4bee-aaeb-0c3ac8dd8cf2.mp3|7[미분류] {옥이의} 쏠비치 리사이틀 (바이올린, 신스팝 여성 보컬, 템포는 분당 약 80)_W20 v5.5|",
-"https://cdn1.suno.ai/6c24757f-9bc5-4e45-a97d-4ba0bbd25b3e.mp3|0.7[미분류] {옥이의} 쏠비치 리사이틀 (인디, 강렬한 보컬, 리드미컬한 드라이브)_W02 v4.5|",
-"https://cdn1.suno.ai/4f80030f-1b96-4cbf-82e2-9d5a7ce980ed.mp3|7[민요] {옥이의} 쏠비치 리사이틀 <br>(경기 민요 형식, 굿거리 세마치 리듬, 민요풍 만들려다 퓨전트로트 된 느낌)_W09 v5.5|",
-"https://cdn1.suno.ai/3fb1b9ea-6101-455b-8ab7-78cecf0ed72e.mp3|0.6[민요] {옥이의} 쏠비치 리사이틀 <br>(경기 민요 형식, 굿거리 세마치 리듬, 민요풍 만들려다 퓨전트로트 된 느낌)_W10 v5.5|",
-"https://cdn1.suno.ai/4ba03e97-e2f7-47a6-9427-8b1b36360cae.mp3|0.7[미분류] {옥이의} 쏠비치 리사이틀 <br>(바이올린 신스팝)_W03 v4.5|",
-"https://cdn1.suno.ai/fb2d1204-698c-4973-afcb-251bb6ef4626.mp3|0.7[미분류] {옥이의} 쏠비치 리사이틀 <br>(바이올린 신스팝)_W04 v4.5|",
-"https://cdn1.suno.ai/909bc0a8-b143-410c-be6e-ab7d321bd5c2.mp3|7[민요] {옥이의} 쏠비치 리사이틀 (경기민요, 창부타령과 태평가에서 영감을 받음, 장구 북 대금 해금 비리 전통 타악기)_W11 v5.5|",
-"https://cdn1.suno.ai/7f3cb127-59fe-465b-8ae6-3be74ab9aa1c.mp3|7[민요] {옥이의} 쏠비치 리사이틀 (경기민요, 창부타령과 태평가에서 영감을 받음, 장구 북 대금 해금 비리 전통 타악기)_W12 v5.5|",
+"https://cdn1.suno.ai/e49d52f1-ffe9-43c7-aeb1-408bae4b6229.mp3|0.3[트롯] 봄날에 찾아온 묵은지 친구 <br>(경쾌한 템포, 트로트 듀엣 특유의 주고받는 보컬 특징, 밝은 신디사이저)_MW01 v5.5||",
+"https://cdn1.suno.ai/f16d876a-f8d2-49df-86f8-4edc3d46c263.mp3|1.1*[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 (오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 보컬)_W03 v5.5||",
+"https://cdn1.suno.ai/46a9832d-caec-4bc7-b5d5-13367041e812.mp3|0.1[발라드] 묵은지 벗과 걷는 유채꽃 사잇길 (7080 포크, 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 타악기, 85 BPM, 감성적인 스토리텔링)_M04 v5.5||",
+"https://cdn1.suno.ai/ea805f3e-e770-47c4-a988-8c826d85ca69.mp3|0.1[트롯댄스] 묵은지 우정과 동심의 벤치 (바이올린 신스팝 남녀 보컬, 템포 분당 약 90)_MW03 v5.5||",
+"https://cdn1.suno.ai/e6d23fd8-e2fa-4286-8a90-a7719ecb121f.mp3|0.1[민요] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (심포닉 EDM, 오케스트라 트랜스 140BPM, 바이올린과 피아노 선율, 몽환적 초현실적 희망적이고 웅장)_MW03 v5.5||",
+"https://cdn1.suno.ai/d44d1867-69e5-48f4-91b3-cbb5eaeaf0bd.mp3|0.1[미분류] {옥이의} 쏠비치 리사이틀 (오케스트라 현악기의 웅장하고 감미로운 멜로디, 금관악기가 극적인 분위기, 신스 아르페지오가 현대적인 댄스 리듬)_W16 v5.5||",
 ]
 
 song = [
@@ -3897,7 +3815,7 @@ https://blog.kakaocdn.net/dn/bvhuO9/btrJAqvpm3I/PsLl9DoHUwnbMpJg0Eb2A1/img.jpg?o
 남대천은 말없이 흐르지만<br>
 그 모든 귀향들을 축복한다~~<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/b9Plce/btsNFVDWP2q/nWk59lad4w8TmtwGT2nwQk/img.jpg' width=100%><br>
+<img src='https://i.imgur.com/EAJnEx5.png' width=100%><br>
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/uWnZo/btsOxg1doCo/QyzvW4T03Y9tCyotueEjlK/img.png') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid2'><font style="display:none"><b>한계목이 부르는 연어의 귀향-가사 수정 전</b></font>
@@ -3976,7 +3894,7 @@ https://blog.kakaocdn.net/dn/bvhuO9/btrJAqvpm3I/PsLl9DoHUwnbMpJg0Eb2A1/img.jpg?o
 남대천은 말없이 흐르지만<br>
 그 모든 귀향들을 축복한다~~<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/b9Plce/btsNFVDWP2q/nWk59lad4w8TmtwGT2nwQk/img.jpg' width=100%><br>
+<img src='https://i.imgur.com/EAJnEx5.png' width=100%><br>
 
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/uWnZo/btsOxg1doCo/QyzvW4T03Y9tCyotueEjlK/img.png') repeat fixed center top" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
@@ -4059,7 +3977,7 @@ https://blog.kakaocdn.net/dn/bvhuO9/btrJAqvpm3I/PsLl9DoHUwnbMpJg0Eb2A1/img.jpg?o
 
 48년의 세월을 담은 묵은지 친구!<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/cldDvt/btsNFQixvuK/yR98TfrOudOu7EHdNYA1BK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/p9HTKJN.png' width=100%><br><br>
 
 노랗게 물든 일편단심 민들레처럼<br>
 하얀 솜사탕 민들레 홀씨처럼<br>
@@ -4071,7 +3989,7 @@ https://blog.kakaocdn.net/dn/bvhuO9/btrJAqvpm3I/PsLl9DoHUwnbMpJg0Eb2A1/img.jpg?o
 멀리서 벗이 찾아오니<br>
 이 어찌 기쁘지 아니한가<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/zpQyH/btsNFyCpa3V/uZxL1fgJn9Td94ZlfVKkek/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/i2MA2z6.png' width=100%><br><br>
 
 <!-- odi[2] = "https://blog.kakaocdn.net/dn/bFLk4v/btsNJKit0d2/ukWGU27PckMDifjKEMwqD0/%EB%82%A8%EB%8C%80%EC%B2%9C%EC%9D%98%20%EA%B7%80%ED%96%A5%2C%20%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%98%20%EB%85%B8%EB%9E%98_M11_GPT_riffusion.mp3?attach=1&knm=tfile.mp3|남대천의 귀향, 한계목의 노래 (남자 1)"
 odi[0] = "https://blog.kakaocdn.net/dn/H7mcz/btsNHUKsaTh/8KricxczdKheEePDhkTVK0/%ED%95%9C%EA%B3%84%EB%AA%A9%EC%9D%B4%20%EB%B6%80%EB%A5%B4%EB%8A%94%20%EC%97%B0%EC%96%B4%EC%9D%98%20%EA%B7%80%ED%96%A5_M12_copilot_riffusion.mp3?attach=1&knm=tfile.mp3|한계목이 부르는 연어의 귀향 (남자 1)"
@@ -4112,12 +4030,12 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 반겨주는 빨강과 노랑의 벤치<br>
 푸른 바다는 기억을 품고 있어요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/cq3G8p/btsNGA0n88z/ygZa6HzIKKuKLDLoAjKKEK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/AESe02r.png' width=100%><br><br>
 
 노란 꽃들 사이로 바람이 불어<br>
 동심의 속삭임이 퍼져 가네요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/pXeHT/btsNFvlbLg7/MPCQVbCEHAMVNGkM5i1EDK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/nnSKfSE.png' width=100%><br><br>
 
 푸른 하늘 아래 그때의 웃음<br>
 우리의 시간은 다시 피어납니다.<br><br>
@@ -4127,22 +4045,22 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 묵은지 우정은 바람을 타고<br>
 봄날의 향기 속에 머물러요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/cZNqKE/btsNFfiB0Qp/SUKBcldkZs5Kani5Z44VaK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/AKB5Wg4.png' width=100%><br><br>
 
 어릴 적 뛰어놀던 그 골목길<br>
 여기서 다시 만나는 우리의 이야기.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/cAMrkn/btsNFjeebiz/DMU7Gb2UzlqAvgUxBozilk/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/8Da7ni2.png' width=100%><br><br>
 
 붓을 들고 하늘이 그려낸 풍경<br>
 기억의 그림들이 번져 가네요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/bn0C5E/btsNFhHwXFb/oUCHeFXzRhaqmP3DV3N5oK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/9dKUcGy.png' width=100%><br><br>
 
 구름 사이로 번지는 추억<br>
 그속에 내맘도 찾아 들어갑니다.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/sGX4r/btsNHIC08Ia/AGM4ml72LSGkvsO0NtRgX1/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/7TpXnZS.png' width=100%><br><br>
 
 푸른 바람 따라 흩어진 순간들<br>
 하늘빛 속에 머무는 이야기.<br><br>
@@ -4152,12 +4070,12 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 두 팔 벌려 하늘을 품으면<br>
 푸른 빛깔이 손끝에 스며드네요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/kyZ7B/btsNFqKYzgc/rlkGlKAIJmoJkPiqISodCk/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/iutrQX6.png' width=100%><br><br>
 
 빛깔 모아 희망의 주문을 걸고<br>
 수채화 구름에게 꿈을 띄워요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/dlzs5i/btsNFfwabSA/CjLcqvYbTZyXPMRV2BMpX1/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/96VVjlr.png' width=100%><br><br>
 
 꽃밭 사이로 번지는 우정<br>
 추억은 노래 되어 퍼져갑니다.<br><br>
@@ -4167,12 +4085,12 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 노란 꽃들 속에서 속삭이는<br>
 우리의 이야기는 봄날의 주문.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/sz3ey/btsNHr9bL9w/KgGDkmfZ0vxe41anNZbg40/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/tO40qaM.png' width=100%><br><br>
 
 시간이 멈춘 듯 눈을 감으며<br>
 다시 마주할 그날을 그려봅니다.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/kLDDV/btsNFwdiSmn/w0jithrbgTK834AXs6XlCk/img.jpg' width=100%><br>
+<img src='https://i.imgur.com/LgEL0Q1.png' width=100%><br>
 
 <!-- img src='https://blog.kakaocdn.net/dn/1E7To/btsNGEu1SWa/YhXCZYPGBEv4JCjL9DGAV0/img.jpg' width=100%><br><br>
 <img src='https://blog.kakaocdn.net/dn/EnrrC/btsNCfOEfFO/ReD2AwkdInpgjqPVgBwPWK/img.jpg' width=100%><br><br>
@@ -4218,19 +4136,19 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 먼 길을 넘어서 찾아온 벗<br>
 한계목 물결 사이에 머물고,<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/rTG20/btsNGgOB7hQ/CvMork5zK1Vxa1tWfViGkK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/hxsUqV2.png' width=100%><br><br>
 
 바람이 붓 칠한 푸른 하늘 아래에<br>
 추억은 강물처럼 흐르고 있네요.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/bpddBd/btsNGW9GIzl/yKxraMxSOMnreTJUgKA7zk/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/4yodhOE.png' width=100%><br><br>
 
 먼 곳에서 벗이 찾아오니<br>
 이 어찌 기쁘지 아니한가.<br>
 낙산의 명사십리, 고운 백사장 따라<br>
 우리의 우정은 노을처럼 번집니다.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/b5Yd5o/btsNFi7syiQ/PTE4iB3BrivpsQMSdAVRx1/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/4Yfqk4b.png' width=100%><br><br>
 
 노란 꽃물결 속으로 한 걸음<br>
 바람 따라 흔들리는 추억의 조각.<br><br>
@@ -4245,7 +4163,7 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 햇살을 안고 하늘을 향해<br>
 꽃들 사이로 두 팔을 활짝 펴고,<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/dupmdn/btsNHytFmsa/LkPpIW9SfzGYLUMS9k4QkK/img.jpg' width=100%><br><br>
+<img src='https://i.imgur.com/KJxg9Qa.png' width=100%><br><br>
 
 웃음소리는 바람에 실려<br>
 봄날의 자유를 노래합니다.<br><br>
@@ -4267,7 +4185,7 @@ odi[3] = "https://blog.kakaocdn.net/dn/qKvhC/btsNJXPj3NH/sCCKsV6dVk8IMFJi6DI1z0/
 학창 시절 그 웃음소리처럼<br>
 추억은 여전히 따뜻하게 피어납니다.<br><br>
 
-<img src='https://blog.kakaocdn.net/dn/dZwV23/btsNGz8nLpT/DWxodHaSMstVKbXZN8AWoK/img.jpg' width=100%><br>
+<img src='https://i.imgur.com/Oz6tlKk.png' width=100%><br>
 
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/bwQM7i/btsOx31oa76/OqDQzuYgaF88XeLKZWvb4K/img.jpg') repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
