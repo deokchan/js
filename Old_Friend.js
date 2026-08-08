@@ -1,12 +1,41 @@
 ﻿const title0 = "묵은지 친구 제1집"
 
 odi = [
-"https://cdn1.suno.ai/b2682b82-c95a-46a0-ad8b-38dc6c9e98f5.mp3|[댄스] 봄날에 찾아온 묵은지 친구 <br>(1980년대 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M08 v5.5|",
-"https://cdn1.suno.ai/52031877-2e65-4442-a320-fc255a99c754.mp3|*[발라드] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W05 v5.5|",
-"https://cdn1.suno.ai/46a9832d-caec-4bc7-b5d5-13367041e812.mp3|[포크] 묵은지 벗과 걷는 유채꽃 사잇길 (7080 포크, 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 타악기, 85 BPM, 감성적인 스토리텔링)_M04 v5.5|",
-"https://cdn1.suno.ai/ea805f3e-e770-47c4-a988-8c826d85ca69.mp3|[미분류] 묵은지 우정과 동심의 벤치 (바이올린 신스팝 남녀 보컬, 템포는 분당 약 90)_MW03 v5.5|",
-"https://cdn1.suno.ai/e6d23fd8-e2fa-4286-8a90-a7719ecb121f.mp3|[심포니] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (심포닉 EDM, 오케스트라 트랜스, 140BPM, 바이올린과 피아노 선율, 몽환적 초현실적 희망적이고 웅장)_MW03 v5.5|",
-"https://cdn1.suno.ai/d44d1867-69e5-48f4-91b3-cbb5eaeaf0bd.mp3|[심포니] {옥이의} 쏠비치 리사이틀 (오케스트라 현악기의 웅장하고 감미로운 멜로디, 금관악기가 극적인 분위기, 신스 아르페지오가 현대적인 댄스 리듬)_W16 v5.5|",
+"https://cdn1.suno.ai/b2682b82-c95a-46a0-ad8b-38dc6c9e98f5.mp3|1[댄스] 봄날에 찾아온 묵은지 친구 <br>(1980년대 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M08 v5.5||",
+"https://cdn1.suno.ai/bc978191-69e8-4dc5-af31-9350affd00c0.mp3|1[심포니] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W04 v5.5||",
+"https://cdn1.suno.ai/a9205f9f-8075-4aec-9b1b-36e255b38322.mp3|1[댄스] 묵은지 벗과 걷는 유채꽃 사잇길 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트 95 BPM, 빈티지 신스 멜로디)_M09 v5.5||",
+"https://cdn1.suno.ai/ea805f3e-e770-47c4-a988-8c826d85ca69.mp3|1[미분류] 묵은지 우정과 동심의 벤치 (바이올린 신스팝 남녀 보컬, 템포 분당 약 90)_MW03 v5.5||",
+"https://cdn1.suno.ai/e6d23fd8-e2fa-4286-8a90-a7719ecb121f.mp3|1[심포니] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (심포닉 EDM, 오케스트라 트랜스 140BPM, 바이올린과 피아노 선율, 몽환적 초현실적 희망적이고 웅장)_MW03 v5.5||",
+"https://cdn1.suno.ai/d44d1867-69e5-48f4-91b3-cbb5eaeaf0bd.mp3|1[심포니] {옥이의} 쏠비치 리사이틀 (오케스트라 현악기의 웅장하고 감미로운 멜로디, 금관악기가 극적인 분위기, 신스 아르페지오가 현대적인 댄스 리듬)_W16 v5.5||",
+"https://cdn1.suno.ai/f16d876a-f8d2-49df-86f8-4edc3d46c263.mp3|1[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 (오페라 발라드, 극적인 오케스트레이션, 파워풀한 소프라노 보컬)_W03 v5.5||",
+"https://cdn1.suno.ai/97c2963f-c2f5-4ea4-a82c-00725b159e22.mp3|2[발라드] 봄날에 찾아온 묵은지 친구 (감성적인 남성, 풍부한 편곡, 감성적인 전통 악기가 어우러진 한국 전통 발라드)_M05 v5.5||278",
+"https://cdn1.suno.ai/c0a92c31-754a-4ff9-b6c0-b88facf11811.mp3|2[댄스] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (남성 보컬 1980년대, 이탈로 디스코, 신스웨이브, 유로 댄스)_M14 v5.5||",
+"https://cdn1.suno.ai/4f4b9111-d056-4221-ae50-2e7204af5c46.mp3|2[미분류] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(바이올린, 신스팝, 저음 남성 보컬, 템포는 약 80bpm으로 다소 느린 편)_M07 v5.5||",
+"https://cdn1.suno.ai/caa8d1c3-65ad-4601-a54e-7a5aaf1fe970.mp3|2[댄스] 묵은지 우정과 동심의 벤치 <br>(1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트 95 BPM, 빈티지 신스 멜로디)_MW05 v5.5||",
+"https://cdn1.suno.ai/292ac989-3a77-4e50-8c94-ab56e037623b.mp3|2[민요] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (한국 전통 민요 경기민요 창부타령과 태평가에서 영감을 받음, 장구, 북, 대금, 해금, 비리, 전통 타악기)_W12 v5.5||",
+"https://cdn1.suno.ai/909bc0a8-b143-410c-be6e-ab7d321bd5c2.mp3|2[민요] {옥이의} 쏠비치 리사이틀 (경기민요, 창부타령과 태평가에서 영감을 받음, 장구 북 대금 해금 비리 전통 타악기)_W11 v5.5||",
+"https://cdn1.suno.ai/84ca8fa5-b0a9-4542-889e-942f73ac6f04.mp3|2[민요] 한계목이 부르는 연어의 귀향-가사 수정 전 (크로스오버 국악 퓨전 스타일, 가야금과 대금에 오케스트라 현악기, 70-90bpm, 자연과 생명의 순환 담은 서사, 신비롭고 신성한 느낌)_MW01 v5.5||",
+"https://cdn1.suno.ai/b6b9141c-9485-403a-ab29-d9e1ca1bc8a6.mp3|3[포크] 봄날에 찾아온 묵은지 친구 <br>(7080 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 부드러운 타악기, 85 BPM 감성적인 스토리텔링)_M04 v5.5||",
+"https://cdn1.suno.ai/8b98e4b5-12b4-4be9-8f16-236e45eb8d07.mp3|3[미분류] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (저음의 남성 보컬, 팀파니, 댄스 플로어 트랩, 덥 베이스 드럼)_M16 v5.5||",
+"https://cdn1.suno.ai/9fa1c366-1ea8-4edb-903e-526d50cc2444.mp3|3[발라드] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(감성적인 남성, 풍부한 편곡, 전통 악기가 어우러진 한국 전통 발라드)_M05 v5.5||",
+"https://cdn1.suno.ai/1c2cb11d-9e99-4762-851d-2ca7fc4170a7.mp3|3[포크] 묵은지 우정과 동심의 벤치 (7080 포크, 120~130 BPM, 활기찬 경쾌한 템포 통기타 하모니카 부드러운 타악기)_WM01 v5.5||",
+"https://cdn1.suno.ai/73115bb4-bb92-4f55-b378-8b2a1b6453f0.mp3|3[댄스] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼)_M09 v5.5||",
+"https://cdn1.suno.ai/6683d6d3-915e-458a-866c-426eeae099b8.mp3|3[심포니] {옥이의} 쏠비치 리사이틀 (부드러운 현악기와 목관악기의 왈츠풍 분위기, 신디사이저의 은은한 터치. 금관악기의 낙관적인 기운, 바닷가의 추억)_W13 v5.5||",
+"https://cdn1.suno.ai/958d5818-2ff3-4d29-8fa5-b6b6edc5f908.mp3|3[심포니] 한계목이 부르는 연어의 귀향-가사 수정 전 (웅장한 합창 음악, 서사적 장엄, 현악기와 관악기 갖춘 풀 오케스트라, 남녀 혼성 합창단, 75-90bpm)_M02 v5.5||",
+"https://cdn1.suno.ai/e49d52f1-ffe9-43c7-aeb1-408bae4b6229.mp3|4[트롯] 봄날에 찾아온 묵은지 친구 <br>(경쾌한 템포, 트로트 듀엣 특유의 주고받는 보컬 특징, 밝은 신디사이저)_MW01 v5.5||",
+"https://cdn1.suno.ai/2789e897-f940-4bd4-82e7-5e222dd7622b.mp3|4[포크] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M11 v5.5||",
+"https://cdn1.suno.ai/46a9832d-caec-4bc7-b5d5-13367041e812.mp3|4[포크] 묵은지 벗과 걷는 유채꽃 사잇길 (7080 포크, 남성 보컬, 향수를 불러일으키는 따뜻한 분위기, 통기타 중심, 하모니카 솔로, 휘파람 소리, 타악기, 85 BPM, 감성적인 스토리텔링)_M04 v5.5||",
+"https://cdn1.suno.ai/32f36671-626f-4b19-ab90-9cc0d00cfa9a.mp3|4[트롯댄스] 묵은지 우정과 동심의 벤치 <br>(경쾌하고 리드미컬한 트로트. 신나는 댄스 비트, 콜앤리스폰스 듀엣 특징)_MW07 v5.5||",
+"https://cdn1.suno.ai/46b628fb-ccde-4d86-9a5d-4d2e119d04c8.mp3|4[심포니] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (심포닉 EDM, 오케스트라 트랜스 140BPM, 바이올린과 피아노 선율, 몽환적 초현실적 희망적이고 웅장)_W08 v5.5||",
+"https://cdn1.suno.ai/61b89edd-6c69-498b-bda6-f2f85729b183.mp3|4[미분류] {옥이의} 쏠비치 리사이틀 (1985년 클래식 이탈로 디스코 그루브, 크레센도 신스와 강렬한 드럼 비트, 95 BPM)_W17 v5.5||",
+"https://cdn1.suno.ai/276818e0-0bb3-4796-a6e5-3c88d4c0d024.mp3|4[포크] 한계목이 부르는 연어의 귀향-가사 수정 전 (7080, 영화 같은 분위기, 향수, 자연에서 영감을 받은, 웅장한 오케스트라 현악기, 125 BPM)_M09 v5.5||",
+"https://cdn1.suno.ai/07cedfe6-11dc-4cc6-b0fb-ac42ed5f23cc.mp3|5[미분류] 봄날에 찾아온 묵은지 친구 (바이올린 신스팝 여성 보컬, 템포 분당 약 90)_W01 v5.5||",
+"https://cdn1.suno.ai/52031877-2e65-4442-a320-fc255a99c754.mp3|5[심포니] 한계목이 부르는 연어의 귀향-리얼리티 리빌드 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W05 v5.5||",
+"https://cdn1.suno.ai/27092341-bae2-4099-b63f-97fb501c8a88.mp3|5[댄스] 묵은지 벗과 걷는 유채꽃 사잇길 <br>(1980년대, 이탈로 디스코, 뛰어난 신스웨이브, 유로 댄스, 남성 보컬)_M12 v5.5||",
+"https://cdn1.suno.ai/72dcfd28-764b-4316-982e-a4e47b4891e9.mp3|5[트롯댄스] 묵은지 우정과 동심의 벤치 <br>(경쾌하고 리드미컬한 트로트. 신나는 댄스 비트, 콜앤리스폰스 듀엣 특징)_MW06 v5.5||",
+"https://cdn1.suno.ai/dec79075-0298-4fa6-8de8-399e83c8dc14.mp3|5[미분류] 양양 쏠비치, 내 추억의 뜰-리빌드 버전 (바이올린, 신스팝, 여성 보컬, 템포는 약 80bpm으로 다소 느린 편)_W07 v5.5||",
+"https://cdn1.suno.ai/9617f90c-ce56-4b56-ba52-657d550dc391.mp3|5[트롯댄스] {옥이의} 쏠비치 리사이틀 (트로트 춤, 여성 보컬, 경쾌한 템포 110-120bpm 리드미컬한 그루브, 브라스와 신디사이저의 조화 발랄하고 활기찬 분위기)_W06 v5.5||",
+"https://cdn1.suno.ai/bf1f71e6-1b2a-4cb2-87ca-7789d8319891.mp3|5[발라드] 한계목이 부르는 연어의 귀향-가사 수정 전 (다큐멘터리 사운드 트랙, 영화적 사실적, 70-85 bpm, 피아노 은은한 스트링, 미묘한 오케스트라)_W01 v5.5||",
 ]
 
 song = [
@@ -859,17 +888,16 @@ our season
 하늘 도화지 위에<br>
 그려진 우리의 봄~~~
 </td></tr></table>`,
-`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
+`<table class='box' style="BACKGROUND:#C1B0D8 url('https://i.imgur.com/HtGpbPG.jpeg') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>훈련소 이병에서, 전경대 이경으로..</b></font>
 
-백만 촉광에 빛나는 <br>
-금의 환향, 개선 장군!<br><br>
+백만촉광에 빛나는 금의환향 개선장군<br><br>
 
 아~ 몰랐었네, <br>
 수용연대 배출대의 특명이여~<br><br>
 
 간다 간다, 나는 간다 <br>
-전라남도, 열차 오소대!<br><br>
+전라남도, 열차 5소대!<br><br>
 
 이게 무슨 청천벽력! <br>
 감자의 꿈은 날아 가고,<br><br>
@@ -877,92 +905,187 @@ our season
 팔자에 없는 낯선 곳, <br>
 머나먼 저 남쪽으로..<br><br>
 
-이별 속의 아쉬운 밤, <br>
-강경 역의 달밤이여!<br><br>
+이별속의 아쉬운밤 강경역의 달밤이여<br>
+생사고락 같이하던 동기들아 잘가거라<br><br>
 
-생사고락 같이 하던 <br>
-동기들아! 잘 가거라~<br><br><br>
+<img src=https://blog.kakaocdn.net/dn/cXxDfl/btqEmLX0UAV/p8pTEVWa1lKyaq92WcifD1/img.jpg?original width=100% title="📷 전남 705 대대에서 받은 위문 엽서"><br><br>
 
+송충이 이경 달고 대대, 중대 배치받아<br>
+얼떨떨한 신고식에 실감난다 자대생활<br><br>
 
-송.충.이. 이경달고 대대중대 배치받아<br>
-얼떨떨한 신고식에 실감난다 자대생활<br>
 선배기수 1주 차에 후배기수 6주 차라<br>
-아득하다 군대생활 왕고참은 1주 밖에<br><br>
+아득하다 군대생활! 왕고참은 1주밖에<br><br>
+
+<DIV style='LEFT: 0px; POSITION: relative; TOP:0px'>
+<DIV id=img1 style='Z-INDEX: 11; LEFT: 0px; POSITION: absolute; TOP:0px; WIDTH:878px; HEIGHT:870px'>
+<img src=https://blog.kakaocdn.net/dn/bLTdib/btqElWssPna/tejRbhVAdUgj0OCPai8IUK/img.jpg?original width=100% title="📷 대대 자대 교육 시 기초 유격훈련장에서 동기들과"><br></div>
+<DIV id=box1 style='Z-INDEX: 21; LEFT:710px; POSITION: absolute; TOP:155px; WIDTH:11px; HEIGHT:11px'>
+<img src="https://t1.daumcdn.net/cfile/blog/2745773F52688CAF33"></div></div>
+
+<P class="mid">
+<br><br><br><br><br><br><br><br><br><br>
 
 하필이면 타격대냐 하루종일 교육훈련<br>
-거수자가 출현하면 오분만에 승차출동<br><br>
+거수자가 출현하면 5분만에 승차 출동<br><br>
+
+<img src=https://blog.kakaocdn.net/dn/UPEJR/btqElWMEK2y/91IKkexEJ2b0GqKJq8Fej0/img.jpg?original width=100% title="📷 전남 승주군 202 중대 (내륙 타격대)에서 받은 위문 엽서"><br><br>
 
 열외없는 군장구보 쪽팔린다 낙오병사<br>
 그무엇과 비교하리 완주후의 개운함을<br><br>
 
+<img src=https://blog.kakaocdn.net/dn/cmDpu0/btqElXSoKti/6XvnhL98Z2cvBTdgvvG20K/img.jpg?original width=100% title="📷 부대 식당 옆에서 안득수 동기와"><br><br><br>
+
+
 한두대로 시작해서 스므대로 끝나가는<br>
 오금마져 저려오던 공포속의 기수빠따<br>
-집합없인 잠못잔다 얼능맞고 잠좀자자<br><br><br>
-
+집합없인 잠못잔다 얼능맞고 잠좀자자<br><br>
 
 눈물난다 식사당번 애달프다 신병생활<br>
-해안초소 경비견도 삼년이면 라면끓여<br>
-우리애인 영희보다 요리솜씨 능가하리<br><br><br>
+해안초소 경비견도 3년이면 라면 끓여<br>
+우리애인 영희보다 요리솜씨 능가하리<br><br>
 
+<img src=https://blog.kakaocdn.net/dn/bneCb5/btqEm3KUTCy/g2Vc4VhaRVaNZqkQJY5L1k/img.jpg?original width=100% title="📷 유류고 드럼통 위에서 독사진"><br><br>
 
 전출신고 전입신고 다시되는 쫄병신세<br>
 따블빽을 한번싸면 사회생활 3년 보장<br>
-일곱번의 따블빽에 신고식은 도사됐다<br><br><br>
+일곱번의 따블빽에 신고식은 도사됐다<br><br>
+
+<img src=https://k.kakaocdn.net/dn/qYRSo/btqEzeFnGzA/Zg2MWIWdfPFzVt7I4X4mpK/img.jpg width=100% title="📷 전경 시절 전출입 현황 (10 곳)"><br><br><br><br>
+
 
 
 생각못한 자대교육 다중범죄 진압훈련<br>
 지랄같은 싸싸싸에 청천벽력 복창소리<br>
 다다다다 발구르며 빌어먹을 충성용감<br><br>
 
-분대횡대 소대설대 이중중대 횡대로~<br>
+<DIV style='LEFT: 0px; POSITION: relative; TOP:0px'>
+<DIV id=img1 style='Z-INDEX: 11; LEFT: 0px; POSITION: absolute; TOP:0px; WIDTH:878px; HEIGHT:870px'>
+<img src=https://blog.kakaocdn.net/dn/bdcR0K/btqElW0eSFY/28IP5xXt6OlT7pgzvPAx80/img.jpg?original width=100% title="📷 광주 2기동대 2소대 단체 사진"><br></div>
+<DIV id=box1 style='Z-INDEX: 21; LEFT:565px; POSITION: absolute; TOP:185px; WIDTH:11px; HEIGHT:11px'>
+<img src="https://t1.daumcdn.net/cfile/blog/2745773F52688CAF33"></div></div>
+
+<P class="mid">
+<br><br><br><br><br><br><br><br><br><br>
+
+분대 횡대 소대 설대 이중 중대 횡대로<br>
 시가지진압 초동진압 상황끝 헤쳐모여<br>
-곡차중심 이중중대 끝을맺는 진압훈련<br><br><br>
+곡차중심 이중중대 끝을맺는 진압훈련<br><br>
 
+<img src=https://blog.kakaocdn.net/dn/dBT0fy/btqEk27X3he/wb9aRSvj163prdBHkQI5S1/img.jpg?original width=100% title="📷 광주 2기동대 2소대 1분대"><br><br>
 
-진압 수칙, 제 1조, <br>
-데모 군중은 우리의 적이 아니다~<br><br>
+진압 수칙, 제 1조,<br>
+데모 군중은 우리의 적이 아니다~<br>
+준수하자 발사 각도, 가스총의 45 도!<br><br>
 
-준수하자 발사각도 가스총의 45도!<br>
+<img src=https://blog.kakaocdn.net/dn/crfLwG/btqYQwGb2xS/zbwoU3tqBTAGTgARW3k2hK/img.jpg?original width=100% title="📷 (보도 사진) 광주 금남로 전경, 공수와 시민들 대치 모습"><br><br>
+
 막아내자 교외진출 대학정문 대치근무<br>
-여학생이 껌하나로 감명주던 착한손길<br><br><br>
+여학생이 껌하나로 감명주던 착한손길<br><br>
 
+<img src=https://blog.kakaocdn.net/dn/bJszPZ/btqEk2Nzqeh/S3KjKo9ZUbQt7tDHr2JEy1/img.jpg?original width=100% title="📷 집에서 부대로 보낸 전보 (김덕찬 귀가 안 했음)"><br><br>
 
-방독면, 방석모, 방석복이 철갑이로다<br>
-MPG100 사과탄의 개스범벅 와중속에<br>
+방독면 방석모 방석복이 철갑이로다~<br>
+MPG 100 사과탄 개스 범벅 와중속에<br><br>
+
+<img src=https://blog.kakaocdn.net/dn/bwtfOM/btqEnITNvSz/KwqBZH7SD4ZzeVwdVSCgE1/img.jpg?original width=100% title="📷 서울 남부 경찰서 (17중대)로 갔었던 위문 엽서"><br><br>
+
 날아드는 돌멩이와 화염병을 감수하며<br>
-오직하나 사명감에 신명바친 데모진압<br><br><br>
+오직하나 사명감에 신명바친 데모진압<br><br>
 
+<img src=https://blog.kakaocdn.net/dn/cgkW0l/btqElYcFl2c/0KtP9azKMciktRow7azDsK/img.jpg?original width=100% title="📷 국난극복기장수여증 (1981.3.3)"><br><br><br><br>
+
+
+
+<img src=https://blog.kakaocdn.net/dn/A4RXR/btqEk1OKy4i/bku96T8RxS68vg7HnYxqfk/img.jpg?original width=100% title="📷 갈현동 201 전경대에서 교육받을 때 위문 엽서"><br><br>
 
 교통보조 방범근무 거점배치 혼잡경비<br>
 숨막히고 힘들었다 닭장버스 부동자세<br>
 긴장속의 닭장생활 얼마만한 날이었나<br><br>
 
+<DIV style='LEFT: 0px; POSITION: relative; TOP:0px'>
+<DIV id=img1 style='Z-INDEX: 11; LEFT: 0px; POSITION: absolute; TOP:0px; WIDTH:878px; HEIGHT:1070px'>
+<img src="https://k.kakaocdn.net/dn/AVhVR/btqEpHWeMqc/RIO4IU4YkYAGPDK7AcuxO1/img.jpg" width=100% title="📷 거점 배치 근무 시 휴식 시간에 파고다 공원에서 분대 일동"></div>
+<DIV id=box1 style='Z-INDEX: 21; LEFT:670px; TOP:490px; POSITION: absolute; WIDTH:11px; HEIGHT:11px'>
+<img src="https://t1.daumcdn.net/cfile/blog/2745773F52688CAF33?original"></div></div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<P class="mid">
+
 길고길다 쫄병생활 언제쯤에 고참될까<br>
 청소당번 식사당번 워카당번 진급돼도<br>
-중고참도 멀었구나 부러버라 왕고참아<br><br><br>
+중고참도 멀었구나 부러버라 왕고참아<br><br>
 
+<img src=https://blog.kakaocdn.net/dn/dk37oF/btqEnigJ6eJ/GolxdVlOFddfxJnsKH9cq1/img.jpg?original width=100% title="📷 종암 경찰서 (기동대 18중대)에서 받은 위문 엽서"><br><br>
 
 거.꾸.로. 매달아도 국방시계 돌아간다<br>
 더딘시계 돌고돌아 제대증을 받은지금<br>
-남은것은 개구리복 허무함과 아쉬움뿐<br><br><br>
+남은것은 개구리복 허무함과 아쉬움뿐<br><br>
+
+<img src=https://blog.kakaocdn.net/dn/bD2YFV/btqEliW2XwM/nJqAm6KjLT1ZhGvKiRi9N0/img.jpg?original width=100% title="📷 휴가 시 현산공원 3.1운동 기념비에서"><br><br>
+
+후배들아 잘있거라 나는간다 고향으로<br><br>
+
+<img src=https://blog.kakaocdn.net/dn/bGI7HO/btqEmKrjgpu/aXMP3OLjOgm6UsbYrl7N3k/img.jpg?original width=100% title="📷 동대문경찰서 전경 교통 내무반"><br><br>
+
+국방부의 고된훈련 내무부의 힘든근무<br>
+파란만장 병영생활 모든것을 반납하고<br><br>
+
+<img src=https://blog.kakaocdn.net/dn/csi0im/btqEninvYNQ/020G65WpPaOE9gsyBr7sT1/img.jpg?original width=100% title="📷 현산공원에서 만난 전경복 입은 영철이와"><br><br>
+
+부모형제 기다리는 고향으로 돌아간다<br><br><br><br>
 
 
-후배들아 잘있거라 나는간다 고향으로<br>
-국방부의 고된훈련 내무부의 힘든근무<br><br>
 
-파란만장 병영생활 모든것을 반납하고<br>
-부모형제 기다리는 고향으로 돌아간다<br><br><br>
+<img src=https://blog.kakaocdn.net/dn/xlpHZ/btqEmKkuqCf/0Y0Q2VK6k8XoTi9r5TPHc1/img.jpg?original width=100% title="📷 동대문경찰서 교통계에서 받은 위문 엽서"><br><br>
 
+서울시 전경교통 1기생, 견장 85번<br><br>
 
-서울시 전경교통 1기생, <br>
-견장 85번<br><br>
+<img src=https://blog.kakaocdn.net/dn/38jeb/btqElXSoPeL/L1IdWGtoSQmaeiMrYvV811/img.jpg?original width=100% title="📷 창경원에서 (서울시 전경 교통 1기생, 견장 번호 85번"><br><br>
 
-동대문 경찰서 <br>
-교통계 일동이 <br>
-내게 준, 전역 기념패!<br><br><br>
+동대문 경찰서 교통계 일동이 <br>
+내게 준, 전역 기념패!<br><br>
+
+<img src=https://blog.kakaocdn.net/dn/bVQPUo/btqEmMo5Hf6/dNUkDpGOKdsKghaQUG8Bc0/img.jpg?original width=100% title="📷 교통계장께서 전해주는 전역 기념패"><br><br><br>
 
 
-조국에 몸 바친지 어언 3년<br><br>
+<table style="BACKGROUND:darkblue url('') no-repeat fixed left top" width=100% height=104 border=1 bordercolor=#464B4E cellspacing='0' cellpadding='10'><tr valign=middle><td>
+<P class="ct"><font color=skyblue size=50pt><br>축 <br>
+전 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 역</font><br><br></p>
+<P class="rt"><font color=white>  수경 <font size=38pt>김 덕 찬</font></font>&nbsp;&nbsp;
+
+</p><P class="mid3"><font color=gold>
+&nbsp;조국에 몸바친지 어언 3년<br>
+&nbsp;숭고한 애국심의 희생이 더욱 승화되어<br>
+&nbsp;여기 불사르게 하고 있습니다.<br>
+&nbsp;이제 귀하의 떠남에 우리 모두는<br>
+&nbsp;진심으로 경의와 석별의 정을 표하며<br>
+&nbsp;험한 풍파를 의연한 슬기로써<br>
+&nbsp;앞날에 건강과 행운이 함께 하시길...<br>
+
+</p><P class="middle"> 1982. 2. 18.<br><br>
+
+동대문 경찰서 교통계<br><br><br></font>
+<font color=white>
+경감 조정호 &nbsp;&nbsp;&nbsp; 순경 엄재성 &nbsp;&nbsp;&nbsp; 수경 김주태<br>
+경위 박성만 &nbsp;&nbsp;&nbsp; 수경 남상열 &nbsp;&nbsp;&nbsp; 상경 신승철<br>
+순경 임양수 &nbsp;&nbsp;&nbsp; 수경 김영천 &nbsp;&nbsp;&nbsp; 상경 송재봉<br>
+순경 최중옥 &nbsp;&nbsp;&nbsp; 수경 최해수 &nbsp;&nbsp;&nbsp; 상경 윤영덕<br>
+순경 정기봉 &nbsp;&nbsp;&nbsp; 수경 김경철 &nbsp;&nbsp;&nbsp; 상경 임종철<br>
+순경 정재길 &nbsp;&nbsp;&nbsp; 수경 김영구 &nbsp;&nbsp;&nbsp; 상경 김원식<br>
+순경 유양종 &nbsp;&nbsp;&nbsp; 수경 이용환 &nbsp;&nbsp;&nbsp; 상경 정채걸<br>
+순경 심명재 &nbsp;&nbsp;&nbsp; 수경 윤세창 &nbsp;&nbsp;&nbsp; 일경 남화섭<br>
+순경 조천행 &nbsp;&nbsp;&nbsp; 수경 이상균 &nbsp;&nbsp;&nbsp; 일경 이종민<br>
+순경 박갑기 &nbsp;&nbsp;&nbsp; 수경 국진봉 &nbsp;&nbsp;&nbsp; 일경 송태호<br>
+순경 이윤동 &nbsp;&nbsp;&nbsp; 수경 송병도 &nbsp;&nbsp;&nbsp; 일경 서기석<br>
+순경 김후식 &nbsp;&nbsp;&nbsp; 수경 김철환 &nbsp;&nbsp;&nbsp; 일경 김정술<br>
+순경 김영석 &nbsp;&nbsp;&nbsp; 수경 최장순 &nbsp;&nbsp;&nbsp; 일경 이기선<br>
+순경 윤흥수 &nbsp;&nbsp;&nbsp; 수경 김현겸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br><br>
+
+</font><font color=skyblue size=40pt>서울특별시 경찰국</font><br><br></p>
+
+</TD></TR></TABLE>
+<!-- 조국에 몸 바친지 어언 3년<br><br>
 
 숭고한 애국심의 희생이 <br>
 더욱 승화되어<br>
@@ -978,9 +1101,9 @@ MPG100 사과탄의 개스범벅 와중속에<br>
 
 앞날에 <br>
 건강과 행운이 <br>
-함께 하시길...
+함께 하시길...<br //-->
 </td></tr></table>`,
-`<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
+`<table class='box' style="BACKGROUND:white url('https://i.imgur.com/USjr2mA.jpeg') no-repeat fixed center center" cellpadding='8' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>논산 제2훈련소, 후반기의 추억</b></font>
 
 훈련끝이 아니구나 후반기는 이제시작<br>
@@ -1003,7 +1126,7 @@ MPG100 사과탄의 개스범벅 와중속에<br>
 총열위에 바둑돌의 거짓격발 들통나서<br>
 하나양심 둘에불량 고문관이 따로없네<br><br>
 
-L. M. G. 조총훈련 뜀박질에 새빠지고<br>
+L.M.G. 조총훈련 뜀박질에 x빠지고<br>
 얄궂구나 조교장난 에레무지 총검술아<br>
 부사수의 필수도구 귀마개용 담배필터<br><br>
 
@@ -1047,89 +1170,102 @@ L. M. G. 조총훈련 뜀박질에 새빠지고<br>
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid3'><font style="display:none"><b>논산 제2훈련소, 전반기의 추억</b></font>
 
-통기타에, 장발머리, 음악다방, 유행할 때<br>
-논산으로 집결하는, 소집영장 받고 보니<br>
-섭하구나 학우들아, 잘 있게나 댕게오마~<br><br>
+<img src="https://blog.kakaocdn.net/dn/N9KsJ/btqEm2rFmpz/jTiVkB3mFANBuA5erPVLMk/img.jpg?original" width="100%" title="📷 전경 합격통지서"><br><br>
+
+통기타에 장발머리, 음악다방 유행할 때<br>
+논산으로 집결하는 소집 영장 받고 보니<br>
+섭하구나 학우들아, 잘 있게나 댕겨오마<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/C 99.1 논산 제2훈련소, 전반기의 추억 01.webp" width="100%" title="📷 "><br><br>
 
 부모님께 인사하고, 연무대에 들어갈 제<br>
-애자 숙자 잘 있거라, 사나이 돼 나오련다<br>
-훈련소에 들자마자, '여러분'이 '새끼' 된다<br><br><br>
+애자숙자 잘 있거라, 사나이 돼 나오려마<br>
+훈련소에 들자마자 '여러분'이 '새끼'된다<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/C 99.1 논산 제2훈련소, 전반기의 추억 02.webp" width="100%" title="📷 "><br><br>
 
-나는 새도 떨군다는, 조교들의 고함 소리<br>
-동작 봐라 발 보인다, 발바닥에 불~ 나도록<br>
-방울 소리 딸랑딸랑, 인간 개조 시간 문제<br><br>
+나는 새도 떨군다는 조교들의 고함 소리<br>
+동작봐라 발 보인다, 발바닥에 불나도록<br>
+방울소리 딸랑딸랑, 인간개조 시간 문제<br><br>
 
-횡대 종대 헤쳐모여, 선착순 몇 번 만에<br>
-굼벵이가 번개 되고, 장정 눈에 불이 난다~<br>
-앉은 번호 시켜보니, '하나' 하자 '번호 끝!!'<br><br>
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/C 99.1 논산 제2훈련소, 전반기의 추억 03.webp" width="100%" title="📷 "><br><br>
+
+횡대 종대 헤쳐 모여, 선착순 몇 번 만에<br>
+굼벵이가 번개 되고, 장정 눈에 불이난다<br>
+앉은번호 시켜보니 '하나' 하자 '번호 끝!'<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/99.1 논산 제2훈련소, 전반기의 추억 04.webp" width="100%" title="📷 "><br><br>
 
 아랫도리 훌렁 까고 신체검사 통과하니<br>
 방역 주사 완짜 맞고, 장정에서 훈병으로<br>
-잠시나마 부러웠다 트럭에 탄 고향 앞으로<br><br><br>
+잠시나마 부러웠다, <br>
+트럭에 탄 "고향 앞으로.."<br><br>
 
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/99.1 논산 제2훈련소, 전반기의 추억 05_2.webp" width="100%" title="📷 "><br><br>
 
-수용 연대 뒤로하고, 이십구연대 들어설 제<br><br>
-
+수용 연대 뒤로하고, 29 연대 들어설 제<br>
 지랄 같고 독사 같은 조교들이 하는 말이<br>
-피는 뽑아 헌혈하고, 뼈는 추려 관물 하니<br>
-여기 메가 지옥이냐, 때려잡는 도살장이냐<br><br>
+피는 뽑아 헌혈하고, 뼈는 추려 관물하니<br>
+여기메가 지옥이냐 때려잡는 도살장이냐<br><br>
+
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/99.1 논산 제2훈련소, 전반기의 추억 06.webp" width="100%" title="📷 "><br><br>
 
 좌로 굴러 우로 굴러, 엎어졌다 일어섰다<br>
-혼비 백산 중대 편성, 우왕 좌왕 소대 편성<br>
-놓지 말자 다짐했던, 친구 손은 멀어지고..<br><br>
+혼비백산 중대 편성, 우왕좌왕 소대 편성<br>
+놓지 말자 다짐했던, 친구 손은 멀어지고<br><br>
 
-내무반에 배치되니, 침상 위에 삼선 정렬<br>
-'사제 물건 몽땅 꺼내' 서슬 퍼런 협박 속에<br>
-아깝고도 아까워라, 팬티 속의 만 원짜리..<br><br><br>
+내무반에 배치되니, 침상 위에 3선 정렬<br>
+'사제물건 몽땅꺼내' 서슬퍼런 협박 속에<br>
+아깝고도 아까워라, 팬티 속의 만 원짜리<br><br>
 
+부동자세 제식훈련, 1주일이 가버리고<br>
+피가 나고 알이 배고 이 갈리는 P.R.I.<br>
+봉체조와 도수체조 총검술에 2주일이..<br><br>
 
-부동자세 제식훈련, 일 주일이 가버리고<br>
-피가 나고, 알이 배고, 이 갈리는, P. R. I.<br>
-봉 체조와 도수 체조, 총검술에 이 주일이..<br><br><br>
+<img src="https://blog.kakaocdn.net/dn/YRMmR/btqEmpunWuJ/vKbQFU77m16orwRu1aRyn0/img.jpg?original" width="100%" title="📷 "><br><br>
 
+모닝커피 쪼글뛰기, 밥 먹듯이 오리걸음<br>
+귀따갑게 못 박혔다, "0.5 초, 동작그만"<br>
+에구에구 지겨워라, 도로 아미 "원위치!"<br><br>
 
-모닝커피 쪼글 뛰기, 밥 먹듯이 오리걸음<br>
-귀 따갑게 못 박혔다, 영점 오초, 동작 그만<br>
-에구에구~ 지겨워라, 도로 아미 '원위치!!'<br><br>
+엉덩이가 무거워서 시범케스 따놓은당상<br>
+얼 차려에 얼 빠지고, 쪼인트는 간식이다<br>
+처음 듣는 소원수리, 알고보니 죽음 종이<br><br>
 
-엉덩이가 무거워서, 시범케스 따 놓은 당상<br>
-얼 차려에 얼 빠지고, 조인트는 간식이다<br>
-처음 듣는 소원 수리, 알고 보니 죽음 종이<br><br><br>
+<img src="https://pub-e9f259b2cb7f4eff868b4c7a84644706.r2.dev/webp/C 99.1 논산 제2훈련소, 전반기의 추억 04.webp" width="100%" title="📷 "><br><br>
 
+힘겨웠던 훈병에겐 위문편지 약일진대<br>
+야속하다 이쁜이야 고무신만 꺾는구나<br>
+서러버서 우는구나 10문 7의 통일화야<br><br>
 
-힘겨웠던 훈병에겐 위문 편지 약일진대<br>
-야속하다 이쁜이야, 고무신만 꺾는구나<br>
-서러버서 우는구나, 십문 칠의 통일화야..<br><br>
+<img src="https://blog.kakaocdn.net/dn/dHIu5E/btqEmwUhW6q/heS6scjSIaeu1UriSf73M1/img.jpg?original" width="100%" title="📷 "><br><br>
 
 선착순도 불사했던 건빵 제공 사역 집합<br>
-생선튀김 나올 때면, 자원해서 식사 당번<br>
-그때 먹어 평생 물린, 뿔은 라면, 노란 카레<br><br><br>
-
+생선튀김 나올 때면 자원해서 식사 당번<br>
+그때 먹어 평생 물린 뿔은라면, 노란카레<br><br>
 
 일요일은 환자의 날, 너도나도 종교 환자<br>
 연무관에 가는 날은, 훈련병들 최고의 날<br>
-설사 빵은 먹지 마라, 먹는 즉시 직방이다..<br><br><br>
+설사빵은 먹지 마라, 먹는 즉시 직방이다<br><br>
+
+총열잡고 머리위로 오리걸음 쭐떡미끈~<br>
+눈물고개 넘어서니 각개전투 황하 교장<br>
+높은포복 낮은포복 응용포복 빡빡 기고..<br><br>
+
+수류탄의 투척 시범, 가슴 속은 벌렁벌렁<br>
+눈물콧물 범벅속에 슬픈합창 '고향의 봄'<br>
+눈물어린 화생방에 전반기는 "상황 끝!"<br><br><br>
 
 
-총열 잡고 머리 위로, 오리걸음 쭐떡 미끈~<br>
-눈물고개 넘어서니, 각개전투 황하 교장<br>
-높은 포복, 낮은 포복, 응용 포복 빡빡 기고<br><br>
-
-수류탄의 투척 시범, 가슴 속은 벌렁벌렁~<br>
-눈물 콧물 범벅 속에, 슬픈 합창, 고향의 봄<br>
-눈물 어린 화생방에, 전반기는 상황 끝!!<br><br><br>
-
-
-호텔 같은 신규 막사, <br>
-이십구 연대여!<br>
+호텔 같은 신규 막사, 29 연대여!<br>
 이제는.. 안녕~~<br><br>
 
 중화기 사수가 되기 위하여<br>
-김 일병과 이쁜이, <br>
-그 막사가 있는 곳<br><br>
+"김 일병과 이쁜이", 그 막사가 있는 곳<br><br>
 
-이십칠 연대로 나는 간다~~~
+27 연대로 나는 간다~~~<br><br>
+
+<img src="https://i.imgur.com/Tll0M0i.jpeg" width="100%" title="📷 ">
 </td></tr></table>`,
 `<table class='box' style="BACKGROUND:#ccffff url('https://blog.kakaocdn.net/dn/rEGD0/btsOwrB64KA/D9nnoWrppC3HvPdbMdnpXK/img.png') repeat fixed center center" cellpadding='6' width=100%><tr valign=middle><td class='lt'>
 <P class='mid'><font style="display:none"><b>고결한 전설, 자존의 꽃 수선화</b></font>
